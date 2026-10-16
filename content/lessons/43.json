@@ -1,0 +1,124 @@
+{
+  "id": 43,
+  "title": "Парные союзы: je … desto, weder … noch и другие",
+  "level": "B1",
+  "goal": "Ученик уверенно строит предложения с парными союзами je … desto, weder … noch, nicht … sondern, sowohl … als auch, entweder … oder, zwar … aber и правильно расставляет в них глагол.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Что такое парные союзы",
+      "html": "<p><b>Парные (двойные) союзы</b> — это союзы из двух частей, которые связывают два слова, две группы слов или два предложения. В русском им соответствуют «чем … тем», «ни … ни», «не … а», «как … так и», «или … или», «хотя и … но».</p><table><tr><th>Союз</th><th>Значение</th><th>Пример</th></tr><tr><td>je … desto / umso</td><td>чем … тем</td><td><span class=\"de\">Je mehr ich lerne, desto mehr weiß ich.</span></td></tr><tr><td>weder … noch</td><td>ни … ни</td><td><span class=\"de\">Ich trinke weder Kaffee noch Tee.</span></td></tr><tr><td>nicht … sondern</td><td>не … а</td><td><span class=\"de\">Er ist nicht mein Bruder, sondern mein Cousin.</span></td></tr><tr><td>sowohl … als auch</td><td>как … так и; и … и</td><td><span class=\"de\">Ich lerne sowohl Deutsch als auch Englisch.</span></td></tr><tr><td>entweder … oder</td><td>или … или; либо … либо</td><td><span class=\"de\">Ich fahre entweder nach Italien oder nach Spanien.</span></td></tr><tr><td>zwar … aber</td><td>хотя и … но; правда … но</td><td><span class=\"de\">Das Auto ist zwar alt, aber es fährt gut.</span></td></tr></table>"
+    },
+    {
+      "h": "Je … desto (umso): «чем … тем»",
+      "html": "<p>Это самый «хитрый» союз по порядку слов. После <b>je</b> всегда стоит прилагательное или наречие в <b>сравнительной степени</b> (Komparativ), а затем:</p><ul><li>часть с <span class=\"de\">je</span> — <b>придаточное</b>: глагол уходит в <b>конец</b>;</li><li>часть с <span class=\"de\">desto</span> (или <span class=\"de\">umso</span>) — <b>главное</b>: сразу после сравнительной степени идёт <b>глагол</b>, потом подлежащее.</li></ul><table><tr><th>je + Komparativ</th><th>… глагол в конце,</th><th>desto + Komparativ</th><th>глагол + подлежащее …</th></tr><tr><td>Je länger</td><td>ich Deutsch lerne,</td><td>desto besser</td><td>kann ich sprechen.</td></tr><tr><td>Je mehr Geld</td><td>ich habe,</td><td>desto glücklicher</td><td>fühle ich mich.</td></tr></table><div class=\"note\">Не забывайте неправильные формы: <span class=\"de\">viel → mehr</span>, <span class=\"de\">gut → besser</span>, <span class=\"de\">oft → öfter</span>, <span class=\"de\">gern → lieber</span>, <span class=\"de\">bald → eher</span>.</div><p>Короткая разговорная формула: <span class=\"de\">Je früher, desto besser.</span> — Чем раньше, тем лучше.</p>"
+    },
+    {
+      "h": "Weder … noch и nicht … sondern",
+      "html": "<p><span class=\"de\">weder … noch</span> = «ни … ни». Это отрицание само по себе, поэтому <b>nicht</b> и <b>kein</b> рядом не нужны!</p><ul><li><span class=\"de\">Ich spiele weder Fußball noch Basketball.</span> — Я не играю ни в футбол, ни в баскетбол.</li><li><span class=\"de\">Ich kaufe weder einen Hund noch eine Katze.</span> — Я не покупаю ни собаку, ни кошку.</li></ul><p>Если <span class=\"de\">weder</span> стоит в начале предложения, после него идёт глагол (инверсия): <span class=\"de\">Weder hat er angerufen, noch hat er geschrieben.</span></p><p><span class=\"de\">nicht … sondern</span> / <span class=\"de\">kein … sondern</span> = «не … а». Первая часть отрицается, вторая её исправляет. Перед <span class=\"de\">sondern</span> всегда ставится <b>запятая</b>.</p><ul><li><span class=\"de\">Sie ist nicht meine Schwester, sondern meine Cousine.</span></li><li><span class=\"de\">Ich bin kein Professor, sondern Student.</span></li></ul><div class=\"note\"><b>aber</b> или <b>sondern</b>? <span class=\"de\">sondern</span> — только после отрицания и когда мы <i>заменяем</i> одно другим. <span class=\"de\">aber</span> — «но», противопоставление без замены: <span class=\"de\">Er ist nicht reich, aber glücklich.</span></div>"
+    },
+    {
+      "h": "Sowohl … als auch и entweder … oder",
+      "html": "<p><span class=\"de\">sowohl … als auch</span> = «как … так и», «и … и». Подчёркивает, что верно <b>оба</b> варианта. Запятая перед <span class=\"de\">als auch</span> не ставится.</p><ul><li><span class=\"de\">Ich war sowohl in Deutschland als auch in Österreich.</span></li><li><span class=\"de\">Ich mag sowohl Fußball als auch Tennis.</span></li></ul><p>Если <span class=\"de\">sowohl … als auch</span> соединяет подлежащие, глагол обычно во множественном числе: <span class=\"de\">Sowohl mein Bruder als auch meine Schwester sprechen Deutsch.</span></p><p><span class=\"de\">entweder … oder</span> = «или … или», «либо … либо» — выбор <b>одного</b> из двух.</p><ul><li><span class=\"de\">Ich fahre entweder in die Türkei oder nach Ägypten.</span></li><li><span class=\"de\">Entweder kommst du mit, oder du bleibst zu Hause.</span> — после <span class=\"de\">entweder</span> в начале обычно идёт глагол, после <span class=\"de\">oder</span> — прямой порядок слов.</li></ul>"
+    },
+    {
+      "h": "Zwar … aber: уступка",
+      "html": "<p><span class=\"de\">zwar … aber</span> = «хотя и … но», «правда … но». Первая часть что-то признаёт, вторая показывает противоположное.</p><ul><li><span class=\"de\">Ich bin zwar nicht berühmt, aber sehr talentiert.</span></li><li><span class=\"de\">Ich möchte mir zwar ein Auto kaufen, aber ich habe kein Geld.</span></li></ul><p>Порядок слов: <span class=\"de\">zwar</span> стоит в середине первой части (после глагола) или в начале — тогда глагол сразу за ним: <span class=\"de\">Zwar ist das Hotel teuer, aber es ist sehr schön.</span> После <span class=\"de\">aber</span> — обычный прямой порядок: <span class=\"de\">aber ich habe…</span></p><div class=\"note\">Если во второй части то же подлежащее, его иногда опускают в разговорной речи (<span class=\"de\">…, aber muss zu Hause bleiben</span>), но надёжнее и правильнее повторить: <span class=\"de\">…, aber ich muss zu Hause bleiben.</span></div>"
+    }
+  ],
+  "tips": [
+    "Je … desto: «je» как придаточное (глагол в конец), «desto» как главное (глагол сразу после сравнительной степени). Запомните на примере: Je mehr, desto besser.",
+    "После weder … noch не ставьте nicht и kein: «Ich habe weder Zeit noch Geld», а не «Ich habe weder keine Zeit…».",
+    "Русское «не … а» = nicht … sondern, а не nicht … aber. Aber — это «но», sondern — «а (вместо этого)».",
+    "Sowohl … als auch, entweder … oder, weder … noch — запятая между частями не нужна, если соединяются отдельные слова; перед sondern запятая обязательна."
+  ],
+  "examples": [
+    {"de": "Je früher wir losfahren, desto schneller sind wir da.", "ru": "Чем раньше мы выедем, тем быстрее будем на месте."},
+    {"de": "Je mehr du übst, umso sicherer wirst du.", "ru": "Чем больше ты тренируешься, тем увереннее становишься."},
+    {"de": "Ich habe weder Zeit noch Lust.", "ru": "У меня нет ни времени, ни желания."},
+    {"de": "Weder mein Vater noch meine Mutter spricht Englisch.", "ru": "Ни мой отец, ни моя мать не говорят по-английски."},
+    {"de": "Wir fahren nicht ans Meer, sondern in die Berge.", "ru": "Мы едем не на море, а в горы."},
+    {"de": "Sowohl die Kinder als auch die Eltern waren begeistert.", "ru": "И дети, и родители были в восторге."},
+    {"de": "Entweder rufst du ihn an, oder du schreibst ihm eine Nachricht.", "ru": "Либо ты ему звонишь, либо пишешь сообщение."},
+    {"de": "Die Wohnung ist zwar klein, aber sehr gemütlich.", "ru": "Квартира, правда, маленькая, но очень уютная."},
+    {"de": "Das ist kein Zufall, sondern ein Plan.", "ru": "Это не случайность, а план."},
+    {"de": "Je älter man wird, desto weniger schläft man.", "ru": "Чем старше становишься, тем меньше спишь."}
+  ],
+  "vocab": [
+    {"de": "je … desto", "ru": "чем … тем"},
+    {"de": "je … umso", "ru": "чем … тем (синоним)"},
+    {"de": "weder … noch", "ru": "ни … ни"},
+    {"de": "nicht … sondern", "ru": "не … а"},
+    {"de": "sowohl … als auch", "ru": "как … так и; и … и"},
+    {"de": "entweder … oder", "ru": "или … или; либо … либо"},
+    {"de": "zwar … aber", "ru": "хотя и … но; правда … но"},
+    {"de": "der Cousin", "pl": "die Cousins", "ru": "двоюродный брат"},
+    {"de": "die Cousine", "pl": "die Cousinen", "ru": "двоюродная сестра"},
+    {"de": "berühmt", "ru": "знаменитый"},
+    {"de": "talentiert", "ru": "талантливый"},
+    {"de": "reich", "ru": "богатый"},
+    {"de": "glücklich", "ru": "счастливый"},
+    {"de": "lustig", "ru": "весёлый, забавный"},
+    {"de": "gewinnen", "forms": "gewinnt, gewann, hat gewonnen", "ru": "выигрывать"},
+    {"de": "verbringen", "forms": "verbringt, verbrachte, hat verbracht", "ru": "проводить (время)"},
+    {"de": "die Serie", "pl": "die Serien", "ru": "сериал"},
+    {"de": "der Artikel", "pl": "die Artikel", "ru": "статья"},
+    {"de": "der Urlaub", "pl": "die Urlaube", "ru": "отпуск"},
+    {"de": "die Lust", "ru": "желание, охота"},
+    {"de": "der Zufall", "pl": "die Zufälle", "ru": "случайность"},
+    {"de": "gemütlich", "ru": "уютный"}
+  ],
+  "phrasesNote": "Закрепляем все шесть парных союзов: je … desto, weder … noch, nicht/kein … sondern, sowohl … als auch, entweder … oder, zwar … aber.",
+  "phrases": [
+    {"de": "Je länger ich Deutsch lerne, desto besser kann ich sprechen.", "ru": "Чем дольше я учу немецкий, тем лучше я могу говорить."},
+    {"de": "Je besser ich spiele, desto öfter gewinne ich.", "ru": "Чем лучше я играю, тем чаще выигрываю."},
+    {"de": "Je mehr Geld ich habe, desto glücklicher fühle ich mich.", "ru": "Чем больше у меня денег, тем счастливее я себя чувствую."},
+    {"de": "Je besser ich meinen Cousin kenne, desto lustiger verbringen wir die Zeit.", "ru": "Чем лучше я знаю своего двоюродного брата, тем веселее мы проводим время."},
+    {"de": "Ich war weder in Portugal noch in Spanien.", "ru": "Я не был ни в Португалии, ни в Испании."},
+    {"de": "Ich fahre weder in die Schweiz noch nach Luxemburg.", "ru": "Я не еду ни в Швейцарию, ни в Люксембург."},
+    {"de": "Ich spiele weder Fußball noch Basketball.", "ru": "Я не играю ни в футбол, ни в баскетбол."},
+    {"de": "Ich lese weder Bücher noch Artikel.", "ru": "Я не читаю ни книг, ни статей."},
+    {"de": "Ich kaufe weder einen Hund noch eine Katze.", "ru": "Я не покупаю ни собаку, ни кошку."},
+    {"de": "Er ist nicht mein Bruder, sondern mein Cousin.", "ru": "Он не мой брат, а мой двоюродный брат."},
+    {"de": "Sie ist nicht meine Schwester, sondern meine Cousine.", "ru": "Она не моя сестра, а моя двоюродная сестра."},
+    {"de": "Das ist nicht mein Freund, sondern mein Bruder.", "ru": "Это не мой друг, а мой брат."},
+    {"de": "Ich bin kein Berliner, sondern (ein) Hamburger.", "ru": "Я не берлинец, а гамбуржец."},
+    {"de": "Ich bin kein Professor, sondern (ein) Student.", "ru": "Я не профессор, а студент."},
+    {"de": "Ich lerne sowohl Deutsch als auch Englisch.", "ru": "Я учу как немецкий, так и английский."},
+    {"de": "Ich war sowohl in Deutschland als auch in Österreich.", "ru": "Я был и в Германии, и в Австрии."},
+    {"de": "Ich schaue sowohl Filme als auch Serien.", "ru": "Я смотрю и фильмы, и сериалы."},
+    {"de": "Ich mag sowohl Fußball als auch Tennis.", "ru": "Я люблю как футбол, так и теннис."},
+    {"de": "Ich fahre entweder in die Türkei oder nach Ägypten.", "ru": "Я поеду либо в Турцию, либо в Египет."},
+    {"de": "Ich werde entweder Französisch oder Spanisch lernen.", "ru": "Я буду учить либо французский, либо испанский."},
+    {"de": "Ich möchte entweder reich oder berühmt werden.", "ru": "Я хочу стать либо богатым, либо знаменитым."},
+    {"de": "Ich kaufe mir entweder einen BMW oder einen Mercedes.", "ru": "Я куплю себе либо BMW, либо Mercedes."},
+    {"de": "Ich kaufe mir entweder ein Haus oder eine Wohnung.", "ru": "Я куплю себе либо дом, либо квартиру."},
+    {"de": "Ich bin zwar nicht berühmt, aber sehr talentiert.", "ru": "Я хоть и не знаменит, но очень талантлив."},
+    {"de": "Ich möchte mir zwar ein Auto kaufen, aber ich habe kein Geld.", "ru": "Я хотел бы купить себе машину, но у меня нет денег."},
+    {"de": "Ich möchte zwar nach Spanien fahren, aber ich muss meinen Urlaub zu Hause verbringen.", "ru": "Я хотел бы поехать в Испанию, но мне придётся провести отпуск дома."},
+    {"de": "Ich möchte zwar zu Hause bleiben, aber ich muss mit meiner Freundin fahren.", "ru": "Я хотел бы остаться дома, но мне нужно ехать с моей девушкой."},
+    {"de": "Ich wollte zwar in die Türkei fahren, aber ich hatte kein Geld.", "ru": "Я хотел поехать в Турцию, но у меня не было денег."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Er ist nicht mein Bruder, ___ mein Cousin.", "options": ["aber", "sondern", "oder"], "answer": 1, "explain": "После отрицания с заменой («не … а») — sondern."},
+    {"type": "choice", "q": "Ich trinke weder Kaffee ___ Tee.", "options": ["noch", "oder", "auch"], "answer": 0, "explain": "Пара weder … noch — «ни … ни»."},
+    {"type": "choice", "q": "Ich lerne sowohl Deutsch ___ Englisch.", "options": ["als auch", "wie auch", "noch"], "answer": 0, "explain": "Пара sowohl … als auch."},
+    {"type": "choice", "q": "Je mehr ich lerne, desto ___ weiß ich.", "options": ["viel", "mehr", "meist"], "answer": 1, "explain": "После desto — сравнительная степень: viel → mehr."},
+    {"type": "choice", "q": "Je länger ich Deutsch lerne, desto besser ___.", "options": ["ich kann sprechen", "kann ich sprechen", "ich sprechen kann"], "answer": 1, "explain": "После desto + Komparativ сразу идёт глагол, потом подлежащее."},
+    {"type": "choice", "q": "Das Auto ist ___ alt, aber es fährt sehr gut.", "options": ["zwar", "weder", "je"], "answer": 0, "explain": "zwar … aber — «хотя и … но»."},
+    {"type": "gap", "q": "Ich fahre ___ in die Türkei oder nach Ägypten.", "answer": ["entweder"], "explain": "entweder … oder — «либо … либо»."},
+    {"type": "gap", "q": "Ich war weder in Portugal ___ in Spanien.", "answer": ["noch"], "explain": "weder … noch."},
+    {"type": "gap", "q": "Ich bin kein Professor, ___ Student.", "answer": ["sondern"], "explain": "kein … sondern — «не … а»."},
+    {"type": "gap", "q": "___ besser ich spiele, desto öfter gewinne ich.", "answer": ["Je"], "explain": "je … desto — «чем … тем»."},
+    {"type": "gap", "q": "Je mehr Geld ich habe, desto ___ fühle ich mich. (glücklich)", "answer": ["glücklicher"], "explain": "Сравнительная степень: glücklich → glücklicher."},
+    {"type": "gap", "q": "Ich mag ___ Fußball als auch Tennis.", "answer": ["sowohl"], "explain": "sowohl … als auch."},
+    {"type": "translate", "q": "Я не играю ни в футбол, ни в баскетбол.", "answer": ["Ich spiele weder Fußball noch Basketball."], "explain": "weder … noch, без nicht."},
+    {"type": "translate", "q": "Она не моя сестра, а моя двоюродная сестра.", "answer": ["Sie ist nicht meine Schwester, sondern meine Cousine."], "explain": "nicht … sondern."},
+    {"type": "translate", "q": "Я был и в Германии, и в Австрии.", "answer": ["Ich war sowohl in Deutschland als auch in Österreich.", "Ich bin sowohl in Deutschland als auch in Österreich gewesen."], "explain": "sowohl … als auch."},
+    {"type": "translate", "q": "Я хоть и не знаменит, но очень талантлив.", "answer": ["Ich bin zwar nicht berühmt, aber sehr talentiert.", "Ich bin zwar nicht berühmt, aber ich bin sehr talentiert."], "explain": "zwar … aber."},
+    {"type": "translate", "q": "Чем раньше, тем лучше.", "answer": ["Je früher, desto besser.", "Je früher, umso besser."], "explain": "Устойчивая формула je … desto/umso."},
+    {"type": "order", "q": "Составьте предложение", "words": ["desto", "Je", "ich", "öfter", "besser", "gewinne", "spiele,", "ich"], "answer": ["Je besser ich spiele, desto öfter gewinne ich."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["entweder", "Ich", "einen BMW", "kaufe", "oder", "mir", "einen Mercedes"], "answer": ["Ich kaufe mir entweder einen BMW oder einen Mercedes."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["aber", "zwar", "ein Auto", "kaufen,", "ich", "Ich", "kein Geld", "habe", "möchte mir"], "answer": ["Ich möchte mir zwar ein Auto kaufen, aber ich habe kein Geld."]}
+  ]
+}

@@ -1,0 +1,768 @@
+{
+ "id": 5,
+ "title": "Глаголы с изменением корня",
+ "level": "A1",
+ "goal": "Вы научитесь спрягать частые сильные глаголы с чередованием a→ä, au→äu, e→i, e→ie в настоящем времени.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Сильные глаголы: корень меняется",
+   "html": "<p>В уроке 4 мы спрягали правильные (слабые) глаголы: основа не меняется, добавляются только окончания. Но есть группа очень частых <b>сильных глаголов</b>, у которых в формах <span class=\"de\">du</span> и <span class=\"de\">er/sie/es</span> меняется <b>корневая гласная</b>. Окончания при этом остаются обычными: <b>e – st – t – en – t – en</b>.</p>\n<div class=\"note\">Главное правило: гласная меняется <b>только у du и er/sie/es</b>. У <span class=\"de\">ich, wir, ihr, sie/Sie</span> корень остаётся как в инфинитиве: <span class=\"de\">ich fahre, wir fahren, ihr fahrt</span>.</div>\n<p>Существует четыре типа чередования:</p>\n<table>\n<tr><th>Тип</th><th>Примеры глаголов</th></tr>\n<tr><td><b>a → ä</b></td><td><span class=\"de\">fahren, schlafen, waschen, tragen, fallen, halten, laden, lassen</span></td></tr>\n<tr><td><b>au → äu</b></td><td><span class=\"de\">laufen</span> (и <span class=\"de\">saufen</span>)</td></tr>\n<tr><td><b>e → i</b> (краткое)</td><td><span class=\"de\">essen, helfen, geben, vergessen, sprechen, nehmen, treffen, werfen, sterben</span></td></tr>\n<tr><td><b>e → ie</b> (долгое)</td><td><span class=\"de\">sehen, lesen, empfehlen, stehlen</span></td></tr>\n</table>"
+  },
+  {
+   "h": "a → ä и au → äu",
+   "html": "<table>\n<tr><th>Лицо</th><th>fahren (ехать)</th><th>schlafen (спать)</th><th>waschen (мыть)</th><th>laufen (бегать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">fahre</span></td><td><span class=\"de\">schlafe</span></td><td><span class=\"de\">wasche</span></td><td><span class=\"de\">laufe</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">f<b>ä</b>hrst</span></td><td><span class=\"de\">schl<b>ä</b>fst</span></td><td><span class=\"de\">w<b>ä</b>schst</span></td><td><span class=\"de\">l<b>äu</b>fst</span> [лойфст]</td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">f<b>ä</b>hrt</span></td><td><span class=\"de\">schl<b>ä</b>ft</span></td><td><span class=\"de\">w<b>ä</b>scht</span></td><td><span class=\"de\">l<b>äu</b>ft</span> [лойфт]</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">fahren</span></td><td><span class=\"de\">schlafen</span></td><td><span class=\"de\">waschen</span></td><td><span class=\"de\">laufen</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">fahrt</span></td><td><span class=\"de\">schlaft</span></td><td><span class=\"de\">wascht</span></td><td><span class=\"de\">lauft</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">fahren</span></td><td><span class=\"de\">schlafen</span></td><td><span class=\"de\">waschen</span></td><td><span class=\"de\">laufen</span></td></tr>\n</table>\n<p>Обратите внимание на <span class=\"de\">ihr fahrt</span> — <b>без умлаута</b> (ошибка «ihr fährt» встречается очень часто). <span class=\"de\">äu</span> читается [ой], как <span class=\"de\">eu</span>.</p>\n<p>Особые случаи с основой на -t: <span class=\"de\">halten</span> (держать) → <span class=\"de\">du hältst, er hält</span> (у er нет окончания -t, оно «слилось» с основой); <span class=\"de\">laden</span> (грузить) → <span class=\"de\">du lädst, er lädt</span>.</p>"
+  },
+  {
+   "h": "e → i и e → ie",
+   "html": "<table>\n<tr><th>Лицо</th><th>sprechen (говорить)</th><th>helfen (помогать)</th><th>essen (есть)</th><th>sehen (видеть)</th><th>lesen (читать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">spreche</span></td><td><span class=\"de\">helfe</span></td><td><span class=\"de\">esse</span></td><td><span class=\"de\">sehe</span></td><td><span class=\"de\">lese</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">spr<b>i</b>chst</span></td><td><span class=\"de\">h<b>i</b>lfst</span></td><td><span class=\"de\"><b>i</b>sst</span></td><td><span class=\"de\">s<b>ie</b>hst</span></td><td><span class=\"de\">l<b>ie</b>st</span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">spr<b>i</b>cht</span></td><td><span class=\"de\">h<b>i</b>lft</span></td><td><span class=\"de\"><b>i</b>sst</span></td><td><span class=\"de\">s<b>ie</b>ht</span></td><td><span class=\"de\">l<b>ie</b>st</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">sprechen</span></td><td><span class=\"de\">helfen</span></td><td><span class=\"de\">essen</span></td><td><span class=\"de\">sehen</span></td><td><span class=\"de\">lesen</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">sprecht</span></td><td><span class=\"de\">helft</span></td><td><span class=\"de\">esst</span></td><td><span class=\"de\">seht</span></td><td><span class=\"de\">lest</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">sprechen</span></td><td><span class=\"de\">helfen</span></td><td><span class=\"de\">essen</span></td><td><span class=\"de\">sehen</span></td><td><span class=\"de\">lesen</span></td></tr>\n</table>\n<p>Как понять, i или ie? Обычно <b>краткое e</b> (перед двумя согласными: <span class=\"de\">helfen, sprechen, essen</span>) → <b>i</b>; <b>долгое e</b> (<span class=\"de\">sehen, lesen</span>) → <b>ie</b>. Но <span class=\"de\">geben</span> и <span class=\"de\">nehmen</span> — исключения с i.</p>\n<div class=\"note\">У <span class=\"de\">essen, vergessen, lesen</span> основа на -s/-ss, поэтому у <span class=\"de\">du</span> только -t: <span class=\"de\">du isst, du vergisst, du liest</span> (как <span class=\"de\">du sitzt</span> из урока 4).</div>"
+  },
+  {
+   "h": "Неправильный nehmen и другие особенности",
+   "html": "<p>Некоторые глаголы меняют не только гласную, но и согласные:</p>\n<table>\n<tr><th>Лицо</th><th>nehmen (брать)</th><th>treffen (встречать)</th><th>werfen (бросать)</th><th>geben (давать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">nehme</span></td><td><span class=\"de\">treffe</span></td><td><span class=\"de\">werfe</span></td><td><span class=\"de\">gebe</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">n<b>imm</b>st</span></td><td><span class=\"de\">tr<b>i</b>ffst</span></td><td><span class=\"de\">w<b>i</b>rfst</span></td><td><span class=\"de\">g<b>i</b>bst</span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">n<b>imm</b>t</span></td><td><span class=\"de\">tr<b>i</b>fft</span></td><td><span class=\"de\">w<b>i</b>rft</span></td><td><span class=\"de\">g<b>i</b>bt</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">nehmen</span></td><td><span class=\"de\">treffen</span></td><td><span class=\"de\">werfen</span></td><td><span class=\"de\">geben</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">nehmt</span></td><td><span class=\"de\">trefft</span></td><td><span class=\"de\">werft</span></td><td><span class=\"de\">gebt</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">nehmen</span></td><td><span class=\"de\">treffen</span></td><td><span class=\"de\">werfen</span></td><td><span class=\"de\">geben</span></td></tr>\n</table>\n<p>У <span class=\"de\">nehmen</span> немое h исчезает, а m удваивается: <span class=\"de\">du nimmst, er nimmt</span>.</p>\n<h4>fernsehen — смотреть телевизор</h4>\n<p>Глагол <span class=\"de\">fernsehen</span> состоит из приставки <span class=\"de\">fern-</span> и глагола <span class=\"de\">sehen</span>. Спрягается <span class=\"de\">sehen</span>, а приставка уходит <b>в конец предложения</b>: <span class=\"de\">Ich sehe fern. Du siehst heute fern.</span> Подробно об отделяемых приставках — в уроке 20.</p>"
+  },
+  {
+   "h": "Как запоминать сильные глаголы",
+   "html": "<ul>\n<li>В словарях и списках неправильных глаголов форма <span class=\"de\">er</span> часто указывается рядом с инфинитивом: <span class=\"de\">fahren (fährt)</span>, <span class=\"de\">sprechen (spricht)</span>. Учите глагол парой: <b>«fahren — fährt»</b>.</li>\n<li>Если вы знаете форму <span class=\"de\">er</span>, то знаете и форму <span class=\"de\">du</span>: просто замените -t на -st (<span class=\"de\">er spricht → du sprichst</span>).</li>\n<li>Самые частые глаголы урока, которые нужно знать наизусть: <span class=\"de\">fahren, schlafen, laufen, waschen, tragen, essen, helfen, geben, nehmen, sprechen, treffen, sehen, lesen, vergessen</span>.</li>\n</ul>\n<table>\n<tr><th>Инфинитив</th><th>er/sie/es</th><th>Перевод</th></tr>\n<tr><td><span class=\"de\">tragen</span></td><td><span class=\"de\">trägt</span></td><td>носить</td></tr>\n<tr><td><span class=\"de\">fallen</span></td><td><span class=\"de\">fällt</span></td><td>падать</td></tr>\n<tr><td><span class=\"de\">halten</span></td><td><span class=\"de\">hält</span></td><td>держать</td></tr>\n<tr><td><span class=\"de\">empfehlen</span></td><td><span class=\"de\">empfiehlt</span></td><td>рекомендовать</td></tr>\n<tr><td><span class=\"de\">sterben</span></td><td><span class=\"de\">stirbt</span></td><td>умирать</td></tr>\n</table>"
+  }
+ ],
+ "tips": [
+  "Гласная меняется только у du и er/sie/es — «в центре» таблицы. Проверка: wir, ihr и sie всегда звучат как инфинитив (кроме окончания у ihr).",
+  "Частая ошибка: «ihr fährt», «ihr spricht». Правильно: ihr fahrt, ihr sprecht — без изменения корня.",
+  "Учите сильные глаголы парой «инфинитив — форма er»: fahren — fährt, essen — isst, nehmen — nimmt, lesen — liest."
+ ],
+ "examples": [
+  {
+   "de": "Ich esse viel. Sie isst wenig.",
+   "ru": "Я ем много. Она ест мало."
+  },
+  {
+   "de": "Du nimmst ein Auto. Ich nehme ein Rad.",
+   "ru": "Ты берёшь машину. Я беру велосипед."
+  },
+  {
+   "de": "Er spricht laut. Ich spreche leise.",
+   "ru": "Он говорит громко. Я говорю тихо."
+  },
+  {
+   "de": "Ich sehe gut. Du siehst schlecht.",
+   "ru": "Я вижу хорошо. Ты видишь плохо."
+  },
+  {
+   "de": "Du liest schnell. Wir lesen langsam.",
+   "ru": "Ты читаешь быстро. Мы читаем медленно."
+  },
+  {
+   "de": "Er hilft immer. Du hilfst selten.",
+   "ru": "Он всегда помогает. Ты помогаешь редко."
+  },
+  {
+   "de": "Ich trage eine Hose. Sie trägt ein Kleid.",
+   "ru": "Я ношу брюки. Она носит платье."
+  },
+  {
+   "de": "Wir fahren heute. Er fährt morgen.",
+   "ru": "Мы едем сегодня. Он едет завтра."
+  },
+  {
+   "de": "Du schläfst viel. Sie schläft wenig.",
+   "ru": "Ты спишь много. Она спит мало."
+  },
+  {
+   "de": "Sprichst du Deutsch?",
+   "ru": "Ты говоришь по-немецки?"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "fahren",
+   "forms": "fährt, fuhr, ist gefahren",
+   "ru": "ехать, ездить"
+  },
+  {
+   "de": "schlafen",
+   "forms": "schläft, schlief, hat geschlafen",
+   "ru": "спать"
+  },
+  {
+   "de": "laufen",
+   "forms": "läuft, lief, ist gelaufen",
+   "ru": "бегать; идти пешком"
+  },
+  {
+   "de": "waschen",
+   "forms": "wäscht, wusch, hat gewaschen",
+   "ru": "мыть, стирать"
+  },
+  {
+   "de": "tragen",
+   "forms": "trägt, trug, hat getragen",
+   "ru": "носить"
+  },
+  {
+   "de": "essen",
+   "forms": "isst, aß, hat gegessen",
+   "ru": "есть, кушать"
+  },
+  {
+   "de": "helfen",
+   "forms": "hilft, half, hat geholfen",
+   "ru": "помогать"
+  },
+  {
+   "de": "geben",
+   "forms": "gibt, gab, hat gegeben",
+   "ru": "давать"
+  },
+  {
+   "de": "vergessen",
+   "forms": "vergisst, vergaß, hat vergessen",
+   "ru": "забывать"
+  },
+  {
+   "de": "sprechen",
+   "forms": "spricht, sprach, hat gesprochen",
+   "ru": "говорить"
+  },
+  {
+   "de": "nehmen",
+   "forms": "nimmt, nahm, hat genommen",
+   "ru": "брать"
+  },
+  {
+   "de": "treffen",
+   "forms": "trifft, traf, hat getroffen",
+   "ru": "встречать"
+  },
+  {
+   "de": "sehen",
+   "forms": "sieht, sah, hat gesehen",
+   "ru": "видеть"
+  },
+  {
+   "de": "fernsehen",
+   "forms": "sieht fern, sah fern, hat ferngesehen",
+   "ru": "смотреть телевизор"
+  },
+  {
+   "de": "werfen",
+   "forms": "wirft, warf, hat geworfen",
+   "ru": "бросать"
+  },
+  {
+   "de": "lesen",
+   "forms": "liest, las, hat gelesen",
+   "ru": "читать"
+  },
+  {
+   "de": "schnell",
+   "ru": "быстро"
+  },
+  {
+   "de": "langsam",
+   "ru": "медленно"
+  },
+  {
+   "de": "lange",
+   "ru": "долго"
+  },
+  {
+   "de": "viel",
+   "ru": "много"
+  },
+  {
+   "de": "wenig",
+   "ru": "мало"
+  },
+  {
+   "de": "immer",
+   "ru": "всегда"
+  },
+  {
+   "de": "alles",
+   "ru": "всё"
+  },
+  {
+   "de": "die Hose",
+   "pl": "die Hosen",
+   "ru": "брюки"
+  },
+  {
+   "de": "das Kleid",
+   "pl": "die Kleider",
+   "ru": "платье"
+  }
+ ],
+ "phrasesNote": "Закрепляем глаголы с изменяемой корневой гласной: a → ä (fahren, schlafen, waschen), au → äu (laufen), e → i (essen, helfen, geben, vergessen, sprechen, nehmen, treffen, werfen) и e → ie (sehen, lesen). Следите, чтобы гласная менялась только у du и er/sie/es.",
+ "phrases": [
+  {
+   "de": "Ich fahre schnell.",
+   "ru": "Я еду быстро."
+  },
+  {
+   "de": "Du fährst schnell.",
+   "ru": "Ты едешь быстро."
+  },
+  {
+   "de": "Er fährt schnell.",
+   "ru": "Он едет быстро."
+  },
+  {
+   "de": "Sie fährt schnell.",
+   "ru": "Она едет быстро."
+  },
+  {
+   "de": "Wir fahren schnell.",
+   "ru": "Мы едем быстро."
+  },
+  {
+   "de": "Ihr fahrt schnell.",
+   "ru": "Вы едете быстро."
+  },
+  {
+   "de": "Sie fahren schnell.",
+   "ru": "Они едут быстро."
+  },
+  {
+   "de": "Ich schlafe lange.",
+   "ru": "Я долго сплю."
+  },
+  {
+   "de": "Du schläfst lange.",
+   "ru": "Ты долго спишь."
+  },
+  {
+   "de": "Er schläft lange.",
+   "ru": "Он долго спит."
+  },
+  {
+   "de": "Sie schläft lange.",
+   "ru": "Она долго спит."
+  },
+  {
+   "de": "Wir schlafen lange.",
+   "ru": "Мы долго спим."
+  },
+  {
+   "de": "Ihr schlaft lange.",
+   "ru": "Вы долго спите."
+  },
+  {
+   "de": "Sie schlafen lange.",
+   "ru": "Они долго спят."
+  },
+  {
+   "de": "Ich laufe langsam.",
+   "ru": "Я бегаю медленно."
+  },
+  {
+   "de": "Du läufst langsam.",
+   "ru": "Ты бегаешь медленно."
+  },
+  {
+   "de": "Er läuft langsam.",
+   "ru": "Он бегает медленно."
+  },
+  {
+   "de": "Sie läuft langsam.",
+   "ru": "Она бегает медленно."
+  },
+  {
+   "de": "Wir laufen langsam.",
+   "ru": "Мы бегаем медленно."
+  },
+  {
+   "de": "Ihr lauft langsam.",
+   "ru": "Вы бегаете медленно."
+  },
+  {
+   "de": "Sie laufen langsam.",
+   "ru": "Они бегают медленно."
+  },
+  {
+   "de": "Ich wasche das Auto.",
+   "ru": "Я мою машину."
+  },
+  {
+   "de": "Du wäschst das Auto.",
+   "ru": "Ты моешь машину."
+  },
+  {
+   "de": "Er wäscht das Auto.",
+   "ru": "Он моет машину."
+  },
+  {
+   "de": "Sie wäscht das Auto.",
+   "ru": "Она моет машину."
+  },
+  {
+   "de": "Wir waschen das Auto.",
+   "ru": "Мы моем машину."
+  },
+  {
+   "de": "Ihr wascht das Auto.",
+   "ru": "Вы моете машину."
+  },
+  {
+   "de": "Sie waschen das Auto.",
+   "ru": "Они моют машину."
+  },
+  {
+   "de": "Ich esse viel.",
+   "ru": "Я много ем."
+  },
+  {
+   "de": "Du isst viel.",
+   "ru": "Ты много ешь."
+  },
+  {
+   "de": "Er isst viel.",
+   "ru": "Он много ест."
+  },
+  {
+   "de": "Sie isst viel.",
+   "ru": "Она много ест."
+  },
+  {
+   "de": "Wir essen viel.",
+   "ru": "Мы много едим."
+  },
+  {
+   "de": "Ihr esst viel.",
+   "ru": "Вы много едите."
+  },
+  {
+   "de": "Sie essen viel.",
+   "ru": "Они много едят."
+  },
+  {
+   "de": "Ich helfe immer.",
+   "ru": "Я всегда помогаю."
+  },
+  {
+   "de": "Du hilfst immer.",
+   "ru": "Ты всегда помогаешь."
+  },
+  {
+   "de": "Er hilft immer.",
+   "ru": "Он всегда помогает."
+  },
+  {
+   "de": "Sie hilft immer.",
+   "ru": "Она всегда помогает."
+  },
+  {
+   "de": "Wir helfen immer.",
+   "ru": "Мы всегда помогаем."
+  },
+  {
+   "de": "Ihr helft immer.",
+   "ru": "Вы всегда помогаете."
+  },
+  {
+   "de": "Sie helfen immer.",
+   "ru": "Они всегда помогают."
+  },
+  {
+   "de": "Ich gebe wenig.",
+   "ru": "Я мало даю."
+  },
+  {
+   "de": "Du gibst wenig.",
+   "ru": "Ты мало даёшь."
+  },
+  {
+   "de": "Er gibt wenig.",
+   "ru": "Он мало даёт."
+  },
+  {
+   "de": "Sie gibt wenig.",
+   "ru": "Она мало даёт."
+  },
+  {
+   "de": "Wir geben wenig.",
+   "ru": "Мы мало даём."
+  },
+  {
+   "de": "Ihr gebt wenig.",
+   "ru": "Вы мало даёте."
+  },
+  {
+   "de": "Sie geben wenig.",
+   "ru": "Они мало дают."
+  },
+  {
+   "de": "Ich vergesse alles.",
+   "ru": "Я всё забываю."
+  },
+  {
+   "de": "Du vergisst alles.",
+   "ru": "Ты всё забываешь."
+  },
+  {
+   "de": "Er vergisst alles.",
+   "ru": "Он всё забывает."
+  },
+  {
+   "de": "Sie vergisst alles.",
+   "ru": "Она всё забывает."
+  },
+  {
+   "de": "Wir vergessen alles.",
+   "ru": "Мы всё забываем."
+  },
+  {
+   "de": "Ihr vergesst alles.",
+   "ru": "Вы всё забываете."
+  },
+  {
+   "de": "Sie vergessen alles.",
+   "ru": "Они всё забывают."
+  },
+  {
+   "de": "Ich spreche Deutsch.",
+   "ru": "Я говорю по-немецки."
+  },
+  {
+   "de": "Du sprichst Deutsch.",
+   "ru": "Ты говоришь по-немецки."
+  },
+  {
+   "de": "Er spricht Deutsch.",
+   "ru": "Он говорит по-немецки."
+  },
+  {
+   "de": "Sie spricht Deutsch.",
+   "ru": "Она говорит по-немецки."
+  },
+  {
+   "de": "Wir sprechen Deutsch.",
+   "ru": "Мы говорим по-немецки."
+  },
+  {
+   "de": "Ihr sprecht Deutsch.",
+   "ru": "Вы говорите по-немецки."
+  },
+  {
+   "de": "Sie sprechen Deutsch.",
+   "ru": "Они говорят по-немецки."
+  },
+  {
+   "de": "Ich nehme ein Buch.",
+   "ru": "Я беру книгу."
+  },
+  {
+   "de": "Du nimmst ein Buch.",
+   "ru": "Ты берёшь книгу."
+  },
+  {
+   "de": "Er nimmt ein Buch.",
+   "ru": "Он берёт книгу."
+  },
+  {
+   "de": "Sie nimmt ein Buch.",
+   "ru": "Она берёт книгу."
+  },
+  {
+   "de": "Wir nehmen ein Buch.",
+   "ru": "Мы берём книгу."
+  },
+  {
+   "de": "Ihr nehmt ein Buch.",
+   "ru": "Вы берёте книгу."
+  },
+  {
+   "de": "Sie nehmen ein Buch.",
+   "ru": "Они берут книгу."
+  },
+  {
+   "de": "Ich treffe Freunde.",
+   "ru": "Я встречаюсь с друзьями."
+  },
+  {
+   "de": "Du triffst Freunde.",
+   "ru": "Ты встречаешься с друзьями."
+  },
+  {
+   "de": "Er trifft Freunde.",
+   "ru": "Он встречается с друзьями."
+  },
+  {
+   "de": "Sie trifft Freunde.",
+   "ru": "Она встречается с друзьями."
+  },
+  {
+   "de": "Wir treffen Freunde.",
+   "ru": "Мы встречаемся с друзьями."
+  },
+  {
+   "de": "Ihr trefft Freunde.",
+   "ru": "Вы встречаетесь с друзьями."
+  },
+  {
+   "de": "Sie treffen Freunde.",
+   "ru": "Они встречаются с друзьями."
+  },
+  {
+   "de": "Ich sehe fern.",
+   "ru": "Я смотрю телевизор."
+  },
+  {
+   "de": "Du siehst fern.",
+   "ru": "Ты смотришь телевизор."
+  },
+  {
+   "de": "Er sieht fern.",
+   "ru": "Он смотрит телевизор."
+  },
+  {
+   "de": "Sie sieht fern.",
+   "ru": "Она смотрит телевизор."
+  },
+  {
+   "de": "Wir sehen fern.",
+   "ru": "Мы смотрим телевизор."
+  },
+  {
+   "de": "Ihr seht fern.",
+   "ru": "Вы смотрите телевизор."
+  },
+  {
+   "de": "Sie sehen fern.",
+   "ru": "Они смотрят телевизор."
+  },
+  {
+   "de": "Ich werfe ein Buch.",
+   "ru": "Я бросаю книгу."
+  },
+  {
+   "de": "Du wirfst ein Buch.",
+   "ru": "Ты бросаешь книгу."
+  },
+  {
+   "de": "Er wirft ein Buch.",
+   "ru": "Он бросает книгу."
+  },
+  {
+   "de": "Sie wirft ein Buch.",
+   "ru": "Она бросает книгу."
+  },
+  {
+   "de": "Wir werfen ein Buch.",
+   "ru": "Мы бросаем книгу."
+  },
+  {
+   "de": "Ihr werft ein Buch.",
+   "ru": "Вы бросаете книгу."
+  },
+  {
+   "de": "Sie werfen ein Buch.",
+   "ru": "Они бросают книгу."
+  },
+  {
+   "de": "Ich lese dieses Buch.",
+   "ru": "Я читаю эту книгу."
+  },
+  {
+   "de": "Du liest dieses Buch.",
+   "ru": "Ты читаешь эту книгу."
+  },
+  {
+   "de": "Er liest dieses Buch.",
+   "ru": "Он читает эту книгу."
+  },
+  {
+   "de": "Sie liest dieses Buch.",
+   "ru": "Она читает эту книгу."
+  },
+  {
+   "de": "Wir lesen dieses Buch.",
+   "ru": "Мы читаем эту книгу."
+  },
+  {
+   "de": "Ihr lest dieses Buch.",
+   "ru": "Вы читаете эту книгу."
+  },
+  {
+   "de": "Sie lesen dieses Buch.",
+   "ru": "Они читают эту книгу."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Du ___ schnell. (fahren)",
+   "options": [
+    "fahrst",
+    "fährst",
+    "fährt"
+   ],
+   "answer": 1,
+   "explain": "a → ä у du: du fährst."
+  },
+  {
+   "type": "choice",
+   "q": "Ihr ___ schnell. (fahren)",
+   "options": [
+    "fahrt",
+    "fährt",
+    "fahren"
+   ],
+   "answer": 0,
+   "explain": "У ihr корень не меняется: ihr fahrt."
+  },
+  {
+   "type": "choice",
+   "q": "Er ___ Deutsch. (sprechen)",
+   "options": [
+    "sprecht",
+    "spricht",
+    "sprichst"
+   ],
+   "answer": 1,
+   "explain": "e → i: er spricht."
+  },
+  {
+   "type": "choice",
+   "q": "Sie (она) ___ dieses Buch. (lesen)",
+   "options": [
+    "lest",
+    "liest",
+    "liesst"
+   ],
+   "answer": 1,
+   "explain": "e → ie, основа на -s: sie liest."
+  },
+  {
+   "type": "choice",
+   "q": "Du ___ ein Buch. (nehmen)",
+   "options": [
+    "nehmst",
+    "nimmst",
+    "nimst"
+   ],
+   "answer": 1,
+   "explain": "nehmen → du nimmst (h исчезает, m удваивается)."
+  },
+  {
+   "type": "choice",
+   "q": "Er ___ langsam. (laufen)",
+   "options": [
+    "lauft",
+    "läuft",
+    "laufen"
+   ],
+   "answer": 1,
+   "explain": "au → äu: er läuft [лойфт]."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ viel. (essen)",
+   "answer": [
+    "isst"
+   ],
+   "explain": "essen → du isst (только -t после ss)."
+  },
+  {
+   "type": "gap",
+   "q": "Er ___ immer. (helfen)",
+   "answer": [
+    "hilft"
+   ],
+   "explain": "e → i: er hilft."
+  },
+  {
+   "type": "gap",
+   "q": "Sie (она) ___ lange. (schlafen)",
+   "answer": [
+    "schläft"
+   ],
+   "explain": "a → ä: sie schläft."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ alles. (vergessen)",
+   "answer": [
+    "vergisst"
+   ],
+   "explain": "e → i, основа на -ss: du vergisst."
+  },
+  {
+   "type": "gap",
+   "q": "Er ___ fern. (sehen)",
+   "answer": [
+    "sieht"
+   ],
+   "explain": "e → ie: er sieht fern."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ Freunde. (treffen)",
+   "answer": [
+    "treffen"
+   ],
+   "explain": "У wir корень не меняется."
+  },
+  {
+   "type": "translate",
+   "q": "Ты моешь машину.",
+   "answer": [
+    "Du wäschst das Auto.",
+    "Du wäschst ein Auto."
+   ],
+   "explain": "a → ä: du wäschst."
+  },
+  {
+   "type": "translate",
+   "q": "Он даёт мало.",
+   "answer": [
+    "Er gibt wenig."
+   ],
+   "explain": "geben → er gibt."
+  },
+  {
+   "type": "translate",
+   "q": "Она носит платье.",
+   "answer": [
+    "Sie trägt ein Kleid.",
+    "Sie trägt das Kleid."
+   ],
+   "explain": "tragen → sie trägt."
+  },
+  {
+   "type": "translate",
+   "q": "Ты говоришь по-немецки?",
+   "answer": [
+    "Sprichst du Deutsch?"
+   ],
+   "explain": "Вопрос: глагол на первом месте."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Он смотрит телевизор.»",
+   "words": [
+    "fern",
+    "Er",
+    "sieht"
+   ],
+   "answer": [
+    "Er sieht fern."
+   ],
+   "explain": "Приставка fern- уходит в конец."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Сегодня ты бросаешь книгу.»",
+   "words": [
+    "ein Buch",
+    "du",
+    "Heute",
+    "wirfst"
+   ],
+   "answer": [
+    "Heute wirfst du ein Buch."
+   ],
+   "explain": "Глагол на втором месте, подлежащее после него."
+  }
+ ]
+}

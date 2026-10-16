@@ -1,0 +1,118 @@
+{
+  "id": 32,
+  "title": "Um … zu и damit — выражаем цель",
+  "level": "B1",
+  "goal": "Вы научитесь выражать цель действия («чтобы…») с помощью um … zu и damit и правильно выбирать между ними.",
+  "minutes": 45,
+  "theory": [
+    {
+      "h": "Цель: «чтобы» по-немецки",
+      "html": "<p>Русскому «чтобы» в значении цели соответствуют две конструкции:</p><ul><li><b>um … zu + Infinitiv</b>: <span class=\"de\">Ich lerne Deutsch, um in Deutschland zu arbeiten.</span> — Я учу немецкий, чтобы работать в Германии.</li><li><b>damit + придаточное</b>: <span class=\"de\">Ich kaufe ein Lehrbuch, damit mein Sohn Deutsch lernt.</span> — Я покупаю учебник, чтобы мой сын учил немецкий.</li></ul><p>Обе отвечают на вопрос <span class=\"de\">Wozu?</span> / <span class=\"de\">Warum?</span> (зачем? для чего?).</p>"
+    },
+    {
+      "h": "Um … zu: один и тот же человек",
+      "html": "<p><b>um … zu</b> используется, когда <b>подлежащее в обеих частях одно и то же</b>: я делаю что-то, чтобы <i>я</i> …</p><p>Строение: <b>um</b> — в начале оборота, <b>zu + инфинитив</b> — в самом конце (как в уроке 31).</p><ul><li><span class=\"de\">Ich brauche ein Auto, <b>um</b> zur Arbeit <b>zu fahren</b>.</span></li><li><span class=\"de\">Ich esse sehr wenig, <b>um abzunehmen</b>.</span> — zu внутри отделяемого глагола!</li><li><span class=\"de\">Ich fahre an die Ostsee, <b>um mich zu erholen</b>.</span> — возвратное местоимение меняется по лицу: <i>um mich / dich / sich / uns / euch zu erholen</i>.</li></ul><div class=\"note\">В обороте um … zu нет подлежащего и нет спрягаемого глагола!</div>"
+    },
+    {
+      "h": "Damit: разные люди",
+      "html": "<p><b>damit</b> — союз придаточного предложения. Он обязателен, когда <b>подлежащие разные</b>: я делаю что-то, чтобы <i>кто-то другой</i> …</p><ul><li><span class=\"de\">Ich fahre nach Deutschland, <b>damit</b> meine Tochter Deutsch sprechen <b>kann</b>.</span></li><li><span class=\"de\">Ich verdiene Geld, <b>damit</b> meine Familie ein gutes Leben <b>hat</b>.</span></li></ul><p>Как во всех придаточных, <b>спрягаемый глагол стоит в конце</b>.</p><p>С одним подлежащим <i>damit</i> тоже возможен, но звучит тяжелее: <span class=\"de\">Ich lerne, damit ich die Prüfung bestehe</span> = лучше <span class=\"de\">Ich lerne, um die Prüfung zu bestehen</span>.</p>"
+    },
+    {
+      "h": "Сравнение и порядок слов",
+      "html": "<table><tr><th></th><th>um … zu</th><th>damit</th></tr><tr><td>подлежащие</td><td>одинаковые</td><td>разные (или одинаковые)</td></tr><tr><td>глагол</td><td>zu + инфинитив в конце</td><td>спрягаемый глагол в конце</td></tr><tr><td>пример</td><td><span class=\"de\">Ich spare, um ein Auto zu kaufen.</span></td><td><span class=\"de\">Ich spare, damit mein Sohn studieren kann.</span></td></tr></table><p>Цель можно поставить <b>в начало</b>. Тогда главное предложение начинается с глагола (инверсия!):</p><ul><li><span class=\"de\">Um morgen fit zu sein, <b>trinke ich</b> heute keinen Alkohol.</span></li><li><span class=\"de\">Damit mein Auto schön aussieht, <b>habe ich</b> es gewaschen.</span></li></ul><div class=\"note\">Не путайте с вопросом <span class=\"de\">Wozu?</span> — «зачем?» и с <span class=\"de\">dass</span> («что», урок 33). <i>Damit</i> всегда про цель.</div>"
+    }
+  ],
+  "tips": [
+    "Быстрая проверка: одно и то же лицо? → um … zu. Разные лица? → damit.",
+    "Типичная ошибка русскоговорящих: «Ich lerne Deutsch, um ich in Deutschland arbeite». В um … zu нет подлежащего и спрягаемого глагола: um in Deutschland zu arbeiten.",
+    "После damit часто идёт модальный глагол können: …, damit er Deutsch lernen kann. Модальный стоит в самом конце.",
+    "Если предложение начинается с Um … zu или Damit …, следующим словом идёт глагол: Um fit zu sein, trinke ich…"
+  ],
+  "examples": [
+    {"de": "Ich stehe früh auf, um pünktlich zu sein.", "ru": "Я встаю рано, чтобы быть пунктуальным."},
+    {"de": "Er spart Geld, um eine Wohnung zu kaufen.", "ru": "Он копит деньги, чтобы купить квартиру."},
+    {"de": "Wir fahren in die Berge, um Ski zu fahren.", "ru": "Мы едем в горы, чтобы кататься на лыжах."},
+    {"de": "Sie geht in die Bibliothek, um in Ruhe zu lernen.", "ru": "Она идёт в библиотеку, чтобы спокойно позаниматься."},
+    {"de": "Ich spreche langsam, damit alle mich verstehen.", "ru": "Я говорю медленно, чтобы все меня понимали."},
+    {"de": "Mach das Fenster zu, damit das Kind nicht friert.", "ru": "Закрой окно, чтобы ребёнок не мёрз."},
+    {"de": "Wir haben ihm geholfen, damit er nicht allein ist.", "ru": "Мы ему помогли, чтобы он не был один."},
+    {"de": "Um gut Deutsch zu sprechen, muss man viel üben.", "ru": "Чтобы хорошо говорить по-немецки, нужно много практиковаться."},
+    {"de": "Ich schreibe dir die Adresse auf, damit du sie nicht vergisst.", "ru": "Я запишу тебе адрес, чтобы ты его не забыл."},
+    {"de": "Er ruft an, um sich zu entschuldigen.", "ru": "Он звонит, чтобы извиниться."}
+  ],
+  "vocab": [
+    {"de": "um … zu", "ru": "чтобы (одно подлежащее)"},
+    {"de": "damit", "ru": "чтобы (союз придаточного)"},
+    {"de": "wozu", "ru": "зачем, для чего"},
+    {"de": "sich erholen", "ru": "отдыхать, восстанавливаться"},
+    {"de": "genießen", "ru": "наслаждаться", "forms": "genießt, genoss, hat genossen"},
+    {"de": "abnehmen", "ru": "худеть; снимать", "forms": "nimmt ab, nahm ab, hat abgenommen"},
+    {"de": "teilnehmen an + Dat.", "ru": "участвовать в", "forms": "nimmt teil, nahm teil, hat teilgenommen"},
+    {"de": "sich Mühe geben", "ru": "стараться", "forms": "gibt sich Mühe, gab sich Mühe, hat sich Mühe gegeben"},
+    {"de": "verdienen", "ru": "зарабатывать"},
+    {"de": "bestehen", "ru": "сдать (экзамен)", "forms": "besteht, bestand, hat bestanden"},
+    {"de": "aussehen", "ru": "выглядеть", "forms": "sieht aus, sah aus, hat ausgesehen"},
+    {"de": "sparen", "ru": "копить, экономить"},
+    {"de": "stolz auf + Akk.", "ru": "гордый (чем-то/кем-то)"},
+    {"de": "die Ostsee", "ru": "Балтийское море"},
+    {"de": "die Insel", "pl": "die Inseln", "ru": "остров"},
+    {"de": "der Wettkampf", "pl": "die Wettkämpfe", "ru": "соревнование"},
+    {"de": "das Lehrbuch", "pl": "die Lehrbücher", "ru": "учебник"},
+    {"de": "die Prüfung", "pl": "die Prüfungen", "ru": "экзамен"},
+    {"de": "die Mühe", "pl": "die Mühen", "ru": "усилие, старание"},
+    {"de": "fit", "ru": "в форме, бодрый"},
+    {"de": "alleine / allein", "ru": "один, в одиночестве"}
+  ],
+  "phrasesNote": "Закрепляем um … zu (одно подлежащее, в т. ч. с возвратными глаголами и отделяемыми приставками) и damit (разные подлежащие), а также инверсию после цели в начале предложения.",
+  "phrases": [
+    {"de": "Ich fahre an die Ostsee, um mich zu erholen.", "ru": "Я еду на Балтийское море, чтобы отдохнуть."},
+    {"de": "Du fährst an die Ostsee, um dich zu erholen.", "ru": "Ты едешь на Балтийское море, чтобы отдохнуть."},
+    {"de": "Er fährt an die Ostsee, um sich zu erholen.", "ru": "Он едет на Балтийское море, чтобы отдохнуть."},
+    {"de": "Sie fährt an die Ostsee, um sich zu erholen.", "ru": "Она едет на Балтийское море, чтобы отдохнуть."},
+    {"de": "Wir fahren an die Ostsee, um uns zu erholen.", "ru": "Мы едем на Балтийское море, чтобы отдохнуть."},
+    {"de": "Ihr fahrt an die Ostsee, um euch zu erholen.", "ru": "Вы едете на Балтийское море, чтобы отдохнуть."},
+    {"de": "Sie fahren an die Ostsee, um sich zu erholen.", "ru": "Они едут на Балтийское море, чтобы отдохнуть."},
+    {"de": "Ich fahre auf die Kanarischen Inseln, um schönes Wetter zu genießen.", "ru": "Я еду на Канарские острова, чтобы наслаждаться хорошей погодой."},
+    {"de": "Ich esse sehr wenig, um abzunehmen.", "ru": "Я ем очень мало, чтобы похудеть."},
+    {"de": "Ich brauche ein Auto, um zur Arbeit zu fahren.", "ru": "Мне нужна машина, чтобы ездить на работу."},
+    {"de": "Ich lerne Deutsch, um mit meinen Freunden Deutsch zu sprechen.", "ru": "Я учу немецкий, чтобы говорить по-немецки с друзьями."},
+    {"de": "Ich fliege nach London, um an einem Wettkampf teilzunehmen.", "ru": "Я лечу в Лондон, чтобы участвовать в соревновании."},
+    {"de": "Ich gehe früh ins Bett, um morgen um fünf aufzustehen.", "ru": "Я рано ложусь спать, чтобы завтра встать в пять."},
+    {"de": "Um morgen fit zu sein, trinke ich heute keinen Alkohol.", "ru": "Чтобы завтра быть в форме, я сегодня не пью алкоголь."},
+    {"de": "Um dieses Spiel zu gewinnen, gebe ich mir viel Mühe.", "ru": "Чтобы выиграть эту игру, я очень стараюсь."},
+    {"de": "Ich kaufe ein Lehrbuch für meinen Sohn, damit er Deutsch lernen kann.", "ru": "Я покупаю учебник для своего сына, чтобы он мог учить немецкий."},
+    {"de": "Du kaufst ein Lehrbuch für deinen Sohn, damit er Deutsch lernen kann.", "ru": "Ты покупаешь учебник для своего сына, чтобы он мог учить немецкий."},
+    {"de": "Er kauft ein Lehrbuch für seinen Sohn, damit er Deutsch lernen kann.", "ru": "Он покупает учебник для своего сына, чтобы тот мог учить немецкий."},
+    {"de": "Sie kauft ein Lehrbuch für ihren Sohn, damit er Deutsch lernen kann.", "ru": "Она покупает учебник для своего сына, чтобы он мог учить немецкий."},
+    {"de": "Wir kaufen ein Lehrbuch für unseren Sohn, damit er Deutsch lernen kann.", "ru": "Мы покупаем учебник для нашего сына, чтобы он мог учить немецкий."},
+    {"de": "Ihr kauft ein Lehrbuch für euren Sohn, damit er Deutsch lernen kann.", "ru": "Вы покупаете учебник для вашего сына, чтобы он мог учить немецкий."},
+    {"de": "Sie kaufen ein Lehrbuch für ihren Sohn, damit er Deutsch lernen kann.", "ru": "Они покупают учебник для своего сына, чтобы он мог учить немецкий."},
+    {"de": "Ich fahre nach Deutschland, damit meine Tochter Deutsch sprechen kann.", "ru": "Я еду в Германию, чтобы моя дочь могла говорить по-немецки."},
+    {"de": "Ich verdiene Geld, damit meine Familie ein gutes Leben hat.", "ru": "Я зарабатываю деньги, чтобы у моей семьи была хорошая жизнь."},
+    {"de": "Ich gehe weg, damit meine Freundin alleine bleiben kann.", "ru": "Я ухожу, чтобы моя подруга могла остаться одна."},
+    {"de": "Ich schreibe das Lehrbuch, damit meine Schüler Grammatik lernen.", "ru": "Я пишу учебник, чтобы мои ученики учили грамматику."},
+    {"de": "Ich mache Sport, damit meine Eltern stolz auf mich sein können.", "ru": "Я занимаюсь спортом, чтобы мои родители могли мной гордиться."},
+    {"de": "Damit mein Freund die Prüfung bestehen kann, habe ich ihm geholfen.", "ru": "Чтобы мой друг смог сдать экзамен, я ему помог."},
+    {"de": "Damit mein Auto schön aussieht, habe ich es gewaschen.", "ru": "Чтобы моя машина хорошо выглядела, я её помыл."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich lerne Deutsch, ___ in Deutschland zu arbeiten.", "options": ["damit", "um", "dass", "weil"], "answer": 1, "explain": "Одно подлежащее + zu + Infinitiv → um … zu."},
+    {"type": "choice", "q": "Ich kaufe ein Buch, ___ mein Sohn lesen lernt.", "options": ["um", "damit", "zu", "denn"], "answer": 1, "explain": "Разные подлежащие (ich / mein Sohn) → damit."},
+    {"type": "gap", "q": "Ich esse wenig, um ___. (abnehmen)", "answer": ["abzunehmen"], "explain": "Отделяемая приставка: ab-zu-nehmen."},
+    {"type": "gap", "q": "Wir fahren ans Meer, um ___ zu erholen.", "answer": ["uns"], "explain": "Возвратное местоимение по лицу подлежащего: wir → uns."},
+    {"type": "gap", "q": "Du fährst in die Berge, um ___ zu erholen.", "answer": ["dich"], "explain": "du → dich"},
+    {"type": "gap", "q": "Ich fliege nach London, um an einem Wettkampf ___. (teilnehmen)", "answer": ["teilzunehmen"], "explain": "teil-zu-nehmen"},
+    {"type": "choice", "q": "Ich spreche langsam, damit du mich ___.", "options": ["verstehst", "zu verstehen", "verstehen", "verstanden"], "answer": 0, "explain": "После damit — придаточное со спрягаемым глаголом в конце."},
+    {"type": "choice", "q": "Um morgen fit zu sein, ___ heute früh ins Bett.", "options": ["ich gehe", "gehe ich", "ich gehen", "zu gehen"], "answer": 1, "explain": "Цель в начале → инверсия: глагол, затем подлежащее."},
+    {"type": "gap", "q": "Ich verdiene Geld, damit meine Familie ein gutes Leben ___. (haben)", "answer": ["hat"], "explain": "meine Familie → hat, в конце придаточного."},
+    {"type": "choice", "q": "Ich gehe weg, damit meine Freundin alleine ___.", "options": ["bleiben kann", "kann bleiben", "zu bleiben", "bleiben zu können"], "answer": 0, "explain": "Модальный глагол — в самом конце придаточного."},
+    {"type": "translate", "q": "Мне нужна машина, чтобы ездить на работу.", "answer": ["Ich brauche ein Auto, um zur Arbeit zu fahren.", "Ich brauche ein Auto um zur Arbeit zu fahren."], "explain": "Одно подлежащее → um … zu."},
+    {"type": "translate", "q": "Я помог ему, чтобы он сдал экзамен.", "answer": ["Ich habe ihm geholfen, damit er die Prüfung besteht.", "Ich habe ihm geholfen, damit er die Prüfung bestehen kann.", "Ich half ihm, damit er die Prüfung besteht.", "Ich half ihm, damit er die Prüfung bestehen kann."], "explain": "Разные подлежащие → damit."},
+    {"type": "translate", "q": "Я еду на Балтийское море, чтобы отдохнуть.", "answer": ["Ich fahre an die Ostsee, um mich zu erholen.", "Ich fahre an die Ostsee um mich zu erholen."], "explain": "um mich zu erholen"},
+    {"type": "translate", "q": "Я учу немецкий, чтобы говорить с друзьями.", "answer": ["Ich lerne Deutsch, um mit meinen Freunden zu sprechen.", "Ich lerne Deutsch, um mit Freunden zu sprechen.", "Ich lerne Deutsch, um mit meinen Freunden Deutsch zu sprechen."], "explain": "Одно подлежащее → um … zu."},
+    {"type": "order", "q": "Составьте предложение", "words": ["habe", "damit mein Auto schön aussieht,", "es", "ich", "gewaschen"], "answer": ["Damit mein Auto schön aussieht, habe ich es gewaschen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "früh ins Bett,", "gehe", "aufzustehen", "um", "um fünf"], "answer": ["Ich gehe früh ins Bett, um um fünf aufzustehen."]},
+    {"type": "translate", "q": "Чтобы выиграть эту игру, я очень стараюсь.", "answer": ["Um dieses Spiel zu gewinnen, gebe ich mir viel Mühe.", "Um dieses Spiel zu gewinnen, gebe ich mir große Mühe.", "Um dieses Spiel zu gewinnen, gebe ich mir Mühe."], "explain": "Цель в начале → инверсия gebe ich."},
+    {"type": "translate", "q": "Я занимаюсь спортом, чтобы мои родители гордились мной.", "answer": ["Ich mache Sport, damit meine Eltern stolz auf mich sind.", "Ich mache Sport, damit meine Eltern stolz auf mich sein können."], "explain": "Разные подлежащие → damit; stolz auf + Akk."}
+  ]
+}

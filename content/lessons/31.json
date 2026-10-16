@@ -1,0 +1,127 @@
+{
+  "id": 31,
+  "title": "Infinitiv mit zu — инфинитив с zu",
+  "level": "B1",
+  "goal": "Вы научитесь строить инфинитивные обороты с zu после глаголов (versuchen, vorhaben, versprechen), выражений (Lust haben, Zeit haben, es ist wichtig) и понимать, когда zu не нужен.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Что такое Infinitiv mit zu",
+      "html": "<p>В русском мы говорим «я пытаюсь <b>учить</b> немецкий» — второй глагол просто стоит в инфинитиве. В немецком после многих глаголов и выражений перед инфинитивом нужна частица <b>zu</b>, а сам инфинитивный оборот стоит <b>в конце</b> предложения.</p><ul><li><span class=\"de\">Ich versuche, Deutsch <b>zu lernen</b>.</span> — Я пытаюсь учить немецкий.</li><li><span class=\"de\">Ich habe keine Zeit, ins Kino <b>zu gehen</b>.</span> — У меня нет времени пойти в кино.</li></ul><p>Порядок внутри оборота: все дополнения сначала, <b>zu + инфинитив — в самом конце</b>.</p><div class=\"note\">Запятая перед оборотом рекомендуется (особенно если в обороте есть другие слова): <span class=\"de\">Ich habe vor, ein Auto zu kaufen.</span></div>"
+    },
+    {
+      "h": "Где стоит zu: обычные, отделяемые и неотделяемые глаголы",
+      "html": "<table><tr><th>Тип глагола</th><th>Инфинитив</th><th>с zu</th></tr><tr><td>обычный</td><td><span class=\"de\">lernen</span></td><td><span class=\"de\">zu lernen</span></td></tr><tr><td>отделяемая приставка</td><td><span class=\"de\">aufstehen</span></td><td><span class=\"de\">auf<b>zu</b>stehen</span> (zu внутри!)</td></tr><tr><td>отделяемая приставка</td><td><span class=\"de\">umziehen</span></td><td><span class=\"de\">um<b>zu</b>ziehen</span></td></tr><tr><td>неотделяемая приставка</td><td><span class=\"de\">verstehen</span></td><td><span class=\"de\">zu verstehen</span></td></tr><tr><td>возвратный глагол</td><td><span class=\"de\">sich erholen</span></td><td><span class=\"de\">sich zu erholen</span></td></tr><tr><td>модальный глагол</td><td><span class=\"de\">sprechen können</span></td><td><span class=\"de\">sprechen zu können</span></td></tr></table><p>Пример: <span class=\"de\">Ich habe keine Lust aufzustehen.</span> — Мне не хочется вставать.</p>"
+    },
+    {
+      "h": "После каких слов нужен zu",
+      "html": "<p><b>Глаголы:</b></p><ul><li><span class=\"de\">versuchen</span> — пытаться</li><li><span class=\"de\">vorhaben</span> — планировать</li><li><span class=\"de\">versprechen</span> — обещать</li><li><span class=\"de\">beginnen / anfangen</span> — начинать; <span class=\"de\">aufhören</span> — прекращать</li><li><span class=\"de\">vergessen</span> — забывать; <span class=\"de\">hoffen</span> — надеяться; <span class=\"de\">vorschlagen</span> — предлагать</li><li><span class=\"de\">scheinen</span> — казаться: <span class=\"de\">Er scheint krank zu sein.</span> — Он, кажется, болен.</li></ul><p><b>Выражения с существительными:</b> <span class=\"de\">Lust haben, Zeit haben, Angst haben, keine Lust haben</span>.</p><p><b>Выражения с прилагательными:</b> <span class=\"de\">Es ist leicht / schwer / wichtig / erlaubt / verboten / möglich, …zu…</span></p><ul><li><span class=\"de\">Es ist wichtig, die Wörter jeden Tag zu wiederholen.</span></li><li>Можно начать и с самого оборота: <span class=\"de\">Jeden Tag um fünf Uhr aufzustehen ist schwer.</span></li></ul>"
+    },
+    {
+      "h": "Когда zu НЕ нужен",
+      "html": "<ul><li>После <b>модальных глаголов</b>: <span class=\"de\">Ich kann Deutsch sprechen.</span> (не «zu sprechen»)</li><li>После <b>werden</b> (Futur): <span class=\"de\">Ich werde Deutsch lernen.</span></li><li>После <b>lassen, bleiben, gehen, fahren</b>, а также после <b>sehen, hören</b>: <span class=\"de\">Ich lasse mein Auto in der Garage stehen. Ich gehe einkaufen. Ich bleibe im Bett liegen.</span></li><li>После <b>lernen, helfen</b> в коротких предложениях: <span class=\"de\">Ich lerne Gitarre spielen. Ich helfe dir Deutsch lernen.</span></li></ul>"
+    },
+    {
+      "h": "brauchen … zu = не нужно",
+      "html": "<p><span class=\"de\">brauchen + zu</span> употребляется <b>только с отрицанием</b> (nicht, kein, nur) и заменяет отрицание <i>müssen</i>:</p><table><tr><th>Утверждение (müssen)</th><th>Отрицание (nicht brauchen zu)</th></tr><tr><td><span class=\"de\">Ich muss heute arbeiten.</span><br>Я должен сегодня работать.</td><td><span class=\"de\">Ich brauche heute nicht zu arbeiten.</span><br>Мне не нужно сегодня работать.</td></tr><tr><td><span class=\"de\">Ich muss ein Auto kaufen.</span></td><td><span class=\"de\">Ich brauche kein Auto zu kaufen.</span></td></tr></table><div class=\"note\">Внимание: <span class=\"de\">Ich muss nicht arbeiten</span> = «мне не обязательно работать» (то же значение). А вот «мне нельзя» — это <span class=\"de\">Ich darf nicht</span>.</div>"
+    },
+    {
+      "h": "Infinitiv mit zu в прошедшем времени",
+      "html": "<p>Время выражает главный глагол, оборот с zu не меняется:</p><ul><li><span class=\"de\">Ich versuche, Englisch zu lernen.</span> → <span class=\"de\">Ich habe versucht, Englisch zu lernen.</span></li><li><span class=\"de\">Ich habe vor, ins Kino zu gehen.</span> → <span class=\"de\">Ich hatte vor, ins Kino zu gehen.</span></li><li><span class=\"de\">Er scheint Angst zu haben.</span> → <span class=\"de\">Er schien Angst zu haben.</span></li></ul>"
+    }
+  ],
+  "tips": [
+    "У отделяемых глаголов zu вклинивается внутрь: aufzustehen, umzuziehen, aufzuräumen, mitzukommen. Это пишется слитно!",
+    "Типичная ошибка: «Ich kann zu schwimmen». После модальных глаголов zu не ставится никогда.",
+    "Brauchen + zu — только с отрицанием: «Du brauchst nicht zu kommen» (тебе не нужно приходить). В утверждении — müssen.",
+    "Scheinen + zu — удобный способ сказать «кажется»: Das scheint richtig zu sein. — Это, кажется, правильно."
+  ],
+  "examples": [
+    {"de": "Ich versuche, jeden Tag zehn neue Wörter zu lernen.", "ru": "Я стараюсь каждый день учить десять новых слов."},
+    {"de": "Hast du Lust, mit uns ins Kino zu gehen?", "ru": "Хочешь пойти с нами в кино?"},
+    {"de": "Er hat vergessen, die Tür zuzumachen.", "ru": "Он забыл закрыть дверь."},
+    {"de": "Wir haben vor, im Sommer nach Österreich zu fahren.", "ru": "Мы планируем летом поехать в Австрию."},
+    {"de": "Es ist verboten, hier zu parken.", "ru": "Здесь запрещено парковаться."},
+    {"de": "Sie hat angefangen, Gitarre zu spielen.", "ru": "Она начала играть на гитаре."},
+    {"de": "Du brauchst morgen nicht früh aufzustehen.", "ru": "Тебе не нужно завтра рано вставать."},
+    {"de": "Das Restaurant scheint geschlossen zu sein.", "ru": "Ресторан, кажется, закрыт."},
+    {"de": "Ich habe Angst, Fehler zu machen.", "ru": "Я боюсь делать ошибки."},
+    {"de": "Er verspricht, mir morgen zu helfen.", "ru": "Он обещает помочь мне завтра."},
+    {"de": "Es ist schön, dich wiederzusehen.", "ru": "Приятно снова тебя увидеть."}
+  ],
+  "vocab": [
+    {"de": "versuchen", "ru": "пытаться, стараться"},
+    {"de": "vorhaben", "ru": "планировать", "forms": "hat vor, hatte vor, hat vorgehabt"},
+    {"de": "versprechen", "ru": "обещать", "forms": "verspricht, versprach, hat versprochen"},
+    {"de": "scheinen", "ru": "казаться; светить", "forms": "scheint, schien, hat geschienen"},
+    {"de": "vergessen", "ru": "забывать", "forms": "vergisst, vergaß, hat vergessen"},
+    {"de": "anfangen", "ru": "начинать", "forms": "fängt an, fing an, hat angefangen"},
+    {"de": "aufhören", "ru": "прекращать, переставать"},
+    {"de": "brauchen", "ru": "нуждаться; (nicht) brauchen zu — (не) нужно"},
+    {"de": "wiederholen", "ru": "повторять"},
+    {"de": "umziehen", "ru": "переезжать", "forms": "zieht um, zog um, ist umgezogen"},
+    {"de": "die Lust", "ru": "желание, охота"},
+    {"de": "die Angst", "pl": "die Ängste", "ru": "страх"},
+    {"de": "die Stelle", "pl": "die Stellen", "ru": "место работы, должность"},
+    {"de": "erlaubt", "ru": "разрешено"},
+    {"de": "verboten", "ru": "запрещено"},
+    {"de": "wichtig", "ru": "важный"},
+    {"de": "leicht", "ru": "лёгкий"},
+    {"de": "schwer", "ru": "тяжёлый, трудный"},
+    {"de": "unmöglich", "ru": "невозможный"},
+    {"de": "beleidigt", "ru": "обиженный"},
+    {"de": "täglich", "ru": "ежедневно"},
+    {"de": "joggen", "ru": "бегать трусцой"}
+  ],
+  "phrasesNote": "Закрепляем Infinitiv mit zu после versuchen, vorhaben, Lust/Zeit/Angst haben, versprechen, scheinen, выражений «es ist …», конструкцию «nicht brauchen zu» и случаи без zu.",
+  "phrases": [
+    {"de": "Ich versuche, Deutsch zu lernen – ich habe versucht, Englisch zu lernen.", "ru": "Я пытаюсь учить немецкий — я пытался учить английский."},
+    {"de": "Ich versuche, nach Deutschland umzuziehen – ich habe versucht, nach England umzuziehen.", "ru": "Я пытаюсь переехать в Германию — я пытался переехать в Англию."},
+    {"de": "Ich versuche, eine neue Stelle zu finden – ich habe versucht, eine neue Stelle zu suchen.", "ru": "Я пытаюсь найти новую работу — я пытался искать новую работу."},
+    {"de": "Ich habe vor, den ganzen Tag Deutsch zu lernen – ich hatte vor, kein Deutsch zu lernen.", "ru": "Я собираюсь весь день учить немецкий — я собирался не учить немецкий."},
+    {"de": "Ich habe vor, heute ins Kino zu gehen – ich hatte vor, ins Theater zu gehen.", "ru": "Я собираюсь сегодня пойти в кино — я собирался пойти в театр."},
+    {"de": "Ich habe vor, ein neues Auto zu kaufen – ich hatte vor, ein neues Motorrad zu kaufen.", "ru": "Я собираюсь купить новую машину — я собирался купить новый мотоцикл."},
+    {"de": "Ich habe Lust aufzustehen – ich hatte keine Lust aufzustehen.", "ru": "Мне хочется встать — мне не хотелось вставать."},
+    {"de": "Ich habe Lust, im Bett zu liegen – ich hatte keine Lust, im Bett zu liegen.", "ru": "Мне хочется полежать в кровати — мне не хотелось лежать в кровати."},
+    {"de": "Ich habe Zeit, Englisch zu lernen – ich hatte keine Zeit, Englisch zu lernen.", "ru": "У меня есть время учить английский — у меня не было времени учить английский."},
+    {"de": "Ich habe Angst, Deutsch zu sprechen – ich hatte keine Angst, Deutsch zu sprechen.", "ru": "Я боюсь говорить по-немецки — я не боялся говорить по-немецки."},
+    {"de": "Ich verspreche, jeden Tag aufzuräumen – ich habe versprochen, heute aufzuräumen.", "ru": "Я обещаю убирать каждый день — я пообещал убраться сегодня."},
+    {"de": "Ich verspreche mir selbst, täglich zu joggen – ich habe mir selbst versprochen, heute zu joggen.", "ru": "Я обещаю себе бегать каждый день — я пообещал себе сегодня пробежаться."},
+    {"de": "Ich brauche kein Auto zu kaufen – ich muss ein Auto kaufen.", "ru": "Мне не нужно покупать машину — я должен купить машину."},
+    {"de": "Ich brauche heute nicht zu arbeiten – ich muss heute arbeiten.", "ru": "Мне сегодня не нужно работать — я должен сегодня работать."},
+    {"de": "Es ist leicht, nichts zu machen – es ist schwer, Deutsch zu lernen.", "ru": "Легко ничего не делать — трудно учить немецкий."},
+    {"de": "Es ist hier erlaubt, schnell zu fahren – es ist verboten zu rauchen.", "ru": "Здесь разрешено быстро ездить — курить запрещено."},
+    {"de": "Es ist ganz wichtig, die Wörter jeden Tag zu wiederholen.", "ru": "Очень важно повторять слова каждый день."},
+    {"de": "Es war heute ganz leicht zu gewinnen.", "ru": "Сегодня было очень легко выиграть."},
+    {"de": "Er scheint gut Deutsch zu sprechen – er scheint sich wohl zu fühlen.", "ru": "Он, кажется, хорошо говорит по-немецки — он, кажется, хорошо себя чувствует."},
+    {"de": "Sie scheint krank zu sein – sie scheint beleidigt zu sein.", "ru": "Она, кажется, больна — она, кажется, обижена."},
+    {"de": "Das Wetter scheint gut zu sein – dieses Haus scheint teuer zu sein.", "ru": "Погода, кажется, хорошая — этот дом, кажется, дорогой."},
+    {"de": "Er schien Angst zu haben – sie schien traurig zu sein.", "ru": "Он, казалось, боялся — она, казалось, была грустной."},
+    {"de": "Deutsch in drei Monaten zu erlernen ist fast unmöglich.", "ru": "Выучить немецкий за три месяца почти невозможно."},
+    {"de": "Jeden Tag um fünf Uhr aufzustehen ist ganz schwer.", "ru": "Каждый день вставать в пять утра очень тяжело."},
+    {"de": "Zehn Stunden täglich zu arbeiten ist nicht so leicht.", "ru": "Работать по десять часов в день не так легко."},
+    {"de": "Ich lerne gerade Gitarre spielen – ich helfe dir Deutsch lernen.", "ru": "Я сейчас учусь играть на гитаре — я помогаю тебе учить немецкий."},
+    {"de": "Ich lasse mein Auto in der Garage stehen – ich bleibe im Bett liegen.", "ru": "Я оставляю машину в гараже — я остаюсь лежать в постели."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich versuche, Deutsch ___.", "options": ["lernen", "zu lernen", "lerne", "gelernt"], "answer": 1, "explain": "После versuchen — zu + Infinitiv."},
+    {"type": "choice", "q": "Ich kann gut ___.", "options": ["schwimmen", "zu schwimmen", "schwimme", "zu schwimme"], "answer": 0, "explain": "После модальных глаголов zu не ставится."},
+    {"type": "gap", "q": "Ich habe keine Lust, früh ___. (aufstehen)", "answer": ["aufzustehen"], "explain": "Отделяемая приставка: auf-zu-stehen, слитно."},
+    {"type": "gap", "q": "Wir haben vor, nach Berlin ___. (umziehen)", "answer": ["umzuziehen"], "explain": "um-zu-ziehen"},
+    {"type": "gap", "q": "Er hat vergessen, mich ___. (anrufen)", "answer": ["anzurufen"], "explain": "an-zu-rufen"},
+    {"type": "gap", "q": "Es ist wichtig, die Wörter ___. (wiederholen)", "answer": ["zu wiederholen"], "explain": "wiederholen (повторять) — неотделяемый глагол: zu wiederholen."},
+    {"type": "choice", "q": "Ich gehe heute ___.", "options": ["einkaufen", "einzukaufen", "zu einkaufen", "eingekauft"], "answer": 0, "explain": "После gehen — инфинитив без zu."},
+    {"type": "choice", "q": "Sie scheint krank ___.", "options": ["sein", "zu sein", "ist", "war"], "answer": 1, "explain": "scheinen + zu + Infinitiv."},
+    {"type": "choice", "q": "Мне не нужно сегодня работать. — Ich ___ heute nicht zu arbeiten.", "options": ["muss", "brauche", "darf", "will"], "answer": 1, "explain": "nicht brauchen + zu = не нужно."},
+    {"type": "gap", "q": "Ich ___ heute arbeiten. (Я должен сегодня работать.)", "answer": ["muss"], "explain": "В утверждении — müssen, без zu."},
+    {"type": "gap", "q": "Ich habe versucht, eine neue Stelle zu ___. (finden)", "answer": ["finden"], "explain": "Время выражает главный глагол (habe versucht), оборот не меняется."},
+    {"type": "translate", "q": "У меня нет времени учить английский.", "answer": ["Ich habe keine Zeit, Englisch zu lernen.", "Ich habe keine Zeit Englisch zu lernen."], "explain": "Zeit haben + zu + Infinitiv."},
+    {"type": "translate", "q": "Я боюсь говорить по-немецки.", "answer": ["Ich habe Angst, Deutsch zu sprechen.", "Ich habe Angst Deutsch zu sprechen."], "explain": "Angst haben + zu."},
+    {"type": "translate", "q": "Здесь запрещено курить.", "answer": ["Es ist hier verboten zu rauchen.", "Hier ist es verboten zu rauchen.", "Es ist verboten, hier zu rauchen.", "Es ist hier verboten, zu rauchen.", "Hier ist es verboten, zu rauchen."], "explain": "Es ist verboten + zu + Infinitiv."},
+    {"type": "translate", "q": "Мне не нужно покупать машину.", "answer": ["Ich brauche kein Auto zu kaufen.", "Ich muss kein Auto kaufen."], "explain": "kein … brauchen zu."},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "versprochen,", "heute", "habe", "aufzuräumen"], "answer": ["Ich habe versprochen, heute aufzuräumen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ist", "fast unmöglich", "Deutsch in drei Monaten", "zu erlernen"], "answer": ["Deutsch in drei Monaten zu erlernen ist fast unmöglich.", "Es ist fast unmöglich, Deutsch in drei Monaten zu erlernen."]},
+    {"type": "translate", "q": "Он, кажется, хорошо говорит по-немецки.", "answer": ["Er scheint gut Deutsch zu sprechen.", "Er scheint Deutsch gut zu sprechen."], "explain": "scheinen + zu + Infinitiv."},
+    {"type": "translate", "q": "Я собирался пойти в театр.", "answer": ["Ich hatte vor, ins Theater zu gehen.", "Ich hatte vor ins Theater zu gehen."], "explain": "hatte vor + zu + Infinitiv."}
+  ]
+}

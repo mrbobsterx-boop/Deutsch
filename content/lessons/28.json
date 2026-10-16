@@ -1,0 +1,542 @@
+{
+ "id": 28,
+ "title": "Perfekt: продвинутый уровень",
+ "level": "A2",
+ "goal": "Вы сможете образовывать Perfekt глаголов на -ieren, с отделяемыми и неотделяемыми приставками, различать haben/sein в трудных случаях и строить Perfekt модальных глаголов.",
+ "minutes": 55,
+ "theory": [
+  {
+   "h": "Глаголы на -ieren: без ge-",
+   "html": "<p>Глаголы на <b>-ieren</b> (обычно иностранного происхождения) образуют Partizip II <b>без ge-</b>, только с окончанием <b>-t</b>:</p><table><tr><th>Infinitiv</th><th>Partizip II</th><th>Перевод</th></tr><tr><td><span class=\"de\">studieren</span></td><td><span class=\"de\">studiert</span></td><td>учиться в вузе</td></tr><tr><td><span class=\"de\">probieren</span></td><td><span class=\"de\">probiert</span></td><td>пробовать</td></tr><tr><td><span class=\"de\">reparieren</span></td><td><span class=\"de\">repariert</span></td><td>ремонтировать</td></tr><tr><td><span class=\"de\">diskutieren</span></td><td><span class=\"de\">diskutiert</span></td><td>обсуждать, спорить</td></tr><tr><td><span class=\"de\">telefonieren</span></td><td><span class=\"de\">telefoniert</span></td><td>говорить по телефону</td></tr></table><p><span class=\"de\">Ich habe in Deutschland studiert.</span> — Я учился в Германии.</p>"
+  },
+  {
+   "h": "Неотделяемые приставки: тоже без ge-",
+   "html": "<p>Приставки <b>be-, ver-, er-, ent-, emp-, ge-, zer-, miss-</b> никогда не отделяются и <b>не принимают ge-</b>. Ударение у них не на приставке: <span class=\"de\">besúchen, verkáufen</span>.</p><table><tr><th>Infinitiv</th><th>Partizip II</th></tr><tr><td><span class=\"de\">besuchen</span></td><td><span class=\"de\">besucht</span></td></tr><tr><td><span class=\"de\">verkaufen</span></td><td><span class=\"de\">verkauft</span></td></tr><tr><td><span class=\"de\">bestellen</span></td><td><span class=\"de\">bestellt</span></td></tr><tr><td><span class=\"de\">versuchen</span></td><td><span class=\"de\">versucht</span></td></tr><tr><td><span class=\"de\">erklären</span></td><td><span class=\"de\">erklärt</span></td></tr><tr><td><span class=\"de\">erfahren</span> (сильный)</td><td><span class=\"de\">erfahren</span></td></tr><tr><td><span class=\"de\">verstehen</span> (сильный)</td><td><span class=\"de\">verstanden</span></td></tr><tr><td><span class=\"de\">vergessen</span> (сильный)</td><td><span class=\"de\">vergessen</span></td></tr></table><div class=\"note\"><span class=\"de\">übersetzen</span> (переводить текст) — приставка über- здесь неотделяемая: <span class=\"de\">Ich habe den Text übersetzt.</span></div>"
+  },
+  {
+   "h": "Отделяемые приставки: ge- в середине",
+   "html": "<p>У глаголов с отделяемыми приставками (<b>an-, auf-, aus-, ein-, mit-, zu-, ab-, vor-, zurück-</b>…) <b>ge</b> встаёт <b>между приставкой и корнем</b>, и всё пишется слитно:</p><table><tr><th>Infinitiv</th><th>Partizip II</th></tr><tr><td><span class=\"de\">einladen</span></td><td><span class=\"de\">ein<b>ge</b>laden</span></td></tr><tr><td><span class=\"de\">anfangen</span></td><td><span class=\"de\">an<b>ge</b>fangen</span></td></tr><tr><td><span class=\"de\">aussehen</span></td><td><span class=\"de\">aus<b>ge</b>sehen</span></td></tr><tr><td><span class=\"de\">abholen</span></td><td><span class=\"de\">ab<b>ge</b>holt</span></td></tr><tr><td><span class=\"de\">zumachen / aufmachen</span></td><td><span class=\"de\">zu<b>ge</b>macht / auf<b>ge</b>macht</span></td></tr><tr><td><span class=\"de\">aufstehen</span></td><td><span class=\"de\">auf<b>ge</b>standen</span> (с sein)</td></tr></table><p>Особый случай: <span class=\"de\">kennenlernen → kennengelernt</span> (пишется слитно).</p>"
+  },
+  {
+   "h": "haben или sein: трудные случаи",
+   "html": "<ul><li>Один и тот же глагол может быть с <b>sein</b> (движение) и <b>haben</b> (есть объект в Akkusativ): <span class=\"de\">Ich <b>bin</b> nach Berlin gefahren.</span> — <span class=\"de\">Ich <b>habe</b> das Auto in die Garage gefahren.</span> (вёл машину)</li><li>Движение без цели, как занятие, в литературной норме — тоже <b>sein</b>: <span class=\"de\">Ich bin viel geschwommen.</span></li><li><span class=\"de\">anfangen, beginnen</span> — с <b>haben</b>, хотя это «изменение»: <span class=\"de\">Ich habe gestern angefangen.</span></li><li><span class=\"de\">aufstehen, einschlafen, aufwachen, umziehen</span> (переезжать) — с <b>sein</b>.</li></ul>"
+  },
+  {
+   "h": "Модальные глаголы в Perfekt",
+   "html": "<p>О прошлом модальные глаголы обычно употребляют в Präteritum (урок 26). Но Perfekt тоже встречается:</p><ul><li><b>с другим глаголом</b> — «двойной инфинитив»: <span class=\"de\">Ich <b>habe</b> gestern arbeiten <b>müssen</b>.</span> — Вчера мне пришлось работать.</li><li><b>без другого глагола</b> — обычный Partizip II: <span class=\"de\">Ich habe das nicht <b>gekonnt</b>.</span> <span class=\"de\">Das habe ich nicht <b>gewollt</b>.</span></li></ul><div class=\"note\">Модальные в Perfekt всегда с <b>haben</b>. В живой речи проще и чаще: <span class=\"de\">Ich musste gestern arbeiten.</span></div>"
+  }
+ ],
+ "tips": [
+  "Три вопроса для Partizip II: 1) Глагол на -ieren? → без ge-. 2) Приставка be-, ver-, er-, ent-…? → без ge-. 3) Отделяемая приставка? → ge- в середину (eingeladen).",
+  "Слушайте ударение: если ударная приставка (ÁNfangen) — она отделяемая, ge- в середине; если ударение на корне (verKÁUfen) — без ge-.",
+  "«Ich habe gestudiert» — частая ошибка. Правильно: Ich habe studiert.",
+  "kennenlernen в Perfekt — kennengelernt: Wir haben uns in Berlin kennengelernt — Мы познакомились в Берлине."
+ ],
+ "examples": [
+  {
+   "de": "Hast du schon den Kuchen probiert?",
+   "ru": "Ты уже попробовал пирог?"
+  },
+  {
+   "de": "Wir haben lange über das Problem diskutiert.",
+   "ru": "Мы долго обсуждали эту проблему."
+  },
+  {
+   "de": "Ich habe dich nicht verstanden.",
+   "ru": "Я тебя не понял."
+  },
+  {
+   "de": "Er hat seinen Schlüssel vergessen.",
+   "ru": "Он забыл свой ключ."
+  },
+  {
+   "de": "Der Film hat schon angefangen.",
+   "ru": "Фильм уже начался."
+  },
+  {
+   "de": "Wann bist du heute aufgestanden?",
+   "ru": "Когда ты сегодня встал?"
+  },
+  {
+   "de": "Sie hat ihre Oma im Krankenhaus besucht.",
+   "ru": "Она навестила бабушку в больнице."
+  },
+  {
+   "de": "Wir haben uns im Urlaub kennengelernt.",
+   "ru": "Мы познакомились в отпуске."
+  },
+  {
+   "de": "Ich habe gestern lange arbeiten müssen.",
+   "ru": "Вчера мне пришлось долго работать."
+  },
+  {
+   "de": "Das habe ich nicht gewollt!",
+   "ru": "Я этого не хотел!"
+  },
+  {
+   "de": "Er ist letztes Jahr nach München umgezogen.",
+   "ru": "В прошлом году он переехал в Мюнхен."
+  },
+  {
+   "de": "Hast du mit deiner Mutter telefoniert?",
+   "ru": "Ты поговорил с мамой по телефону?"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "besuchen",
+   "ru": "навещать, посещать"
+  },
+  {
+   "de": "verkaufen",
+   "ru": "продавать"
+  },
+  {
+   "de": "bestellen",
+   "ru": "заказывать"
+  },
+  {
+   "de": "versuchen",
+   "ru": "пытаться, пробовать"
+  },
+  {
+   "de": "erfahren",
+   "forms": "erfährt, erfuhr, hat erfahren",
+   "ru": "узнавать"
+  },
+  {
+   "de": "erklären",
+   "ru": "объяснять"
+  },
+  {
+   "de": "übersetzen",
+   "ru": "переводить (текст)"
+  },
+  {
+   "de": "verstehen",
+   "forms": "versteht, verstand, hat verstanden",
+   "ru": "понимать"
+  },
+  {
+   "de": "vergessen",
+   "forms": "vergisst, vergaß, hat vergessen",
+   "ru": "забывать"
+  },
+  {
+   "de": "einladen",
+   "forms": "lädt ein, lud ein, hat eingeladen",
+   "ru": "приглашать"
+  },
+  {
+   "de": "anfangen",
+   "forms": "fängt an, fing an, hat angefangen",
+   "ru": "начинать"
+  },
+  {
+   "de": "aussehen",
+   "forms": "sieht aus, sah aus, hat ausgesehen",
+   "ru": "выглядеть"
+  },
+  {
+   "de": "abholen",
+   "ru": "забирать, заезжать за кем-то"
+  },
+  {
+   "de": "zumachen",
+   "ru": "закрывать"
+  },
+  {
+   "de": "aufmachen",
+   "ru": "открывать"
+  },
+  {
+   "de": "aufstehen",
+   "forms": "steht auf, stand auf, ist aufgestanden",
+   "ru": "вставать"
+  },
+  {
+   "de": "einschlafen",
+   "forms": "schläft ein, schlief ein, ist eingeschlafen",
+   "ru": "засыпать"
+  },
+  {
+   "de": "umziehen",
+   "forms": "zieht um, zog um, ist umgezogen",
+   "ru": "переезжать"
+  },
+  {
+   "de": "kennenlernen",
+   "ru": "знакомиться"
+  },
+  {
+   "de": "probieren",
+   "ru": "пробовать"
+  },
+  {
+   "de": "studieren",
+   "ru": "учиться в вузе"
+  },
+  {
+   "de": "reparieren",
+   "ru": "ремонтировать"
+  },
+  {
+   "de": "diskutieren",
+   "ru": "обсуждать, дискутировать"
+  },
+  {
+   "de": "die Regel",
+   "pl": "die Regeln",
+   "ru": "правило"
+  },
+  {
+   "de": "der Kuchen",
+   "pl": "die Kuchen",
+   "ru": "пирог"
+  }
+ ],
+ "phrasesNote": "Partizip II глаголов с неотделяемыми приставками (без ge-), с отделяемыми приставками (ge- в середине) и на -ieren (без ge-). Прогоняйте по таблице: Präsens → Perfekt.",
+ "phrases": [
+  {
+   "de": "Ich besuche meine Freunde.",
+   "ru": "Я навещаю своих друзей."
+  },
+  {
+   "de": "Ich habe meine Freunde besucht.",
+   "ru": "Я навестил своих друзей."
+  },
+  {
+   "de": "Ich verkaufe mein Auto.",
+   "ru": "Я продаю свою машину."
+  },
+  {
+   "de": "Ich habe gestern mein Auto verkauft.",
+   "ru": "Вчера я продал свою машину."
+  },
+  {
+   "de": "Ich bestelle eine Pizza.",
+   "ru": "Я заказываю пиццу."
+  },
+  {
+   "de": "Ich habe eine Pizza bestellt.",
+   "ru": "Я заказал пиццу."
+  },
+  {
+   "de": "Ich versuche es immer wieder.",
+   "ru": "Я пытаюсь снова и снова."
+  },
+  {
+   "de": "Ich habe es immer wieder versucht.",
+   "ru": "Я пытался снова и снова."
+  },
+  {
+   "de": "Ich erfahre alles.",
+   "ru": "Я узнаю всё."
+  },
+  {
+   "de": "Ich habe alles erfahren.",
+   "ru": "Я всё узнал."
+  },
+  {
+   "de": "Ich erkläre die Regeln.",
+   "ru": "Я объясняю правила."
+  },
+  {
+   "de": "Ich habe die Regeln erklärt.",
+   "ru": "Я объяснил правила."
+  },
+  {
+   "de": "Ich übersetze den Text.",
+   "ru": "Я перевожу текст."
+  },
+  {
+   "de": "Ich habe den Text schon übersetzt.",
+   "ru": "Я уже перевёл текст."
+  },
+  {
+   "de": "Ich lade meine Freunde ein.",
+   "ru": "Я приглашаю своих друзей."
+  },
+  {
+   "de": "Ich habe meine Freunde schon eingeladen.",
+   "ru": "Я уже пригласил своих друзей."
+  },
+  {
+   "de": "Ich fange heute an.",
+   "ru": "Я начинаю сегодня."
+  },
+  {
+   "de": "Ich habe gestern angefangen.",
+   "ru": "Я начал вчера."
+  },
+  {
+   "de": "Ich sehe heute gut aus.",
+   "ru": "Сегодня я хорошо выгляжу."
+  },
+  {
+   "de": "Ich habe gestern gut ausgesehen.",
+   "ru": "Вчера я хорошо выглядел."
+  },
+  {
+   "de": "Ich hole meine Tasche morgen ab.",
+   "ru": "Я заберу свою сумку завтра."
+  },
+  {
+   "de": "Ich habe meine Tasche gestern abgeholt.",
+   "ru": "Я забрал свою сумку вчера."
+  },
+  {
+   "de": "Ich mache die Tür zu.",
+   "ru": "Я закрываю дверь."
+  },
+  {
+   "de": "Ich habe die Tür schon zugemacht.",
+   "ru": "Я уже закрыл дверь."
+  },
+  {
+   "de": "Ich mache das Fenster auf.",
+   "ru": "Я открываю окно."
+  },
+  {
+   "de": "Ich habe das Fenster aufgemacht.",
+   "ru": "Я открыл окно."
+  },
+  {
+   "de": "Ich lerne meinen neuen Lehrer kennen.",
+   "ru": "Я знакомлюсь со своим новым учителем."
+  },
+  {
+   "de": "Ich habe meinen neuen Lehrer kennengelernt.",
+   "ru": "Я познакомился со своим новым учителем."
+  },
+  {
+   "de": "Ich probiere diesen Kuchen.",
+   "ru": "Я пробую этот пирог."
+  },
+  {
+   "de": "Ich habe diesen Kuchen schon probiert.",
+   "ru": "Я уже попробовал этот пирог."
+  },
+  {
+   "de": "Ich studiere in Deutschland.",
+   "ru": "Я учусь в Германии (в вузе)."
+  },
+  {
+   "de": "Ich habe in Deutschland studiert.",
+   "ru": "Я учился в Германии."
+  },
+  {
+   "de": "Ich repariere meinen Stuhl.",
+   "ru": "Я ремонтирую свой стул."
+  },
+  {
+   "de": "Ich habe gestern meinen Stuhl repariert.",
+   "ru": "Вчера я отремонтировал свой стул."
+  },
+  {
+   "de": "Ich diskutiere mit meinem Lehrer.",
+   "ru": "Я спорю (дискутирую) со своим учителем."
+  },
+  {
+   "de": "Ich habe mit meinem Lehrer diskutiert.",
+   "ru": "Я поспорил (подискутировал) со своим учителем."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Partizip II от «studieren»:",
+   "options": [
+    "gestudiert",
+    "studiert",
+    "studieret"
+   ],
+   "answer": 1,
+   "explain": "Глаголы на -ieren — без ge-."
+  },
+  {
+   "type": "choice",
+   "q": "Partizip II от «besuchen»:",
+   "options": [
+    "gebesucht",
+    "besucht",
+    "besuchen"
+   ],
+   "answer": 1,
+   "explain": "Неотделяемая приставка be- — без ge-."
+  },
+  {
+   "type": "choice",
+   "q": "Partizip II от «einladen»:",
+   "options": [
+    "geeinladen",
+    "eingeladen",
+    "eingeladet"
+   ],
+   "answer": 1,
+   "explain": "Отделяемая приставка: ein + ge + laden."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe mein Auto ___. (verkaufen)",
+   "answer": [
+    "verkauft"
+   ],
+   "explain": "ver- — без ge-."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe die Tür schon ___. (zumachen)",
+   "answer": [
+    "zugemacht"
+   ],
+   "explain": "zu + ge + macht."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe meine Tasche gestern ___. (abholen)",
+   "answer": [
+    "abgeholt"
+   ],
+   "explain": "ab + ge + holt."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe diesen Kuchen schon ___. (probieren)",
+   "answer": [
+    "probiert"
+   ],
+   "explain": "-ieren → probiert."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe den Text ___. (übersetzen)",
+   "answer": [
+    "übersetzt"
+   ],
+   "explain": "über- здесь неотделяемая: übersetzt."
+  },
+  {
+   "type": "choice",
+   "q": "Der Film hat schon ___.",
+   "options": [
+    "angefangt",
+    "angefangen",
+    "geanfangen"
+   ],
+   "answer": 1,
+   "explain": "anfangen — сильный: angefangen."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ heute um sieben aufgestanden.",
+   "options": [
+    "habe",
+    "bin",
+    "hat"
+   ],
+   "answer": 1,
+   "explain": "aufstehen — изменение состояния → sein."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ gestern angefangen.",
+   "options": [
+    "bin",
+    "habe",
+    "ist"
+   ],
+   "answer": 1,
+   "explain": "anfangen — с haben."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe dich nicht ___. (verstehen)",
+   "answer": [
+    "verstanden"
+   ],
+   "explain": "verstehen – verstand – verstanden."
+  },
+  {
+   "type": "choice",
+   "q": "Вчера мне пришлось работать (Perfekt):",
+   "options": [
+    "Ich habe gestern arbeiten gemusst.",
+    "Ich habe gestern arbeiten müssen.",
+    "Ich bin gestern arbeiten müssen."
+   ],
+   "answer": 1,
+   "explain": "Модальный + инфинитив → двойной инфинитив: arbeiten müssen."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe meinen neuen Lehrer ___. (kennenlernen)",
+   "answer": [
+    "kennengelernt",
+    "kennen gelernt"
+   ],
+   "explain": "kennen + ge + lernt (слитно)."
+  },
+  {
+   "type": "translate",
+   "q": "Я заказал пиццу.",
+   "answer": [
+    "Ich habe eine Pizza bestellt."
+   ],
+   "explain": "bestellen → bestellt."
+  },
+  {
+   "type": "translate",
+   "q": "Я уже пригласил своих друзей.",
+   "answer": [
+    "Ich habe meine Freunde schon eingeladen.",
+    "Ich habe schon meine Freunde eingeladen."
+   ],
+   "explain": "einladen → eingeladen."
+  },
+  {
+   "type": "translate",
+   "q": "Вчера я отремонтировал свой стул.",
+   "answer": [
+    "Ich habe gestern meinen Stuhl repariert.",
+    "Gestern habe ich meinen Stuhl repariert."
+   ],
+   "explain": "reparieren → repariert."
+  },
+  {
+   "type": "translate",
+   "q": "Он объяснил правила.",
+   "answer": [
+    "Er hat die Regeln erklärt."
+   ],
+   "explain": "erklären → erklärt."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "habe",
+    "aufgemacht",
+    "ich",
+    "das Fenster"
+   ],
+   "answer": [
+    "Ich habe das Fenster aufgemacht."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "hast",
+    "mit deinem Lehrer",
+    "du",
+    "diskutiert"
+   ],
+   "answer": [
+    "Hast du mit deinem Lehrer diskutiert?",
+    "Du hast mit deinem Lehrer diskutiert."
+   ]
+  }
+ ]
+}

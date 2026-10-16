@@ -1,0 +1,131 @@
+{
+  "id": 35,
+  "title": "Wenn, wann, als — «когда» по-немецки",
+  "level": "B1",
+  "goal": "Вы научитесь различать три немецких «когда» — wann, wenn и als — и строить с ними придаточные предложения о настоящем, будущем и прошлом.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Три «когда»",
+      "html": "<p>Русскому «когда» в немецком соответствуют три слова:</p><table><tr><th>Слово</th><th>Когда используем</th><th>Пример</th></tr><tr><td><b>wann</b></td><td>вопрос (прямой и косвенный)</td><td><span class=\"de\">Wann kommst du?</span> <span class=\"de\">Ich weiß nicht, wann er kommt.</span></td></tr><tr><td><b>wenn</b></td><td>настоящее/будущее; повторяющееся в прошлом; «если»</td><td><span class=\"de\">Wenn du kommst, gehen wir ins Kino.</span></td></tr><tr><td><b>als</b></td><td><b>однократное</b> событие или период в прошлом</td><td><span class=\"de\">Als du gekommen bist, habe ich mich gefreut.</span></td></tr></table><p>Wenn и als — союзы придаточных: <b>спрягаемый глагол в конце</b>.</p>"
+    },
+    {
+      "h": "Wann — только вопрос",
+      "html": "<p><b>wann</b> — вопросительное слово. Используем его, когда <b>спрашиваем</b> о времени:</p><ul><li><span class=\"de\">Wann hast du das nächste Spiel?</span> — Когда у тебя следующая игра?</li><li>Косвенный вопрос (урок 33): <span class=\"de\">Sag mir, wann du Zeit hast.</span> — Скажи мне, когда у тебя есть время.</li></ul><div class=\"note\">Проверка: если «когда» можно заменить на «в какое время?» — это <b>wann</b>.</div>"
+    },
+    {
+      "h": "Wenn — настоящее, будущее и «каждый раз, когда»",
+      "html": "<ul><li><b>Настоящее/будущее</b>: <span class=\"de\">Wenn du mich besuchst, zeige ich dir gerne meine Stadt.</span> — Когда ты меня навестишь, я с удовольствием покажу тебе свой город.</li><li><b>Повторяющееся действие</b> (и в прошлом!): <span class=\"de\">Immer wenn das Wetter gut war, sind wir spazieren gegangen.</span> — Всякий раз, когда была хорошая погода, мы гуляли. Часто с <span class=\"de\">immer wenn, jedes Mal wenn</span>.</li><li><b>Условие «если»</b>: <span class=\"de\">Wenn es regnet, bleibe ich zu Hause.</span> — Если пойдёт дождь, я останусь дома.</li></ul><p>Если придаточное стоит первым, главное начинается с глагола: <span class=\"de\">Wenn die Gäste kommen, <b>werden wir</b> essen.</span></p>"
+    },
+    {
+      "h": "Als — один раз в прошлом",
+      "html": "<p><b>als</b> используется для события, которое произошло <b>один раз</b> в прошлом, или для одного <b>периода</b> в прошлом (детство, учёба):</p><ul><li><span class=\"de\">Als die Gäste gekommen sind, haben wir gegessen.</span> — Когда пришли гости, мы поели.</li><li><span class=\"de\">Als ich ein Kind war, wohnte ich in Kiew.</span> — Когда я был ребёнком, я жил в Киеве.</li><li><span class=\"de\">Als er mit seinem Studium fertig war, ist er ins Ausland gefahren.</span></li></ul><p>С als обычно Präteritum (war, hatte, konnte) или Perfekt.</p><table><tr><th></th><th>Один раз</th><th>Много раз</th></tr><tr><td>Прошлое</td><td><b>als</b>: <span class=\"de\">Als ich in Berlin war, …</span></td><td><b>wenn</b>: <span class=\"de\">(Immer) wenn ich in Berlin war, …</span></td></tr><tr><td>Настоящее / будущее</td><td colspan=\"2\"><b>wenn</b>: <span class=\"de\">Wenn ich in Berlin bin, …</span></td></tr></table>"
+    },
+    {
+      "h": "Порядок слов: «глагол, глагол»",
+      "html": "<p>Придаточное с wenn/als часто стоит в начале. Оно занимает 1-е место, поэтому получается стык двух глаголов через запятую:</p><ul><li><span class=\"de\">Wenn du mir <b>hilfst</b>, <b>werde</b> ich sehr dankbar sein.</span></li><li><span class=\"de\">Als du mir geholfen <b>hast</b>, <b>war</b> ich sehr dankbar.</span></li><li><span class=\"de\">Wenn du nach Berlin <b>umziehst</b>, <b>kannst</b> du dir einen guten Job finden.</span> (отделяемый глагол слитно в конце)</li></ul><p>Схема для тренировки из фраз урока: <b>Wann…?</b> (вопрос) → <b>Wenn…</b> (будущее) → <b>Als…</b> (прошлое).</p>"
+    }
+  ],
+  "tips": [
+    "Вопрос — wann; один раз в прошлом — als; всё остальное — wenn.",
+    "Типичная ошибка русскоговорящих: «Wenn ich ein Kind war…». Детство — это один период в прошлом → Als ich ein Kind war…",
+    "«Immer wenn» и «jedes Mal wenn» — сигнал повторения, тут wenn даже в прошлом.",
+    "Wenn = ещё и «если». «Если у меня будет время» — Wenn ich Zeit habe (не «ob»: ob — это «ли»)."
+  ],
+  "examples": [
+    {"de": "Wann beginnt der Unterricht?", "ru": "Когда начинается урок?"},
+    {"de": "Ich weiß nicht, wann der Zug ankommt.", "ru": "Я не знаю, когда приходит поезд."},
+    {"de": "Wenn ich nach Hause komme, koche ich.", "ru": "Когда я приду домой, я приготовлю еду."},
+    {"de": "Wenn du Zeit hast, ruf mich an.", "ru": "Если у тебя будет время, позвони мне."},
+    {"de": "Als ich in Berlin war, habe ich viele Museen besucht.", "ru": "Когда я был в Берлине, я посетил много музеев."},
+    {"de": "Als ich jung war, hatte ich lange Haare.", "ru": "Когда я был молодым, у меня были длинные волосы."},
+    {"de": "Immer wenn ich Kaffee trinke, kann ich nicht schlafen.", "ru": "Каждый раз, когда я пью кофе, я не могу уснуть."},
+    {"de": "Jedes Mal wenn er kam, brachte er Blumen mit.", "ru": "Каждый раз, когда он приходил, он приносил цветы."},
+    {"de": "Als das Telefon klingelte, war ich unter der Dusche.", "ru": "Когда зазвонил телефон, я был в душе."},
+    {"de": "Wenn es morgen regnet, bleiben wir zu Hause.", "ru": "Если завтра пойдёт дождь, мы останемся дома."},
+    {"de": "Kannst du mir sagen, wann du zurückkommst?", "ru": "Можешь сказать мне, когда ты вернёшься?"}
+  ],
+  "vocab": [
+    {"de": "wann", "ru": "когда (вопрос)"},
+    {"de": "wenn", "ru": "когда (наст./буд./повтор.); если"},
+    {"de": "als", "ru": "когда (однократно в прошлом)"},
+    {"de": "immer wenn", "ru": "всякий раз, когда"},
+    {"de": "jedes Mal", "ru": "каждый раз"},
+    {"de": "unbedingt", "ru": "обязательно"},
+    {"de": "leider", "ru": "к сожалению"},
+    {"de": "aufmerksam", "ru": "внимательный"},
+    {"de": "dankbar", "ru": "благодарный"},
+    {"de": "anstrengend", "ru": "утомительный, напряжённый"},
+    {"de": "aufgeregt", "ru": "взволнованный"},
+    {"de": "die WM (Weltmeisterschaft)", "pl": "die WMs", "ru": "чемпионат мира"},
+    {"de": "die Überraschung", "pl": "die Überraschungen", "ru": "сюрприз"},
+    {"de": "der Gast", "pl": "die Gäste", "ru": "гость"},
+    {"de": "das Studium", "pl": "die Studien", "ru": "учёба (в вузе)"},
+    {"de": "das Ausland", "ru": "заграница"},
+    {"de": "schaffen", "ru": "успевать, справляться"},
+    {"de": "zeigen", "ru": "показывать"},
+    {"de": "verlieren", "ru": "проигрывать, терять", "forms": "verliert, verlor, hat verloren"},
+    {"de": "zurückgeben", "ru": "возвращать (отдавать обратно)", "forms": "gibt zurück, gab zurück, hat zurückgegeben"},
+    {"de": "umziehen", "ru": "переезжать", "forms": "zieht um, zog um, ist umgezogen"},
+    {"de": "spazieren gehen", "ru": "гулять", "forms": "geht spazieren, ging spazieren, ist spazieren gegangen"}
+  ],
+  "phrasesNote": "Закрепляем цепочку «Wann…? – Wenn… – Als…»: вопрос, будущее/настоящее и однократное прошлое, а также «immer wenn / jedes Mal wenn» для повторяющихся событий в прошлом.",
+  "phrases": [
+    {"de": "Wann kommst du? – Wenn du kommst, gehen wir ins Kino!", "ru": "Когда ты придёшь? — Когда ты придёшь, мы пойдём в кино!"},
+    {"de": "Als du gekommen bist, habe ich mich sehr gefreut.", "ru": "Когда ты пришёл, я очень обрадовался."},
+    {"de": "Wann hast du das nächste Spiel? – Wenn du das nächste Spiel hast, komme ich unbedingt!", "ru": "Когда у тебя следующая игра? — Когда у тебя будет следующая игра, я обязательно приду!"},
+    {"de": "Als du das letzte Spiel hattest, konnte ich leider nicht kommen.", "ru": "Когда у тебя была последняя игра, я, к сожалению, не смог прийти."},
+    {"de": "Wann lernst du Deutsch? – Wenn du Deutsch lernst, sollst du ganz aufmerksam sein!", "ru": "Когда ты учишь немецкий? — Когда ты учишь немецкий, ты должен быть очень внимательным!"},
+    {"de": "Als du Deutsch gelernt hast, warst du sehr müde.", "ru": "Когда ты учил немецкий, ты был очень уставшим."},
+    {"de": "Wann besuchst du mich? – Wenn du mich besuchst, zeige ich dir gerne meine Stadt!", "ru": "Когда ты меня навестишь? — Когда ты меня навестишь, я с удовольствием покажу тебе свой город!"},
+    {"de": "Als du mich besucht hast, habe ich dir meine Stadt gezeigt.", "ru": "Когда ты меня навещал, я показал тебе свой город."},
+    {"de": "Wann ist die nächste WM? – Wenn die nächste WM ist, soll Deutschland gewinnen!", "ru": "Когда следующий чемпионат мира? — Когда будет следующий чемпионат мира, Германия должна победить!"},
+    {"de": "Als die letzte WM war, hat Deutschland verloren.", "ru": "Когда был последний чемпионат мира, Германия проиграла."},
+    {"de": "Wann kannst du mir helfen? – Wenn du mir hilfst, werde ich sehr dankbar sein!", "ru": "Когда ты сможешь мне помочь? — Когда ты мне поможешь, я буду очень благодарен!"},
+    {"de": "Als du mir geholfen hast, war ich sehr dankbar.", "ru": "Когда ты мне помог, я был очень благодарен."},
+    {"de": "Wann kommen die Gäste? – Wenn die Gäste kommen, werden wir essen!", "ru": "Когда придут гости? — Когда придут гости, мы будем есть!"},
+    {"de": "Als die Gäste gekommen sind, haben wir gegessen.", "ru": "Когда пришли гости, мы поели."},
+    {"de": "Wann schaffst du das alles? – Wenn du das alles schaffst, wird das eine Überraschung für mich sein.", "ru": "Когда ты всё это успеешь? — Если ты всё это успеешь, это будет для меня сюрпризом."},
+    {"de": "Als du das alles geschafft hast, war es eine Überraschung für mich.", "ru": "Когда ты всё это успел, это было для меня сюрпризом."},
+    {"de": "Wann kauft er ein neues Auto? – Wenn er ein neues Auto kauft, fahren wir nach Dresden.", "ru": "Когда он купит новую машину? — Когда он купит новую машину, мы поедем в Дрезден."},
+    {"de": "Als er ein neues Auto gekauft hat, sind wir nach Dresden gefahren.", "ru": "Когда он купил новую машину, мы поехали в Дрезден."},
+    {"de": "Wann ziehst du nach Berlin um? – Wenn du nach Berlin umziehst, kannst du dir einen guten Job finden.", "ru": "Когда ты переезжаешь в Берлин? — Когда ты переедешь в Берлин, ты сможешь найти себе хорошую работу."},
+    {"de": "Als du nach Berlin umgezogen bist, konntest du dir einen guten Job finden.", "ru": "Когда ты переехал в Берлин, ты смог найти себе хорошую работу."},
+    {"de": "Wann wird das Wetter endlich gut? – Wenn das Wetter gut wird, fahren wir ans Meer.", "ru": "Когда же наконец будет хорошая погода? — Когда погода станет хорошей, мы поедем на море."},
+    {"de": "Als das Wetter gut war, sind wir ans Meer gefahren.", "ru": "Когда погода была хорошей, мы поехали на море."},
+    {"de": "Wann kommt deine Lehrerin? – Wenn deine Lehrerin kommt, lernt ihr Deutsch.", "ru": "Когда придёт твоя учительница? — Когда придёт твоя учительница, вы будете учить немецкий."},
+    {"de": "Als die Lehrerin gekommen ist, hat die Stunde angefangen.", "ru": "Когда пришла учительница, урок начался."},
+    {"de": "Wann gibst du mir mein Buch zurück? – Wenn du mir mein Buch zurückgibst, darfst du ein neues nehmen.", "ru": "Когда ты вернёшь мне мою книгу? — Когда ты вернёшь мне мою книгу, можешь взять новую."},
+    {"de": "Als du mir mein Buch zurückgegeben hast, durftest du ein neues nehmen.", "ru": "Когда ты вернул мне мою книгу, тебе можно было взять новую."},
+    {"de": "Wann ist er mit seinem Studium fertig? – Wenn er mit seinem Studium fertig ist, fährt er ins Ausland.", "ru": "Когда он закончит учёбу? — Когда он закончит учёбу, он уедет за границу."},
+    {"de": "Als er mit seinem Studium fertig war, ist er ins Ausland gefahren.", "ru": "Когда он закончил учёбу, он уехал за границу."},
+    {"de": "Wann hilfst du deinen Eltern? – Wenn du deinen Eltern hilfst, wird alles gut.", "ru": "Когда ты поможешь родителям? — Когда ты поможешь родителям, всё будет хорошо."},
+    {"de": "Als du deinen Eltern geholfen hast, war alles gut.", "ru": "Когда ты помог родителям, всё было хорошо."},
+    {"de": "Immer wenn ich meinen Eltern geholfen habe, waren sie sehr dankbar.", "ru": "Всякий раз, когда я помогал родителям, они были очень благодарны."},
+    {"de": "Jedes Mal wenn ich nach Deutschland gefahren bin, habe ich viel Deutsch gesprochen.", "ru": "Каждый раз, когда я ездил в Германию, я много говорил по-немецки."},
+    {"de": "Immer wenn das Wetter gut war, sind wir spazieren gegangen.", "ru": "Всякий раз, когда была хорошая погода, мы ходили гулять."},
+    {"de": "Jedes Mal wenn ich umgezogen bin, war es sehr anstrengend.", "ru": "Каждый раз, когда я переезжал, это было очень утомительно."},
+    {"de": "Immer wenn ich ein Spiel hatte, war ich sehr aufgeregt.", "ru": "Всякий раз, когда у меня была игра, я очень волновался."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "___ kommst du nach Hause?", "options": ["Wenn", "Wann", "Als", "Ob"], "answer": 1, "explain": "Вопрос о времени → wann."},
+    {"type": "choice", "q": "___ du kommst, gehen wir ins Kino.", "options": ["Wann", "Als", "Wenn", "Ob"], "answer": 2, "explain": "Будущее событие → wenn."},
+    {"type": "choice", "q": "___ ich ein Kind war, wohnte ich in Kiew.", "options": ["Wenn", "Wann", "Als", "Ob"], "answer": 2, "explain": "Один период в прошлом (детство) → als."},
+    {"type": "choice", "q": "Immer ___ das Wetter gut war, sind wir spazieren gegangen.", "options": ["als", "wenn", "wann", "dass"], "answer": 1, "explain": "Повторяющееся в прошлом → (immer) wenn."},
+    {"type": "gap", "q": "Ich weiß nicht, ___ der Film beginnt.", "answer": ["wann"], "explain": "Косвенный вопрос о времени → wann."},
+    {"type": "gap", "q": "___ die Gäste gekommen sind, haben wir gegessen.", "answer": ["Als"], "explain": "Однократное событие в прошлом → als."},
+    {"type": "gap", "q": "Jedes Mal ___ ich umgezogen bin, war es anstrengend.", "answer": ["wenn"], "explain": "jedes Mal wenn — повторение."},
+    {"type": "choice", "q": "Wenn du mich besuchst, ___ dir meine Stadt.", "options": ["ich zeige", "zeige ich", "ich zeigen", "zeigst ich"], "answer": 1, "explain": "Придаточное на 1-м месте → инверсия: zeige ich."},
+    {"type": "gap", "q": "Wenn du nach Berlin ___, kannst du einen guten Job finden. (umziehen)", "answer": ["umziehst"], "explain": "Отделяемый глагол в конце придаточного пишется слитно: umziehst."},
+    {"type": "gap", "q": "Als du mir geholfen ___, war ich sehr dankbar.", "answer": ["hast"], "explain": "Perfekt в придаточном: geholfen hast."},
+    {"type": "choice", "q": "Als ich in Berlin ___, habe ich viele Museen besucht.", "options": ["bin", "war", "sein", "wäre"], "answer": 1, "explain": "С als о прошлом — Präteritum war."},
+    {"type": "translate", "q": "Когда ты придёшь, мы пойдём в кино.", "answer": ["Wenn du kommst, gehen wir ins Kino.", "Wir gehen ins Kino, wenn du kommst."], "explain": "Будущее → wenn; после придаточного — инверсия."},
+    {"type": "translate", "q": "Когда ты пришёл, я очень обрадовался.", "answer": ["Als du gekommen bist, habe ich mich sehr gefreut.", "Als du kamst, habe ich mich sehr gefreut.", "Als du kamst, freute ich mich sehr.", "Als du gekommen bist, freute ich mich sehr."], "explain": "Один раз в прошлом → als."},
+    {"type": "translate", "q": "Всякий раз, когда у меня была игра, я очень волновался.", "answer": ["Immer wenn ich ein Spiel hatte, war ich sehr aufgeregt.", "Jedes Mal wenn ich ein Spiel hatte, war ich sehr aufgeregt.", "Jedes Mal, wenn ich ein Spiel hatte, war ich sehr aufgeregt.", "Immer, wenn ich ein Spiel hatte, war ich sehr aufgeregt."], "explain": "Повторение в прошлом → immer wenn / jedes Mal wenn."},
+    {"type": "translate", "q": "Когда он закончил учёбу, он уехал за границу.", "answer": ["Als er mit seinem Studium fertig war, ist er ins Ausland gefahren.", "Als er mit seinem Studium fertig war, fuhr er ins Ausland.", "Als er mit dem Studium fertig war, ist er ins Ausland gefahren.", "Als er mit dem Studium fertig war, fuhr er ins Ausland."], "explain": "Однократно в прошлом → als."},
+    {"type": "order", "q": "Составьте предложение", "words": ["werden", "wenn die Gäste kommen,", "wir", "essen"], "answer": ["Wenn die Gäste kommen, werden wir essen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["konnte", "als du das letzte Spiel hattest,", "ich", "nicht kommen", "leider"], "answer": ["Als du das letzte Spiel hattest, konnte ich leider nicht kommen."]},
+    {"type": "translate", "q": "Скажи мне, когда у тебя есть время.", "answer": ["Sag mir, wann du Zeit hast.", "Sag mir bitte, wann du Zeit hast.", "Sage mir, wann du Zeit hast."], "explain": "Косвенный вопрос → wann, глагол в конце."},
+    {"type": "translate", "q": "Если завтра пойдёт дождь, мы останемся дома.", "answer": ["Wenn es morgen regnet, bleiben wir zu Hause.", "Wir bleiben zu Hause, wenn es morgen regnet.", "Wenn es morgen regnet, bleiben wir daheim."], "explain": "Условие «если» → wenn."}
+  ]
+}

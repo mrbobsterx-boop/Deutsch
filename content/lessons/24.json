@@ -1,0 +1,565 @@
+{
+ "id": 24,
+ "title": "Wissen и kennen — знать",
+ "level": "A2",
+ "goal": "Вы научитесь различать wissen и kennen, правильно их спрягать и говорить «я знаю, что…».",
+ "minutes": 40,
+ "theory": [
+  {
+   "h": "Два глагола — одно русское «знать»",
+   "html": "<p>По-русски мы говорим «знать» и про человека, и про факт. В немецком это два разных глагола:</p><table><tr><th>kennen</th><th>wissen</th></tr><tr><td>быть знакомым с кем-то/чем-то, знать по опыту</td><td>знать факт, информацию, ответ</td></tr><tr><td>после него — <b>существительное/местоимение в Akkusativ</b></td><td>после него — <b>придаточное</b> (dass, wo, wann, wie…) или <span class=\"de\">das, es, alles, nichts, viel</span></td></tr><tr><td><span class=\"de\">Ich kenne deinen Bruder.</span><br>Я знаю твоего брата.</td><td><span class=\"de\">Ich weiß, wo dein Bruder wohnt.</span><br>Я знаю, где живёт твой брат.</td></tr><tr><td><span class=\"de\">Ich kenne diesen Film.</span><br>Я знаю этот фильм (видел).</td><td><span class=\"de\">Ich weiß, dass dieser Film drei Stunden dauert.</span></td></tr></table>"
+  },
+  {
+   "h": "Спряжение",
+   "html": "<p><span class=\"de\">kennen</span> спрягается правильно. <span class=\"de\">wissen</span> — особый: в единственном числе корень <b>weiß</b>, а у ich и er <b>нет окончания</b> (как у модальных глаголов!).</p><table><tr><th>Лицо</th><th>kennen</th><th>wissen</th></tr><tr><td>ich</td><td><span class=\"de\">kenne</span></td><td><span class=\"de\">weiß</span></td></tr><tr><td>du</td><td><span class=\"de\">kennst</span></td><td><span class=\"de\">weißt</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">kennt</span></td><td><span class=\"de\">weiß</span></td></tr><tr><td>wir</td><td><span class=\"de\">kennen</span></td><td><span class=\"de\">wissen</span></td></tr><tr><td>ihr</td><td><span class=\"de\">kennt</span></td><td><span class=\"de\">wisst</span></td></tr><tr><td>sie/Sie</td><td><span class=\"de\">kennen</span></td><td><span class=\"de\">wissen</span></td></tr></table>"
+  },
+  {
+   "h": "Ich weiß, dass … — глагол уходит в конец",
+   "html": "<p>Чаще всего после <span class=\"de\">wissen</span> идёт придаточное предложение. В нём спрягаемый глагол стоит <b>в самом конце</b>, а перед придаточным ставится запятая:</p><ul><li><span class=\"de\">Ich weiß, dass meine Stadt ganz alt <b>ist</b>.</span> — Я знаю, что мой город очень старый.</li><li><span class=\"de\">Weißt du, wo der Bahnhof <b>ist</b>?</span> — Ты знаешь, где вокзал?</li><li><span class=\"de\">Ich weiß nicht, wann der Zug <b>kommt</b>.</span> — Я не знаю, когда придёт поезд.</li></ul><div class=\"note\">Подробно придаточные предложения будут в уроке 33. Сейчас запомните схему: <b>Ich weiß, dass + … + глагол.</b></div>"
+  },
+  {
+   "h": "Устойчивые выражения",
+   "html": "<ul><li><span class=\"de\">Ich weiß das.</span> — Я это знаю. <span class=\"de\">Ich weiß es nicht.</span> — Я не знаю.</li><li><span class=\"de\">Ich weiß alles / nichts / viel.</span> — Я знаю всё / ничего не знаю / знаю много.</li><li><span class=\"de\">Woher weißt du das?</span> — Откуда ты это знаешь?</li><li><span class=\"de\">Kennst du ihn?</span> — Ты с ним знаком?</li><li><span class=\"de\">Ich kenne mich hier nicht aus.</span> — Я здесь не ориентируюсь.</li><li><span class=\"de\">kennenlernen</span> — познакомиться: <span class=\"de\">Ich lerne meinen neuen Chef kennen.</span></li></ul><p>Языки: можно сказать <span class=\"de\">Ich kann Deutsch</span> (умею, владею) — но не «Ich weiß Deutsch».</p>"
+  }
+ ],
+ "tips": [
+  "Простой тест: если после «знать» можно поставить «что / где / когда / как» — нужен wissen. Если стоит человек, город, фильм, книга — kennen.",
+  "ich weiß и er weiß — без окончания -t. «Er weißt» — частая ошибка.",
+  "Пишется с ß: weiß, weißt; но во множественном — wissen, wisst (двойное s после краткой гласной).",
+  "Kennen ≠ können: Ich kenne Berlin (я знаю Берлин) — Ich kann schwimmen (я умею плавать)."
+ ],
+ "examples": [
+  {
+   "de": "Kennst du meine Schwester?",
+   "ru": "Ты знаешь мою сестру?"
+  },
+  {
+   "de": "Ich weiß, wo sie wohnt.",
+   "ru": "Я знаю, где она живёт."
+  },
+  {
+   "de": "Weißt du, wie spät es ist?",
+   "ru": "Ты не знаешь, который час?"
+  },
+  {
+   "de": "Wir kennen diese Stadt sehr gut.",
+   "ru": "Мы очень хорошо знаем этот город."
+  },
+  {
+   "de": "Er weiß nicht, wann der Unterricht beginnt.",
+   "ru": "Он не знает, когда начинается урок."
+  },
+  {
+   "de": "Kennen Sie Herrn Müller?",
+   "ru": "Вы знакомы с господином Мюллером?"
+  },
+  {
+   "de": "Woher weißt du das?",
+   "ru": "Откуда ты это знаешь?"
+  },
+  {
+   "de": "Ich kenne dieses Lied.",
+   "ru": "Я знаю эту песню."
+  },
+  {
+   "de": "Wisst ihr die Antwort?",
+   "ru": "Вы знаете ответ?"
+  },
+  {
+   "de": "Sie weiß alles über Autos.",
+   "ru": "Она знает всё о машинах."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "wissen",
+   "forms": "weiß, wusste, hat gewusst",
+   "ru": "знать (факт, информацию)"
+  },
+  {
+   "de": "kennen",
+   "forms": "kennt, kannte, hat gekannt",
+   "ru": "знать, быть знакомым"
+  },
+  {
+   "de": "kennenlernen",
+   "ru": "познакомиться"
+  },
+  {
+   "de": "dass",
+   "ru": "что (союз)"
+  },
+  {
+   "de": "der Chef",
+   "pl": "die Chefs",
+   "ru": "начальник"
+  },
+  {
+   "de": "der Cousin",
+   "pl": "die Cousins",
+   "ru": "двоюродный брат"
+  },
+  {
+   "de": "die Cousine",
+   "pl": "die Cousinen",
+   "ru": "двоюродная сестра"
+  },
+  {
+   "de": "der Sportler",
+   "pl": "die Sportler",
+   "ru": "спортсмен"
+  },
+  {
+   "de": "der Weg",
+   "pl": "die Wege",
+   "ru": "дорога, путь"
+  },
+  {
+   "de": "das Buch",
+   "pl": "die Bücher",
+   "ru": "книга"
+  },
+  {
+   "de": "der Film",
+   "pl": "die Filme",
+   "ru": "фильм"
+  },
+  {
+   "de": "die Stadt",
+   "pl": "die Städte",
+   "ru": "город"
+  },
+  {
+   "de": "die Antwort",
+   "pl": "die Antworten",
+   "ru": "ответ"
+  },
+  {
+   "de": "schwierig",
+   "ru": "трудный"
+  },
+  {
+   "de": "langweilig",
+   "ru": "скучный"
+  },
+  {
+   "de": "dauern",
+   "ru": "длиться"
+  },
+  {
+   "de": "geboren",
+   "ru": "рождённый"
+  },
+  {
+   "de": "ganz",
+   "ru": "совсем, очень, вполне"
+  },
+  {
+   "de": "noch nicht",
+   "ru": "ещё не"
+  },
+  {
+   "de": "schon",
+   "ru": "уже"
+  },
+  {
+   "de": "alles",
+   "ru": "всё"
+  },
+  {
+   "de": "nichts",
+   "ru": "ничего"
+  },
+  {
+   "de": "woher",
+   "ru": "откуда"
+  }
+ ],
+ "phrasesNote": "Различаем kennen (люди, места, вещи) и wissen (факты: dass …, das, alles, nichts). Прогоняйте по таблице всех лиц.",
+ "phrases": [
+  {
+   "de": "Ich kenne dich.",
+   "ru": "Я тебя знаю."
+  },
+  {
+   "de": "Du kennst mich.",
+   "ru": "Ты меня знаешь."
+  },
+  {
+   "de": "Er kennt sie.",
+   "ru": "Он её знает."
+  },
+  {
+   "de": "Sie kennt ihn.",
+   "ru": "Она его знает."
+  },
+  {
+   "de": "Wir kennen euch.",
+   "ru": "Мы вас знаем."
+  },
+  {
+   "de": "Ihr kennt uns.",
+   "ru": "Вы нас знаете."
+  },
+  {
+   "de": "Ich kenne sie.",
+   "ru": "Я их знаю."
+  },
+  {
+   "de": "Kennst du schon deinen Chef?",
+   "ru": "Ты уже знаком со своим начальником?"
+  },
+  {
+   "de": "Nein, ich kenne meinen Chef noch nicht.",
+   "ru": "Нет, я ещё не знаком со своим начальником."
+  },
+  {
+   "de": "Kennt er schon seinen Chef?",
+   "ru": "Он уже знаком со своим начальником?"
+  },
+  {
+   "de": "Nein, er kennt seinen Chef noch nicht.",
+   "ru": "Нет, он ещё не знаком со своим начальником."
+  },
+  {
+   "de": "Kennt sie schon ihren Chef?",
+   "ru": "Она уже знакома со своим начальником?"
+  },
+  {
+   "de": "Nein, sie kennt ihren Chef noch nicht.",
+   "ru": "Нет, она ещё не знакома со своим начальником."
+  },
+  {
+   "de": "Kennt ihr schon euren Chef?",
+   "ru": "Вы уже знакомы со своим начальником?"
+  },
+  {
+   "de": "Nein, wir kennen unseren Chef noch nicht.",
+   "ru": "Нет, мы ещё не знакомы со своим начальником."
+  },
+  {
+   "de": "Kennen sie schon ihren Chef?",
+   "ru": "Они уже знакомы со своим начальником?"
+  },
+  {
+   "de": "Nein, sie kennen ihren Chef noch nicht.",
+   "ru": "Нет, они ещё не знакомы со своим начальником."
+  },
+  {
+   "de": "Ich kenne meine Stadt ganz gut.",
+   "ru": "Я довольно хорошо знаю свой город."
+  },
+  {
+   "de": "Ich weiß doch, dass meine Stadt ganz alt ist.",
+   "ru": "Я ведь знаю, что мой город очень старый."
+  },
+  {
+   "de": "Du kennst deine Stadt ganz gut.",
+   "ru": "Ты довольно хорошо знаешь свой город."
+  },
+  {
+   "de": "Du weißt doch, dass deine Stadt ganz alt ist.",
+   "ru": "Ты ведь знаешь, что твой город очень старый."
+  },
+  {
+   "de": "Er kennt seine Stadt ganz gut.",
+   "ru": "Он довольно хорошо знает свой город."
+  },
+  {
+   "de": "Er weiß doch, dass seine Stadt ganz alt ist.",
+   "ru": "Он ведь знает, что его город очень старый."
+  },
+  {
+   "de": "Sie kennt ihre Stadt ganz gut.",
+   "ru": "Она довольно хорошо знает свой город."
+  },
+  {
+   "de": "Sie weiß doch, dass ihre Stadt ganz alt ist.",
+   "ru": "Она ведь знает, что её город очень старый."
+  },
+  {
+   "de": "Wir kennen unsere Stadt ganz gut.",
+   "ru": "Мы довольно хорошо знаем свой город."
+  },
+  {
+   "de": "Wir wissen doch, dass unsere Stadt ganz alt ist.",
+   "ru": "Мы ведь знаем, что наш город очень старый."
+  },
+  {
+   "de": "Ihr kennt eure Stadt ganz gut.",
+   "ru": "Вы довольно хорошо знаете свой город."
+  },
+  {
+   "de": "Ihr wisst doch, dass eure Stadt ganz alt ist.",
+   "ru": "Вы ведь знаете, что ваш город очень старый."
+  },
+  {
+   "de": "Sie kennen ihre Stadt ganz gut.",
+   "ru": "Они довольно хорошо знают свой город."
+  },
+  {
+   "de": "Sie wissen doch, dass ihre Stadt ganz alt ist.",
+   "ru": "Они ведь знают, что их город очень старый."
+  },
+  {
+   "de": "Ich kenne schon meinen Cousin.",
+   "ru": "Я уже знаю своего двоюродного брата."
+  },
+  {
+   "de": "Ich weiß, dass mein Cousin ein guter Sportler ist.",
+   "ru": "Я знаю, что мой двоюродный брат — хороший спортсмен."
+  },
+  {
+   "de": "Ich kenne schon meine Cousine.",
+   "ru": "Я уже знаю свою двоюродную сестру."
+  },
+  {
+   "de": "Ich weiß, dass meine Cousine in Kanada lebt.",
+   "ru": "Я знаю, что моя двоюродная сестра живёт в Канаде."
+  },
+  {
+   "de": "Ich kenne mein Land.",
+   "ru": "Я знаю свою страну."
+  },
+  {
+   "de": "Ich weiß, dass mein Land sehr groß ist.",
+   "ru": "Я знаю, что моя страна очень большая."
+  },
+  {
+   "de": "Ich kenne den Weg.",
+   "ru": "Я знаю дорогу."
+  },
+  {
+   "de": "Ich weiß, dass dieser Weg ganz schwierig ist.",
+   "ru": "Я знаю, что эта дорога очень трудная."
+  },
+  {
+   "de": "Ich kenne dieses Buch.",
+   "ru": "Я знаю эту книгу."
+  },
+  {
+   "de": "Ich weiß, dass dieses Buch ganz langweilig ist.",
+   "ru": "Я знаю, что эта книга очень скучная."
+  },
+  {
+   "de": "Ich kenne diesen Film.",
+   "ru": "Я знаю этот фильм."
+  },
+  {
+   "de": "Ich weiß, dass dieser Film drei Stunden dauert.",
+   "ru": "Я знаю, что этот фильм длится три часа."
+  },
+  {
+   "de": "Ich kenne dieses Haus.",
+   "ru": "Я знаю этот дом."
+  },
+  {
+   "de": "Ich weiß, dass in diesem Haus Goethe geboren wurde.",
+   "ru": "Я знаю, что в этом доме родился Гёте."
+  },
+  {
+   "de": "Ich weiß das.",
+   "ru": "Я это знаю."
+  },
+  {
+   "de": "Ich weiß alles.",
+   "ru": "Я всё знаю."
+  },
+  {
+   "de": "Ich kenne dich nicht.",
+   "ru": "Я тебя не знаю."
+  },
+  {
+   "de": "Ich weiß das nicht.",
+   "ru": "Я этого не знаю."
+  },
+  {
+   "de": "Ich weiß nichts.",
+   "ru": "Я ничего не знаю."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "ich ___ (wissen)",
+   "options": [
+    "wisse",
+    "weiß",
+    "weißt"
+   ],
+   "answer": 1,
+   "explain": "ich weiß — без окончания."
+  },
+  {
+   "type": "choice",
+   "q": "er ___ (wissen)",
+   "options": [
+    "weißt",
+    "weiß",
+    "wisst"
+   ],
+   "answer": 1,
+   "explain": "er weiß — как ich, без -t."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ doch, dass eure Stadt alt ist. (wissen)",
+   "answer": [
+    "wisst"
+   ],
+   "explain": "ihr wisst."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ meinen Bruder. (kennen)",
+   "answer": [
+    "kennst"
+   ],
+   "explain": "du kennst."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ diesen Film.",
+   "options": [
+    "weiß",
+    "kenne",
+    "kann"
+   ],
+   "answer": 1,
+   "explain": "Фильм — объект знакомства → kennen."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___, dass dieser Film lang ist.",
+   "options": [
+    "kenne",
+    "weiß",
+    "kann"
+   ],
+   "answer": 1,
+   "explain": "После «, dass …» — wissen."
+  },
+  {
+   "type": "choice",
+   "q": "___ du, wo der Bahnhof ist?",
+   "options": [
+    "Kennst",
+    "Weißt",
+    "Kannst"
+   ],
+   "answer": 1,
+   "explain": "Вопрос о факте (где) → wissen."
+  },
+  {
+   "type": "choice",
+   "q": "___ Sie Frau Schmidt?",
+   "options": [
+    "Wissen",
+    "Kennen",
+    "Können"
+   ],
+   "answer": 1,
+   "explain": "Человек → kennen."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ die Antwort nicht. (wissen)",
+   "answer": [
+    "wissen"
+   ],
+   "explain": "wir wissen."
+  },
+  {
+   "type": "gap",
+   "q": "Kennt ihr schon ___ Chef? (ваш)",
+   "answer": [
+    "euren"
+   ],
+   "explain": "der Chef → Akkusativ: euren Chef."
+  },
+  {
+   "type": "choice",
+   "q": "Ich weiß, dass mein Cousin ein guter Sportler ___.",
+   "options": [
+    "ist",
+    "sein",
+    "bin"
+   ],
+   "answer": 0,
+   "explain": "В придаточном с dass глагол в конце: … Sportler ist."
+  },
+  {
+   "type": "choice",
+   "q": "Как сказать «Я ничего не знаю»?",
+   "options": [
+    "Ich kenne nichts.",
+    "Ich weiß nichts.",
+    "Ich weiß nicht nichts."
+   ],
+   "answer": 1,
+   "explain": "nichts, alles, das → wissen."
+  },
+  {
+   "type": "translate",
+   "q": "Я знаю твою сестру.",
+   "answer": [
+    "Ich kenne deine Schwester."
+   ],
+   "explain": "Человек → kennen + Akkusativ."
+  },
+  {
+   "type": "translate",
+   "q": "Ты знаешь, где он живёт?",
+   "answer": [
+    "Weißt du, wo er wohnt?"
+   ],
+   "explain": "wissen + придаточное, глагол в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Мы ещё не знаем нашего начальника.",
+   "answer": [
+    "Wir kennen unseren Chef noch nicht."
+   ],
+   "explain": "kennen + Akkusativ: unseren Chef."
+  },
+  {
+   "type": "translate",
+   "q": "Она знает, что эта книга скучная.",
+   "answer": [
+    "Sie weiß, dass dieses Buch langweilig ist.",
+    "Sie weiß, dass das Buch langweilig ist.",
+    "Sie weiß, dass dieses Buch ganz langweilig ist."
+   ],
+   "explain": "dass … ist."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "kenne",
+    "ich",
+    "den Weg",
+    "nicht"
+   ],
+   "answer": [
+    "Ich kenne den Weg nicht."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "weiß",
+    "dass",
+    "ich",
+    "groß",
+    "ist",
+    "mein Land"
+   ],
+   "answer": [
+    "Ich weiß, dass mein Land groß ist."
+   ]
+  }
+ ]
+}

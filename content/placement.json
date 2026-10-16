@@ -1,0 +1,95 @@
+{
+  "intro": "Тест адаптивный: 6 блоков от простого к сложному. Если в блоке меньше 4 правильных ответов из 6, тест остановится — значит, начинать нужно именно с этой части курса. Не угадывайте: если не знаете — нажмите «Не знаю».",
+  "bands": [
+    {
+      "id": "a1-1",
+      "label": "A1 · начало",
+      "level": "A0–A1",
+      "startLesson": 1,
+      "describe": "Чтение, числа, местоимения, haben/sein, спряжение, модальные глаголы, вопросы.",
+      "questions": [
+        {"q": "Как по-немецки «двенадцать»?", "options": ["zwanzig", "zwölf", "zweizehn", "elf"], "answer": 1},
+        {"q": "Ich ___ müde.", "options": ["habe", "bin", "ist", "bist"], "answer": 1},
+        {"q": "Du ___ ein Auto.", "options": ["habt", "habe", "hast", "hat"], "answer": 2},
+        {"q": "Er ___ gern Bücher. (lesen)", "options": ["lest", "lesen", "liest", "lese"], "answer": 2},
+        {"q": "Wir ___ heute nicht arbeiten. (могу/можем)", "options": ["kann", "können", "könnt", "kannst"], "answer": 1},
+        {"q": "___ wohnst du? — In Berlin.", "options": ["Wer", "Was", "Wo", "Wann"], "answer": 2}
+      ]
+    },
+    {
+      "id": "a1-2",
+      "label": "A1 · падежи",
+      "level": "A1",
+      "startLesson": 9,
+      "describe": "Akkusativ, Dativ, отрицание, Imperativ, время и даты, предлоги, порядок слов.",
+      "questions": [
+        {"q": "Ich sehe ___ Mann.", "options": ["der", "den", "dem", "des"], "answer": 1},
+        {"q": "Ich helfe ___ Frau.", "options": ["die", "der", "den", "das"], "answer": 1},
+        {"q": "Ich habe ___ Zeit.", "options": ["nicht", "kein", "keine", "nichts"], "answer": 2},
+        {"q": "___ bitte langsam! (ты — говори)", "options": ["Sprichst", "Sprich", "Sprechen", "Sprecht du"], "answer": 1},
+        {"q": "Heute ___ ins Kino.", "options": ["ich gehe", "gehe ich", "ich gehen", "gehen ich"], "answer": 1},
+        {"q": "Das Buch liegt auf ___ Tisch.", "options": ["den", "der", "dem", "das"], "answer": 2}
+      ]
+    },
+    {
+      "id": "a2",
+      "label": "A2",
+      "level": "A1+",
+      "startLesson": 21,
+      "describe": "Возвратные глаголы, сравнение, Futur, wissen/kennen, Perfekt, Präteritum.",
+      "questions": [
+        {"q": "Ich freue ___ auf den Urlaub.", "options": ["mich", "mir", "sich", "dich"], "answer": 0},
+        {"q": "Mein Bruder ist ___ als ich.", "options": ["groß", "größer", "am größten", "großer"], "answer": 1},
+        {"q": "Gestern ___ ich nach Hause gefahren.", "options": ["habe", "bin", "war", "wurde"], "answer": 1},
+        {"q": "Ich habe den Film schon ___.", "options": ["gesieht", "gesehen", "sehen", "sah"], "answer": 1},
+        {"q": "___ du, wo der Bahnhof ist?", "options": ["Kennst", "Weißt", "Kannst", "Wisst"], "answer": 1},
+        {"q": "Als Kind ___ ich nicht schwimmen.", "options": ["konnte", "kann", "gekonnt", "könnte"], "answer": 0}
+      ]
+    },
+    {
+      "id": "b1-1",
+      "label": "B1 · придаточные",
+      "level": "A2",
+      "startLesson": 31,
+      "describe": "zu + Infinitiv, um…zu/damit, dass/ob, weil/denn, wenn/als, Genitiv, склонение прилагательных.",
+      "questions": [
+        {"q": "Ich habe keine Lust, heute ___.", "options": ["arbeiten", "zu arbeiten", "arbeite", "gearbeitet"], "answer": 1},
+        {"q": "Ich weiß nicht, ___ er heute kommt.", "options": ["dass", "ob", "wenn", "was"], "answer": 1},
+        {"q": "Ich bleibe zu Hause, weil ich krank ___.", "options": ["bin", "ist", "sein", "war ich"], "answer": 0},
+        {"q": "___ ich klein war, wohnten wir in Kiew.", "options": ["Wenn", "Wann", "Als", "Ob"], "answer": 2},
+        {"q": "Das ist das Auto ___ Vaters.", "options": ["meines", "meinem", "meinen", "mein"], "answer": 0},
+        {"q": "Ich trinke gern ___ Kaffee.", "options": ["heißer", "heißen", "heißem", "heißes"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b1-2",
+      "label": "B1",
+      "level": "B1",
+      "startLesson": 38,
+      "describe": "Управление глаголов, относительные местоимения, obwohl, Konjunktiv II, Passiv, парные союзы.",
+      "questions": [
+        {"q": "Ich warte ___ den Bus.", "options": ["für", "auf", "an", "über"], "answer": 1},
+        {"q": "Der Mann, ___ ich gestern gesehen habe, ist Arzt.", "options": ["der", "den", "dem", "dessen"], "answer": 1},
+        {"q": "___ es regnet, gehen wir spazieren.", "options": ["Weil", "Obwohl", "Trotzdem", "Damit"], "answer": 1},
+        {"q": "Wenn ich Zeit ___, würde ich dich besuchen.", "options": ["habe", "hätte", "hatte", "habe gehabt"], "answer": 1},
+        {"q": "Das Haus ___ 1990 gebaut.", "options": ["hat", "wurde", "würde", "wird gebaut"], "answer": 1},
+        {"q": "Ich trinke ___ Kaffee noch Tee.", "options": ["entweder", "sowohl", "weder", "nicht"], "answer": 2}
+      ]
+    },
+    {
+      "id": "b2",
+      "label": "B2",
+      "level": "B1+",
+      "startLesson": 46,
+      "describe": "Partizip как определение, Plusquamperfekt, indem/sodass, субъективные модальные, Konjunktiv I.",
+      "questions": [
+        {"q": "Das ___ Kind schläft endlich. (плачущий → weinen)", "options": ["geweinte", "weinende", "weinenden", "weint"], "answer": 1},
+        {"q": "Nachdem er gegessen ___, ging er schlafen.", "options": ["hat", "hatte", "habe", "hätte"], "answer": 1},
+        {"q": "Man lernt eine Sprache am besten, ___ man viel spricht.", "options": ["indem", "sodass", "damit", "ob"], "answer": 0},
+        {"q": "Er ___ sehr reich sein. (говорят, что он богат)", "options": ["muss", "soll", "will", "darf"], "answer": 1},
+        {"q": "Er sagte, er ___ krank.", "options": ["ist", "sei", "wäre gewesen", "war gewesen"], "answer": 1},
+        {"q": "Wenn ich das gewusst ___, wäre ich gekommen.", "options": ["habe", "hätte", "wäre", "hatte"], "answer": 1}
+      ]
+    }
+  ]
+}

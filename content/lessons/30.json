@@ -1,0 +1,111 @@
+{
+  "id": 30,
+  "title": "Страны и путешествия",
+  "level": "A2",
+  "goal": "Вы научитесь правильно говорить, куда вы едете, где живёте и откуда родом: nach/in/aus со странами с артиклем и без, а также называть национальности и языки.",
+  "minutes": 45,
+  "theory": [
+    {
+      "h": "Страны без артикля (большинство)",
+      "html": "<p>Большинство стран и все города — <b>среднего рода и без артикля</b>: <span class=\"de\">Deutschland, Österreich, Italien, Spanien, Frankreich, Polen, England, Portugal, Berlin, Wien</span>.</p><table><tr><th>Вопрос</th><th>Предлог</th><th>Пример</th></tr><tr><td>Wohin? (куда?)</td><td><b>nach</b></td><td><span class=\"de\">Ich fliege nach Deutschland.</span></td></tr><tr><td>Wo? (где?)</td><td><b>in</b></td><td><span class=\"de\">Ich arbeite in Deutschland.</span></td></tr><tr><td>Woher? (откуда?)</td><td><b>aus</b></td><td><span class=\"de\">Ich komme aus Deutschland.</span></td></tr></table><div class=\"note\">С прилагательным артикль появляется: <span class=\"de\">das schöne Italien</span> — <span class=\"de\">im schönen Italien</span>.</div>"
+    },
+    {
+      "h": "Страны с артиклем",
+      "html": "<p>Некоторые страны всегда употребляются с артиклем. Их надо запомнить:</p><ul><li><b>die</b> (ж.р.): <span class=\"de\">die Ukraine, die Schweiz, die Türkei, die Slowakei, die Mongolei</span> — чаще всего на <b>-ei, -e</b></li><li><b>der</b> (м.р.): <span class=\"de\">der Iran, der Irak, der Libanon</span></li><li><b>die</b> (мн.ч.): <span class=\"de\">die USA, die Niederlande, die Philippinen</span></li></ul><p>С этими странами вместо <i>nach</i> используется <b>in + Akkusativ</b> (куда?), а для «где?» — <b>in + Dativ</b>:</p><table><tr><th></th><th>Wohin? (in + Akk.)</th><th>Wo? (in + Dat.)</th><th>Woher? (aus + Dat.)</th></tr><tr><td>die Ukraine</td><td><span class=\"de\">in die Ukraine</span></td><td><span class=\"de\">in der Ukraine</span></td><td><span class=\"de\">aus der Ukraine</span></td></tr><tr><td>die Schweiz</td><td><span class=\"de\">in die Schweiz</span></td><td><span class=\"de\">in der Schweiz</span></td><td><span class=\"de\">aus der Schweiz</span></td></tr><tr><td>der Iran</td><td><span class=\"de\">in den Iran</span></td><td><span class=\"de\">im Iran</span></td><td><span class=\"de\">aus dem Iran</span></td></tr><tr><td>die USA (Pl.)</td><td><span class=\"de\">in die USA</span></td><td><span class=\"de\">in den USA</span></td><td><span class=\"de\">aus den USA</span></td></tr><tr><td>die Niederlande (Pl.)</td><td><span class=\"de\">in die Niederlande</span></td><td><span class=\"de\">in den Niederlanden</span></td><td><span class=\"de\">aus den Niederlanden</span></td></tr></table><p>Это знакомые Wechselpräpositionen из урока 18: направление — Akkusativ, место — Dativ.</p>"
+    },
+    {
+      "h": "Национальности и языки",
+      "html": "<table><tr><th>Страна</th><th>Он</th><th>Она</th><th>Язык / прилагательное</th></tr><tr><td><span class=\"de\">Deutschland</span></td><td><span class=\"de\">der Deutsche</span> (ein Deutscher)</td><td><span class=\"de\">die Deutsche</span></td><td><span class=\"de\">Deutsch / deutsch</span></td></tr><tr><td><span class=\"de\">die Ukraine</span></td><td><span class=\"de\">der Ukrainer</span></td><td><span class=\"de\">die Ukrainerin</span></td><td><span class=\"de\">Ukrainisch</span></td></tr><tr><td><span class=\"de\">Österreich</span></td><td><span class=\"de\">der Österreicher</span></td><td><span class=\"de\">die Österreicherin</span></td><td>—, <span class=\"de\">österreichisch</span></td></tr><tr><td><span class=\"de\">die Schweiz</span></td><td><span class=\"de\">der Schweizer</span></td><td><span class=\"de\">die Schweizerin</span></td><td>—, <span class=\"de\">schweizerisch</span></td></tr><tr><td><span class=\"de\">Frankreich</span></td><td><span class=\"de\">der Franzose</span></td><td><span class=\"de\">die Französin</span></td><td><span class=\"de\">Französisch</span></td></tr><tr><td><span class=\"de\">Italien</span></td><td><span class=\"de\">der Italiener</span></td><td><span class=\"de\">die Italienerin</span></td><td><span class=\"de\">Italienisch</span></td></tr><tr><td><span class=\"de\">Spanien</span></td><td><span class=\"de\">der Spanier</span></td><td><span class=\"de\">die Spanierin</span></td><td><span class=\"de\">Spanisch</span></td></tr><tr><td><span class=\"de\">Polen</span></td><td><span class=\"de\">der Pole</span></td><td><span class=\"de\">die Polin</span></td><td><span class=\"de\">Polnisch</span></td></tr><tr><td><span class=\"de\">die Türkei</span></td><td><span class=\"de\">der Türke</span></td><td><span class=\"de\">die Türkin</span></td><td><span class=\"de\">Türkisch</span></td></tr></table><p>Названия языков пишутся с большой буквы: <span class=\"de\">Ich spreche Deutsch und Ukrainisch.</span> Национальность обычно говорят без артикля: <span class=\"de\">Ich bin Ukrainer. Sie ist Spanierin.</span></p>"
+    },
+    {
+      "h": "Глаголы путешествия и Perfekt",
+      "html": "<p>Глаголы движения образуют Perfekt с <b>sein</b>:</p><ul><li><span class=\"de\">fahren → ist gefahren</span> (ехать)</li><li><span class=\"de\">fliegen → ist geflogen</span> (лететь)</li><li><span class=\"de\">reisen → ist gereist</span> (путешествовать)</li></ul><p>Транспорт — <b>mit + Dativ</b>: <span class=\"de\">mit dem Auto, mit dem Zug, mit dem Bus, mit dem Flugzeug, mit dem Fahrrad</span>.</p><p>Порядок слов: обычно «как?» стоит перед «куда?»: <span class=\"de\">Ich fahre mit dem Zug in die Schweiz.</span></p><p>Другие полезные слова: <span class=\"de\">den Urlaub verbringen</span> (проводить отпуск), <span class=\"de\">ins Ausland fahren</span> (ехать за границу), <span class=\"de\">im Ausland leben</span> (жить за границей).</p>"
+    }
+  ],
+  "tips": [
+    "Правило-шпаргалка: страна без артикля — nach / in / aus; страна с артиклем — in die / in der / aus der.",
+    "Типичная ошибка: «nach Ukraine». Правильно: in die Ukraine (куда), in der Ukraine (где).",
+    "USA и Niederlande — множественное число: in den USA, in den Niederlanden (Dativ Plural, у Niederlanden добавляется -n).",
+    "Nach Hause — домой, zu Hause — дома: это исключение, его не путайте со странами."
+  ],
+  "examples": [
+    {"de": "Ich komme aus der Ukraine.", "ru": "Я из Украины."},
+    {"de": "Meine Schwester wohnt in Österreich.", "ru": "Моя сестра живёт в Австрии."},
+    {"de": "Wir fliegen im Sommer in die Türkei.", "ru": "Летом мы летим в Турцию."},
+    {"de": "Er arbeitet seit zwei Jahren in den USA.", "ru": "Он уже два года работает в США."},
+    {"de": "Fährst du mit dem Zug nach Berlin?", "ru": "Ты едешь в Берлин на поезде?"},
+    {"de": "Sie ist Französin und spricht drei Sprachen.", "ru": "Она француженка и говорит на трёх языках."},
+    {"de": "Im Iran ist es im Sommer sehr heiß.", "ru": "В Иране летом очень жарко."},
+    {"de": "Letztes Jahr bin ich nach Italien gereist.", "ru": "В прошлом году я путешествовал по Италии (ездил в Италию)."},
+    {"de": "Mein Kollege kommt aus den Niederlanden.", "ru": "Мой коллега из Нидерландов."},
+    {"de": "Wir verbringen unseren Urlaub in Spanien.", "ru": "Мы проводим отпуск в Испании."}
+  ],
+  "vocab": [
+    {"de": "das Land", "pl": "die Länder", "ru": "страна"},
+    {"de": "die Ukraine", "ru": "Украина"},
+    {"de": "die Schweiz", "ru": "Швейцария"},
+    {"de": "die Türkei", "ru": "Турция"},
+    {"de": "die Slowakei", "ru": "Словакия"},
+    {"de": "die USA", "ru": "США (мн. ч.)"},
+    {"de": "die Niederlande", "ru": "Нидерланды (мн. ч.)"},
+    {"de": "Frankreich", "ru": "Франция"},
+    {"de": "Österreich", "ru": "Австрия"},
+    {"de": "die Sprache", "pl": "die Sprachen", "ru": "язык"},
+    {"de": "das Ausland", "ru": "заграница"},
+    {"de": "der Urlaub", "pl": "die Urlaube", "ru": "отпуск"},
+    {"de": "die Reise", "pl": "die Reisen", "ru": "поездка, путешествие"},
+    {"de": "reisen", "ru": "путешествовать", "forms": "reist, reiste, ist gereist"},
+    {"de": "fliegen", "ru": "летать, лететь", "forms": "fliegt, flog, ist geflogen"},
+    {"de": "fahren", "ru": "ехать", "forms": "fährt, fuhr, ist gefahren"},
+    {"de": "verbringen", "ru": "проводить (время)", "forms": "verbringt, verbrachte, hat verbracht"},
+    {"de": "das Flugzeug", "pl": "die Flugzeuge", "ru": "самолёт"},
+    {"de": "der Zug", "pl": "die Züge", "ru": "поезд"},
+    {"de": "das Fahrrad", "pl": "die Fahrräder", "ru": "велосипед"},
+    {"de": "der Ausländer", "pl": "die Ausländer", "ru": "иностранец"},
+    {"de": "einkaufen", "ru": "делать покупки"}
+  ],
+  "phrasesNote": "Закрепляем «куда / где» со странами с артиклем и без, транспорт с mit и Perfekt глаголов движения с sein.",
+  "phrases": [
+    {"de": "Ich fahre in die Ukraine – ich bin früher oft in die Ukraine gefahren.", "ru": "Я еду в Украину — раньше я часто ездил в Украину."},
+    {"de": "Du fährst in die Ukraine – du bist früher oft in die Ukraine gefahren.", "ru": "Ты едешь в Украину — раньше ты часто ездил в Украину."},
+    {"de": "Er fährt in die Ukraine – er ist früher oft in die Ukraine gefahren.", "ru": "Он едет в Украину — раньше он часто ездил в Украину."},
+    {"de": "Sie fährt in die Ukraine – sie ist früher oft in die Ukraine gefahren.", "ru": "Она едет в Украину — раньше она часто ездила в Украину."},
+    {"de": "Wir fahren in die Ukraine – wir sind früher oft in die Ukraine gefahren.", "ru": "Мы едем в Украину — раньше мы часто ездили в Украину."},
+    {"de": "Ihr fahrt in die Ukraine – ihr seid früher oft in die Ukraine gefahren.", "ru": "Вы едете в Украину — раньше вы часто ездили в Украину."},
+    {"de": "Sie fahren in die Ukraine – sie sind früher oft in die Ukraine gefahren.", "ru": "Они едут в Украину — раньше они часто ездили в Украину."},
+    {"de": "Ich fliege in die Schweiz – ich bin letzte Woche in die Schweiz geflogen.", "ru": "Я лечу в Швейцарию — на прошлой неделе я летал в Швейцарию."},
+    {"de": "Ich fahre in die Niederlande – ich bin letztes Jahr in die Niederlande gefahren.", "ru": "Я еду в Нидерланды — в прошлом году я ездил в Нидерланды."},
+    {"de": "Ich fliege in die USA – ich bin früher oft in die USA geflogen.", "ru": "Я лечу в США — раньше я часто летал в США."},
+    {"de": "Ich fahre in die Slowakei – ich bin früher oft in die Slowakei gefahren.", "ru": "Я еду в Словакию — раньше я часто ездил в Словакию."},
+    {"de": "Ich fahre mit dem Auto in die Ukraine – ich wohne in der Ukraine.", "ru": "Я еду в Украину на машине — я живу в Украине."},
+    {"de": "Ich fahre mit dem Zug in die Schweiz – ich wohne in der Schweiz.", "ru": "Я еду в Швейцарию на поезде — я живу в Швейцарии."},
+    {"de": "Ich fahre mit dem Bus in die Türkei – ich wohne in der Türkei.", "ru": "Я еду в Турцию на автобусе — я живу в Турции."},
+    {"de": "Ich fliege mit dem Flugzeug in die USA – ich wohne in den USA.", "ru": "Я лечу в США на самолёте — я живу в США."},
+    {"de": "Ich fahre mit dem Fahrrad in die Niederlande – ich wohne in den Niederlanden.", "ru": "Я еду в Нидерланды на велосипеде — я живу в Нидерландах."},
+    {"de": "Ich fliege nach Deutschland – ich arbeite in Deutschland.", "ru": "Я лечу в Германию — я работаю в Германии."},
+    {"de": "Ich fliege nach Portugal – ich verbringe meinen Urlaub in Portugal.", "ru": "Я лечу в Португалию — я провожу отпуск в Португалии."},
+    {"de": "Ich fliege nach Spanien – ich bleibe in Spanien.", "ru": "Я лечу в Испанию — я остаюсь в Испании."},
+    {"de": "Ich fliege nach Italien – ich kaufe in Italien ein.", "ru": "Я лечу в Италию — я делаю покупки в Италии."},
+    {"de": "Ich fahre nach Frankreich – ich lebe in Frankreich.", "ru": "Я еду во Францию — я живу во Франции."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich fliege ___ Spanien.", "options": ["in", "nach", "in die", "zu"], "answer": 1, "explain": "Страна без артикля + куда? → nach."},
+    {"type": "choice", "q": "Ich fahre ___ Ukraine.", "options": ["nach", "in der", "in die", "nach die"], "answer": 2, "explain": "die Ukraine — с артиклем, направление: in + Akk. → in die."},
+    {"type": "choice", "q": "Meine Eltern wohnen ___ Schweiz.", "options": ["in die", "in der", "nach", "in"], "answer": 1, "explain": "Где? — in + Dativ: in der Schweiz."},
+    {"type": "gap", "q": "Er arbeitet in ___ USA.", "answer": ["den"], "explain": "die USA — мн. ч., Dativ Plural: in den USA."},
+    {"type": "gap", "q": "Wir wohnen in den ___. (die Niederlande)", "answer": ["Niederlanden"], "explain": "Dativ Plural получает -n: in den Niederlanden."},
+    {"type": "gap", "q": "Ich komme ___ der Türkei.", "answer": ["aus"], "explain": "Откуда? → aus + Dativ."},
+    {"type": "choice", "q": "Sie kommt aus ___ Iran.", "options": ["der", "dem", "den", "die"], "answer": 1, "explain": "der Iran (м.р.), aus + Dativ → aus dem Iran."},
+    {"type": "gap", "q": "Wir verbringen unseren Urlaub ___ Italien.", "answer": ["in"], "explain": "Где? Страна без артикля → in Italien."},
+    {"type": "choice", "q": "Ich bin letztes Jahr in die Türkei ___.", "options": ["geflogen", "gefliegt", "geflogt", "fliegen"], "answer": 0, "explain": "fliegen – flog – ist geflogen."},
+    {"type": "gap", "q": "Ihr ___ früher oft nach Polen gefahren. (sein)", "answer": ["seid"], "explain": "Глаголы движения — Perfekt с sein: ihr seid gefahren."},
+    {"type": "choice", "q": "Sie kommt aus Frankreich. Sie ist ___.", "options": ["Französisch", "Franzose", "Französin", "Frankreicherin"], "answer": 2, "explain": "der Franzose — die Französin."},
+    {"type": "choice", "q": "Er kommt aus Polen. Er spricht ___.", "options": ["Polisch", "Polnisch", "Pole", "Polen"], "answer": 1, "explain": "Язык — Polnisch."},
+    {"type": "translate", "q": "Я еду в Швейцарию на поезде.", "answer": ["Ich fahre mit dem Zug in die Schweiz.", "Ich fahre in die Schweiz mit dem Zug."], "explain": "die Schweiz — in die; транспорт — mit dem Zug."},
+    {"type": "translate", "q": "Я живу в Украине.", "answer": ["Ich wohne in der Ukraine.", "Ich lebe in der Ukraine."], "explain": "Где? → in der Ukraine (Dativ)."},
+    {"type": "translate", "q": "Раньше я часто летал в США.", "answer": ["Ich bin früher oft in die USA geflogen.", "Früher bin ich oft in die USA geflogen."], "explain": "Perfekt с sein; in die USA (мн. ч., направление)."},
+    {"type": "translate", "q": "Я лечу в Германию, я работаю в Германии.", "answer": ["Ich fliege nach Deutschland, ich arbeite in Deutschland.", "Ich fliege nach Deutschland – ich arbeite in Deutschland.", "Ich fliege nach Deutschland. Ich arbeite in Deutschland."], "explain": "Куда — nach Deutschland, где — in Deutschland."},
+    {"type": "order", "q": "Составьте предложение", "words": ["in die Niederlande", "bin", "ich", "gefahren", "letztes Jahr"], "answer": ["Ich bin letztes Jahr in die Niederlande gefahren.", "Letztes Jahr bin ich in die Niederlande gefahren."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "in Italien", "ein", "kaufe"], "answer": ["Ich kaufe in Italien ein.", "In Italien kaufe ich ein."]}
+  ]
+}

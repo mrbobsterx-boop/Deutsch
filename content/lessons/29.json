@@ -1,0 +1,130 @@
+{
+  "id": 29,
+  "title": "Präteritum — простое прошедшее время",
+  "level": "A2",
+  "goal": "Вы научитесь образовывать и употреблять Präteritum слабых, сильных и смешанных глаголов, а также уверенно говорить «hatte», «war», «dachte», «gab es».",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Что такое Präteritum и когда его используют",
+      "html": "<p>В немецком два основных прошедших времени: <b>Perfekt</b> (уроки 27–28) и <b>Präteritum</b>. По смыслу они почти одинаковы — оба переводятся на русский прошедшим временем.</p><ul><li><b>Perfekt</b> — разговорная речь: <span class=\"de\">Ich habe gestern gearbeitet.</span></li><li><b>Präteritum</b> — письменная речь: книги, новости, сказки, отчёты: <span class=\"de\">Es war einmal ein König…</span></li></ul><div class=\"note\">Но! Даже в устной речи немцы почти всегда говорят в Präteritum: <span class=\"de\">sein</span> (war), <span class=\"de\">haben</span> (hatte), модальные глаголы (konnte, musste, wollte), а также <span class=\"de\">es gab</span>, <span class=\"de\">ich dachte</span>, <span class=\"de\">ich wusste</span>. Сказать «Ich habe ein Auto gehabt» можно, но звучит тяжеловесно — лучше <span class=\"de\">Ich hatte ein Auto</span>.</div>"
+    },
+    {
+      "h": "Sein и haben в Präteritum",
+      "html": "<p>Это самые важные формы — выучите их наизусть.</p><table><tr><th>Лицо</th><th>sein</th><th>haben</th></tr><tr><td>ich</td><td><span class=\"de\">war</span></td><td><span class=\"de\">hatte</span></td></tr><tr><td>du</td><td><span class=\"de\">warst</span></td><td><span class=\"de\">hattest</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">war</span></td><td><span class=\"de\">hatte</span></td></tr><tr><td>wir</td><td><span class=\"de\">waren</span></td><td><span class=\"de\">hatten</span></td></tr><tr><td>ihr</td><td><span class=\"de\">wart</span></td><td><span class=\"de\">hattet</span></td></tr><tr><td>sie/Sie</td><td><span class=\"de\">waren</span></td><td><span class=\"de\">hatten</span></td></tr></table><p>Обратите внимание: в Präteritum формы <b>ich</b> и <b>er/sie/es</b> всегда совпадают — у них нет окончания: <span class=\"de\">ich war — er war</span>, <span class=\"de\">ich hatte — sie hatte</span>.</p>"
+    },
+    {
+      "h": "Слабые (правильные) глаголы: суффикс -te-",
+      "html": "<p>Берём основу глагола и добавляем <b>-te</b> + окончание:</p><p><span class=\"de\">mach-en → mach-te</span>, <span class=\"de\">spiel-en → spiel-te</span>, <span class=\"de\">sag-en → sag-te</span></p><table><tr><th>Лицо</th><th>machen</th><th>arbeiten</th></tr><tr><td>ich</td><td><span class=\"de\">machte</span></td><td><span class=\"de\">arbeitete</span></td></tr><tr><td>du</td><td><span class=\"de\">machtest</span></td><td><span class=\"de\">arbeitetest</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">machte</span></td><td><span class=\"de\">arbeitete</span></td></tr><tr><td>wir</td><td><span class=\"de\">machten</span></td><td><span class=\"de\">arbeiteten</span></td></tr><tr><td>ihr</td><td><span class=\"de\">machtet</span></td><td><span class=\"de\">arbeitetet</span></td></tr><tr><td>sie/Sie</td><td><span class=\"de\">machten</span></td><td><span class=\"de\">arbeiteten</span></td></tr></table><p>Если основа кончается на <b>-t, -d</b> или на сочетание согласных вроде <b>-chn, -ffn</b>, вставляется <b>-e-</b>: <span class=\"de\">arbeitete, redete, öffnete, rechnete</span>.</p><p>Отделяемые приставки ведут себя как в Präsens: <span class=\"de\">aufräumen → Ich räumte die Wohnung auf.</span></p>"
+    },
+    {
+      "h": "Сильные (неправильные) глаголы: смена корневой гласной",
+      "html": "<p>У сильных глаголов <b>нет суффикса -te</b>, зато меняется гласная корня. Форму надо учить (это 2-я форма в таблице неправильных глаголов: <i>fahren – fuhr – gefahren</i>).</p><table><tr><th>Инфинитив</th><th>Präteritum</th><th>Perfekt</th></tr><tr><td><span class=\"de\">gehen</span></td><td><span class=\"de\">ging</span></td><td><span class=\"de\">ist gegangen</span></td></tr><tr><td><span class=\"de\">kommen</span></td><td><span class=\"de\">kam</span></td><td><span class=\"de\">ist gekommen</span></td></tr><tr><td><span class=\"de\">fahren</span></td><td><span class=\"de\">fuhr</span></td><td><span class=\"de\">ist gefahren</span></td></tr><tr><td><span class=\"de\">sehen</span></td><td><span class=\"de\">sah</span></td><td><span class=\"de\">hat gesehen</span></td></tr><tr><td><span class=\"de\">geben</span></td><td><span class=\"de\">gab</span></td><td><span class=\"de\">hat gegeben</span></td></tr><tr><td><span class=\"de\">schreiben</span></td><td><span class=\"de\">schrieb</span></td><td><span class=\"de\">hat geschrieben</span></td></tr><tr><td><span class=\"de\">finden</span></td><td><span class=\"de\">fand</span></td><td><span class=\"de\">hat gefunden</span></td></tr><tr><td><span class=\"de\">bleiben</span></td><td><span class=\"de\">blieb</span></td><td><span class=\"de\">ist geblieben</span></td></tr></table><p>Окончания: <b>ich —, du -st, er —, wir -en, ihr -t, sie -en</b>: <span class=\"de\">ich ging, du gingst, er ging, wir gingen, ihr gingt, sie gingen</span>.</p>"
+    },
+    {
+      "h": "Смешанные глаголы и es gab",
+      "html": "<p>Несколько глаголов <b>и меняют гласную, и получают -te</b>. Их немного — выучите списком:</p><ul><li><span class=\"de\">denken → dachte</span> (думать)</li><li><span class=\"de\">bringen → brachte</span> (приносить)</li><li><span class=\"de\">wissen → wusste</span> (знать)</li><li><span class=\"de\">kennen → kannte</span> (знать, быть знакомым)</li><li><span class=\"de\">nennen → nannte</span> (называть)</li><li><span class=\"de\">rennen → rannte</span> (бежать)</li></ul><p>Отдельно запомните безличный оборот <span class=\"de\">es gibt</span> («есть, имеется») → <span class=\"de\">es gab</span> («был, были»): <span class=\"de\">Früher gab es hier einen großen Wald.</span> — Раньше здесь был большой лес. После <i>es gab</i> всегда <b>Akkusativ</b>: <span class=\"de\">einen Wald</span>.</p><p>И полезное выражение <span class=\"de\">vorhaben</span> (планировать): <span class=\"de\">Ich hatte vor, ins Kino zu gehen.</span> — Я собирался пойти в кино.</p>"
+    },
+    {
+      "h": "Порядок слов и «früher – heute»",
+      "html": "<p>Präteritum — это <b>одна</b> форма глагола, она стоит на втором месте, как в Präsens. Никакого вспомогательного глагола в конце!</p><ul><li><span class=\"de\">Ich hatte früher ein altes Auto.</span></li><li><span class=\"de\">Früher hatte ich ein altes Auto.</span> (инверсия)</li></ul><p>В придаточном предложении глагол уходит в конец: <span class=\"de\">Ich wusste nicht, dass er krank war.</span></p><p>Удобная схема для разговора: <b>früher</b> (раньше) + Präteritum — <b>jetzt / heute</b> + Präsens: <span class=\"de\">Ich war früher arm – heute bin ich reich.</span></p>"
+    }
+  ],
+  "tips": [
+    "Форма ich = форма er/sie/es в Präteritum: ich war — er war, ich ging — er ging. Не добавляйте -t: не «er wart», а «er war».",
+    "Типичная ошибка: «Ich habe ein Auto gehabt» вместо естественного «Ich hatte ein Auto». Для sein, haben и модальных глаголов в разговоре выбирайте Präteritum.",
+    "Учите сильные глаголы тройками: gehen – ging – gegangen, kommen – kam – gekommen. Ритм помогает запомнить.",
+    "«Es gab» + Akkusativ: Es gab einen Strand (не «ein Strand»)."
+  ],
+  "examples": [
+    {"de": "Ich war gestern sehr müde.", "ru": "Вчера я был очень уставшим."},
+    {"de": "Wir hatten keine Zeit.", "ru": "У нас не было времени."},
+    {"de": "Er machte seine Hausaufgaben.", "ru": "Он делал домашнее задание."},
+    {"de": "Sie arbeitete zehn Jahre in Berlin.", "ru": "Она десять лет работала в Берлине."},
+    {"de": "Wir gingen ins Kino.", "ru": "Мы пошли в кино."},
+    {"de": "Der Zug kam pünktlich.", "ru": "Поезд пришёл вовремя."},
+    {"de": "Ich dachte, du bist krank.", "ru": "Я думал, ты болен."},
+    {"de": "Früher gab es hier ein Café.", "ru": "Раньше здесь было кафе."},
+    {"de": "Ich wusste das nicht.", "ru": "Я этого не знал."},
+    {"de": "Es war einmal ein kleines Mädchen.", "ru": "Жила-была маленькая девочка."},
+    {"de": "Er brachte mir Blumen.", "ru": "Он принёс мне цветы."},
+    {"de": "Als Kind wohnte ich in Kiew.", "ru": "В детстве я жил в Киеве."}
+  ],
+  "vocab": [
+    {"de": "früher", "ru": "раньше, прежде"},
+    {"de": "damals", "ru": "тогда, в то время"},
+    {"de": "einmal", "ru": "однажды, когда-то"},
+    {"de": "vorhaben", "ru": "планировать, намереваться", "forms": "hat vor, hatte vor, hat vorgehabt"},
+    {"de": "denken", "ru": "думать", "forms": "denkt, dachte, hat gedacht"},
+    {"de": "wissen", "ru": "знать", "forms": "weiß, wusste, hat gewusst"},
+    {"de": "bringen", "ru": "приносить", "forms": "bringt, brachte, hat gebracht"},
+    {"de": "meinen", "ru": "считать, иметь в виду"},
+    {"de": "gehen", "ru": "идти", "forms": "geht, ging, ist gegangen"},
+    {"de": "kommen", "ru": "приходить", "forms": "kommt, kam, ist gekommen"},
+    {"de": "geben", "ru": "давать", "forms": "gibt, gab, hat gegeben"},
+    {"de": "schreiben", "ru": "писать", "forms": "schreibt, schrieb, hat geschrieben"},
+    {"de": "einverstanden sein", "ru": "быть согласным"},
+    {"de": "arm", "ru": "бедный"},
+    {"de": "reich", "ru": "богатый"},
+    {"de": "jung", "ru": "молодой"},
+    {"de": "der Wald", "pl": "die Wälder", "ru": "лес"},
+    {"de": "der Strand", "pl": "die Strände", "ru": "пляж"},
+    {"de": "der Spielplatz", "pl": "die Spielplätze", "ru": "детская площадка"},
+    {"de": "der Bruder", "pl": "die Brüder", "ru": "брат"},
+    {"de": "das Märchen", "pl": "die Märchen", "ru": "сказка"},
+    {"de": "die Kindheit", "pl": "die Kindheiten", "ru": "детство"}
+  ],
+  "phrasesNote": "Закрепляем Präteritum глаголов haben и sein, смешанных глаголов (dachte, wusste) и оборот «es gab»; схема «раньше — сейчас».",
+  "phrases": [
+    {"de": "Ich hatte früher ein altes Auto – jetzt habe ich ein neues Auto.", "ru": "Раньше у меня была старая машина — теперь у меня новая машина."},
+    {"de": "Du hattest früher ein altes Auto – jetzt hast du ein neues Auto.", "ru": "Раньше у тебя была старая машина — теперь у тебя новая машина."},
+    {"de": "Er hatte früher ein altes Auto – jetzt hat er ein neues Auto.", "ru": "Раньше у него была старая машина — теперь у него новая машина."},
+    {"de": "Sie hatte früher ein altes Auto – jetzt hat sie ein neues Auto.", "ru": "Раньше у неё была старая машина — теперь у неё новая машина."},
+    {"de": "Wir hatten früher ein altes Auto – jetzt haben wir ein neues Auto.", "ru": "Раньше у нас была старая машина — теперь у нас новая машина."},
+    {"de": "Ihr hattet früher ein altes Auto – jetzt habt ihr ein neues Auto.", "ru": "Раньше у вас была старая машина — теперь у вас новая машина."},
+    {"de": "Sie hatten früher ein altes Auto – jetzt haben sie ein neues Auto.", "ru": "Раньше у них была старая машина — теперь у них новая машина."},
+    {"de": "Ich hatte früher einen Bruder – heute habe ich zwei Brüder.", "ru": "Раньше у меня был один брат — сегодня у меня два брата."},
+    {"de": "Ich hatte früher ein kleines Haus – heute habe ich ein großes Haus.", "ru": "Раньше у меня был маленький дом — сегодня у меня большой дом."},
+    {"de": "Ich hatte früher einen Freund – heute habe ich viele Freunde.", "ru": "Раньше у меня был один друг — сегодня у меня много друзей."},
+    {"de": "Ich hatte vor, zu Hause zu bleiben.", "ru": "Я собирался остаться дома."},
+    {"de": "Ich hatte vor, heute ins Kino zu gehen.", "ru": "Я собирался сегодня пойти в кино."},
+    {"de": "Was hattest du heute vor?", "ru": "Что ты сегодня планировал?"},
+    {"de": "Ich war früher arm – heute bin ich reich.", "ru": "Раньше я был бедным — сегодня я богат."},
+    {"de": "Ich war früher jung – heute bin ich alt.", "ru": "Раньше я был молодым — сегодня я старый."},
+    {"de": "Ich dachte, dass ich besser Deutsch sprechen kann.", "ru": "Я думал, что говорю по-немецки лучше."},
+    {"de": "Du dachtest, dass du besser Deutsch sprechen kannst.", "ru": "Ты думал, что говоришь по-немецки лучше."},
+    {"de": "Er dachte, dass er besser Deutsch sprechen kann.", "ru": "Он думал, что говорит по-немецки лучше."},
+    {"de": "Sie dachte, dass sie besser Deutsch sprechen kann.", "ru": "Она думала, что говорит по-немецки лучше."},
+    {"de": "Wir dachten, dass wir besser Deutsch sprechen können.", "ru": "Мы думали, что говорим по-немецки лучше."},
+    {"de": "Ihr dachtet, dass ihr besser Deutsch sprechen könnt.", "ru": "Вы думали, что говорите по-немецки лучше."},
+    {"de": "Sie dachten, dass sie besser Deutsch sprechen können.", "ru": "Они думали, что говорят по-немецки лучше."},
+    {"de": "Ich wusste nicht, dass ich so gut Basketball spielen kann.", "ru": "Я не знал, что могу так хорошо играть в баскетбол."},
+    {"de": "Ich meinte, dass ich auch helfen kann.", "ru": "Я имел в виду, что я тоже могу помочь."},
+    {"de": "Ich sagte, dass ich einverstanden bin.", "ru": "Я сказал, что согласен."},
+    {"de": "Ich fragte, ob ich auch kommen darf.", "ru": "Я спросил, можно ли мне тоже прийти."},
+    {"de": "Früher gab es hier einen großen Wald.", "ru": "Раньше здесь был большой лес."},
+    {"de": "Früher gab es hier einen schönen Strand.", "ru": "Раньше здесь был красивый пляж."},
+    {"de": "Früher gab es hier einen guten Spielplatz.", "ru": "Раньше здесь была хорошая детская площадка."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich ___ gestern zu Hause. (sein)", "options": ["bin", "war", "warst", "waren"], "answer": 1, "explain": "sein в Präteritum: ich war."},
+    {"type": "choice", "q": "Du ___ früher ein altes Auto. (haben)", "options": ["hatte", "hattest", "hattet", "hast"], "answer": 1, "explain": "du hattest — окончание -st."},
+    {"type": "gap", "q": "Wir ___ keine Zeit. (haben)", "answer": ["hatten"], "explain": "wir hatten"},
+    {"type": "gap", "q": "Ihr ___ gestern im Kino. (sein)", "answer": ["wart"], "explain": "ihr wart (без -e-!)"},
+    {"type": "gap", "q": "Er ___ den ganzen Tag. (arbeiten)", "answer": ["arbeitete"], "explain": "Основа на -t → вставное -e-: arbeit-e-te."},
+    {"type": "gap", "q": "Wir ___ Fußball. (spielen)", "answer": ["spielten"], "explain": "Слабый глагол: spiel-te-n."},
+    {"type": "choice", "q": "Gestern ___ wir ins Theater. (gehen)", "options": ["gehten", "gingen", "gangen", "gingten"], "answer": 1, "explain": "gehen — сильный глагол: ging, wir gingen."},
+    {"type": "choice", "q": "Der Bus ___ zu spät. (kommen)", "options": ["kommte", "kam", "kamte", "kommt"], "answer": 1, "explain": "kommen – kam – gekommen."},
+    {"type": "gap", "q": "Ich ___, dass du Recht hast. (denken)", "answer": ["dachte"], "explain": "Смешанный глагол: denken → dachte."},
+    {"type": "gap", "q": "Sie ___ nicht, wo er wohnt. (wissen)", "answer": ["wusste"], "explain": "wissen → wusste (смешанный)."},
+    {"type": "choice", "q": "Früher gab es hier ___ Strand.", "options": ["ein", "einen", "einem", "eines"], "answer": 1, "explain": "После es gab — Akkusativ: einen Strand."},
+    {"type": "gap", "q": "Früher ___ es hier einen großen Wald. (geben)", "answer": ["gab"], "explain": "es gibt → es gab."},
+    {"type": "translate", "q": "Раньше у меня была старая машина.", "answer": ["Ich hatte früher ein altes Auto.", "Früher hatte ich ein altes Auto."], "explain": "haben → hatte; früher можно поставить на первое место (инверсия)."},
+    {"type": "translate", "q": "Раньше я был бедным, сегодня я богат.", "answer": ["Ich war früher arm, heute bin ich reich.", "Früher war ich arm, heute bin ich reich.", "Ich war früher arm – heute bin ich reich.", "Früher war ich arm – heute bin ich reich."], "explain": "Прошлое — war, настоящее — bin; после heute — инверсия."},
+    {"type": "translate", "q": "Я собирался пойти в кино.", "answer": ["Ich hatte vor, ins Kino zu gehen.", "Ich hatte vor ins Kino zu gehen."], "explain": "vorhaben → hatte … vor + zu + Infinitiv."},
+    {"type": "order", "q": "Составьте предложение", "words": ["hier", "früher", "einen Spielplatz", "es", "gab"], "answer": ["Früher gab es hier einen Spielplatz.", "Es gab früher hier einen Spielplatz.", "Hier gab es früher einen Spielplatz."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["dachten,", "wir", "dass", "können", "wir", "besser Deutsch sprechen"], "answer": ["Wir dachten, dass wir besser Deutsch sprechen können."]},
+    {"type": "translate", "q": "Я не знал, что он болен.", "answer": ["Ich wusste nicht, dass er krank ist.", "Ich wusste nicht, dass er krank war."], "explain": "wissen → wusste; в придаточном с dass глагол в конце."},
+    {"type": "translate", "q": "Что ты сегодня планировал?", "answer": ["Was hattest du heute vor?"], "explain": "vorhaben: приставка vor уходит в конец."}
+  ]
+}

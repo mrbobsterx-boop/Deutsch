@@ -1,0 +1,111 @@
+{
+  "id": 48,
+  "title": "Союзы indem и so dass / sodass",
+  "level": "B2",
+  "goal": "Ученик умеет выражать способ действия (indem — «тем, что», «благодаря тому, что») и следствие (so dass — «так что»), а также отличает их от ohne … zu.",
+  "minutes": 45,
+  "theory": [
+    {
+      "h": "Indem: способ действия",
+      "html": "<p><span class=\"de\">indem</span> отвечает на вопрос <b>wie? / auf welche Weise?</b> — <b>каким образом?</b> В русском это часто деепричастие («экономя», «работая») или «тем, что / благодаря тому, что».</p><ul><li><span class=\"de\">Ich spare Geld, indem ich mein Auto selbst repariere.</span> — Я экономлю деньги, ремонтируя машину сам.</li><li><span class=\"de\">Man kann erfolgreich werden, indem man hart arbeitet.</span> — Можно добиться успеха, усердно работая.</li></ul><p><span class=\"de\">indem</span> вводит придаточное — глагол в <b>конце</b>. Подлежащее в обеих частях обычно одно и то же.</p><div class=\"note\">Вопрос-проверка: <span class=\"de\">Wie lernst du so schnell Deutsch?</span> — <span class=\"de\">Indem ich jeden Tag zuhöre und nachspreche.</span></div><p>Синоним в разговорной речи: <span class=\"de\">dadurch, dass</span>: <span class=\"de\">Ich spare Geld dadurch, dass ich selbst koche.</span></p>"
+    },
+    {
+      "h": "So dass / sodass: следствие",
+      "html": "<p><span class=\"de\">so dass</span> (или слитно <span class=\"de\">sodass</span> — обе формы правильны) = «так что», «вследствие чего». Придаточное показывает <b>результат</b> действия главного предложения.</p><ul><li><span class=\"de\">Ich fahre immer mit der U-Bahn, sodass ich ein Buch lesen kann.</span> — Я всегда езжу на метро, так что могу читать книгу.</li><li><span class=\"de\">Es regnete stark, so dass wir zu Hause blieben.</span> — Шёл сильный дождь, так что мы остались дома.</li></ul><p>Часто <span class=\"de\">so</span> ставят перед прилагательным в главном предложении, а <span class=\"de\">dass</span> открывает придаточное: «настолько …, что»:</p><ul><li><span class=\"de\">Er war so müde, dass er sofort einschlief.</span> — Он был так устал, что сразу уснул.</li><li><span class=\"de\">Der Film war so langweilig, dass ich gegangen bin.</span></li></ul><div class=\"note\">Придаточное с <span class=\"de\">so dass</span> всегда стоит <b>после</b> главного: нельзя начать предложение с «Sodass…».</div>"
+    },
+    {
+      "h": "Ohne … zu и ohne dass",
+      "html": "<p>В фразах курса к этому уроку много конструкций <span class=\"de\">ohne … zu</span> (урок 40) — «не сделав что-то», «без того чтобы». Сравним с <span class=\"de\">indem</span>:</p><table><tr><th>Конструкция</th><th>Значение</th><th>Пример</th></tr><tr><td>indem …</td><td>делая что-то (способ)</td><td><span class=\"de\">Ich lerne, indem ich Videos sehe.</span></td></tr><tr><td>ohne … zu + Inf.</td><td>не делая что-то</td><td><span class=\"de\">Er ging weg, ohne sich zu verabschieden.</span></td></tr><tr><td>ohne dass …</td><td>без того чтобы (другое подлежащее)</td><td><span class=\"de\">Er ging weg, ohne dass ich es merkte.</span></td></tr></table><p>Порядок в <span class=\"de\">ohne … zu</span>: <b>zu</b> перед инфинитивом в конце; у отделяемых глаголов — внутри: <span class=\"de\">ohne meine Tasche mit<b>zu</b>nehmen</span>, <span class=\"de\">ohne eine Versicherung ab<b>zu</b>schließen</span>. Возвратное местоимение — сразу после ohne: <span class=\"de\">ohne mich zu verabschieden</span>.</p>"
+    },
+    {
+      "h": "Порядок слов: краткая памятка",
+      "html": "<ol><li>Главное предложение + <span class=\"de\">, indem</span> + … + глагол в конце.</li><li>Если <span class=\"de\">indem</span>-часть идёт первой — главное начинается с глагола: <span class=\"de\">Indem man täglich übt, lernt man schnell.</span></li><li>Модальный глагол в придаточном — в самом конце: <span class=\"de\">…, sodass ich ein Buch lesen <u>kann</u>.</span></li><li>Перед <span class=\"de\">indem</span>, <span class=\"de\">so dass</span>, <span class=\"de\">ohne</span> ставится запятая.</li></ol>"
+    }
+  ],
+  "tips": [
+    "Русское деепричастие «делая что-то» (как? каким способом?) часто переводится через indem: Он похудел, занимаясь спортом — Er hat abgenommen, indem er Sport gemacht hat.",
+    "Не путайте indem и in dem: «in dem Haus» — «в этом доме», «indem» — союз, пишется слитно.",
+    "Sodass = so dass. Выберите одно написание и придерживайтесь его в тексте.",
+    "«Не попрощавшись» — ohne mich/dich/sich zu verabschieden, а не «nicht verabschiedend»."
+  ],
+  "examples": [
+    {"de": "Er hat abgenommen, indem er jeden Tag Sport gemacht hat.", "ru": "Он похудел, занимаясь спортом каждый день."},
+    {"de": "Wie hast du die Wohnung gefunden? — Indem ich jeden Tag im Internet gesucht habe.", "ru": "Как ты нашёл квартиру? — Каждый день искал в интернете."},
+    {"de": "Du kannst mir helfen, indem du einfach zuhörst.", "ru": "Ты можешь мне помочь, просто выслушав меня."},
+    {"de": "Indem man viel liest, erweitert man seinen Wortschatz.", "ru": "Много читая, расширяешь свой словарный запас."},
+    {"de": "Der Zug hatte Verspätung, sodass ich zu spät kam.", "ru": "Поезд опоздал, так что я пришёл слишком поздно."},
+    {"de": "Es war so kalt, dass wir nicht schwimmen konnten.", "ru": "Было так холодно, что мы не могли плавать."},
+    {"de": "Ich habe den Wecker gestellt, so dass ich nicht verschlafe.", "ru": "Я поставил будильник, так что не просплю."},
+    {"de": "Sie sprach sehr leise, sodass niemand sie verstand.", "ru": "Она говорила очень тихо, так что никто её не понял."},
+    {"de": "Er hat die Tür geöffnet, ohne anzuklopfen.", "ru": "Он открыл дверь, не постучав."},
+    {"de": "Sie hat das Haus verlassen, ohne dass jemand es bemerkt hat.", "ru": "Она вышла из дома так, что никто этого не заметил."}
+  ],
+  "vocab": [
+    {"de": "indem", "ru": "тем, что; (делая) так, что — способ действия"},
+    {"de": "so dass / sodass", "ru": "так что"},
+    {"de": "so …, dass", "ru": "настолько …, что"},
+    {"de": "ohne … zu", "ru": "не делая, без того чтобы"},
+    {"de": "sparen", "ru": "экономить, копить"},
+    {"de": "die Süßigkeit", "pl": "die Süßigkeiten", "ru": "сладость"},
+    {"de": "erfolgreich", "ru": "успешный"},
+    {"de": "der Markt", "pl": "die Märkte", "ru": "рынок"},
+    {"de": "etwas auf den Markt bringen", "ru": "выпустить что-л. на рынок"},
+    {"de": "zuhören", "ru": "слушать, выслушивать"},
+    {"de": "nachsprechen", "forms": "spricht nach, sprach nach, hat nachgesprochen", "ru": "повторять (за кем-л.)"},
+    {"de": "die Versicherung", "pl": "die Versicherungen", "ru": "страховка"},
+    {"de": "eine Versicherung abschließen", "forms": "schließt ab, schloss ab, hat abgeschlossen", "ru": "оформить страховку"},
+    {"de": "verpassen", "ru": "пропускать"},
+    {"de": "grüßen", "ru": "здороваться, приветствовать"},
+    {"de": "sich verabschieden", "ru": "прощаться"},
+    {"de": "wegrennen", "forms": "rennt weg, rannte weg, ist weggerannt", "ru": "убегать"},
+    {"de": "die Rede", "pl": "die Reden", "ru": "речь, выступление"},
+    {"de": "auswendig lernen", "ru": "учить наизусть"},
+    {"de": "der Eindruck", "pl": "die Eindrücke", "ru": "впечатление"},
+    {"de": "das Benzin", "ru": "бензин"},
+    {"de": "die U-Bahn", "pl": "die U-Bahnen", "ru": "метро"}
+  ],
+  "phrasesNote": "Закрепляем indem (способ действия), so dass (следствие) и повторяем ohne … zu.",
+  "phrases": [
+    {"de": "Man kann Geld sparen, indem man keine Süßigkeiten kauft.", "ru": "Можно экономить деньги, не покупая сладостей."},
+    {"de": "Man kann erfolgreich werden, indem man hart arbeitet.", "ru": "Можно добиться успеха, усердно работая."},
+    {"de": "Man kann Deutsch am schnellsten lernen, indem man täglich Videos von Alex Becker sieht.", "ru": "Быстрее всего можно выучить немецкий, ежедневно смотря видео Алекса Беккера."},
+    {"de": "Ich spare Geld, indem ich mein Auto selbst repariere.", "ru": "Я экономлю деньги, сам ремонтируя свою машину."},
+    {"de": "Ich kann erfolgreich werden, indem ich etwas Neues auf den Markt bringe.", "ru": "Я могу добиться успеха, выпустив на рынок что-то новое."},
+    {"de": "Ich lerne Deutsch ganz schnell, indem ich zuhöre und nachspreche.", "ru": "Я очень быстро учу немецкий, слушая и повторяя."},
+    {"de": "Ich kann nicht zur Arbeit gehen, ohne zu joggen.", "ru": "Я не могу пойти на работу, не сделав пробежку."},
+    {"de": "Ich reise nie, ohne eine gute Versicherung abzuschließen.", "ru": "Я никогда не путешествую, не оформив хорошую страховку."},
+    {"de": "Ich gehe nicht ins Bett, ohne das letzte Video von meinem Lieblingsblogger zu sehen.", "ru": "Я не ложусь спать, не посмотрев последнее видео моего любимого блогера."},
+    {"de": "Ich stehe immer sehr früh auf, ohne fünf Minuten im Bett zu bleiben.", "ru": "Я всегда встаю очень рано, не задерживаясь в кровати ни на пять минут."},
+    {"de": "Ich besuche jedes Training, ohne ein einziges Mal zu verpassen.", "ru": "Я хожу на каждую тренировку, не пропуская ни разу."},
+    {"de": "Ich gehe an meinem Freund vorbei, ohne ihn zu grüßen.", "ru": "Я прохожу мимо своего друга, не поздоровавшись с ним."},
+    {"de": "Ich gehe schnell nach Hause, ohne mich zu verabschieden.", "ru": "Я быстро ухожу домой, не попрощавшись."},
+    {"de": "Ich rannte weg, ohne meine Tasche mitzunehmen.", "ru": "Я убежал, не взяв с собой сумку."},
+    {"de": "Ich habe meine Rede auswendig gelernt, so dass ich einen guten Eindruck machen kann.", "ru": "Я выучил свою речь наизусть, так что смогу произвести хорошее впечатление."},
+    {"de": "Ich lernte jeden Tag Deutsch, so dass ich die Prüfung schon in einem Monat bestehen konnte.", "ru": "Я учил немецкий каждый день, так что смог сдать экзамен уже через месяц."},
+    {"de": "Ich habe hart trainiert, so dass ich den ersten Platz belegen kann.", "ru": "Я усердно тренировался, так что могу занять первое место."},
+    {"de": "Ich reise immer mit meinem Auto, so dass ich viel Geld für Benzin brauche.", "ru": "Я всегда путешествую на своей машине, так что мне нужно много денег на бензин."},
+    {"de": "Ich fahre immer mit der U-Bahn, so dass ich ein Buch lesen kann.", "ru": "Я всегда езжу на метро, так что могу читать книгу."},
+    {"de": "Ich komme gleich nach der Arbeit nach Hause, so dass ich noch die Champions League sehen kann.", "ru": "Я прихожу домой сразу после работы, так что ещё успеваю посмотреть Лигу чемпионов."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich spare Geld, ___ ich mein Auto selbst repariere.", "options": ["indem", "sodass", "ohne"], "answer": 0, "explain": "Способ действия (как?) — indem."},
+    {"type": "choice", "q": "Ich fahre mit der U-Bahn, ___ ich ein Buch lesen kann.", "options": ["indem", "so dass", "ohne"], "answer": 1, "explain": "Следствие — so dass."},
+    {"type": "choice", "q": "Er war ___ müde, dass er sofort einschlief.", "options": ["so", "sodass", "indem"], "answer": 0, "explain": "so + прилагательное …, dass — «настолько …, что»."},
+    {"type": "choice", "q": "Ich rannte weg, ohne meine Tasche ___.", "options": ["zu mitnehmen", "mitzunehmen", "mitnehmen"], "answer": 1, "explain": "У отделяемых глаголов zu внутри: mitzunehmen."},
+    {"type": "choice", "q": "Man lernt schnell, indem man täglich ___.", "options": ["übt", "üben", "zu üben"], "answer": 0, "explain": "indem + спрягаемый глагол в конце."},
+    {"type": "choice", "q": "Wie bist du so fit geworden? — ___ ich jeden Tag jogge.", "options": ["Sodass", "Indem", "Ohne"], "answer": 1, "explain": "Ответ на вопрос «как?» — indem."},
+    {"type": "gap", "q": "Man kann erfolgreich werden, ___ man hart arbeitet.", "answer": ["indem"], "explain": "Способ — indem."},
+    {"type": "gap", "q": "Ich reise nie, ohne eine Versicherung ___. (abschließen)", "answer": ["abzuschließen"], "explain": "ohne … zu с отделяемым глаголом."},
+    {"type": "gap", "q": "Ich gehe schnell nach Hause, ohne ___ zu verabschieden.", "answer": ["mich"], "explain": "ich → mich verabschieden."},
+    {"type": "gap", "q": "Es regnete stark, ___ wir zu Hause blieben.", "answer": ["sodass", "so dass"], "explain": "Следствие — sodass / so dass."},
+    {"type": "gap", "q": "Ich habe hart trainiert, so dass ich den ersten Platz belegen ___. (können)", "answer": ["kann"], "explain": "Модальный глагол в конце придаточного."},
+    {"type": "gap", "q": "Ich gehe an meinem Freund vorbei, ohne ihn zu ___. (grüßen)", "answer": ["grüßen"], "explain": "ohne … zu + инфинитив."},
+    {"type": "translate", "q": "Я экономлю деньги, сам ремонтируя свою машину.", "answer": ["Ich spare Geld, indem ich mein Auto selbst repariere.", "Ich spare Geld, indem ich selbst mein Auto repariere.", "Ich spare Geld, indem ich mein Auto selber repariere.", "Ich spare Geld, indem ich selber mein Auto repariere."], "explain": "indem + глагол в конце."},
+    {"type": "translate", "q": "Я всегда езжу на метро, так что могу читать книгу.", "answer": ["Ich fahre immer mit der U-Bahn, so dass ich ein Buch lesen kann.", "Ich fahre immer mit der U-Bahn, sodass ich ein Buch lesen kann."], "explain": "so dass — следствие."},
+    {"type": "translate", "q": "Я убежал, не взяв с собой сумку.", "answer": ["Ich rannte weg, ohne meine Tasche mitzunehmen.", "Ich bin weggerannt, ohne meine Tasche mitzunehmen.", "Ich rannte weg, ohne die Tasche mitzunehmen."], "explain": "ohne … mitzunehmen."},
+    {"type": "translate", "q": "Было так холодно, что мы не могли плавать.", "answer": ["Es war so kalt, dass wir nicht schwimmen konnten."], "explain": "so …, dass."},
+    {"type": "order", "q": "Составьте предложение", "words": ["indem", "Ich", "Deutsch", "lerne", "zuhöre", "ich", "und nachspreche", "ganz schnell,"], "answer": ["Ich lerne Deutsch ganz schnell, indem ich zuhöre und nachspreche."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["auswendig gelernt,", "Ich", "machen kann", "habe", "so dass", "meine Rede", "einen guten Eindruck", "ich"], "answer": ["Ich habe meine Rede auswendig gelernt, so dass ich einen guten Eindruck machen kann."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ins Bett,", "Ich", "zu sehen", "nicht", "das letzte Video", "gehe", "ohne"], "answer": ["Ich gehe nicht ins Bett, ohne das letzte Video zu sehen."]}
+  ]
+}

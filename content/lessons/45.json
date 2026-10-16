@@ -1,0 +1,112 @@
+{
+  "id": 45,
+  "title": "Konjunktiv II в прошедшем времени, als ob",
+  "level": "B1",
+  "goal": "Ученик умеет говорить о несбывшемся в прошлом (hätte gemacht, wäre gegangen), строить фразы «я должен был бы / мог бы» с модальными глаголами и сравнения с als ob.",
+  "minutes": 55,
+  "theory": [
+    {
+      "h": "Konjunktiv II прошедшего времени: как образуется",
+      "html": "<p>В уроке 41 мы говорили о нереальном в <b>настоящем</b>: <span class=\"de\">Wenn ich Zeit hätte, würde ich kommen.</span> Теперь — о нереальном в <b>прошлом</b>: то, что могло бы случиться, но <i>не случилось</i>.</p><p>Формула: <b>hätte / wäre + Partizip II</b>. Выбор между hätte и wäre — как в Perfekt (haben → hätte, sein → wäre).</p><table><tr><th>Perfekt (реальность)</th><th>Konjunktiv II Vergangenheit</th></tr><tr><td><span class=\"de\">Ich habe gelernt.</span></td><td><span class=\"de\">Ich hätte gelernt.</span> — Я бы выучил.</td></tr><tr><td><span class=\"de\">Ich bin gekommen.</span></td><td><span class=\"de\">Ich wäre gekommen.</span> — Я бы пришёл.</td></tr><tr><td><span class=\"de\">Ich habe Geld gehabt.</span></td><td><span class=\"de\">Ich hätte Geld gehabt.</span> — У меня были бы деньги.</td></tr><tr><td><span class=\"de\">Ich bin krank gewesen.</span></td><td><span class=\"de\">Ich wäre krank gewesen.</span> — Я был бы болен.</td></tr></table><table><tr><th></th><th>haben</th><th>sein</th></tr><tr><td>ich</td><td>hätte</td><td>wäre</td></tr><tr><td>du</td><td>hättest</td><td>wär(e)st</td></tr><tr><td>er/sie/es</td><td>hätte</td><td>wäre</td></tr><tr><td>wir</td><td>hätten</td><td>wären</td></tr><tr><td>ihr</td><td>hättet</td><td>wär(e)t</td></tr><tr><td>sie/Sie</td><td>hätten</td><td>wären</td></tr></table>"
+    },
+    {
+      "h": "Условные предложения о прошлом",
+      "html": "<p>Обе части относятся к прошлому:</p><ul><li><span class=\"de\">Wenn ich rechtzeitig aufgestanden wäre, hätte ich auch gefrühstückt.</span> — Если бы я встал вовремя, я бы ещё и позавтракал.</li><li><span class=\"de\">Wenn ich zu Hause geblieben wäre, hätte es keinen Unfall gegeben.</span></li></ul><p><b>Смешанный тип</b>: условие в прошлом, а результат — сейчас. Тогда во второй части — Konjunktiv II настоящего (<span class=\"de\">könnte, müsste, wäre, hätte, würde + Inf.</span>):</p><ul><li><span class=\"de\">Wenn ich gestern meine Hausaufgaben gemacht hätte, könnte ich jetzt spazieren gehen.</span></li><li><span class=\"de\">Wenn ich in der Schule Deutsch gelernt hätte, müsste ich heute keine Kurse besuchen.</span></li></ul><div class=\"note\">Порядок слов как всегда: <span class=\"de\">wenn</span> — глагол в конец (<span class=\"de\">…gelernt hätte</span>), главное начинается со спрягаемого глагола (<span class=\"de\">hätte ich…, könnte ich…</span>).</div>"
+    },
+    {
+      "h": "Модальные глаголы: «должен был бы», «мог бы»",
+      "html": "<p>С модальными глаголами в прошлом используется <b>hätte + инфинитив смыслового глагола + инфинитив модального</b> (двойной инфинитив):</p><table><tr><th>Немецкий</th><th>Русский</th></tr><tr><td><span class=\"de\">Ich hätte arbeiten müssen.</span></td><td>Мне надо было работать (но я не работал).</td></tr><tr><td><span class=\"de\">Ich hätte helfen können.</span></td><td>Я мог бы помочь (но не помог).</td></tr><tr><td><span class=\"de\">Ich hätte kommen dürfen.</span></td><td>Мне можно было прийти.</td></tr><tr><td><span class=\"de\">Ich hätte arbeiten sollen.</span></td><td>Мне следовало бы работать.</td></tr><tr><td><span class=\"de\">Ich hätte dir helfen wollen.</span></td><td>Я хотел бы тебе помочь.</td></tr></table><p>Слово <span class=\"de\">eigentlich</span> («вообще-то, собственно») очень часто добавляют для упрёка самому себе: <span class=\"de\">Ich hätte eigentlich lernen müssen.</span></p><div class=\"note\">Всегда <b>hätte</b> (даже с глаголами движения!): <span class=\"de\">Ich hätte gehen müssen</span>, а не <span class=\"de\">wäre gehen müssen</span>. Модальный глагол стоит в самом конце.</div>"
+    },
+    {
+      "h": "Als ob / als wenn / als: «как будто»",
+      "html": "<p><span class=\"de\">als ob</span> вводит нереальное сравнение. Глагол в Konjunktiv II и стоит в конце:</p><ul><li><span class=\"de\">Er tut so, als ob er alles wüsste.</span> — Он делает вид, будто всё знает.</li><li><span class=\"de\">Sie sieht aus, als ob sie krank wäre.</span> — Она выглядит так, будто больна.</li></ul><p>О прошлом — с <span class=\"de\">hätte/wäre + Partizip II</span>:</p><ul><li><span class=\"de\">Er spricht, als ob er nie Deutsch gelernt hätte.</span></li><li><span class=\"de\">Du siehst aus, als ob du die ganze Nacht nicht geschlafen hättest.</span></li></ul><p>Вариант с одним <span class=\"de\">als</span> — глагол сразу после него: <span class=\"de\">Er tut so, als wüsste er alles.</span></p><p>Типичные вводные: <span class=\"de\">so tun, als ob</span> (делать вид), <span class=\"de\">aussehen, als ob</span> (выглядеть так, будто), <span class=\"de\">Es scheint, als ob…</span> (кажется, будто…).</p>"
+    }
+  ],
+  "tips": [
+    "«Я бы сделал вчера» — не würde gemacht, а hätte gemacht. Würde + Infinitiv используется для настоящего/будущего.",
+    "hätte или wäre — проверяйте по Perfekt: ich bin gegangen → ich wäre gegangen; ich habe gegessen → ich hätte gegessen.",
+    "С модальными — двойной инфинитив в самом конце: Ich hätte kommen können. В придаточном hätte стоит перед двойным инфинитивом: …, weil ich hätte arbeiten müssen.",
+    "После als ob — всегда Konjunktiv: Er tut so, als ob er krank wäre (а не ist)."
+  ],
+  "examples": [
+    {"de": "Wenn du mich angerufen hättest, wäre ich gekommen.", "ru": "Если бы ты мне позвонил, я бы пришёл."},
+    {"de": "Ich hätte das nie gedacht.", "ru": "Я бы никогда так не подумал."},
+    {"de": "Wenn wir den Zug genommen hätten, wären wir schon da.", "ru": "Если бы мы поехали на поезде, мы бы уже были на месте."},
+    {"de": "Du hättest mir das früher sagen sollen.", "ru": "Тебе следовало сказать мне это раньше."},
+    {"de": "Wir hätten gewinnen können.", "ru": "Мы могли бы выиграть."},
+    {"de": "Er tut so, als ob er mich nicht kennen würde.", "ru": "Он делает вид, будто не знает меня."},
+    {"de": "Sie sieht aus, als hätte sie im Lotto gewonnen.", "ru": "Она выглядит так, будто выиграла в лотерею."},
+    {"de": "Fast hätte ich den Bus verpasst.", "ru": "Я чуть не опоздал на автобус."},
+    {"de": "Wenn ich das gewusst hätte, wäre ich zu Hause geblieben.", "ru": "Если бы я это знал, я бы остался дома."},
+    {"de": "Hättest du mehr gelernt, hättest du die Prüfung bestanden.", "ru": "Если бы ты больше учился, ты бы сдал экзамен."}
+  ],
+  "vocab": [
+    {"de": "rechtzeitig", "ru": "вовремя, своевременно"},
+    {"de": "pünktlich", "ru": "пунктуальный, точно вовремя"},
+    {"de": "eigentlich", "ru": "вообще-то, собственно говоря"},
+    {"de": "damals", "ru": "тогда (в прошлом)"},
+    {"de": "aufhören mit + Dat", "ru": "прекращать, бросать (что-л.)"},
+    {"de": "bestellen", "ru": "заказывать"},
+    {"de": "schenken", "ru": "дарить"},
+    {"de": "aufstehen", "forms": "steht auf, stand auf, ist aufgestanden", "ru": "вставать"},
+    {"de": "frühstücken", "ru": "завтракать"},
+    {"de": "der Unfall", "pl": "die Unfälle", "ru": "авария, несчастный случай"},
+    {"de": "es gibt", "forms": "gab, hat gegeben", "ru": "есть, имеется"},
+    {"de": "die Karte", "pl": "die Karten", "ru": "билет; карта"},
+    {"de": "das Konzert", "pl": "die Konzerte", "ru": "концерт"},
+    {"de": "der Kurs", "pl": "die Kurse", "ru": "курс (обучения)"},
+    {"de": "die Hausaufgabe", "pl": "die Hausaufgaben", "ru": "домашнее задание"},
+    {"de": "als ob", "ru": "как будто, словно"},
+    {"de": "so tun, als ob", "ru": "делать вид, что"},
+    {"de": "aussehen", "forms": "sieht aus, sah aus, hat ausgesehen", "ru": "выглядеть"},
+    {"de": "verpassen", "ru": "пропустить, опоздать на"},
+    {"de": "das Trinken", "ru": "выпивка, употребление алкоголя"}
+  ],
+  "phrasesNote": "Закрепляем Konjunktiv II о прошлом (hätte/wäre + Partizip II), смешанные условные предложения и модальные глаголы: hätte … müssen/können/dürfen/wollen/sollen. Последние фразы — для als ob.",
+  "phrases": [
+    {"de": "Wenn ich meine Hausaufgaben gestern gemacht hätte, könnte ich jetzt spazieren gehen!", "ru": "Если бы я вчера сделал домашнее задание, я мог бы сейчас пойти погулять!"},
+    {"de": "Wenn ich letztes Jahr ein neues Auto gekauft hätte, hätte ich jetzt kein Geld!", "ru": "Если бы я в прошлом году купил новую машину, у меня сейчас не было бы денег!"},
+    {"de": "Wenn ich mit dem Trinken rechtzeitig aufgehört hätte, wäre ich heute nicht so krank!", "ru": "Если бы я вовремя бросил пить, я бы сегодня не был так болен!"},
+    {"de": "Wenn ich in der Schule Deutsch gelernt hätte, müsste ich heute keine Kurse besuchen!", "ru": "Если бы я учил немецкий в школе, мне не пришлось бы сейчас ходить на курсы!"},
+    {"de": "Wenn ich dieses Buch rechtzeitig bestellt hätte, könnte ich es dir schenken!", "ru": "Если бы я вовремя заказал эту книгу, я мог бы тебе её подарить!"},
+    {"de": "Wenn ich pünktlich gekommen wäre, hätte ich diese Arbeit bekommen können!", "ru": "Если бы я пришёл вовремя, я мог бы получить эту работу!"},
+    {"de": "Wenn ich rechtzeitig aufgestanden wäre, hätte ich auch gefrühstückt!", "ru": "Если бы я встал вовремя, я бы ещё и позавтракал!"},
+    {"de": "Wenn ich zu Hause geblieben wäre, hätte es keinen Unfall gegeben!", "ru": "Если бы я остался дома, аварии бы не было!"},
+    {"de": "Ich hätte eigentlich gestern arbeiten müssen, aber ich bin ins Kino gegangen.", "ru": "Вообще-то мне надо было вчера работать, но я пошёл в кино."},
+    {"de": "Ich hätte eigentlich Deutsch lernen müssen, ich war aber zu müde.", "ru": "Вообще-то мне надо было учить немецкий, но я слишком устал."},
+    {"de": "Ich hätte eigentlich meinem Bruder helfen können, aber ich bin zu Hause geblieben.", "ru": "Вообще-то я мог бы помочь брату, но остался дома."},
+    {"de": "Ich hätte dieses Auto kaufen können, wenn ich damals genug Geld gehabt hätte.", "ru": "Я мог бы купить эту машину, если бы у меня тогда было достаточно денег."},
+    {"de": "Ich hätte dieses Konzert besuchen können, wenn ich eine Karte gekauft hätte.", "ru": "Я мог бы пойти на этот концерт, если бы купил билет."},
+    {"de": "Ich hätte eigentlich kommen dürfen, ich wollte aber nicht.", "ru": "Вообще-то мне можно было прийти, но я не захотел."},
+    {"de": "Ich hätte dir helfen wollen, ich sollte aber auf der Arbeit bleiben.", "ru": "Я хотел бы тебе помочь, но мне нужно было оставаться на работе."},
+    {"de": "Ich hätte den ganzen Tag arbeiten sollen, ich habe aber PS4 gespielt.", "ru": "Мне следовало весь день работать, а я играл в PS4."},
+    {"de": "Er tut so, als ob er alles wüsste.", "ru": "Он делает вид, будто всё знает."},
+    {"de": "Sie sieht aus, als ob sie krank wäre.", "ru": "Она выглядит так, будто больна."},
+    {"de": "Du siehst aus, als ob du die ganze Nacht nicht geschlafen hättest.", "ru": "Ты выглядишь так, будто всю ночь не спал."},
+    {"de": "Er spricht Deutsch, als ob er in Berlin geboren wäre.", "ru": "Он говорит по-немецки так, будто родился в Берлине."},
+    {"de": "Es scheint, als ob niemand zu Hause wäre.", "ru": "Кажется, будто никого нет дома."},
+    {"de": "Sie tut so, als hätte sie mich nicht gesehen.", "ru": "Она делает вид, будто меня не видела."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Wenn ich rechtzeitig aufgestanden ___, hätte ich gefrühstückt.", "options": ["hätte", "wäre", "würde"], "answer": 1, "explain": "aufstehen — Perfekt с sein → wäre aufgestanden."},
+    {"type": "choice", "q": "Wenn ich mehr Geld gehabt ___, hätte ich das Auto gekauft.", "options": ["hätte", "wäre", "habe"], "answer": 0, "explain": "haben — Perfekt с haben → hätte gehabt."},
+    {"type": "choice", "q": "Ich ___ eigentlich arbeiten müssen.", "options": ["wäre", "würde", "hätte"], "answer": 2, "explain": "Модальные в прошлом — всегда hätte + двойной инфинитив."},
+    {"type": "choice", "q": "Er tut so, als ob er alles ___.", "options": ["weiß", "wüsste", "gewusst"], "answer": 1, "explain": "После als ob — Konjunktiv II: wüsste."},
+    {"type": "choice", "q": "Wenn ich in der Schule Deutsch gelernt hätte, ___ ich heute keine Kurse besuchen.", "options": ["müsste", "hätte gemusst", "musste"], "answer": 0, "explain": "Смешанный тип: результат в настоящем → müsste."},
+    {"type": "choice", "q": "Ich hätte dir helfen ___.", "options": ["gekonnt", "können", "kann"], "answer": 1, "explain": "Двойной инфинитив: helfen können."},
+    {"type": "gap", "q": "Wenn ich zu Hause geblieben ___, hätte es keinen Unfall gegeben.", "answer": ["wäre"], "explain": "bleiben → ist geblieben → wäre geblieben."},
+    {"type": "gap", "q": "Wenn du mich angerufen ___, wäre ich gekommen.", "answer": ["hättest"], "explain": "du hättest angerufen."},
+    {"type": "gap", "q": "Ich hätte eigentlich kommen ___, ich wollte aber nicht. (dürfen)", "answer": ["dürfen"], "explain": "Двойной инфинитив: kommen dürfen."},
+    {"type": "gap", "q": "Wir ___ fast den Zug verpasst. (haben)", "answer": ["hätten"], "explain": "fast hätten wir… — «чуть не»."},
+    {"type": "gap", "q": "Sie sieht aus, als ob sie krank ___. (sein)", "answer": ["wäre"], "explain": "als ob + Konjunktiv II: wäre."},
+    {"type": "gap", "q": "Wenn ich das gewusst hätte, ___ ich zu Hause geblieben.", "answer": ["wäre"], "explain": "bleiben → wäre geblieben."},
+    {"type": "translate", "q": "Если бы я это знал, я бы пришёл.", "answer": ["Wenn ich das gewusst hätte, wäre ich gekommen.", "Hätte ich das gewusst, wäre ich gekommen."], "explain": "Обе части — Konjunktiv II прошедшего."},
+    {"type": "translate", "q": "Мне надо было вчера работать.", "answer": ["Ich hätte gestern arbeiten müssen.", "Ich hätte eigentlich gestern arbeiten müssen.", "Gestern hätte ich arbeiten müssen."], "explain": "hätte + arbeiten müssen."},
+    {"type": "translate", "q": "Мы могли бы выиграть.", "answer": ["Wir hätten gewinnen können."], "explain": "hätten + gewinnen können."},
+    {"type": "translate", "q": "Он делает вид, будто всё знает.", "answer": ["Er tut so, als ob er alles wüsste.", "Er tut so, als wüsste er alles.", "Er tut so, als wenn er alles wüsste."], "explain": "als ob + глагол в конце; als + глагол сразу."},
+    {"type": "translate", "q": "Если бы я вчера сделал домашнее задание, я мог бы сейчас пойти погулять.", "answer": ["Wenn ich gestern meine Hausaufgaben gemacht hätte, könnte ich jetzt spazieren gehen.", "Wenn ich meine Hausaufgaben gestern gemacht hätte, könnte ich jetzt spazieren gehen.", "Hätte ich gestern meine Hausaufgaben gemacht, könnte ich jetzt spazieren gehen."], "explain": "Смешанный тип: прошлое условие, результат сейчас."},
+    {"type": "order", "q": "Составьте предложение", "words": ["Ich", "kaufen", "hätte", "können", "dieses Auto"], "answer": ["Ich hätte dieses Auto kaufen können."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["hätte", "wäre,", "Wenn", "ich", "auch gefrühstückt", "rechtzeitig aufgestanden", "ich"], "answer": ["Wenn ich rechtzeitig aufgestanden wäre, hätte ich auch gefrühstückt."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["aus,", "Du", "als ob", "siehst", "krank", "du", "wärest"], "answer": ["Du siehst aus, als ob du krank wärest."]}
+  ]
+}

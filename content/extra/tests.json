@@ -1,0 +1,2162 @@
+[
+ {
+  "id": "white",
+  "name": "Белый тест",
+  "afterLesson": 8,
+  "color": "#e8e8e8",
+  "sections": [
+   {
+    "title": "1. Переведите (haben, sein, род существительных)",
+    "items": [
+     {
+      "q": "У меня есть сестра. Она хорошая.",
+      "answer": [
+       "Ich habe eine Schwester. Sie ist gut."
+      ]
+     },
+     {
+      "q": "У тебя есть ребёнок. Он милый.",
+      "answer": [
+       "Du hast ein Kind. Es ist nett.",
+       "Du hast ein Kind. Es ist lieb.",
+       "Du hast ein Kind. Es ist süß."
+      ]
+     },
+     {
+      "q": "У него есть корабль. Он белый.",
+      "answer": [
+       "Er hat ein Schiff. Es ist weiß."
+      ]
+     },
+     {
+      "q": "У неё есть кукла. Она новая.",
+      "answer": [
+       "Sie hat eine Puppe. Sie ist neu."
+      ]
+     },
+     {
+      "q": "У нас есть велосипед. Он красивый.",
+      "answer": [
+       "Wir haben ein Rad. Es ist schön.",
+       "Wir haben ein Fahrrad. Es ist schön."
+      ]
+     },
+     {
+      "q": "У вас есть машина. Она старая.",
+      "answer": [
+       "Ihr habt ein Auto. Es ist alt.",
+       "Sie haben ein Auto. Es ist alt."
+      ]
+     },
+     {
+      "q": "У них есть друзья. Они весёлые.",
+      "answer": [
+       "Sie haben Freunde. Sie sind lustig."
+      ]
+     },
+     {
+      "q": "У них есть книга. Она интересная.",
+      "answer": [
+       "Sie haben ein Buch. Es ist interessant."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "2. Переведите (глаголы с изменяемой корневой гласной)",
+    "items": [
+     {
+      "q": "Я ем много. Она ест мало.",
+      "answer": [
+       "Ich esse viel. Sie isst wenig."
+      ]
+     },
+     {
+      "q": "Ты берёшь машину. Я беру велосипед.",
+      "answer": [
+       "Du nimmst ein Auto. Ich nehme ein Rad.",
+       "Du nimmst das Auto. Ich nehme das Rad.",
+       "Du nimmst ein Auto. Ich nehme ein Fahrrad.",
+       "Du nimmst das Auto. Ich nehme das Fahrrad."
+      ]
+     },
+     {
+      "q": "Он говорит громко. Я говорю тихо.",
+      "answer": [
+       "Er spricht laut. Ich spreche leise."
+      ]
+     },
+     {
+      "q": "Я вижу хорошо. Ты видишь плохо.",
+      "answer": [
+       "Ich sehe gut. Du siehst schlecht."
+      ]
+     },
+     {
+      "q": "Ты читаешь быстро. Мы читаем медленно.",
+      "answer": [
+       "Du liest schnell. Wir lesen langsam."
+      ]
+     },
+     {
+      "q": "Он помогает всегда. Ты помогаешь редко.",
+      "answer": [
+       "Er hilft immer. Du hilfst selten."
+      ]
+     },
+     {
+      "q": "Я ношу брюки. Она носит платье.",
+      "answer": [
+       "Ich trage die Hose. Sie trägt das Kleid.",
+       "Ich trage eine Hose. Sie trägt ein Kleid.",
+       "Ich trage die Hose. Sie trägt ein Kleid.",
+       "Ich trage eine Hose. Sie trägt das Kleid."
+      ]
+     },
+     {
+      "q": "Я ношу джинсы. Ты носишь рубашку.",
+      "answer": [
+       "Ich trage Jeans. Du trägst ein Hemd.",
+       "Ich trage Jeans. Du trägst das Hemd.",
+       "Ich trage die Jeans. Du trägst ein Hemd.",
+       "Ich trage die Jeans. Du trägst das Hemd."
+      ]
+     },
+     {
+      "q": "Мы едем сегодня. Он едет завтра.",
+      "answer": [
+       "Wir fahren heute. Er fährt morgen."
+      ]
+     },
+     {
+      "q": "Ты спишь много. Она спит мало.",
+      "answer": [
+       "Du schläfst viel. Sie schläft wenig."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "3. Переведите (используя модальные глаголы)",
+    "items": [
+     {
+      "q": "Я умею хорошо танцевать.",
+      "answer": [
+       "Ich kann gut tanzen."
+      ]
+     },
+     {
+      "q": "Мне можно громко петь.",
+      "answer": [
+       "Ich darf laut singen."
+      ]
+     },
+     {
+      "q": "Мы хотим играть.",
+      "answer": [
+       "Wir wollen spielen."
+      ]
+     },
+     {
+      "q": "Я хотел бы заказать книгу.",
+      "answer": [
+       "Ich möchte ein Buch bestellen.",
+       "Ich möchte das Buch bestellen."
+      ]
+     },
+     {
+      "q": "Она должна учить немецкий.",
+      "answer": [
+       "Sie muss Deutsch lernen."
+      ]
+     },
+     {
+      "q": "Ты обязан хорошо учиться.",
+      "answer": [
+       "Du sollst gut lernen."
+      ]
+     },
+     {
+      "q": "Мне нравится кола.",
+      "answer": [
+       "Ich mag Cola.",
+       "Ich mag die Cola."
+      ]
+     },
+     {
+      "q": "Ему нравится работать.",
+      "answer": [
+       "Er mag arbeiten.",
+       "Er arbeitet gern."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "4. Переведите (притяжательные местоимения)",
+    "items": [
+     {
+      "q": "Это его друг.",
+      "answer": [
+       "Das ist sein Freund."
+      ]
+     },
+     {
+      "q": "Мой друг хороший.",
+      "answer": [
+       "Mein Freund ist gut."
+      ]
+     },
+     {
+      "q": "Твоя сестра красивая.",
+      "answer": [
+       "Deine Schwester ist schön."
+      ]
+     },
+     {
+      "q": "Её квартира новая.",
+      "answer": [
+       "Ihre Wohnung ist neu."
+      ]
+     },
+     {
+      "q": "Наш дом большой.",
+      "answer": [
+       "Unser Haus ist groß."
+      ]
+     },
+     {
+      "q": "Их ребёнок милый.",
+      "answer": [
+       "Ihr Kind ist nett.",
+       "Ihr Kind ist lieb.",
+       "Ihr Kind ist süß."
+      ]
+     },
+     {
+      "q": "Ваш велосипед плохой.",
+      "answer": [
+       "Euer Fahrrad ist schlecht.",
+       "Euer Rad ist schlecht.",
+       "Ihr Fahrrad ist schlecht.",
+       "Ihr Rad ist schlecht."
+      ]
+     },
+     {
+      "q": "Моя шапка чистая.",
+      "answer": [
+       "Meine Mütze ist sauber."
+      ]
+     },
+     {
+      "q": "Твоё пальто грязное.",
+      "answer": [
+       "Dein Mantel ist schmutzig."
+      ]
+     },
+     {
+      "q": "Его куртка белая.",
+      "answer": [
+       "Seine Jacke ist weiß."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "5. Переведите (вопросы)",
+    "items": [
+     {
+      "q": "У тебя есть кошка?",
+      "answer": [
+       "Hast du eine Katze?"
+      ]
+     },
+     {
+      "q": "У него есть корабль?",
+      "answer": [
+       "Hat er ein Schiff?"
+      ]
+     },
+     {
+      "q": "Его сестра красивая?",
+      "answer": [
+       "Ist seine Schwester schön?"
+      ]
+     },
+     {
+      "q": "Твоя машина хорошая?",
+      "answer": [
+       "Ist dein Auto gut?"
+      ]
+     },
+     {
+      "q": "Ты ешь много?",
+      "answer": [
+       "Isst du viel?"
+      ]
+     },
+     {
+      "q": "Почему ты говоришь громко?",
+      "answer": [
+       "Warum sprichst du laut?",
+       "Warum sprichst du so laut?"
+      ]
+     },
+     {
+      "q": "Ты можешь быстро читать?",
+      "answer": [
+       "Kannst du schnell lesen?"
+      ]
+     },
+     {
+      "q": "Она читает быстро?",
+      "answer": [
+       "Liest sie schnell?"
+      ]
+     },
+     {
+      "q": "Он может помочь?",
+      "answer": [
+       "Kann er helfen?"
+      ]
+     },
+     {
+      "q": "Почему ты всегда носишь шапку?",
+      "answer": [
+       "Warum trägst du immer eine Mütze?",
+       "Warum trägst du immer die Mütze?"
+      ]
+     },
+     {
+      "q": "Это его друг?",
+      "answer": [
+       "Ist das sein Freund?"
+      ]
+     },
+     {
+      "q": "Её квартира новая?",
+      "answer": [
+       "Ist ihre Wohnung neu?"
+      ]
+     },
+     {
+      "q": "Его костюм дорогой?",
+      "answer": [
+       "Ist sein Anzug teuer?"
+      ]
+     },
+     {
+      "q": "Где ты живёшь?",
+      "answer": [
+       "Wo wohnst du?",
+       "Wo lebst du?"
+      ]
+     },
+     {
+      "q": "Что ты любишь делать?",
+      "answer": [
+       "Was magst du machen?",
+       "Was machst du gern?"
+      ]
+     },
+     {
+      "q": "Когда ты поможешь?",
+      "answer": [
+       "Wann hilfst du?"
+      ]
+     },
+     {
+      "q": "Откуда ты идёшь?",
+      "answer": [
+       "Woher gehst du?",
+       "Woher kommst du?"
+      ]
+     },
+     {
+      "q": "Куда ты едешь?",
+      "answer": [
+       "Wohin fährst du?"
+      ]
+     },
+     {
+      "q": "Как ты учишь немецкий?",
+      "answer": [
+       "Wie lernst du Deutsch?"
+      ]
+     },
+     {
+      "q": "Где мой шарф?",
+      "answer": [
+       "Wo ist mein Schal?"
+      ]
+     },
+     {
+      "q": "Ты продаёшь свою машину?",
+      "answer": [
+       "Verkaufst du dein Auto?"
+      ]
+     },
+     {
+      "q": "Она продаёт своё платье?",
+      "answer": [
+       "Verkauft sie ihr Kleid?"
+      ]
+     },
+     {
+      "q": "Вы хотите продать свой дом?",
+      "answer": [
+       "Wollt ihr euer Haus verkaufen?",
+       "Wollen Sie Ihr Haus verkaufen?"
+      ]
+     },
+     {
+      "q": "Что она делает?",
+      "answer": [
+       "Was macht sie?"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "yellow",
+  "name": "Жёлтый тест",
+  "afterLesson": 18,
+  "color": "#f5d742",
+  "sections": [
+   {
+    "title": "1. Переведите (отрицание)",
+    "items": [
+     {
+      "q": "Это не моя кошка.",
+      "answer": [
+       "Das ist nicht meine Katze."
+      ]
+     },
+     {
+      "q": "У меня нет брата.",
+      "answer": [
+       "Ich habe keinen Bruder."
+      ]
+     },
+     {
+      "q": "Она тебе не поможет.",
+      "answer": [
+       "Sie hilft dir nicht.",
+       "Sie wird dir nicht helfen."
+      ]
+     },
+     {
+      "q": "У него нет сестры.",
+      "answer": [
+       "Er hat keine Schwester."
+      ]
+     },
+     {
+      "q": "Это не его шапка.",
+      "answer": [
+       "Das ist nicht seine Mütze."
+      ]
+     },
+     {
+      "q": "Он ничего не понимает.",
+      "answer": [
+       "Er versteht nichts."
+      ]
+     },
+     {
+      "q": "Это не её куртка.",
+      "answer": [
+       "Das ist nicht ihre Jacke."
+      ]
+     },
+     {
+      "q": "Мы не пойдём в кино.",
+      "answer": [
+       "Wir gehen nicht ins Kino.",
+       "Wir werden nicht ins Kino gehen."
+      ]
+     },
+     {
+      "q": "Мы сегодня не поедем.",
+      "answer": [
+       "Wir fahren heute nicht.",
+       "Heute fahren wir nicht."
+      ]
+     },
+     {
+      "q": "Я не хочу его спрашивать.",
+      "answer": [
+       "Ich will ihn nicht fragen.",
+       "Ich möchte ihn nicht fragen."
+      ]
+     },
+     {
+      "q": "Он не хочет с ней говорить.",
+      "answer": [
+       "Er will nicht mit ihr sprechen.",
+       "Er will mit ihr nicht sprechen.",
+       "Er will nicht mit ihr reden.",
+       "Er will mit ihr nicht reden."
+      ]
+     },
+     {
+      "q": "Его фильм неплохой.",
+      "answer": [
+       "Sein Film ist nicht schlecht."
+      ]
+     },
+     {
+      "q": "Он не хочет нам помогать.",
+      "answer": [
+       "Er will uns nicht helfen."
+      ]
+     },
+     {
+      "q": "Твоя книжка неинтересная.",
+      "answer": [
+       "Dein Buch ist nicht interessant.",
+       "Dein Buch ist uninteressant."
+      ]
+     },
+     {
+      "q": "Я никогда не поеду с тобой.",
+      "answer": [
+       "Ich fahre nie mit dir.",
+       "Ich fahre niemals mit dir.",
+       "Ich werde nie mit dir fahren.",
+       "Ich fahre mit dir nie."
+      ]
+     },
+     {
+      "q": "Она нигде не хочет работать.",
+      "answer": [
+       "Sie will nirgendwo arbeiten.",
+       "Sie will nirgends arbeiten."
+      ]
+     },
+     {
+      "q": "Вы ничего не делаете.",
+      "answer": [
+       "Ihr macht nichts.",
+       "Sie machen nichts.",
+       "Ihr tut nichts."
+      ]
+     },
+     {
+      "q": "Мы никогда не купим собаку.",
+      "answer": [
+       "Wir kaufen nie einen Hund.",
+       "Wir werden nie einen Hund kaufen.",
+       "Wir kaufen niemals einen Hund.",
+       "Wir kaufen einen Hund nie."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "2. Переведите (время и даты: используйте Viertel, nach и vor, время пишите словами)",
+    "items": [
+     {
+      "q": "Он приедет в половине седьмого.",
+      "answer": [
+       "Er kommt um halb sieben."
+      ]
+     },
+     {
+      "q": "Фильм начнётся в 3:10.",
+      "answer": [
+       "Der Film beginnt um zehn nach drei."
+      ]
+     },
+     {
+      "q": "Я читаю книгу уже 3 часа.",
+      "answer": [
+       "Ich lese das Buch schon drei Stunden.",
+       "Ich lese dieses Buch schon drei Stunden.",
+       "Ich lese das Buch schon seit drei Stunden.",
+       "Ich lese schon drei Stunden ein Buch.",
+       "Ich lese schon seit drei Stunden ein Buch."
+      ]
+     },
+     {
+      "q": "Перерыв длится 2 часа.",
+      "answer": [
+       "Die Pause dauert zwei Stunden."
+      ]
+     },
+     {
+      "q": "Мы начинаем в 5:15.",
+      "answer": [
+       "Wir beginnen um Viertel nach fünf.",
+       "Wir fangen um Viertel nach fünf an."
+      ]
+     },
+     {
+      "q": "Они приедут в 5:50.",
+      "answer": [
+       "Sie kommen um zehn vor sechs."
+      ]
+     },
+     {
+      "q": "Во вторник я учу немецкий.",
+      "answer": [
+       "Am Dienstag lerne ich Deutsch.",
+       "Ich lerne am Dienstag Deutsch."
+      ]
+     },
+     {
+      "q": "В четверг я играю в футбол.",
+      "answer": [
+       "Am Donnerstag spiele ich Fußball.",
+       "Ich spiele am Donnerstag Fußball."
+      ]
+     },
+     {
+      "q": "В марте приедет мой друг.",
+      "answer": [
+       "Im März kommt mein Freund.",
+       "Mein Freund kommt im März."
+      ]
+     },
+     {
+      "q": "В декабре мы много читаем.",
+      "answer": [
+       "Im Dezember lesen wir viel.",
+       "Wir lesen im Dezember viel."
+      ]
+     },
+     {
+      "q": "Кант родился в 1724 году.",
+      "answer": [
+       "Kant ist im Jahre 1724 geboren.",
+       "Kant ist 1724 geboren.",
+       "Kant wurde 1724 geboren.",
+       "Kant wurde im Jahre 1724 geboren.",
+       "Kant wurde im Jahr 1724 geboren."
+      ]
+     },
+     {
+      "q": "Шевченко родился в 1814 году.",
+      "answer": [
+       "Schewtschenko ist im Jahre 1814 geboren.",
+       "Schewtschenko ist 1814 geboren.",
+       "Schewtschenko wurde 1814 geboren.",
+       "Schewtschenko wurde im Jahre 1814 geboren.",
+       "Schewtschenko wurde im Jahr 1814 geboren."
+      ]
+     },
+     {
+      "q": "Когда ты родился?",
+      "answer": [
+       "Wann bist du geboren?",
+       "Wann wurdest du geboren?"
+      ]
+     },
+     {
+      "q": "Когда родился Чехов?",
+      "answer": [
+       "Wann ist Tschechow geboren?",
+       "Wann wurde Tschechow geboren?"
+      ]
+     },
+     {
+      "q": "Чехов родился в 1860-м.",
+      "answer": [
+       "Tschechow ist 1860 geboren.",
+       "Tschechow ist im Jahre 1860 geboren.",
+       "Tschechow wurde 1860 geboren."
+      ]
+     },
+     {
+      "q": "Летом мы не ходим в школу.",
+      "answer": [
+       "Im Sommer gehen wir nicht in die Schule.",
+       "Wir gehen im Sommer nicht in die Schule."
+      ]
+     },
+     {
+      "q": "Осенью погода плохая.",
+      "answer": [
+       "Im Herbst ist das Wetter schlecht.",
+       "Das Wetter ist im Herbst schlecht."
+      ]
+     },
+     {
+      "q": "Весной хорошая погода.",
+      "answer": [
+       "Im Frühling ist das Wetter gut.",
+       "Das Wetter ist im Frühling gut.",
+       "Im Frühling ist das Wetter schön."
+      ]
+     },
+     {
+      "q": "У него день рождения 27 декабря.",
+      "answer": [
+       "Er hat am 27. Dezember Geburtstag.",
+       "Er hat Geburtstag am 27. Dezember.",
+       "Er hat am siebenundzwanzigsten Dezember Geburtstag."
+      ]
+     },
+     {
+      "q": "У неё день рождения 1 марта.",
+      "answer": [
+       "Sie hat am 1. März Geburtstag.",
+       "Sie hat Geburtstag am 1. März.",
+       "Sie hat am ersten März Geburtstag."
+      ]
+     },
+     {
+      "q": "У них день рождения 3 августа.",
+      "answer": [
+       "Sie haben am 3. August Geburtstag.",
+       "Sie haben Geburtstag am 3. August.",
+       "Sie haben am dritten August Geburtstag."
+      ]
+     },
+     {
+      "q": "У меня день рождения 12 мая.",
+      "answer": [
+       "Ich habe am 12. Mai Geburtstag.",
+       "Ich habe Geburtstag am 12. Mai.",
+       "Ich habe am zwölften Mai Geburtstag."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "3. Переведите (падежи, предлоги, Imperativ)",
+    "items": [
+     {
+      "q": "Мы не хотим с ними ехать.",
+      "answer": [
+       "Wir wollen nicht mit ihnen fahren.",
+       "Wir wollen mit ihnen nicht fahren."
+      ]
+     },
+     {
+      "q": "Купи этот стол и этот стул!",
+      "answer": [
+       "Kauf diesen Tisch und diesen Stuhl!",
+       "Kaufe diesen Tisch und diesen Stuhl!"
+      ]
+     },
+     {
+      "q": "Алекс играет против своего друга.",
+      "answer": [
+       "Alex spielt gegen seinen Freund."
+      ]
+     },
+     {
+      "q": "Приходи ко мне в три.",
+      "answer": [
+       "Komm zu mir um drei.",
+       "Komm um drei zu mir.",
+       "Komm um drei Uhr zu mir.",
+       "Komm zu mir um drei Uhr."
+      ]
+     },
+     {
+      "q": "Работай без неё!",
+      "answer": [
+       "Arbeite ohne sie!",
+       "Arbeit ohne sie!"
+      ]
+     },
+     {
+      "q": "Она не хочет с нами играть.",
+      "answer": [
+       "Sie will nicht mit uns spielen.",
+       "Sie will mit uns nicht spielen."
+      ]
+     },
+     {
+      "q": "С кем она хочет играть?",
+      "answer": [
+       "Mit wem will sie spielen?"
+      ]
+     },
+     {
+      "q": "Она хочет играть со своими друзьями.",
+      "answer": [
+       "Sie will mit ihren Freunden spielen.",
+       "Sie will mit ihren Freundinnen spielen."
+      ]
+     },
+     {
+      "q": "Спи хорошо!",
+      "answer": [
+       "Schlaf gut!",
+       "Schlafe gut!"
+      ]
+     },
+     {
+      "q": "Он сегодня не придёт домой.",
+      "answer": [
+       "Er kommt heute nicht nach Hause.",
+       "Heute kommt er nicht nach Hause."
+      ]
+     },
+     {
+      "q": "Ответь мне сегодня!",
+      "answer": [
+       "Antworte mir heute!"
+      ]
+     },
+     {
+      "q": "Подари ей ручку.",
+      "answer": [
+       "Schenk ihr einen Füller.",
+       "Schenke ihr einen Füller.",
+       "Schenk ihr einen Kuli.",
+       "Schenk ihr einen Stift.",
+       "Schenk ihr einen Kugelschreiber."
+      ]
+     },
+     {
+      "q": "Будь сильным и не бойся!",
+      "answer": [
+       "Sei stark und hab keine Angst!",
+       "Sei stark und habe keine Angst!"
+      ]
+     },
+     {
+      "q": "Его машина мне нравится.",
+      "answer": [
+       "Sein Auto gefällt mir.",
+       "Mir gefällt sein Auto."
+      ]
+     },
+     {
+      "q": "Помоги своей бабушке!",
+      "answer": [
+       "Hilf deiner Oma!",
+       "Hilf deiner Großmutter!"
+      ]
+     },
+     {
+      "q": "Они никогда не помогают своим родителям.",
+      "answer": [
+       "Sie helfen ihren Eltern nie.",
+       "Sie helfen nie ihren Eltern.",
+       "Sie helfen ihren Eltern niemals."
+      ]
+     },
+     {
+      "q": "Положи ручку на стол.",
+      "answer": [
+       "Leg den Füller auf den Tisch.",
+       "Lege den Füller auf den Tisch.",
+       "Leg den Kuli auf den Tisch.",
+       "Leg den Stift auf den Tisch."
+      ]
+     },
+     {
+      "q": "Ручка лежит на столе.",
+      "answer": [
+       "Der Füller liegt auf dem Tisch.",
+       "Der Kuli liegt auf dem Tisch.",
+       "Der Stift liegt auf dem Tisch."
+      ]
+     },
+     {
+      "q": "Повесь картину на стену.",
+      "answer": [
+       "Häng das Bild an die Wand.",
+       "Hänge das Bild an die Wand."
+      ]
+     },
+     {
+      "q": "Картина висит на стене.",
+      "answer": [
+       "Das Bild hängt an der Wand."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "orange",
+  "name": "Оранжевый тест",
+  "afterLesson": 25,
+  "color": "#f5a142",
+  "sections": [
+   {
+    "title": "1. Переведите (Artikelwörter, dass)",
+    "items": [
+     {
+      "q": "Ты знаешь этого ребёнка?",
+      "answer": [
+       "Kennst du dieses Kind?"
+      ]
+     },
+     {
+      "q": "Кто живёт в этом доме?",
+      "answer": [
+       "Wer wohnt in diesem Haus?"
+      ]
+     },
+     {
+      "q": "Ты знаешь, что каждый день важен?",
+      "answer": [
+       "Weißt du, dass jeder Tag wichtig ist?"
+      ]
+     },
+     {
+      "q": "Он говорит с каждым ребёнком.",
+      "answer": [
+       "Er spricht mit jedem Kind."
+      ]
+     },
+     {
+      "q": "Какое платье тебе нравится?",
+      "answer": [
+       "Welches Kleid gefällt dir?"
+      ]
+     },
+     {
+      "q": "Какое пальто ему нравится?",
+      "answer": [
+       "Welcher Mantel gefällt ihm?"
+      ]
+     },
+     {
+      "q": "Ты знаешь, что он учит немецкий?",
+      "answer": [
+       "Weißt du, dass er Deutsch lernt?"
+      ]
+     },
+     {
+      "q": "Ты должен купить какую-нибудь шапку.",
+      "answer": [
+       "Du musst irgendeine Mütze kaufen.",
+       "Du sollst irgendeine Mütze kaufen."
+      ]
+     },
+     {
+      "q": "Многие дети хотят iPhone.",
+      "answer": [
+       "Viele Kinder wollen ein iPhone.",
+       "Viele Kinder wollen iPhone.",
+       "Viele Kinder möchten ein iPhone."
+      ]
+     },
+     {
+      "q": "Некоторые дети хотят Sony.",
+      "answer": [
+       "Einige Kinder wollen Sony.",
+       "Manche Kinder wollen Sony.",
+       "Einige Kinder wollen ein Sony."
+      ]
+     },
+     {
+      "q": "Мы должны посетить все страны.",
+      "answer": [
+       "Wir müssen alle Länder besuchen."
+      ]
+     },
+     {
+      "q": "Я знаю здесь всех детей.",
+      "answer": [
+       "Ich kenne hier alle Kinder.",
+       "Ich kenne alle Kinder hier."
+      ]
+     },
+     {
+      "q": "Он знает, что многие дети учат английский.",
+      "answer": [
+       "Er weiß, dass viele Kinder Englisch lernen."
+      ]
+     },
+     {
+      "q": "Я знаю, что некоторые дети учат немецкий.",
+      "answer": [
+       "Ich weiß, dass einige Kinder Deutsch lernen.",
+       "Ich weiß, dass manche Kinder Deutsch lernen."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "2. Переведите (степени сравнения, отделяемые приставки, возвратные глаголы)",
+    "items": [
+     {
+      "q": "Он всегда встаёт раньше, чем ты. Она встаёт раньше всех.",
+      "answer": [
+       "Er steht immer früher auf als du. Sie steht am frühesten auf.",
+       "Er steht immer früher auf, als du. Sie steht am frühesten auf."
+      ]
+     },
+     {
+      "q": "Она выглядит лучше, чем я. Ты выглядишь лучше всех.",
+      "answer": [
+       "Sie sieht besser aus als ich. Du siehst am besten aus.",
+       "Sie sieht besser aus, als ich. Du siehst am besten aus."
+      ]
+     },
+     {
+      "q": "Я засыпаю позже, чем ты. Завтра я могу долго спать.",
+      "answer": [
+       "Ich schlafe später ein als du. Morgen darf ich lange schlafen.",
+       "Ich schlafe später ein, als du. Morgen darf ich lange schlafen.",
+       "Ich schlafe später ein als du. Morgen kann ich lange schlafen."
+      ]
+     },
+     {
+      "q": "Он засыпает раньше всех. Ему надо рано вставать.",
+      "answer": [
+       "Er schläft am frühesten ein. Er muss früh aufstehen."
+      ]
+     },
+     {
+      "q": "Мы пригласим больше друзей, чем ты.",
+      "answer": [
+       "Wir laden mehr Freunde ein als du.",
+       "Wir laden mehr Freunde ein, als du.",
+       "Wir werden mehr Freunde einladen als du."
+      ]
+     },
+     {
+      "q": "Моя квартира выглядит больше. Поэтому я радуюсь.",
+      "answer": [
+       "Meine Wohnung sieht größer aus. Deshalb freue ich mich.",
+       "Meine Wohnung sieht größer aus. Darum freue ich mich."
+      ]
+     },
+     {
+      "q": "Этот дом выглядит выше. Мы будем там жить.",
+      "answer": [
+       "Dieses Haus sieht höher aus. Wir werden dort wohnen.",
+       "Dieses Haus sieht größer aus. Wir werden dort wohnen.",
+       "Dieses Haus sieht höher aus. Wir werden da wohnen."
+      ]
+     },
+     {
+      "q": "То здание выглядит лучше. Мы его покупаем.",
+      "answer": [
+       "Jenes Gebäude sieht besser aus. Wir kaufen es.",
+       "Das Gebäude dort sieht besser aus. Wir kaufen es."
+      ]
+     },
+     {
+      "q": "Когда ты побреешься? Твоя борода такая длинная!",
+      "answer": [
+       "Wann rasierst du dich? Dein Bart ist so lang!"
+      ]
+     },
+     {
+      "q": "Я не хочу бриться. У меня нет времени.",
+      "answer": [
+       "Ich will mich nicht rasieren. Ich habe keine Zeit."
+      ]
+     },
+     {
+      "q": "Почему ты сомневаешься? Ты сильнее, чем он.",
+      "answer": [
+       "Warum zweifelst du? Du bist stärker als er.",
+       "Warum zweifelst du? Du bist stärker, als er."
+      ]
+     },
+     {
+      "q": "Тебе нельзя сомневаться. Это сделает тебя слабым.",
+      "answer": [
+       "Du darfst nicht zweifeln. Das macht dich schwach."
+      ]
+     },
+     {
+      "q": "Иногда можно подурачиться. Это не так плохо.",
+      "answer": [
+       "Manchmal darf man sich amüsieren. Das ist nicht so schlimm.",
+       "Manchmal kann man sich amüsieren. Das ist nicht so schlimm.",
+       "Manchmal darf man herumalbern. Das ist nicht so schlimm."
+      ]
+     },
+     {
+      "q": "Вы должны радоваться. Мы побеждаем.",
+      "answer": [
+       "Ihr müsst euch freuen. Wir gewinnen."
+      ]
+     },
+     {
+      "q": "Ты можешь себе представить, что она его уже знает?",
+      "answer": [
+       "Kannst du dir vorstellen, dass sie ihn schon kennt?"
+      ]
+     },
+     {
+      "q": "Ты можешь себе представить, что он играет лучше, чем я?",
+      "answer": [
+       "Kannst du dir vorstellen, dass er besser spielt als ich?",
+       "Kannst du dir vorstellen, dass er besser als ich spielt?"
+      ]
+     },
+     {
+      "q": "Когда мы встретимся? Мы встречаемся в 7.",
+      "answer": [
+       "Wann treffen wir uns? Wir treffen uns um 7.",
+       "Wann treffen wir uns? Wir treffen uns um sieben.",
+       "Wann treffen wir uns? Wir treffen uns um 7 Uhr."
+      ]
+     },
+     {
+      "q": "Мы хотим немного отдохнуть. Мы устали.",
+      "answer": [
+       "Wir wollen uns ein bisschen erholen. Wir sind müde.",
+       "Wir wollen uns ein wenig erholen. Wir sind müde."
+      ]
+     },
+     {
+      "q": "Ты обязательно должен сегодня отдохнуть!",
+      "answer": [
+       "Du musst dich heute unbedingt erholen!",
+       "Du musst dich unbedingt heute erholen!"
+      ]
+     },
+     {
+      "q": "Я хочу помыться. Когда я могу помыться?",
+      "answer": [
+       "Ich will mich waschen. Wann darf ich mich waschen?",
+       "Ich will mich waschen. Wann kann ich mich waschen?"
+      ]
+     },
+     {
+      "q": "Я надеваю рубашку. Ты надеваешь платье.",
+      "answer": [
+       "Ich ziehe das Hemd an. Du ziehst das Kleid an.",
+       "Ich ziehe ein Hemd an. Du ziehst ein Kleid an."
+      ]
+     },
+     {
+      "q": "Она одевается быстро. Её подруга одевается медленно.",
+      "answer": [
+       "Sie zieht sich schnell an. Ihre Freundin zieht sich langsam an."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "3. Переведите (Futur I, es gibt, man, безличные предложения)",
+    "items": [
+     {
+      "q": "Возможно, завтра мы купим стол.",
+      "answer": [
+       "Möglicherweise kaufen wir morgen den Tisch.",
+       "Möglicherweise kaufen wir morgen einen Tisch.",
+       "Vielleicht kaufen wir morgen einen Tisch.",
+       "Vielleicht kaufen wir morgen den Tisch."
+      ]
+     },
+     {
+      "q": "Мы поедем в Германию завтра в три.",
+      "answer": [
+       "Wir fahren morgen um drei nach Deutschland.",
+       "Wir fahren morgen um 3 nach Deutschland.",
+       "Wir fahren morgen um drei Uhr nach Deutschland."
+      ]
+     },
+     {
+      "q": "В следующем году я, наверное, буду учить немецкий.",
+      "answer": [
+       "Nächstes Jahr werde ich wahrscheinlich Deutsch lernen.",
+       "Im nächsten Jahr werde ich wahrscheinlich Deutsch lernen."
+      ]
+     },
+     {
+      "q": "В этом городе есть церковь.",
+      "answer": [
+       "In dieser Stadt gibt es eine Kirche."
+      ]
+     },
+     {
+      "q": "Скоро она будет учиться в школе.",
+      "answer": [
+       "Bald wird sie in der Schule lernen.",
+       "Sie wird bald in der Schule lernen."
+      ]
+     },
+     {
+      "q": "Когда-нибудь я буду учиться в Германии.",
+      "answer": [
+       "Irgendwann werde ich in Deutschland lernen.",
+       "Irgendwann werde ich in Deutschland studieren."
+      ]
+     },
+     {
+      "q": "В этом городе есть 2 музея.",
+      "answer": [
+       "In dieser Stadt gibt es zwei Museen.",
+       "In dieser Stadt gibt es 2 Museen."
+      ]
+     },
+     {
+      "q": "Я должен встать завтра утром в 7.",
+      "answer": [
+       "Ich muss morgen früh um 7 aufstehen.",
+       "Ich muss morgen früh um sieben aufstehen.",
+       "Ich muss morgen früh um 7 Uhr aufstehen."
+      ]
+     },
+     {
+      "q": "Мы немедленно поедем в школу.",
+      "answer": [
+       "Wir fahren sofort in die Schule.",
+       "Wir fahren sofort zur Schule."
+      ]
+     },
+     {
+      "q": "Возможно, завтра будет тепло.",
+      "answer": [
+       "Vielleicht wird es morgen warm.",
+       "Möglicherweise wird es morgen warm."
+      ]
+     },
+     {
+      "q": "Вероятно, завтра будет идти дождь.",
+      "answer": [
+       "Wahrscheinlich wird es morgen regnen."
+      ]
+     },
+     {
+      "q": "Послезавтра погода точно будет хорошей.",
+      "answer": [
+       "Übermorgen wird das Wetter sicher gut.",
+       "Übermorgen wird das Wetter sicher gut sein."
+      ]
+     },
+     {
+      "q": "В этой школе есть актовый зал.",
+      "answer": [
+       "In dieser Schule gibt es eine Aula."
+      ]
+     },
+     {
+      "q": "В какую игру здесь играют?",
+      "answer": [
+       "Welches Spiel spielt man hier?"
+      ]
+     },
+     {
+      "q": "Здесь нет актового зала.",
+      "answer": [
+       "Hier gibt es keine Aula."
+      ]
+     },
+     {
+      "q": "Здесь играют в баскетбол.",
+      "answer": [
+       "Hier spielt man Basketball."
+      ]
+     },
+     {
+      "q": "Надо много работать.",
+      "answer": [
+       "Man muss viel arbeiten."
+      ]
+     },
+     {
+      "q": "Можно сделать это завтра.",
+      "answer": [
+       "Man kann das morgen machen.",
+       "Man kann es morgen machen."
+      ]
+     },
+     {
+      "q": "В этом доме нет телефона.",
+      "answer": [
+       "In diesem Haus gibt es kein Telefon."
+      ]
+     },
+     {
+      "q": "Здесь можно курить.",
+      "answer": [
+       "Hier darf man rauchen.",
+       "Man darf hier rauchen."
+      ]
+     },
+     {
+      "q": "Сейчас тепло. Завтра будет холодно.",
+      "answer": [
+       "Jetzt ist es warm. Morgen wird es kalt.",
+       "Jetzt ist es warm. Morgen wird es kalt sein."
+      ]
+     },
+     {
+      "q": "Здесь есть столовая?",
+      "answer": [
+       "Gibt es hier eine Kantine?",
+       "Gibt es hier eine Mensa?"
+      ]
+     },
+     {
+      "q": "Сейчас идёт дождь. Завтра дождя не будет.",
+      "answer": [
+       "Jetzt regnet es. Morgen wird es nicht regnen."
+      ]
+     },
+     {
+      "q": "В библиотеке много книг.",
+      "answer": [
+       "In der Bibliothek gibt es viele Bücher."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "green",
+  "name": "Зелёный тест",
+  "afterLesson": 35,
+  "color": "#5cb85c",
+  "sections": [
+   {
+    "title": "1. Переведите (Präteritum модальных, Perfekt, придаточные dass/weil/ob/wenn/als)",
+    "items": [
+     {
+      "q": "Они сказали, что хотели купить квартиру ещё в прошлом году.",
+      "answer": [
+       "Sie sagten, dass sie die Wohnung schon letztes Jahr kaufen wollten.",
+       "Sie sagten, dass sie die Wohnung noch letztes Jahr kaufen wollten.",
+       "Sie haben gesagt, dass sie die Wohnung schon letztes Jahr kaufen wollten.",
+       "Sie sagten, dass sie schon letztes Jahr eine Wohnung kaufen wollten.",
+       "Sie sagten, dass sie schon im letzten Jahr eine Wohnung kaufen wollten."
+      ]
+     },
+     {
+      "q": "Я с ним не разговариваю, потому что он мне не помог.",
+      "answer": [
+       "Ich spreche nicht mit ihm, weil er mir nicht geholfen hat.",
+       "Ich spreche mit ihm nicht, weil er mir nicht geholfen hat.",
+       "Ich rede nicht mit ihm, weil er mir nicht geholfen hat."
+      ]
+     },
+     {
+      "q": "Мы знали, что нам нельзя было отдыхать.",
+      "answer": [
+       "Wir wussten, dass wir uns nicht erholen durften."
+      ]
+     },
+     {
+      "q": "Он был уверен, что этот концерт нельзя было пропустить.",
+      "answer": [
+       "Er war sicher, dass man dieses Konzert nicht verpassen durfte.",
+       "Er war sich sicher, dass man dieses Konzert nicht verpassen durfte."
+      ]
+     },
+     {
+      "q": "Я тебе не позвонил, потому что не знал твой номер.",
+      "answer": [
+       "Ich habe dich nicht angerufen, weil ich deine Nummer nicht kannte.",
+       "Ich habe dich nicht angerufen, weil ich deine Nummer nicht wusste."
+      ]
+     },
+     {
+      "q": "Я думаю, что ты должен был ему помочь.",
+      "answer": [
+       "Ich denke, dass du ihm helfen musstest.",
+       "Ich denke, dass du ihm helfen solltest."
+      ]
+     },
+     {
+      "q": "Он не сказал нам, куда она уехала.",
+      "answer": [
+       "Er hat uns nicht gesagt, wohin sie gefahren ist.",
+       "Er sagte uns nicht, wohin sie gefahren ist."
+      ]
+     },
+     {
+      "q": "Он рассказал нам, что вчера случилось.",
+      "answer": [
+       "Er hat uns erzählt, was gestern passiert ist.",
+       "Er erzählte uns, was gestern passiert ist.",
+       "Er hat uns erzählt, was gestern geschehen ist."
+      ]
+     },
+     {
+      "q": "Она сказала, что хочет остаться дома.",
+      "answer": [
+       "Sie hat gesagt, dass sie zu Hause bleiben will.",
+       "Sie sagte, dass sie zu Hause bleiben will.",
+       "Sie hat gesagt, dass sie zu Hause bleiben möchte."
+      ]
+     },
+     {
+      "q": "Почему ты осталась дома?",
+      "answer": [
+       "Warum bist du zu Hause geblieben?"
+      ]
+     },
+     {
+      "q": "Когда мне было 10 лет, я впервые поехал в Германию.",
+      "answer": [
+       "Als ich 10 Jahre alt war, bin ich zum ersten Mal nach Deutschland gefahren.",
+       "Als ich zehn Jahre alt war, bin ich zum ersten Mal nach Deutschland gefahren.",
+       "Als ich 10 war, bin ich zum ersten Mal nach Deutschland gefahren.",
+       "Als ich 10 Jahre alt war, fuhr ich zum ersten Mal nach Deutschland."
+      ]
+     },
+     {
+      "q": "Когда я много работаю, я быстро устаю.",
+      "answer": [
+       "Wenn ich viel arbeite, werde ich schnell müde."
+      ]
+     },
+     {
+      "q": "Мы сомневаемся, сможем ли мы приехать вовремя.",
+      "answer": [
+       "Wir zweifeln, ob wir pünktlich kommen können.",
+       "Wir zweifeln, ob wir rechtzeitig kommen können."
+      ]
+     },
+     {
+      "q": "Я не знаю, сможет ли он тебе помочь.",
+      "answer": [
+       "Ich weiß nicht, ob er dir helfen kann."
+      ]
+     },
+     {
+      "q": "Я не знал, когда он должен был приехать.",
+      "answer": [
+       "Ich wusste nicht, wann er kommen musste.",
+       "Ich wusste nicht, wann er kommen sollte."
+      ]
+     },
+     {
+      "q": "Он не сказал, когда вернётся домой.",
+      "answer": [
+       "Er hat nicht gesagt, wann er nach Hause zurückkommt.",
+       "Er sagte nicht, wann er nach Hause zurückkommt.",
+       "Er hat nicht gesagt, wann er nach Hause kommt."
+      ]
+     },
+     {
+      "q": "Когда он вернётся домой, он обязательно с тобой поговорит.",
+      "answer": [
+       "Wenn er nach Hause zurückkommt, spricht er unbedingt mit dir.",
+       "Wenn er nach Hause zurückkommt, spricht er mit dir unbedingt.",
+       "Wenn er nach Hause zurückkommt, wird er unbedingt mit dir sprechen."
+      ]
+     },
+     {
+      "q": "Он ему не сказал, какую машину они купили в Германии.",
+      "answer": [
+       "Er hat ihm nicht gesagt, welches Auto sie in Deutschland gekauft haben."
+      ]
+     },
+     {
+      "q": "Я не знал, что ты тоже учишь немецкий.",
+      "answer": [
+       "Ich wusste nicht, dass du auch Deutsch lernst."
+      ]
+     },
+     {
+      "q": "Я не знал, что я ещё мог сделать.",
+      "answer": [
+       "Ich wusste nicht, was ich noch machen konnte.",
+       "Ich wusste nicht, was ich noch tun konnte."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "2. Переведите (um … zu, damit, Infinitiv + zu, lassen)",
+    "items": [
+     {
+      "q": "Он учит немецкий, чтобы учиться в Германии в университете.",
+      "answer": [
+       "Er lernt Deutsch, um in Deutschland an der Uni zu studieren.",
+       "Er lernt Deutsch, um in Deutschland an der Universität zu studieren."
+      ]
+     },
+     {
+      "q": "Он помогает родителям, чтобы они работали меньше.",
+      "answer": [
+       "Er hilft den Eltern, damit sie weniger arbeiten.",
+       "Er hilft seinen Eltern, damit sie weniger arbeiten."
+      ]
+     },
+     {
+      "q": "Мама помогает дочери, чтобы она не получила плохую оценку.",
+      "answer": [
+       "Mama hilft der Tochter, damit sie keine schlechte Note bekommt.",
+       "Die Mutter hilft der Tochter, damit sie keine schlechte Note bekommt.",
+       "Mama hilft ihrer Tochter, damit sie keine schlechte Note bekommt."
+      ]
+     },
+     {
+      "q": "Отец тренирует сына, чтобы он стал сильнее и быстрее.",
+      "answer": [
+       "Der Vater trainiert den Sohn, damit er stärker und schneller wird.",
+       "Der Vater trainiert seinen Sohn, damit er stärker und schneller wird."
+      ]
+     },
+     {
+      "q": "Я сейчас пойду куплю торт.",
+      "answer": [
+       "Ich gehe gleich eine Torte kaufen.",
+       "Ich gehe jetzt eine Torte kaufen.",
+       "Ich gehe gleich einen Kuchen kaufen."
+      ]
+     },
+     {
+      "q": "Я попробую прийти вовремя.",
+      "answer": [
+       "Ich versuche pünktlich zu kommen.",
+       "Ich versuche, pünktlich zu kommen.",
+       "Ich versuche rechtzeitig zu kommen.",
+       "Ich versuche, rechtzeitig zu kommen."
+      ]
+     },
+     {
+      "q": "У меня нет желания сегодня работать.",
+      "answer": [
+       "Ich habe keine Lust heute zu arbeiten.",
+       "Ich habe keine Lust, heute zu arbeiten.",
+       "Ich habe heute keine Lust zu arbeiten."
+      ]
+     },
+     {
+      "q": "Ты можешь мне помочь 1 сентября?",
+      "answer": [
+       "Kannst du mir am 1. September helfen?",
+       "Kannst du mir am ersten September helfen?"
+      ]
+     },
+     {
+      "q": "Я поеду за покупками.",
+      "answer": [
+       "Ich fahre einkaufen.",
+       "Ich gehe einkaufen."
+      ]
+     },
+     {
+      "q": "Я останусь дома работать.",
+      "answer": [
+       "Ich bleibe zu Hause arbeiten.",
+       "Ich bleibe zu Hause und arbeite."
+      ]
+     },
+     {
+      "q": "Он позволил ей победить.",
+      "answer": [
+       "Er ließ sie gewinnen.",
+       "Er hat sie gewinnen lassen."
+      ]
+     },
+     {
+      "q": "Она позволила ему уйти.",
+      "answer": [
+       "Sie ließ ihn gehen.",
+       "Sie hat ihn gehen lassen."
+      ]
+     },
+     {
+      "q": "Это невозможно — выучить немецкий так быстро.",
+      "answer": [
+       "Das ist unmöglich, Deutsch so schnell zu erlernen.",
+       "Das ist unmöglich, Deutsch so schnell zu lernen.",
+       "Es ist unmöglich, Deutsch so schnell zu lernen.",
+       "Es ist unmöglich, Deutsch so schnell zu erlernen."
+      ]
+     },
+     {
+      "q": "Это очень тяжело — каждый день вставать в пять утра.",
+      "answer": [
+       "Das ist sehr schwer, jeden Tag um 5 Uhr morgens aufzustehen.",
+       "Das ist sehr schwer, jeden Tag um fünf Uhr morgens aufzustehen.",
+       "Es ist sehr schwer, jeden Tag um 5 Uhr morgens aufzustehen.",
+       "Es ist sehr schwer, jeden Tag um fünf Uhr morgens aufzustehen."
+      ]
+     },
+     {
+      "q": "Легко всегда только советовать.",
+      "answer": [
+       "Es ist leicht, immer nur Ratschläge zu geben.",
+       "Es ist leicht immer nur Ratschläge zu geben.",
+       "Es ist leicht, immer nur Rat zu geben."
+      ]
+     },
+     {
+      "q": "Ты поможешь мне донести сумку?",
+      "answer": [
+       "Hilfst du mir, die Tasche zu tragen?",
+       "Hilfst du mir die Tasche tragen?",
+       "Hilfst du mir die Tasche zu tragen?",
+       "Hilfst du mir, die Tasche zu holen?"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "3. Переведите (страны: in, nach, aus)",
+    "items": [
+     {
+      "q": "Он всегда хотел жить в США.",
+      "answer": [
+       "Er wollte immer in den USA wohnen.",
+       "Er wollte immer in den USA leben."
+      ]
+     },
+     {
+      "q": "Она всегда хотела поехать в Швейцарию.",
+      "answer": [
+       "Sie wollte immer in die Schweiz fahren."
+      ]
+     },
+     {
+      "q": "Мы всегда хотели жить в Нидерландах.",
+      "answer": [
+       "Wir wollten immer in den Niederlanden wohnen.",
+       "Wir wollten immer in den Niederlanden leben."
+      ]
+     },
+     {
+      "q": "Я не мог поехать с тобой в Украину.",
+      "answer": [
+       "Ich konnte nicht mit dir in die Ukraine fahren.",
+       "Ich konnte mit dir nicht in die Ukraine fahren."
+      ]
+     },
+     {
+      "q": "Завтра мы летим во Францию.",
+      "answer": [
+       "Morgen fliegen wir nach Frankreich.",
+       "Wir fliegen morgen nach Frankreich."
+      ]
+     },
+     {
+      "q": "Я ещё не был в Швейцарии.",
+      "answer": [
+       "Ich war noch nicht in der Schweiz.",
+       "Ich bin noch nicht in der Schweiz gewesen."
+      ]
+     },
+     {
+      "q": "Когда ты поедешь в Турцию?",
+      "answer": [
+       "Wann fährst du in die Türkei?"
+      ]
+     },
+     {
+      "q": "Я много раз был в Австрии!",
+      "answer": [
+       "Ich war vielmals in Österreich!",
+       "Ich war oft in Österreich!",
+       "Ich war viele Male in Österreich!",
+       "Ich war schon oft in Österreich!"
+      ]
+     },
+     {
+      "q": "Когда они вернутся из Турции?",
+      "answer": [
+       "Wann kommen sie aus der Türkei zurück?"
+      ]
+     },
+     {
+      "q": "Зачем ты поехал в США?",
+      "answer": [
+       "Warum bist du in die USA gefahren?",
+       "Wozu bist du in die USA gefahren?",
+       "Warum bist du in die USA geflogen?"
+      ]
+     },
+     {
+      "q": "Он живёт в США уже много лет.",
+      "answer": [
+       "Er wohnt schon viele Jahre in den USA.",
+       "Er wohnt in den USA schon viele Jahre.",
+       "Er lebt schon viele Jahre in den USA.",
+       "Er lebt schon seit vielen Jahren in den USA."
+      ]
+     },
+     {
+      "q": "Я никогда не был в Турции.",
+      "answer": [
+       "Ich war nie in der Türkei.",
+       "Ich war noch nie in der Türkei."
+      ]
+     },
+     {
+      "q": "Он хочет жить в Швейцарии.",
+      "answer": [
+       "Er will in der Schweiz leben.",
+       "Er will in der Schweiz wohnen."
+      ]
+     },
+     {
+      "q": "Мы живём в Украине.",
+      "answer": [
+       "Wir leben in der Ukraine.",
+       "Wir wohnen in der Ukraine."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "black",
+  "name": "Чёрный тест (финальный)",
+  "afterLesson": 50,
+  "color": "#222222",
+  "sections": [
+   {
+    "title": "1. Переведите (Passiv)",
+    "items": [
+     {
+      "q": "Машина моего отца была вчера продана.",
+      "answer": [
+       "Das Auto meines Vaters wurde gestern verkauft.",
+       "Das Auto von meinem Vater wurde gestern verkauft."
+      ]
+     },
+     {
+      "q": "Квартира её мамы была убрана.",
+      "answer": [
+       "Die Wohnung ihrer Mutter wurde aufgeräumt.",
+       "Die Wohnung ihrer Mama wurde aufgeräumt."
+      ]
+     },
+     {
+      "q": "Этот стадион будет построен в следующем году.",
+      "answer": [
+       "Dieses Stadion wird nächstes Jahr gebaut.",
+       "Dieses Stadion wird nächstes Jahr gebaut werden.",
+       "Dieses Stadion wird im nächsten Jahr gebaut."
+      ]
+     },
+     {
+      "q": "Многие книги этого автора были прочитаны мной.",
+      "answer": [
+       "Viele Bücher von diesem Autor wurden von mir gelesen.",
+       "Viele Bücher dieses Autors wurden von mir gelesen."
+      ]
+     },
+     {
+      "q": "Вся работа была быстро сделана.",
+      "answer": [
+       "Die ganze Arbeit wurde schnell gemacht.",
+       "Die ganze Arbeit wurde schnell erledigt."
+      ]
+     },
+     {
+      "q": "Что уже было сделано, чтобы улучшить жизнь народа?",
+      "answer": [
+       "Was wurde schon gemacht, um das Leben des Volkes zu verbessern?",
+       "Was wurde schon getan, um das Leben des Volkes zu verbessern?"
+      ]
+     },
+     {
+      "q": "Дом этого парня будет построен, когда у меня будет больше времени.",
+      "answer": [
+       "Das Haus dieses Jungen wird gebaut, wenn ich mehr Zeit haben werde.",
+       "Das Haus dieses Jungen wird gebaut, wenn ich mehr Zeit habe."
+      ]
+     },
+     {
+      "q": "Нам задали так много домашней работы.",
+      "answer": [
+       "Uns wurden so viele Hausaufgaben gegeben.",
+       "Es wurden uns so viele Hausaufgaben gegeben.",
+       "Uns wurden so viele Hausaufgaben aufgegeben."
+      ]
+     },
+     {
+      "q": "Этот вопрос будет задан президенту завтра.",
+      "answer": [
+       "Diese Frage wird dem Präsidenten morgen gestellt.",
+       "Diese Frage wird morgen dem Präsidenten gestellt."
+      ]
+     },
+     {
+      "q": "Эта операция была проведена хорошим врачом.",
+      "answer": [
+       "Diese Operation wurde vom guten Arzt durchgeführt.",
+       "Diese Operation wurde von einem guten Arzt durchgeführt."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "2. Переведите (Partizip I и Partizip II как определение)",
+    "items": [
+     {
+      "q": "Плачущая девочка была обижена.",
+      "answer": [
+       "Das weinende Mädchen wurde beleidigt.",
+       "Das weinende Mädchen war beleidigt."
+      ]
+     },
+     {
+      "q": "Кричащий мальчик победил.",
+      "answer": [
+       "Der schreiende Junge hat gewonnen.",
+       "Der schreiende Junge gewann."
+      ]
+     },
+     {
+      "q": "Купленная машина мне не понравилась.",
+      "answer": [
+       "Das gekaufte Auto hat mir nicht gefallen.",
+       "Das gekaufte Auto gefiel mir nicht."
+      ]
+     },
+     {
+      "q": "Просмотренный фильм был скучным.",
+      "answer": [
+       "Der gesehene Film war langweilig.",
+       "Der angesehene Film war langweilig.",
+       "Der angeschaute Film war langweilig."
+      ]
+     },
+     {
+      "q": "Прочитанная книга была взята мной в библиотеке.",
+      "answer": [
+       "Das gelesene Buch wurde von mir in der Bibliothek genommen.",
+       "Das gelesene Buch wurde von mir in der Bibliothek ausgeliehen."
+      ]
+     },
+     {
+      "q": "Играющие дети улыбнулись мне.",
+      "answer": [
+       "Die spielenden Kinder lächelten mich an.",
+       "Spielende Kinder lächelten mich an.",
+       "Die spielenden Kinder haben mich angelächelt."
+      ]
+     },
+     {
+      "q": "Пишущие дети были очень внимательны.",
+      "answer": [
+       "Die schreibenden Kinder waren sehr aufmerksam.",
+       "Schreibende Kinder waren sehr aufmerksam."
+      ]
+     },
+     {
+      "q": "Читающие дети меня не слышали.",
+      "answer": [
+       "Die lesenden Kinder haben mich nicht gehört.",
+       "Lesende Kinder haben mich nicht gehört.",
+       "Die lesenden Kinder hörten mich nicht."
+      ]
+     },
+     {
+      "q": "Проезжающая машина мне понравилась.",
+      "answer": [
+       "Das fahrende Auto hat mir gefallen.",
+       "Das vorbeifahrende Auto hat mir gefallen.",
+       "Das fahrende Auto gefiel mir."
+      ]
+     },
+     {
+      "q": "Летящий самолёт был очень большим.",
+      "answer": [
+       "Das fliegende Flugzeug war sehr groß."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "3. Переведите (парные союзы)",
+    "items": [
+     {
+      "q": "Чем лучше я работаю, тем больше я зарабатываю.",
+      "answer": [
+       "Je besser ich arbeite, desto mehr verdiene ich.",
+       "Je besser ich arbeite, umso mehr verdiene ich."
+      ]
+     },
+     {
+      "q": "Он учит как английский, так и немецкий.",
+      "answer": [
+       "Er lernt sowohl Englisch als auch Deutsch.",
+       "Er lernt sowohl Englisch, als auch Deutsch."
+      ]
+     },
+     {
+      "q": "Я ем не дёнер, а пиццу.",
+      "answer": [
+       "Ich esse keinen Döner, sondern eine Pizza.",
+       "Ich esse keinen Döner, sondern Pizza."
+      ]
+     },
+     {
+      "q": "Это не его друзья, а его враги.",
+      "answer": [
+       "Das sind nicht seine Freunde, sondern seine Feinde."
+      ]
+     },
+     {
+      "q": "Я не говорю ни по-французски, ни по-испански.",
+      "answer": [
+       "Ich spreche weder Französisch noch Spanisch.",
+       "Ich spreche weder Französisch, noch Spanisch."
+      ]
+     },
+     {
+      "q": "Мы поедем либо в Австрию, либо в Швейцарию.",
+      "answer": [
+       "Wir fahren entweder nach Österreich oder in die Schweiz.",
+       "Wir fahren entweder nach Österreich, oder in die Schweiz."
+      ]
+     },
+     {
+      "q": "Он был, правда, очень молод, но уже очень знаменит.",
+      "answer": [
+       "Er war zwar sehr jung, aber schon sehr berühmt."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "4. Переведите (während, bis, seitdem, bevor, sobald)",
+    "items": [
+     {
+      "q": "Во время кризиса нужно больше экономить.",
+      "answer": [
+       "Während der Krise muss man mehr sparen."
+      ]
+     },
+     {
+      "q": "Пока я был дома, она ходила за покупками.",
+      "answer": [
+       "Während ich zu Hause war, hat sie eingekauft.",
+       "Während ich zu Hause war, kaufte sie ein."
+      ]
+     },
+     {
+      "q": "Мне надо ещё много работать, прежде чем я смогу достичь своей цели.",
+      "answer": [
+       "Ich muss noch viel arbeiten, bis ich mein Ziel erreichen kann.",
+       "Ich muss noch viel arbeiten, bevor ich mein Ziel erreichen kann.",
+       "Ich muss noch viel arbeiten bis ich mein Ziel erreichen kann."
+      ]
+     },
+     {
+      "q": "С тех пор как я учу немецкий, я чувствую себя намного лучше.",
+      "answer": [
+       "Seitdem ich Deutsch lerne, fühle ich mich viel besser.",
+       "Seit ich Deutsch lerne, fühle ich mich viel besser."
+      ]
+     },
+     {
+      "q": "Прежде чем купить эту машину, он всё о ней узнал.",
+      "answer": [
+       "Bevor er dieses Auto gekauft hat, hat er alles darüber erfahren.",
+       "Bevor er dieses Auto kaufte, hat er alles darüber erfahren.",
+       "Bevor er dieses Auto kaufte, erfuhr er alles darüber."
+      ]
+     },
+     {
+      "q": "Как только ты приедешь, мы пойдём в кино.",
+      "answer": [
+       "Sobald du kommst, gehen wir ins Kino."
+      ]
+     },
+     {
+      "q": "Во время фильма все сидели тихо.",
+      "answer": [
+       "Während des Films saßen alle leise.",
+       "Während des Films saßen alle still."
+      ]
+     },
+     {
+      "q": "Во время урока нужно внимательно слушать.",
+      "answer": [
+       "Während der Stunde muss man aufmerksam zuhören.",
+       "Während des Unterrichts muss man aufmerksam zuhören."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "5. Переведите (Konjunktiv II; в скобках — время: Präsens = настоящее, Perfekt = прошедшее)",
+    "items": [
+     {
+      "q": "Было бы хорошо, если бы ты пришёл. (Präsens)",
+      "answer": [
+       "Es wäre gut, wenn du kommen würdest.",
+       "Es wäre gut, wenn du kämest.",
+       "Es wäre gut, wenn du kämst."
+      ]
+     },
+     {
+      "q": "Было бы намного лучше, если бы ты пришёл во вторник. (Präsens/Perfekt)",
+      "answer": [
+       "Es wäre viel besser, wenn du am Dienstag gekommen wärest.",
+       "Es wäre viel besser, wenn du am Dienstag gekommen wärst.",
+       "Es wäre viel besser gewesen, wenn du am Dienstag gekommen wärst."
+      ]
+     },
+     {
+      "q": "У меня было бы больше времени на мой проект, если бы мне надо было меньше работать. (Präsens/Präsens)",
+      "answer": [
+       "Ich hätte mehr Zeit für mein Projekt, wenn ich weniger arbeiten müsste."
+      ]
+     },
+     {
+      "q": "Мы бы победили, если бы ты играл с нами. (Perfekt/Perfekt)",
+      "answer": [
+       "Wir hätten gewonnen, wenn du mitgespielt hättest.",
+       "Wir hätten gewonnen, wenn du mit uns gespielt hättest."
+      ]
+     },
+     {
+      "q": "Я бы мог тебе помочь, если бы я был дома. (Präsens/Präsens)",
+      "answer": [
+       "Ich könnte dir helfen, wenn ich zu Hause wäre.",
+       "Ich könnte dir helfen, wenn ich jetzt zu Hause wäre."
+      ]
+     },
+     {
+      "q": "Я бы мог тебе помочь, если бы я в среду был дома. (Perfekt/Perfekt)",
+      "answer": [
+       "Ich hätte dir helfen können, wenn ich am Mittwoch zu Hause gewesen wäre."
+      ]
+     },
+     {
+      "q": "Если бы я только знал, как я могу тебе помочь. (Präsens/Präsens)",
+      "answer": [
+       "Wenn ich nur wüsste, wie ich dir helfen kann.",
+       "Wenn ich nur wüsste, wie ich dir helfen könnte."
+      ]
+     },
+     {
+      "q": "Если бы я тогда знал, что мне дальше делать. (Perfekt/Präsens)",
+      "answer": [
+       "Hätte ich damals nur gewusst, was ich weiter machen soll.",
+       "Wenn ich damals nur gewusst hätte, was ich weiter machen soll.",
+       "Hätte ich damals nur gewusst, was ich weiter tun soll."
+      ]
+     },
+     {
+      "q": "Если бы ты мог мне помочь, мы бы непременно справились с этим. (Präsens/Präsens)",
+      "answer": [
+       "Wenn du mir helfen könntest, würden wir es bestimmt schaffen.",
+       "Wenn du mir helfen könntest, schafften wir es bestimmt."
+      ]
+     },
+     {
+      "q": "Если бы ты мне помог, мы бы справились. (Perfekt/Perfekt)",
+      "answer": [
+       "Wenn du mir geholfen hättest, hätten wir es geschafft."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "6. Переведите (управление глаголов, da(r)-/wo(r)-, придаточные)",
+    "items": [
+     {
+      "q": "Я жду девушку, которую люблю.",
+      "answer": [
+       "Ich warte auf das Mädchen, das ich liebe.",
+       "Ich warte auf die Frau, die ich liebe."
+      ]
+     },
+     {
+      "q": "Я жду того, что эта дорога наконец будет построена.",
+      "answer": [
+       "Ich warte darauf, dass diese Straße endlich gebaut wird."
+      ]
+     },
+     {
+      "q": "Чего ты ещё ждёшь?",
+      "answer": [
+       "Worauf wartest du noch?"
+      ]
+     },
+     {
+      "q": "Я надеюсь на помощь моих родителей.",
+      "answer": [
+       "Ich hoffe auf die Hilfe meiner Eltern."
+      ]
+     },
+     {
+      "q": "Я надеюсь на то, что мне помогут.",
+      "answer": [
+       "Ich hoffe darauf, dass mir geholfen wird.",
+       "Ich hoffe darauf, dass man mir hilft.",
+       "Ich hoffe darauf, dass es mir geholfen wird."
+      ]
+     },
+     {
+      "q": "Рассказывается о том, как была сожжена машина этого господина.",
+      "answer": [
+       "Es wird darüber erzählt, wie das Auto dieses Herrn verbrannt wurde.",
+       "Es wird darüber erzählt, wie das Auto dieses Herrn verbrannt worden ist."
+      ]
+     },
+     {
+      "q": "О чём будут рассказывать на следующей неделе?",
+      "answer": [
+       "Worüber wird nächste Woche erzählt?",
+       "Worüber wird es nächste Woche erzählt?",
+       "Worüber wird nächste Woche erzählt werden?"
+      ]
+     },
+     {
+      "q": "О чём ты думаешь?",
+      "answer": [
+       "Woran denkst du?"
+      ]
+     },
+     {
+      "q": "Я думаю о том, что я бы охотно ему помог.",
+      "answer": [
+       "Ich denke daran, dass ich ihm gerne helfen würde.",
+       "Ich denke daran, dass ich ihm gern helfen würde."
+      ]
+     },
+     {
+      "q": "Мы занимаемся тем, что улучшаем жизнь в мире.",
+      "answer": [
+       "Wir beschäftigen uns damit, das Leben in der Welt zu verbessern.",
+       "Wir beschäftigen uns damit, dass wir das Leben in der Welt verbessern."
+      ]
+     },
+     {
+      "q": "Я ищу гостиницу с большим номером.",
+      "answer": [
+       "Ich suche nach einem Hotel mit einem großen Zimmer.",
+       "Ich suche ein Hotel mit einem großen Zimmer."
+      ]
+     },
+     {
+      "q": "Я покупаю новую машину, потому что старая сломана.",
+      "answer": [
+       "Ich kaufe mir ein neues Auto, weil mein altes Auto kaputt ist.",
+       "Ich kaufe mir ein neues Auto, weil das alte kaputt ist.",
+       "Ich kaufe ein neues Auto, weil das alte kaputt ist.",
+       "Ich kaufe mir ein neues Auto, weil mein altes kaputt ist."
+      ]
+     },
+     {
+      "q": "Я покупаю новое пальто, потому что старое пальто мне больше не нравится.",
+      "answer": [
+       "Ich kaufe mir einen neuen Mantel, weil der alte Mantel mir nicht mehr gefällt.",
+       "Ich kaufe mir einen neuen Mantel, weil mir der alte Mantel nicht mehr gefällt.",
+       "Ich kaufe einen neuen Mantel, weil mir der alte Mantel nicht mehr gefällt."
+      ]
+     },
+     {
+      "q": "Я покупаю новую шапку, которую я нашёл в магазине.",
+      "answer": [
+       "Ich kaufe mir eine neue Mütze, die ich im Laden gefunden habe.",
+       "Ich kaufe eine neue Mütze, die ich im Laden gefunden habe.",
+       "Ich kaufe mir eine neue Mütze, die ich im Geschäft gefunden habe."
+      ]
+     },
+     {
+      "q": "Я учу этот красивый язык, потому что хочу переехать в эту красивую страну.",
+      "answer": [
+       "Ich lerne diese schöne Sprache, weil ich in dieses schöne Land umziehen will.",
+       "Ich lerne diese schöne Sprache, weil ich in dieses schöne Land umziehen möchte."
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

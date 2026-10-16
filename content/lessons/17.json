@@ -1,0 +1,575 @@
+{
+ "id": 17,
+ "title": "Склонение личных местоимений",
+ "level": "A1",
+ "goal": "Вы сможете заменять существительные местоимениями в Akkusativ и Dativ (mich/mir, dich/dir, ihn/ihm…) и правильно употреблять их с глаголами helfen, gefallen, zeigen.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Личные местоимения меняются по падежам",
+   "html": "<p>Как и в русском (я — меня — мне), немецкие личные местоимения склоняются. Если в предложении есть дополнение-человек, его можно заменить местоимением в нужном падеже:</p>\n<p><span class=\"de\">Ich frage den Bruder.</span> → <span class=\"de\">Ich frage <b>ihn</b>.</span> (Akkusativ)<br><span class=\"de\">Ich helfe dem Bruder.</span> → <span class=\"de\">Ich helfe <b>ihm</b>.</span> (Dativ)</p>"
+  },
+  {
+   "h": "Главная таблица",
+   "html": "<table><tr><th>Nominativ<br>(кто?)</th><th>Akkusativ<br>(кого?)</th><th>Dativ<br>(кому?)</th><th>Перевод</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">mich</span></td><td><span class=\"de\">mir</span></td><td>я — меня — мне</td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">dich</span></td><td><span class=\"de\">dir</span></td><td>ты — тебя — тебе</td></tr>\n<tr><td><span class=\"de\">er</span></td><td><span class=\"de\">ihn</span></td><td><span class=\"de\">ihm</span></td><td>он — его — ему</td></tr>\n<tr><td><span class=\"de\">sie</span></td><td><span class=\"de\">sie</span></td><td><span class=\"de\">ihr</span></td><td>она — её — ей</td></tr>\n<tr><td><span class=\"de\">es</span></td><td><span class=\"de\">es</span></td><td><span class=\"de\">ihm</span></td><td>оно — его — ему</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">uns</span></td><td><span class=\"de\">uns</span></td><td>мы — нас — нам</td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">euch</span></td><td><span class=\"de\">euch</span></td><td>вы — вас — вам</td></tr>\n<tr><td><span class=\"de\">sie / Sie</span></td><td><span class=\"de\">sie / Sie</span></td><td><span class=\"de\">ihnen / Ihnen</span></td><td>они/Вы — их/Вас — им/Вам</td></tr></table>\n<div class=\"note\">Подсказка: в Akkusativ у <b>er</b> появляется <b>-n</b> (как у артикля <span class=\"de\">den</span>): <span class=\"de\">ihn</span>; в Dativ — <b>-m</b> (как у <span class=\"de\">dem</span>): <span class=\"de\">ihm</span>. Женский род в Dativ — <span class=\"de\">ihr</span> (как <span class=\"de\">der</span> → «-r»), множественное — <span class=\"de\">ihnen</span> (как <span class=\"de\">den</span> → «-n»).</div>"
+  },
+  {
+   "h": "Какие глаголы требуют Akkusativ, а какие — Dativ",
+   "html": "<p>Большинство глаголов с дополнением требуют <b>Akkusativ</b>: <span class=\"de\">fragen, lieben, besuchen, sehen, hören, kennen, brauchen</span>.</p>\n<p>Но есть важные глаголы с <b>Dativ</b>, где по-русски часто стоит другой падеж — их надо запомнить:</p>\n<table><tr><th>Глагол</th><th>Пример</th><th>Русский</th></tr>\n<tr><td><span class=\"de\">helfen</span></td><td><span class=\"de\">Ich helfe dir.</span></td><td>Я помогаю тебе.</td></tr>\n<tr><td><span class=\"de\">antworten</span></td><td><span class=\"de\">Er antwortet ihr.</span></td><td>Он отвечает ей.</td></tr>\n<tr><td><span class=\"de\">danken</span></td><td><span class=\"de\">Wir danken Ihnen.</span></td><td>Мы благодарим Вас (!)</td></tr>\n<tr><td><span class=\"de\">gefallen</span></td><td><span class=\"de\">Mir gefällt das Auto.</span></td><td>Мне нравится машина.</td></tr>\n<tr><td><span class=\"de\">gehören</span></td><td><span class=\"de\">Das Buch gehört ihm.</span></td><td>Книга принадлежит ему.</td></tr>\n<tr><td><span class=\"de\">gratulieren</span></td><td><span class=\"de\">Ich gratuliere dir.</span></td><td>Я поздравляю тебя (!)</td></tr></table>\n<p><b>Gefallen</b> устроен как русское «нравиться»: то, что нравится, — подлежащее; тот, кому нравится, — в Dativ: <span class=\"de\">Mir gefällt mein Haus</span>. Во мн.ч.: <span class=\"de\">Mir gefallen die Bilder</span>.</p>"
+  },
+  {
+   "h": "Два дополнения: кому? + что?",
+   "html": "<p>Глаголы <span class=\"de\">zeigen, geben, schenken, erklären, schicken</span> имеют два дополнения: человек — в <b>Dativ</b>, вещь — в <b>Akkusativ</b>.</p>\n<ul><li><span class=\"de\">Ich zeige dir mein Auto.</span> — Я показываю тебе свою машину.</li>\n<li><span class=\"de\">Er schenkt ihr ein Buch.</span> — Он дарит ей книгу.</li></ul>\n<p>Порядок: если вещь выражена существительным — сначала Dativ, потом Akkusativ: <span class=\"de\">Ich gebe dir das Buch</span>. Если оба — местоимения, сначала Akkusativ: <span class=\"de\">Ich gebe es dir</span>.</p>"
+  },
+  {
+   "h": "Таблица «в ширину» и «в глубину»",
+   "html": "<p>В курсе есть две таблицы, которые помогают довести грамматику до автоматизма:</p>\n<ul><li><b>Таблица в глубину</b> (урок 7): одно предложение по всем лицам с притяжательными — <span class=\"de\">Ich spreche mit meinem Bruder, du sprichst mit deinem Bruder…</span></li>\n<li><b>Таблица в ширину</b> (этот урок): пары местоимений-«зеркал» — <span class=\"de\">Ich frage dich – Du fragst mich; Er fragt sie – Sie fragt ihn; Wir fragen euch – Ihr fragt uns; Ich frage sie – Sie fragen mich</span>.</li></ul>\n<div class=\"note\">Проговаривайте пары вслух быстро, как скороговорку, пока не перестанете задумываться над формой.</div>"
+  }
+ ],
+ "tips": [
+  "helfen, danken, gratulieren — с Dativ, хотя по-русски «благодарить кого», «поздравлять кого». Ich danke dir! — а не «dich».",
+  "sie (она) и sie (они) в Akkusativ совпадают — sie. Различить можно только по Dativ: ihr (ей) / ihnen (им).",
+  "Вежливое Sie пишется с большой буквы во всех падежах: Ich helfe Ihnen gern.",
+  "ihr = вы (Nom), ей (Dat) и её (притяжательное) — смотрите на контекст!"
+ ],
+ "examples": [
+  {
+   "de": "Ich sehe ihn jeden Tag.",
+   "ru": "Я вижу его каждый день."
+  },
+  {
+   "de": "Kennst du sie?",
+   "ru": "Ты знаешь её?"
+  },
+  {
+   "de": "Hilfst du mir?",
+   "ru": "Ты мне поможешь?"
+  },
+  {
+   "de": "Wir danken Ihnen für die Hilfe.",
+   "ru": "Мы благодарим Вас за помощь."
+  },
+  {
+   "de": "Das Buch gehört ihm.",
+   "ru": "Книга принадлежит ему."
+  },
+  {
+   "de": "Gefällt dir die Stadt?",
+   "ru": "Тебе нравится город?"
+  },
+  {
+   "de": "Ich rufe euch morgen an.",
+   "ru": "Я позвоню вам завтра."
+  },
+  {
+   "de": "Er schenkt ihr Blumen.",
+   "ru": "Он дарит ей цветы."
+  },
+  {
+   "de": "Ich gebe es dir.",
+   "ru": "Я даю это тебе."
+  },
+  {
+   "de": "Wie geht es Ihnen?",
+   "ru": "Как у Вас дела?"
+  },
+  {
+   "de": "Ich brauche dich.",
+   "ru": "Ты мне нужен."
+  },
+  {
+   "de": "Sie besucht uns am Sonntag.",
+   "ru": "Она навещает нас в воскресенье."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "mich / mir",
+   "ru": "| меня / мне"
+  },
+  {
+   "de": "dich / dir",
+   "ru": "| тебя / тебе"
+  },
+  {
+   "de": "ihn / ihm",
+   "ru": "| его / ему"
+  },
+  {
+   "de": "sie / ihr",
+   "ru": "| её / ей"
+  },
+  {
+   "de": "uns",
+   "ru": "| нас / нам"
+  },
+  {
+   "de": "euch",
+   "ru": "| вас / вам"
+  },
+  {
+   "de": "sie / ihnen",
+   "ru": "| их / им"
+  },
+  {
+   "de": "Sie / Ihnen",
+   "ru": "| Вас / Вам"
+  },
+  {
+   "de": "fragen",
+   "ru": "| спрашивать (кого? — Akk)"
+  },
+  {
+   "de": "besuchen",
+   "ru": "| навещать, посещать"
+  },
+  {
+   "de": "lieben",
+   "ru": "| любить"
+  },
+  {
+   "de": "hören",
+   "ru": "| слышать, слушать"
+  },
+  {
+   "de": "helfen",
+   "forms": "hilft, half, hat geholfen",
+   "ru": "помогать (кому? — Dat)"
+  },
+  {
+   "de": "antworten",
+   "ru": "| отвечать (кому? — Dat)"
+  },
+  {
+   "de": "danken",
+   "ru": "| благодарить (кому? — Dat)"
+  },
+  {
+   "de": "gefallen",
+   "forms": "gefällt, gefiel, hat gefallen",
+   "ru": "нравиться (кому? — Dat)"
+  },
+  {
+   "de": "gehören",
+   "ru": "| принадлежать"
+  },
+  {
+   "de": "zeigen",
+   "ru": "| показывать"
+  },
+  {
+   "de": "schenken",
+   "ru": "| дарить"
+  },
+  {
+   "de": "gratulieren",
+   "ru": "| поздравлять (кому? — Dat)"
+  },
+  {
+   "de": "das Geschenk",
+   "pl": "die Geschenke",
+   "ru": "подарок"
+  },
+  {
+   "de": "die Hilfe",
+   "pl": "die Hilfen",
+   "ru": "помощь"
+  }
+ ],
+ "phrasesNote": "Закрепляем «таблицу в ширину»: зеркальные пары местоимений с глаголами fragen, lieben, besuchen (Akk) и helfen, antworten, gefallen (Dat), а также два дополнения с zeigen.",
+ "phrases": [
+  {
+   "de": "Ich frage den Bruder – Ich frage ihn.",
+   "ru": "Я спрашиваю брата – Я спрашиваю его."
+  },
+  {
+   "de": "Ich helfe dem Bruder – Ich helfe ihm.",
+   "ru": "Я помогаю брату – Я помогаю ему."
+  },
+  {
+   "de": "Ich frage die Schwester – Ich frage sie.",
+   "ru": "Я спрашиваю сестру – Я спрашиваю её."
+  },
+  {
+   "de": "Ich helfe der Schwester – Ich helfe ihr.",
+   "ru": "Я помогаю сестре – Я помогаю ей."
+  },
+  {
+   "de": "Ich frage die Freunde – Ich frage sie.",
+   "ru": "Я спрашиваю друзей – Я спрашиваю их."
+  },
+  {
+   "de": "Ich helfe den Freunden – Ich helfe ihnen.",
+   "ru": "Я помогаю друзьям – Я помогаю им."
+  },
+  {
+   "de": "Ich frage dich – Du fragst mich.",
+   "ru": "Я спрашиваю тебя – Ты спрашиваешь меня."
+  },
+  {
+   "de": "Er fragt sie – Sie fragt ihn.",
+   "ru": "Он спрашивает её – Она спрашивает его."
+  },
+  {
+   "de": "Wir fragen euch – Ihr fragt uns.",
+   "ru": "Мы спрашиваем вас – Вы спрашиваете нас."
+  },
+  {
+   "de": "Ich frage sie – Sie fragen mich.",
+   "ru": "Я спрашиваю их – Они спрашивают меня."
+  },
+  {
+   "de": "Ich liebe dich – Du liebst mich.",
+   "ru": "Я люблю тебя – Ты любишь меня."
+  },
+  {
+   "de": "Er liebt sie – Sie liebt ihn.",
+   "ru": "Он любит её – Она любит его."
+  },
+  {
+   "de": "Wir lieben euch – Ihr liebt uns.",
+   "ru": "Мы любим вас – Вы любите нас."
+  },
+  {
+   "de": "Ich liebe sie – Sie lieben mich.",
+   "ru": "Я люблю их – Они любят меня."
+  },
+  {
+   "de": "Ich besuche dich – Du besuchst mich.",
+   "ru": "Я навещаю тебя – Ты навещаешь меня."
+  },
+  {
+   "de": "Er besucht sie – Sie besucht ihn.",
+   "ru": "Он навещает её – Она навещает его."
+  },
+  {
+   "de": "Wir besuchen euch – Ihr besucht uns.",
+   "ru": "Мы навещаем вас – Вы навещаете нас."
+  },
+  {
+   "de": "Ich besuche sie – Sie besuchen mich.",
+   "ru": "Я навещаю их – Они навещают меня."
+  },
+  {
+   "de": "Ich helfe dir – Du hilfst mir.",
+   "ru": "Я помогаю тебе – Ты помогаешь мне."
+  },
+  {
+   "de": "Er hilft ihr – Sie hilft ihm.",
+   "ru": "Он помогает ей – Она помогает ему."
+  },
+  {
+   "de": "Wir helfen euch – Ihr helft uns.",
+   "ru": "Мы помогаем вам – Вы помогаете нам."
+  },
+  {
+   "de": "Ich helfe ihnen – Sie helfen mir.",
+   "ru": "Я помогаю им – Они помогают мне."
+  },
+  {
+   "de": "Ich antworte dir – Du antwortest mir.",
+   "ru": "Я отвечаю тебе – Ты отвечаешь мне."
+  },
+  {
+   "de": "Er antwortet ihr – Sie antwortet ihm.",
+   "ru": "Он отвечает ей – Она отвечает ему."
+  },
+  {
+   "de": "Wir antworten euch – Ihr antwortet uns.",
+   "ru": "Мы отвечаем вам – Вы отвечаете нам."
+  },
+  {
+   "de": "Ich antworte ihnen – Sie antworten mir.",
+   "ru": "Я отвечаю им – Они отвечают мне."
+  },
+  {
+   "de": "Ich zeige dir mein Auto – Du zeigst mir dein Auto.",
+   "ru": "Я показываю тебе свою машину – Ты показываешь мне свою машину."
+  },
+  {
+   "de": "Er zeigt ihr sein Auto – Sie zeigt ihm ihr Auto.",
+   "ru": "Он показывает ей свою машину – Она показывает ему свою машину."
+  },
+  {
+   "de": "Wir zeigen euch unser Auto – Ihr zeigt uns euer Auto.",
+   "ru": "Мы показываем вам нашу машину – Вы показываете нам вашу машину."
+  },
+  {
+   "de": "Sie zeigen mir ihr Auto – Ich zeige ihnen mein Auto.",
+   "ru": "Они показывают мне свою машину – Я показываю им свою машину."
+  },
+  {
+   "de": "Mir gefällt mein Auto.",
+   "ru": "Мне нравится моя машина."
+  },
+  {
+   "de": "Dir gefällt dein Auto.",
+   "ru": "Тебе нравится твоя машина."
+  },
+  {
+   "de": "Ihm gefällt sein Auto.",
+   "ru": "Ему нравится его машина."
+  },
+  {
+   "de": "Ihr gefällt ihr Auto.",
+   "ru": "Ей нравится её машина."
+  },
+  {
+   "de": "Uns gefällt unser Auto.",
+   "ru": "Нам нравится наша машина."
+  },
+  {
+   "de": "Euch gefällt euer Auto.",
+   "ru": "Вам нравится ваша машина."
+  },
+  {
+   "de": "Ihnen gefällt ihr Auto.",
+   "ru": "Им нравится их машина."
+  },
+  {
+   "de": "Mir gefällt mein Haus.",
+   "ru": "Мне нравится мой дом."
+  },
+  {
+   "de": "Dir gefällt dein Haus.",
+   "ru": "Тебе нравится твой дом."
+  },
+  {
+   "de": "Ihm gefällt sein Haus.",
+   "ru": "Ему нравится его дом."
+  },
+  {
+   "de": "Ihr gefällt ihr Haus.",
+   "ru": "Ей нравится её дом."
+  },
+  {
+   "de": "Uns gefällt unser Haus.",
+   "ru": "Нам нравится наш дом."
+  },
+  {
+   "de": "Euch gefällt euer Haus.",
+   "ru": "Вам нравится ваш дом."
+  },
+  {
+   "de": "Ihnen gefällt ihr Haus.",
+   "ru": "Им нравится их дом."
+  },
+  {
+   "de": "Mein Bruder hört mich nicht.",
+   "ru": "Мой брат меня не слышит."
+  },
+  {
+   "de": "Dein Bruder hört dich nicht.",
+   "ru": "Твой брат тебя не слышит."
+  },
+  {
+   "de": "Sein Bruder hört ihn nicht.",
+   "ru": "Его брат его не слышит."
+  },
+  {
+   "de": "Ihr Bruder hört sie nicht.",
+   "ru": "Её брат её не слышит."
+  },
+  {
+   "de": "Unser Bruder hört uns nicht.",
+   "ru": "Наш брат нас не слышит."
+  },
+  {
+   "de": "Euer Bruder hört euch nicht.",
+   "ru": "Ваш брат вас не слышит."
+  },
+  {
+   "de": "Ihr Bruder hört sie nicht.",
+   "ru": "Их брат их не слышит (о них)."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ich frage den Bruder. → Ich frage ___.",
+   "options": [
+    "ihm",
+    "ihn",
+    "er"
+   ],
+   "answer": 1,
+   "explain": "fragen + Akkusativ: ihn"
+  },
+  {
+   "type": "choice",
+   "q": "Ich helfe der Schwester. → Ich helfe ___.",
+   "options": [
+    "sie",
+    "ihr",
+    "ihnen"
+   ],
+   "answer": 1,
+   "explain": "helfen + Dativ, ж.р.: ihr"
+  },
+  {
+   "type": "choice",
+   "q": "Ich helfe den Freunden. → Ich helfe ___.",
+   "options": [
+    "sie",
+    "ihr",
+    "ihnen"
+   ],
+   "answer": 2,
+   "explain": "Dativ мн.ч.: ihnen"
+  },
+  {
+   "type": "gap",
+   "q": "Ich liebe dich – Du liebst ___.",
+   "answer": [
+    "mich"
+   ],
+   "explain": "lieben + Akk: mich"
+  },
+  {
+   "type": "gap",
+   "q": "Ich helfe dir – Du hilfst ___.",
+   "answer": [
+    "mir"
+   ],
+   "explain": "helfen + Dat: mir"
+  },
+  {
+   "type": "gap",
+   "q": "Wir fragen euch – Ihr fragt ___.",
+   "answer": [
+    "uns"
+   ],
+   "explain": "uns — и Akk, и Dat"
+  },
+  {
+   "type": "gap",
+   "q": "___ gefällt mein Haus. (мне)",
+   "answer": [
+    "Mir"
+   ],
+   "explain": "gefallen + Dativ"
+  },
+  {
+   "type": "choice",
+   "q": "Danke! Ich danke ___ .",
+   "options": [
+    "dich",
+    "dir",
+    "du"
+   ],
+   "answer": 1,
+   "explain": "danken + Dativ: dir"
+  },
+  {
+   "type": "choice",
+   "q": "Wie geht es ___? (Вам, вежливо)",
+   "options": [
+    "Sie",
+    "Ihnen",
+    "ihnen"
+   ],
+   "answer": 1,
+   "explain": "Вежливое Dativ — Ihnen с большой буквы"
+  },
+  {
+   "type": "gap",
+   "q": "Er antwortet ___ . (ей)",
+   "answer": [
+    "ihr"
+   ],
+   "explain": "antworten + Dativ"
+  },
+  {
+   "type": "gap",
+   "q": "Sie besucht ___ . (его)",
+   "answer": [
+    "ihn"
+   ],
+   "explain": "besuchen + Akkusativ"
+  },
+  {
+   "type": "choice",
+   "q": "Ich zeige ___ mein Auto. (тебе)",
+   "options": [
+    "dich",
+    "dir",
+    "du"
+   ],
+   "answer": 1,
+   "explain": "zeigen: кому? — Dativ"
+  },
+  {
+   "type": "translate",
+   "q": "Я помогаю ему.",
+   "answer": [
+    "Ich helfe ihm."
+   ],
+   "explain": "helfen + Dativ"
+  },
+  {
+   "type": "translate",
+   "q": "Ты мне нравишься.",
+   "answer": [
+    "Du gefällst mir.",
+    "Mir gefällst du."
+   ],
+   "explain": "gefallen: тот, кто нравится, — подлежащее"
+  },
+  {
+   "type": "translate",
+   "q": "Она любит его.",
+   "answer": [
+    "Sie liebt ihn."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Я показываю вам нашу машину.",
+   "answer": [
+    "Ich zeige euch unser Auto.",
+    "Ich zeige Ihnen unser Auto."
+   ],
+   "explain": "zeigen + Dat (кому) + Akk (что)"
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "hört",
+    "mein Bruder",
+    "nicht",
+    "mich"
+   ],
+   "answer": [
+    "Mein Bruder hört mich nicht."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "gefällt",
+    "unser Haus",
+    "uns"
+   ],
+   "answer": [
+    "Uns gefällt unser Haus.",
+    "Unser Haus gefällt uns."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "ihr",
+    "zeigt",
+    "er",
+    "sein Auto"
+   ],
+   "answer": [
+    "Er zeigt ihr sein Auto."
+   ]
+  }
+ ]
+}

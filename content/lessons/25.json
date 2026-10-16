@@ -1,0 +1,642 @@
+{
+ "id": 25,
+ "title": "Безличные предложения: es и man",
+ "level": "A2",
+ "goal": "Вы сможете строить безличные предложения с man и es, говорить о погоде и использовать es gibt.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Почему немцу нужно подлежащее",
+   "html": "<p>В русском можно сказать «Холодно», «Здесь курят», «Идёт дождь» — без подлежащего. В немецком предложение <b>обязательно</b> имеет подлежащее и глагол на 2-м месте. Поэтому, когда «деятеля» нет, используют формальные слова <span class=\"de\">es</span> и <span class=\"de\">man</span>.</p><ul><li><span class=\"de\">Es ist kalt.</span> — Холодно.</li><li><span class=\"de\">Man raucht hier nicht.</span> — Здесь не курят.</li><li><span class=\"de\">Es regnet.</span> — Идёт дождь.</li></ul>"
+  },
+  {
+   "h": "man — «люди вообще», неопределённо-личное",
+   "html": "<p><span class=\"de\">man</span> переводится русскими безличными и неопределённо-личными оборотами: «говорят», «здесь строят», «нужно», «можно», «нельзя». Глагол после man всегда в форме <b>3-го лица ед. числа</b> (как после er):</p><table><tr><th>Немецкий</th><th>Русский</th></tr><tr><td><span class=\"de\">Man baut hier ein neues Haus.</span></td><td>Здесь строят новый дом.</td></tr><tr><td><span class=\"de\">Hier lernt man Deutsch.</span></td><td>Здесь учат немецкий.</td></tr><tr><td><span class=\"de\">Man muss Deutsch lernen.</span></td><td>Нужно учить немецкий.</td></tr><tr><td><span class=\"de\">Man kann das morgen machen.</span></td><td>Это можно сделать завтра.</td></tr><tr><td><span class=\"de\">Hier darf man nicht rauchen.</span></td><td>Здесь нельзя курить.</td></tr></table><div class=\"note\">«Можно» = <span class=\"de\">man kann / man darf</span>, «нужно» = <span class=\"de\">man muss</span>, «нельзя» = <span class=\"de\">man darf nicht</span>, «следует» = <span class=\"de\">man soll</span>.</div><p>При инверсии <span class=\"de\">man</span> стоит сразу после глагола: <span class=\"de\">Hier spielt man Fußball.</span> <span class=\"de\">Das kann man morgen machen.</span></p>"
+  },
+  {
+   "h": "es — погода, время, состояние",
+   "html": "<p><span class=\"de\">es</span> — формальное подлежащее в предложениях о погоде, времени, ощущениях:</p><ul><li>погода-глаголы: <span class=\"de\">Es regnet. Es schneit. Es donnert. Es blitzt.</span></li><li><span class=\"de\">es ist</span> + прилагательное: <span class=\"de\">Es ist kalt / warm / windig / nebelig.</span></li><li>изменения — <span class=\"de\">es wird</span>: <span class=\"de\">Es wird bald kalt.</span> — Скоро похолодает.</li><li>время: <span class=\"de\">Es ist acht Uhr. Es ist spät.</span></li><li>самочувствие: <span class=\"de\">Wie geht es dir? — Es geht mir gut.</span></li></ul><p><b>Важно:</b> если на первое место выходит другое слово, <span class=\"de\">es</span> при погоде <b>сохраняется</b>: <span class=\"de\">Morgen regnet es.</span> <span class=\"de\">Hier ist es so schön!</span></p>"
+  },
+  {
+   "h": "es gibt — «есть, имеется»",
+   "html": "<p>Оборот <span class=\"de\">es gibt</span> + <b>Akkusativ</b> означает «есть, имеется, бывает». Глагол всегда <span class=\"de\">gibt</span> (ед. ч.), даже если дальше множественное число!</p><ul><li><span class=\"de\">In dieser Stadt gibt es viele Sehenswürdigkeiten.</span> — В этом городе много достопримечательностей.</li><li><span class=\"de\">In diesem Zimmer gibt es einen alten Schrank.</span> — В этой комнате есть старый шкаф. (<span class=\"hl\">einen</span> — Akkusativ!)</li><li><span class=\"de\">Hier gibt es keine Toilette.</span> — Здесь нет туалета.</li><li><span class=\"de\">Was gibt es heute?</span> — Что сегодня (на обед / в программе)?</li></ul><div class=\"note\">Сравните: <span class=\"de\">Das Buch ist auf dem Tisch.</span> (конкретная вещь где-то находится) — <span class=\"de\">In Berlin gibt es viele Museen.</span> (сообщаем о наличии).</div>"
+  }
+ ],
+ "tips": [
+  "man ≠ der Mann: man пишется с маленькой буквы и одной n, это местоимение «люди, кто-либо».",
+  "После man глагол как после er: man macht, man kann, man muss — а не «man machen».",
+  "es gibt требует Akkusativ: es gibt einen Park (не «ein Park»).",
+  "Русское «нельзя» почти всегда переводится как man darf nicht (запрет), а «не нужно» — man muss nicht."
+ ],
+ "examples": [
+  {
+   "de": "Wie sagt man das auf Deutsch?",
+   "ru": "Как это сказать по-немецки?"
+  },
+  {
+   "de": "In Deutschland trinkt man viel Bier.",
+   "ru": "В Германии пьют много пива."
+  },
+  {
+   "de": "Hier darf man parken.",
+   "ru": "Здесь можно парковаться."
+  },
+  {
+   "de": "Man muss die Tür abschließen.",
+   "ru": "Нужно запереть дверь."
+  },
+  {
+   "de": "Es ist heute sehr heiß.",
+   "ru": "Сегодня очень жарко."
+  },
+  {
+   "de": "Morgen schneit es.",
+   "ru": "Завтра пойдёт снег."
+  },
+  {
+   "de": "Es ist schon zehn Uhr.",
+   "ru": "Уже десять часов."
+  },
+  {
+   "de": "Wie geht es Ihnen?",
+   "ru": "Как у вас дела?"
+  },
+  {
+   "de": "Gibt es hier einen Supermarkt?",
+   "ru": "Здесь есть супермаркет?"
+  },
+  {
+   "de": "Es gibt keine Probleme.",
+   "ru": "Проблем нет."
+  },
+  {
+   "de": "Im Park gibt es viele Bäume.",
+   "ru": "В парке много деревьев."
+  },
+  {
+   "de": "Was gibt es Neues?",
+   "ru": "Что нового?"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "man",
+   "ru": "(люди) — неопределённо-личное местоимение"
+  },
+  {
+   "de": "es gibt",
+   "ru": "есть, имеется (+ Akk.)"
+  },
+  {
+   "de": "bauen",
+   "ru": "строить"
+  },
+  {
+   "de": "die Lebensmittel",
+   "pl": "die Lebensmittel",
+   "ru": "продукты питания"
+  },
+  {
+   "de": "rauchen",
+   "ru": "курить"
+  },
+  {
+   "de": "abholen",
+   "ru": "забирать, встречать"
+  },
+  {
+   "de": "regnen",
+   "ru": "идти (о дожде)"
+  },
+  {
+   "de": "schneien",
+   "ru": "идти (о снеге)"
+  },
+  {
+   "de": "nebelig",
+   "ru": "туманный"
+  },
+  {
+   "de": "windig",
+   "ru": "ветреный"
+  },
+  {
+   "de": "sonnig",
+   "ru": "солнечный"
+  },
+  {
+   "de": "das Wetter",
+   "ru": "погода"
+  },
+  {
+   "de": "der Schrank",
+   "pl": "die Schränke",
+   "ru": "шкаф"
+  },
+  {
+   "de": "die Küche",
+   "pl": "die Küchen",
+   "ru": "кухня"
+  },
+  {
+   "de": "das Wohnzimmer",
+   "pl": "die Wohnzimmer",
+   "ru": "гостиная"
+  },
+  {
+   "de": "die Sehenswürdigkeit",
+   "pl": "die Sehenswürdigkeiten",
+   "ru": "достопримечательность"
+  },
+  {
+   "de": "die Bodenschätze",
+   "pl": "die Bodenschätze",
+   "ru": "полезные ископаемые"
+  },
+  {
+   "de": "die Möglichkeit",
+   "pl": "die Möglichkeiten",
+   "ru": "возможность"
+  },
+  {
+   "de": "die Variante",
+   "pl": "die Varianten",
+   "ru": "вариант"
+  },
+  {
+   "de": "die Toilette",
+   "pl": "die Toiletten",
+   "ru": "туалет"
+  },
+  {
+   "de": "die Dusche",
+   "pl": "die Duschen",
+   "ru": "душ"
+  },
+  {
+   "de": "das Fleisch",
+   "ru": "мясо"
+  },
+  {
+   "de": "die Kartoffel",
+   "pl": "die Kartoffeln",
+   "ru": "картофель"
+  },
+  {
+   "de": "laut",
+   "ru": "громкий, громко"
+  }
+ ],
+ "phrasesNote": "Безличные конструкции: man + глагол (3 л. ед. ч.) с инверсией, es при погоде (es regnet, es wird kalt), es gibt + Akkusativ.",
+ "phrases": [
+  {
+   "de": "Man baut hier ein neues Haus.",
+   "ru": "Здесь строят новый дом."
+  },
+  {
+   "de": "Hier baut man ein neues Haus.",
+   "ru": "Здесь строят новый дом (с инверсией)."
+  },
+  {
+   "de": "Man lernt hier Deutsch.",
+   "ru": "Здесь учат немецкий."
+  },
+  {
+   "de": "Hier lernt man Deutsch.",
+   "ru": "Здесь учат немецкий (с инверсией)."
+  },
+  {
+   "de": "Man spielt hier Fußball.",
+   "ru": "Здесь играют в футбол."
+  },
+  {
+   "de": "Hier spielt man Fußball.",
+   "ru": "Здесь играют в футбол (с инверсией)."
+  },
+  {
+   "de": "Man kocht hier gut.",
+   "ru": "Здесь хорошо готовят."
+  },
+  {
+   "de": "Hier kocht man gut.",
+   "ru": "Здесь хорошо готовят (с инверсией)."
+  },
+  {
+   "de": "Man kauft hier Lebensmittel.",
+   "ru": "Здесь покупают продукты."
+  },
+  {
+   "de": "Hier kauft man Lebensmittel.",
+   "ru": "Здесь покупают продукты (с инверсией)."
+  },
+  {
+   "de": "Man muss Deutsch lernen.",
+   "ru": "Нужно учить немецкий."
+  },
+  {
+   "de": "Deutsch muss man lernen.",
+   "ru": "Немецкий нужно учить."
+  },
+  {
+   "de": "Man muss heute noch essen.",
+   "ru": "Сегодня ещё нужно поесть."
+  },
+  {
+   "de": "Heute muss man noch essen.",
+   "ru": "Сегодня ещё нужно поесть (с инверсией)."
+  },
+  {
+   "de": "Man soll ihn abholen.",
+   "ru": "Его нужно забрать (встретить)."
+  },
+  {
+   "de": "Ihn soll man abholen.",
+   "ru": "Именно его нужно забрать."
+  },
+  {
+   "de": "Man soll ihm helfen.",
+   "ru": "Ему нужно помочь."
+  },
+  {
+   "de": "Ihm soll man helfen.",
+   "ru": "Именно ему нужно помочь."
+  },
+  {
+   "de": "Man kann das morgen machen.",
+   "ru": "Это можно сделать завтра."
+  },
+  {
+   "de": "Das kann man morgen machen.",
+   "ru": "Это можно сделать завтра (с инверсией)."
+  },
+  {
+   "de": "Man kann hier bis morgen bleiben.",
+   "ru": "Здесь можно остаться до завтра."
+  },
+  {
+   "de": "Hier kann man bis morgen bleiben.",
+   "ru": "Здесь можно остаться до завтра (с инверсией)."
+  },
+  {
+   "de": "Man darf hier nicht laut singen.",
+   "ru": "Здесь нельзя громко петь."
+  },
+  {
+   "de": "Hier darf man nicht laut singen.",
+   "ru": "Здесь нельзя громко петь (с инверсией)."
+  },
+  {
+   "de": "Man darf hier nicht rauchen.",
+   "ru": "Здесь нельзя курить."
+  },
+  {
+   "de": "Hier darf man nicht rauchen.",
+   "ru": "Здесь нельзя курить (с инверсией)."
+  },
+  {
+   "de": "Es schneit.",
+   "ru": "Идёт снег."
+  },
+  {
+   "de": "Es wird morgen schneien.",
+   "ru": "Завтра пойдёт снег."
+  },
+  {
+   "de": "Es regnet.",
+   "ru": "Идёт дождь."
+  },
+  {
+   "de": "Es wird morgen regnen.",
+   "ru": "Завтра пойдёт дождь."
+  },
+  {
+   "de": "Es ist nebelig.",
+   "ru": "Туманно."
+  },
+  {
+   "de": "Es wird nebelig.",
+   "ru": "Становится туманно."
+  },
+  {
+   "de": "Es ist windig.",
+   "ru": "Ветрено."
+  },
+  {
+   "de": "Es wird schon windig.",
+   "ru": "Уже становится ветрено."
+  },
+  {
+   "de": "Es ist kalt.",
+   "ru": "Холодно."
+  },
+  {
+   "de": "Es wird bald kalt.",
+   "ru": "Скоро станет холодно."
+  },
+  {
+   "de": "Es ist warm.",
+   "ru": "Тепло."
+  },
+  {
+   "de": "Es wird bald warm.",
+   "ru": "Скоро станет тепло."
+  },
+  {
+   "de": "Es ist so schön hier!",
+   "ru": "Здесь так красиво!"
+  },
+  {
+   "de": "Hier ist es so schön!",
+   "ru": "Как же здесь красиво!"
+  },
+  {
+   "de": "Was gibt es heute?",
+   "ru": "Что сегодня есть (на обед)?"
+  },
+  {
+   "de": "Heute gibt es Fleisch mit Kartoffeln.",
+   "ru": "Сегодня мясо с картошкой."
+  },
+  {
+   "de": "Was gibt es in diesem Zimmer?",
+   "ru": "Что есть в этой комнате?"
+  },
+  {
+   "de": "In diesem Zimmer gibt es einen alten Schrank.",
+   "ru": "В этой комнате есть старый шкаф."
+  },
+  {
+   "de": "Was gibt es in dieser Wohnung?",
+   "ru": "Что есть в этой квартире?"
+  },
+  {
+   "de": "In dieser Wohnung gibt es eine schöne Küche.",
+   "ru": "В этой квартире есть красивая кухня."
+  },
+  {
+   "de": "Was gibt es in diesem Haus?",
+   "ru": "Что есть в этом доме?"
+  },
+  {
+   "de": "In diesem Haus gibt es ein großes Wohnzimmer.",
+   "ru": "В этом доме есть большая гостиная."
+  },
+  {
+   "de": "Was gibt es in dieser Stadt?",
+   "ru": "Что есть в этом городе?"
+  },
+  {
+   "de": "In dieser Stadt gibt es viele Sehenswürdigkeiten.",
+   "ru": "В этом городе много достопримечательностей."
+  },
+  {
+   "de": "Was gibt es in diesem Land?",
+   "ru": "Что есть в этой стране?"
+  },
+  {
+   "de": "In diesem Land gibt es viele Bodenschätze.",
+   "ru": "В этой стране много полезных ископаемых."
+  },
+  {
+   "de": "Welche Möglichkeiten gibt es?",
+   "ru": "Какие есть возможности?"
+  },
+  {
+   "de": "Es gibt viele Möglichkeiten.",
+   "ru": "Есть много возможностей."
+  },
+  {
+   "de": "Welche Varianten gibt es?",
+   "ru": "Какие есть варианты?"
+  },
+  {
+   "de": "Es gibt nur eine Variante.",
+   "ru": "Есть только один вариант."
+  },
+  {
+   "de": "Wo gibt es hier die Toilette?",
+   "ru": "Где здесь туалет?"
+  },
+  {
+   "de": "Hier gibt es keine Toilette.",
+   "ru": "Здесь нет туалета."
+  },
+  {
+   "de": "Wo gibt es hier die Dusche?",
+   "ru": "Где здесь душ?"
+  },
+  {
+   "de": "Hier gibt es keine Dusche.",
+   "ru": "Здесь нет душа."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Hier ___ man Deutsch.",
+   "options": [
+    "lernen",
+    "lernt",
+    "lernst"
+   ],
+   "answer": 1,
+   "explain": "После man — форма 3-го лица ед. ч.: lernt."
+  },
+  {
+   "type": "choice",
+   "q": "Как перевести «Здесь нельзя курить»?",
+   "options": [
+    "Hier muss man nicht rauchen.",
+    "Hier darf man nicht rauchen.",
+    "Hier kann nicht rauchen."
+   ],
+   "answer": 1,
+   "explain": "Запрет = dürfen + nicht."
+  },
+  {
+   "type": "gap",
+   "q": "___ regnet heute.",
+   "answer": [
+    "Es"
+   ],
+   "explain": "Погода: es regnet."
+  },
+  {
+   "type": "gap",
+   "q": "Morgen schneit ___.",
+   "answer": [
+    "es"
+   ],
+   "explain": "При инверсии es сохраняется: Morgen schneit es."
+  },
+  {
+   "type": "choice",
+   "q": "In diesem Zimmer gibt es ___ alten Schrank.",
+   "options": [
+    "ein",
+    "einen",
+    "einem"
+   ],
+   "answer": 1,
+   "explain": "es gibt + Akkusativ: einen alten Schrank."
+  },
+  {
+   "type": "choice",
+   "q": "In dieser Stadt ___ es viele Museen.",
+   "options": [
+    "geben",
+    "gibt",
+    "gebt"
+   ],
+   "answer": 1,
+   "explain": "es gibt — всегда ед. число."
+  },
+  {
+   "type": "gap",
+   "q": "Hier ___ man bis morgen bleiben. (можно)",
+   "answer": [
+    "kann",
+    "darf"
+   ],
+   "explain": "Можно = man kann / man darf."
+  },
+  {
+   "type": "gap",
+   "q": "Man ___ Deutsch lernen. (нужно)",
+   "answer": [
+    "muss"
+   ],
+   "explain": "Нужно = man muss."
+  },
+  {
+   "type": "choice",
+   "q": "Das kann ___ morgen machen.",
+   "options": [
+    "man",
+    "Mann",
+    "es"
+   ],
+   "answer": 0,
+   "explain": "При инверсии man стоит сразу после глагола."
+  },
+  {
+   "type": "gap",
+   "q": "Es wird bald ___. (холодно)",
+   "answer": [
+    "kalt"
+   ],
+   "explain": "es wird + прилагательное."
+  },
+  {
+   "type": "choice",
+   "q": "Hier ist ___ so schön!",
+   "options": [
+    "man",
+    "es",
+    "—"
+   ],
+   "answer": 1,
+   "explain": "es ist schön — es остаётся и после hier."
+  },
+  {
+   "type": "gap",
+   "q": "Hier gibt es ___ Toilette. (нет)",
+   "answer": [
+    "keine"
+   ],
+   "explain": "Отрицание существительного: keine Toilette."
+  },
+  {
+   "type": "choice",
+   "q": "Was ___ es heute zum Mittagessen?",
+   "options": [
+    "ist",
+    "gibt",
+    "hat"
+   ],
+   "answer": 1,
+   "explain": "Что сегодня (есть)? — Was gibt es heute?"
+  },
+  {
+   "type": "translate",
+   "q": "Здесь играют в футбол.",
+   "answer": [
+    "Hier spielt man Fußball.",
+    "Man spielt hier Fußball."
+   ],
+   "explain": "man + spielt."
+  },
+  {
+   "type": "translate",
+   "q": "Здесь нельзя громко петь.",
+   "answer": [
+    "Hier darf man nicht laut singen.",
+    "Man darf hier nicht laut singen."
+   ],
+   "explain": "darf … nicht."
+  },
+  {
+   "type": "translate",
+   "q": "Завтра будет холодно.",
+   "answer": [
+    "Morgen wird es kalt.",
+    "Es wird morgen kalt.",
+    "Morgen ist es kalt."
+   ],
+   "explain": "es wird kalt."
+  },
+  {
+   "type": "translate",
+   "q": "В этой квартире есть красивая кухня.",
+   "answer": [
+    "In dieser Wohnung gibt es eine schöne Küche.",
+    "Es gibt in dieser Wohnung eine schöne Küche."
+   ],
+   "explain": "es gibt + Akk."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "kann",
+    "das",
+    "man",
+    "morgen",
+    "machen"
+   ],
+   "answer": [
+    "Das kann man morgen machen.",
+    "Man kann das morgen machen.",
+    "Morgen kann man das machen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "gibt",
+    "viele",
+    "es",
+    "Möglichkeiten"
+   ],
+   "answer": [
+    "Es gibt viele Möglichkeiten."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "hier",
+    "man",
+    "nicht",
+    "darf",
+    "rauchen"
+   ],
+   "answer": [
+    "Hier darf man nicht rauchen.",
+    "Man darf hier nicht rauchen."
+   ]
+  }
+ ]
+}

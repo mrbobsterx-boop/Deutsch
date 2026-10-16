@@ -1,0 +1,656 @@
+{
+ "id": 3,
+ "title": "Haben и sein. Род и артикли",
+ "level": "A1",
+ "goal": "Вы сможете сказать, что у кого есть и какой он, правильно выбирая der/die/das, ein/eine и местоимения er/sie/es.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Глагол haben — «иметь»",
+   "html": "<p>В русском мы говорим «<b>у меня есть</b> машина». Немцы говорят иначе: «<b>я имею</b> машину» — <span class=\"de\">Ich habe ein Auto</span>. Для этого служит глагол <span class=\"de\">haben</span> (иметь). Он неправильный, его формы нужно выучить наизусть:</p>\n<table>\n<tr><th>Местоимение</th><th>haben</th><th>Перевод</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><b>habe</b></td><td>у меня есть</td></tr>\n<tr><td><span class=\"de\">du</span></td><td><b>hast</b></td><td>у тебя есть</td></tr>\n<tr><td><span class=\"de\">er / sie / es</span></td><td><b>hat</b></td><td>у него / у неё есть</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><b>haben</b></td><td>у нас есть</td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><b>habt</b></td><td>у вас есть</td></tr>\n<tr><td><span class=\"de\">sie / Sie</span></td><td><b>haben</b></td><td>у них есть / у Вас есть</td></tr>\n</table>\n<p>Обратите внимание: в <span class=\"de\">du hast</span> и <span class=\"de\">er hat</span> пропадает буква <b>b</b>. Вопрос строится перестановкой: <span class=\"de\">Hast du ein Auto?</span> — У тебя есть машина?</p>"
+  },
+  {
+   "h": "Глагол sein — «быть»",
+   "html": "<p>В русском связку «есть» в настоящем времени мы опускаем: «Я молодой», «Дом большой». В немецком так нельзя — нужен глагол <span class=\"de\">sein</span> (быть): <span class=\"de\">Ich bin jung</span> — дословно «Я есть молодой». Это самый неправильный глагол языка:</p>\n<table>\n<tr><th>Местоимение</th><th>sein</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><b>bin</b></td><td><span class=\"de\">Ich bin jung.</span> — Я молодой.</td></tr>\n<tr><td><span class=\"de\">du</span></td><td><b>bist</b></td><td><span class=\"de\">Du bist nett.</span> — Ты милый.</td></tr>\n<tr><td><span class=\"de\">er / sie / es</span></td><td><b>ist</b></td><td><span class=\"de\">Es ist groß.</span> — Он (дом) большой.</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><b>sind</b></td><td><span class=\"de\">Wir sind reich.</span> — Мы богатые.</td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><b>seid</b></td><td><span class=\"de\">Ihr seid alt.</span> — Вы старые.</td></tr>\n<tr><td><span class=\"de\">sie / Sie</span></td><td><b>sind</b></td><td><span class=\"de\">Sie sind jung.</span> — Они молодые / Вы молоды.</td></tr>\n</table>\n<div class=\"note\">Прилагательное после sein <b>не меняется</b> ни по роду, ни по числу: <span class=\"de\">Er ist alt. Sie ist alt. Wir sind alt.</span> — всегда просто <span class=\"de\">alt</span>. Не путайте <span class=\"de\">ihr seid</span> (вы есть) и <span class=\"de\">seit</span> (с, начиная с) — звучат одинаково.</div>\n<p><span class=\"de\">sein</span> также нужен, чтобы сказать, кто вы: <span class=\"de\">Ich bin Anna. Ich bin Lehrer.</span> (Я учитель — без артикля!), <span class=\"de\">Das ist ein Haus.</span> — Это дом.</p>"
+  },
+  {
+   "h": "Род существительных: der, die, das",
+   "html": "<p>Каждое немецкое существительное имеет один из трёх родов: <b>мужской</b>, <b>женский</b> или <b>средний</b>. Род показывает <b>артикль</b> — маленькое слово перед существительным. Главное правило: <b>немецкий род часто не совпадает с русским</b>, поэтому учите каждое слово сразу с артиклем.</p>\n<table>\n<tr><th>Род</th><th>Опред. артикль</th><th>Местоимение</th><th>Примеры</th></tr>\n<tr><td>мужской (m)</td><td><span class=\"de\">der</span></td><td><span class=\"de\">er</span></td><td><span class=\"de\">der Mann, der Tisch, der Tag, der Laptop</span></td></tr>\n<tr><td>женский (f)</td><td><span class=\"de\">die</span></td><td><span class=\"de\">sie</span></td><td><span class=\"de\">die Frau, die Katze, die Kreide, die Lampe</span></td></tr>\n<tr><td>средний (n)</td><td><span class=\"de\">das</span></td><td><span class=\"de\">es</span></td><td><span class=\"de\">das Kind, das Haus, das Auto, das Buch</span></td></tr>\n<tr><td>множественное (все роды)</td><td><span class=\"de\">die</span></td><td><span class=\"de\">sie</span></td><td><span class=\"de\">die Kinder, die Häuser, die Autos</span></td></tr>\n</table>\n<h4>Подсказки, как угадать род</h4>\n<ul>\n<li><b>Мужской:</b> мужчины и самцы (<span class=\"de\">der Vater, der Hund</span>), дни недели, месяцы, времена года, стороны света, слова на <b>-er</b> (о людях: <span class=\"de\">der Lehrer</span>), <b>-ling, -ismus</b>.</li>\n<li><b>Женский:</b> женщины (<span class=\"de\">die Mutter</span>), слова на <b>-ung, -heit, -keit, -schaft, -ion, -tät, -ie, -in</b> (<span class=\"de\">die Zeitung, die Freiheit, die Lehrerin</span>), большинство слов на <b>-e</b> (<span class=\"de\">die Katze, die Kreide</span>).</li>\n<li><b>Средний:</b> детёныши и <span class=\"de\">das Kind</span>, уменьшительные на <b>-chen, -lein</b> (<span class=\"de\">das Mädchen</span> — девочка!), слова на <b>-um, -ment</b>, инфинитивы в роли существительных (<span class=\"de\">das Essen</span>).</li>\n</ul>"
+  },
+  {
+   "h": "Неопределённый артикль ein / eine",
+   "html": "<p>Кроме определённого артикля (der/die/das — «этот, тот самый») есть <b>неопределённый</b>: <span class=\"de\">ein, eine</span> — «один, какой-то». Его используют, когда предмет упоминается <b>впервые</b> или когда важен сам факт «какой-то, один из многих».</p>\n<table>\n<tr><th>Род</th><th>Определённый</th><th>Неопределённый</th></tr>\n<tr><td>мужской</td><td><span class=\"de\">der Mann</span></td><td><span class=\"de\">ein Mann</span></td></tr>\n<tr><td>женский</td><td><span class=\"de\">die Katze</span></td><td><span class=\"de\">eine Katze</span></td></tr>\n<tr><td>средний</td><td><span class=\"de\">das Haus</span></td><td><span class=\"de\">ein Haus</span></td></tr>\n<tr><td>мн. число</td><td><span class=\"de\">die Freunde</span></td><td>— (нет артикля): <span class=\"de\">Freunde</span></td></tr>\n</table>\n<p>Сравните: <span class=\"de\">Ich habe <b>ein</b> Buch. <b>Das</b> Buch ist neu.</span> — У меня есть (какая-то) книга. (Эта) книга новая. Сначала предмет новый — <span class=\"de\">ein</span>; потом он уже известен — <span class=\"de\">das</span>.</p>\n<div class=\"note\">После <span class=\"de\">haben</span> существительное стоит в винительном падеже (Akkusativ). Для женского и среднего рода форма не меняется (<span class=\"de\">eine Katze, ein Haus</span>), а мужской род меняет <span class=\"de\">ein → einen</span>: <span class=\"de\">Ich habe einen Hund</span>. Подробно — в уроке 9, а в этом уроке тренируемся на словах женского и среднего рода.</div>"
+  },
+  {
+   "h": "Ловушка: es и sie для «он» и «она»",
+   "html": "<p>Когда мы заменяем существительное местоимением, берём местоимение по <b>немецкому</b> роду:</p>\n<table>\n<tr><th>Немецкий</th><th>Русский</th></tr>\n<tr><td><span class=\"de\">Ich habe ein Kind. <b>Es</b> ist nett.</span></td><td>У меня есть ребёнок. <b>Он</b> милый.</td></tr>\n<tr><td><span class=\"de\">Ich habe ein Haus. <b>Es</b> ist groß.</span></td><td>У меня есть дом. <b>Он</b> большой.</td></tr>\n<tr><td><span class=\"de\">Ich habe ein Buch. <b>Es</b> ist neu.</span></td><td>У меня есть книга. <b>Она</b> новая.</td></tr>\n<tr><td><span class=\"de\">Ich habe eine Kreide. <b>Sie</b> ist weiß.</span></td><td>У меня есть мел. <b>Он</b> белый.</td></tr>\n<tr><td><span class=\"de\">Ich habe ein Auto. <b>Es</b> ist alt.</span></td><td>У меня есть машина. <b>Она</b> старая.</td></tr>\n</table>\n<p>Когда говорите, думайте: «das Buch → es», «die Kreide → sie», а не «книга → она». Именно это тренируют фразы урока.</p>"
+  }
+ ],
+ "tips": [
+  "Учите существительные только с артиклем и в цвете: der — синий, die — красный, das — зелёный. Карточка «Buch» без «das» — бесполезна.",
+  "«У меня есть» = Ich habe … (я имею). Не пытайтесь переводить дословно «bei mir ist».",
+  "Не забывайте sein: «Я молодой» = Ich bin jung, а не «Ich jung». Связку в немецком нельзя опускать.",
+  "Мнемоника для sein: «bin – bist – ist – sind – seid – sind»: 1, 2, 3 лицо ед. ч. начинаются по-разному, а во мн. ч. — «sind – seid – sind» (бутерброд: seid в середине)."
+ ],
+ "examples": [
+  {
+   "de": "Ich habe eine Schwester. Sie ist gut.",
+   "ru": "У меня есть сестра. Она хорошая."
+  },
+  {
+   "de": "Er hat ein Schiff. Es ist weiß.",
+   "ru": "У него есть корабль. Он белый."
+  },
+  {
+   "de": "Sie hat eine Puppe. Sie ist neu.",
+   "ru": "У неё есть кукла. Она новая."
+  },
+  {
+   "de": "Wir haben ein Rad. Es ist schön.",
+   "ru": "У нас есть велосипед. Он красивый."
+  },
+  {
+   "de": "Ihr habt ein Auto. Es ist alt.",
+   "ru": "У вас есть машина. Она старая."
+  },
+  {
+   "de": "Sie haben Freunde. Sie sind lustig.",
+   "ru": "У них есть друзья. Они весёлые."
+  },
+  {
+   "de": "Das ist ein Tisch. Der Tisch ist groß.",
+   "ru": "Это стол. Стол большой."
+  },
+  {
+   "de": "Hast du eine Katze?",
+   "ru": "У тебя есть кошка?"
+  },
+  {
+   "de": "Bist du reich? – Nein, ich bin nicht reich.",
+   "ru": "Ты богатый? – Нет, я не богатый."
+  },
+  {
+   "de": "Das Mädchen ist jung. Es ist nett.",
+   "ru": "Девочка молодая. Она милая."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "haben",
+   "forms": "hat, hatte, hat gehabt",
+   "ru": "иметь"
+  },
+  {
+   "de": "sein",
+   "forms": "ist, war, ist gewesen",
+   "ru": "быть"
+  },
+  {
+   "de": "das Auto",
+   "pl": "die Autos",
+   "ru": "машина"
+  },
+  {
+   "de": "das Haus",
+   "pl": "die Häuser",
+   "ru": "дом"
+  },
+  {
+   "de": "die Katze",
+   "pl": "die Katzen",
+   "ru": "кошка"
+  },
+  {
+   "de": "das Kind",
+   "pl": "die Kinder",
+   "ru": "ребёнок"
+  },
+  {
+   "de": "das Buch",
+   "pl": "die Bücher",
+   "ru": "книга"
+  },
+  {
+   "de": "die Kreide",
+   "pl": "die Kreiden",
+   "ru": "мел"
+  },
+  {
+   "de": "die Schwester",
+   "pl": "die Schwestern",
+   "ru": "сестра"
+  },
+  {
+   "de": "das Schiff",
+   "pl": "die Schiffe",
+   "ru": "корабль"
+  },
+  {
+   "de": "die Puppe",
+   "pl": "die Puppen",
+   "ru": "кукла"
+  },
+  {
+   "de": "das Rad",
+   "pl": "die Räder",
+   "ru": "велосипед; колесо"
+  },
+  {
+   "de": "der Tisch",
+   "pl": "die Tische",
+   "ru": "стол"
+  },
+  {
+   "de": "das Mädchen",
+   "pl": "die Mädchen",
+   "ru": "девочка, девушка"
+  },
+  {
+   "de": "alt",
+   "ru": "старый"
+  },
+  {
+   "de": "jung",
+   "ru": "молодой"
+  },
+  {
+   "de": "reich",
+   "ru": "богатый"
+  },
+  {
+   "de": "nett",
+   "ru": "милый, симпатичный"
+  },
+  {
+   "de": "groß",
+   "ru": "большой"
+  },
+  {
+   "de": "klein",
+   "ru": "маленький"
+  },
+  {
+   "de": "neu",
+   "ru": "новый"
+  },
+  {
+   "de": "weiß",
+   "ru": "белый"
+  },
+  {
+   "de": "schön",
+   "ru": "красивый"
+  },
+  {
+   "de": "lustig",
+   "ru": "весёлый"
+  },
+  {
+   "de": "interessant",
+   "ru": "интересный"
+  }
+ ],
+ "phrasesNote": "Закрепляем личные местоимения, спряжение haben и sein, неопределённый артикль ein/eine и несовпадение рода в русском и немецком (das Buch → es, die Kreide → sie). Произносите медленно, думая, почему именно такая форма, затем ускоряйтесь.",
+ "phrases": [
+  {
+   "de": "Ich habe ein Auto.",
+   "ru": "У меня есть машина."
+  },
+  {
+   "de": "Du hast ein Auto.",
+   "ru": "У тебя есть машина."
+  },
+  {
+   "de": "Er hat ein Auto.",
+   "ru": "У него есть машина."
+  },
+  {
+   "de": "Sie hat ein Auto.",
+   "ru": "У неё есть машина."
+  },
+  {
+   "de": "Wir haben ein Auto.",
+   "ru": "У нас есть машина."
+  },
+  {
+   "de": "Ihr habt ein Auto.",
+   "ru": "У вас есть машина."
+  },
+  {
+   "de": "Sie haben ein Auto.",
+   "ru": "У них есть машина."
+  },
+  {
+   "de": "Ich habe ein Haus.",
+   "ru": "У меня есть дом."
+  },
+  {
+   "de": "Du hast ein Haus.",
+   "ru": "У тебя есть дом."
+  },
+  {
+   "de": "Er hat ein Haus.",
+   "ru": "У него есть дом."
+  },
+  {
+   "de": "Sie hat ein Haus.",
+   "ru": "У неё есть дом."
+  },
+  {
+   "de": "Wir haben ein Haus.",
+   "ru": "У нас есть дом."
+  },
+  {
+   "de": "Ihr habt ein Haus.",
+   "ru": "У вас есть дом."
+  },
+  {
+   "de": "Sie haben ein Haus.",
+   "ru": "У них есть дом."
+  },
+  {
+   "de": "Ich habe eine Katze.",
+   "ru": "У меня есть кошка."
+  },
+  {
+   "de": "Du hast eine Katze.",
+   "ru": "У тебя есть кошка."
+  },
+  {
+   "de": "Er hat eine Katze.",
+   "ru": "У него есть кошка."
+  },
+  {
+   "de": "Sie hat eine Katze.",
+   "ru": "У неё есть кошка."
+  },
+  {
+   "de": "Wir haben eine Katze.",
+   "ru": "У нас есть кошка."
+  },
+  {
+   "de": "Ihr habt eine Katze.",
+   "ru": "У вас есть кошка."
+  },
+  {
+   "de": "Sie haben eine Katze.",
+   "ru": "У них есть кошка."
+  },
+  {
+   "de": "Ich bin alt.",
+   "ru": "Я старый."
+  },
+  {
+   "de": "Du bist alt.",
+   "ru": "Ты старый."
+  },
+  {
+   "de": "Er ist alt.",
+   "ru": "Он старый."
+  },
+  {
+   "de": "Sie ist alt.",
+   "ru": "Она старая."
+  },
+  {
+   "de": "Wir sind alt.",
+   "ru": "Мы старые."
+  },
+  {
+   "de": "Ihr seid alt.",
+   "ru": "Вы старые."
+  },
+  {
+   "de": "Sie sind alt.",
+   "ru": "Они старые."
+  },
+  {
+   "de": "Ich bin jung.",
+   "ru": "Я молодой."
+  },
+  {
+   "de": "Du bist jung.",
+   "ru": "Ты молодой."
+  },
+  {
+   "de": "Er ist jung.",
+   "ru": "Он молодой."
+  },
+  {
+   "de": "Sie ist jung.",
+   "ru": "Она молодая."
+  },
+  {
+   "de": "Wir sind jung.",
+   "ru": "Мы молодые."
+  },
+  {
+   "de": "Ihr seid jung.",
+   "ru": "Вы молодые."
+  },
+  {
+   "de": "Sie sind jung.",
+   "ru": "Они молодые."
+  },
+  {
+   "de": "Ich bin reich.",
+   "ru": "Я богатый."
+  },
+  {
+   "de": "Du bist reich.",
+   "ru": "Ты богатый."
+  },
+  {
+   "de": "Er ist reich.",
+   "ru": "Он богатый."
+  },
+  {
+   "de": "Sie ist reich.",
+   "ru": "Она богатая."
+  },
+  {
+   "de": "Wir sind reich.",
+   "ru": "Мы богатые."
+  },
+  {
+   "de": "Ihr seid reich.",
+   "ru": "Вы богатые."
+  },
+  {
+   "de": "Sie sind reich.",
+   "ru": "Они богатые."
+  },
+  {
+   "de": "Ich habe ein Kind. Es ist nett.",
+   "ru": "У меня есть ребёнок. Он милый."
+  },
+  {
+   "de": "Du hast ein Kind. Es ist nett.",
+   "ru": "У тебя есть ребёнок. Он милый."
+  },
+  {
+   "de": "Er hat ein Kind. Es ist nett.",
+   "ru": "У него есть ребёнок. Он милый."
+  },
+  {
+   "de": "Sie hat ein Kind. Es ist nett.",
+   "ru": "У неё есть ребёнок. Он милый."
+  },
+  {
+   "de": "Wir haben ein Kind. Es ist nett.",
+   "ru": "У нас есть ребёнок. Он милый."
+  },
+  {
+   "de": "Ihr habt ein Kind. Es ist nett.",
+   "ru": "У вас есть ребёнок. Он милый."
+  },
+  {
+   "de": "Sie haben ein Kind. Es ist nett.",
+   "ru": "У них есть ребёнок. Он милый."
+  },
+  {
+   "de": "Ich habe ein Haus. Es ist groß.",
+   "ru": "У меня есть дом. Он большой."
+  },
+  {
+   "de": "Du hast ein Haus. Es ist groß.",
+   "ru": "У тебя есть дом. Он большой."
+  },
+  {
+   "de": "Er hat ein Haus. Es ist groß.",
+   "ru": "У него есть дом. Он большой."
+  },
+  {
+   "de": "Sie hat ein Haus. Es ist groß.",
+   "ru": "У неё есть дом. Он большой."
+  },
+  {
+   "de": "Wir haben ein Haus. Es ist groß.",
+   "ru": "У нас есть дом. Он большой."
+  },
+  {
+   "de": "Ihr habt ein Haus. Es ist groß.",
+   "ru": "У вас есть дом. Он большой."
+  },
+  {
+   "de": "Sie haben ein Haus. Es ist groß.",
+   "ru": "У них есть дом. Он большой."
+  },
+  {
+   "de": "Ich habe ein Buch. Es ist neu.",
+   "ru": "У меня есть книга. Она новая."
+  },
+  {
+   "de": "Du hast ein Buch. Es ist neu.",
+   "ru": "У тебя есть книга. Она новая."
+  },
+  {
+   "de": "Er hat ein Buch. Es ist neu.",
+   "ru": "У него есть книга. Она новая."
+  },
+  {
+   "de": "Sie hat ein Buch. Es ist neu.",
+   "ru": "У неё есть книга. Она новая."
+  },
+  {
+   "de": "Wir haben ein Buch. Es ist neu.",
+   "ru": "У нас есть книга. Она новая."
+  },
+  {
+   "de": "Ihr habt ein Buch. Es ist neu.",
+   "ru": "У вас есть книга. Она новая."
+  },
+  {
+   "de": "Sie haben ein Buch. Es ist neu.",
+   "ru": "У них есть книга. Она новая."
+  },
+  {
+   "de": "Ich habe eine Kreide. Sie ist weiß.",
+   "ru": "У меня есть мел. Он белый."
+  },
+  {
+   "de": "Du hast eine Kreide. Sie ist weiß.",
+   "ru": "У тебя есть мел. Он белый."
+  },
+  {
+   "de": "Er hat eine Kreide. Sie ist weiß.",
+   "ru": "У него есть мел. Он белый."
+  },
+  {
+   "de": "Sie hat eine Kreide. Sie ist weiß.",
+   "ru": "У неё есть мел. Он белый."
+  },
+  {
+   "de": "Wir haben eine Kreide. Sie ist weiß.",
+   "ru": "У нас есть мел. Он белый."
+  },
+  {
+   "de": "Ihr habt eine Kreide. Sie ist weiß.",
+   "ru": "У вас есть мел. Он белый."
+  },
+  {
+   "de": "Sie haben eine Kreide. Sie ist weiß.",
+   "ru": "У них есть мел. Он белый."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ich ___ ein Auto.",
+   "options": [
+    "hat",
+    "habe",
+    "hast"
+   ],
+   "answer": 1,
+   "explain": "ich habe"
+  },
+  {
+   "type": "choice",
+   "q": "Du ___ jung.",
+   "options": [
+    "bist",
+    "ist",
+    "bin"
+   ],
+   "answer": 0,
+   "explain": "du bist"
+  },
+  {
+   "type": "choice",
+   "q": "Какой артикль у слова Kind?",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": 2,
+   "explain": "das Kind — средний род."
+  },
+  {
+   "type": "choice",
+   "q": "Какой артикль у слова Katze?",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": 1,
+   "explain": "die Katze — женский род (большинство слов на -e женского рода)."
+  },
+  {
+   "type": "choice",
+   "q": "Ich habe ein Buch. ___ ist neu.",
+   "options": [
+    "Er",
+    "Sie",
+    "Es"
+   ],
+   "answer": 2,
+   "explain": "das Buch → es (хотя по-русски «она»)."
+  },
+  {
+   "type": "choice",
+   "q": "Ich habe eine Kreide. ___ ist weiß.",
+   "options": [
+    "Er",
+    "Sie",
+    "Es"
+   ],
+   "answer": 1,
+   "explain": "die Kreide → sie (хотя по-русски мел — «он»)."
+  },
+  {
+   "type": "choice",
+   "q": "Er hat ___ Katze.",
+   "options": [
+    "ein",
+    "eine",
+    "einen"
+   ],
+   "answer": 1,
+   "explain": "die Katze — женский род → eine."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ ein Haus. (haben)",
+   "answer": [
+    "haben"
+   ],
+   "explain": "wir haben"
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ alt. (sein)",
+   "answer": [
+    "seid"
+   ],
+   "explain": "ihr seid"
+  },
+  {
+   "type": "gap",
+   "q": "Sie (она) ___ ein Kind. (haben)",
+   "answer": [
+    "hat"
+   ],
+   "explain": "sie hat"
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ eine Katze. (haben)",
+   "answer": [
+    "habt"
+   ],
+   "explain": "ihr habt"
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ reich. (sein)",
+   "answer": [
+    "sind"
+   ],
+   "explain": "wir sind"
+  },
+  {
+   "type": "translate",
+   "q": "У меня есть дом. Он большой.",
+   "answer": [
+    "Ich habe ein Haus. Es ist groß."
+   ],
+   "explain": "das Haus → es."
+  },
+  {
+   "type": "translate",
+   "q": "У тебя есть ребёнок. Он милый.",
+   "answer": [
+    "Du hast ein Kind. Es ist nett."
+   ],
+   "explain": "das Kind → es."
+  },
+  {
+   "type": "translate",
+   "q": "У них есть книга. Она интересная.",
+   "answer": [
+    "Sie haben ein Buch. Es ist interessant."
+   ],
+   "explain": "das Buch → es."
+  },
+  {
+   "type": "translate",
+   "q": "У вас есть машина. Она старая.",
+   "answer": [
+    "Ihr habt ein Auto. Es ist alt.",
+    "Sie haben ein Auto. Es ist alt."
+   ],
+   "explain": "«У вас» — ihr habt (на «ты») или Sie haben (вежливо)."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «У неё есть кошка.»",
+   "words": [
+    "eine",
+    "hat",
+    "Sie",
+    "Katze"
+   ],
+   "answer": [
+    "Sie hat eine Katze."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос: «У тебя есть машина?»",
+   "words": [
+    "du",
+    "ein",
+    "Hast",
+    "Auto"
+   ],
+   "answer": [
+    "Hast du ein Auto?"
+   ],
+   "explain": "В вопросе без вопросительного слова глагол стоит на первом месте."
+  }
+ ]
+}

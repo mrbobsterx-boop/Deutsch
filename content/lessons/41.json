@@ -1,0 +1,125 @@
+{
+  "id": 41,
+  "title": "Konjunktiv II: würde, wäre, hätte",
+  "level": "B1",
+  "goal": "Вы сможете говорить о мечтах и нереальных условиях (Wenn ich reich wäre, würde ich …), выражать желания (Wenn ich nur mehr Zeit hätte!) и вежливо просить (Könnten Sie …? Ich hätte gern …).",
+  "minutes": 55,
+  "theory": [
+    {
+      "h": "Зачем нужен Konjunktiv II",
+      "html": "<p>Konjunktiv II — это немецкое сослагательное наклонение, аналог русского <b>«бы»</b>. Он используется:</p><ul><li>для <b>нереальных условий</b>: <span class=\"de\">Wenn ich Zeit hätte, würde ich kommen.</span> — Если бы у меня было время, я бы пришёл.</li><li>для <b>желаний и мечтаний</b>: <span class=\"de\">Wenn ich nur reich wäre!</span> — Если бы я только был богат!</li><li>для <b>вежливых просьб</b>: <span class=\"de\">Könnten Sie mir helfen?</span> — Не могли бы Вы мне помочь?</li><li>для <b>советов</b>: <span class=\"de\">Du solltest mehr schlafen.</span> — Тебе бы стоило больше спать.</li></ul><p>В этом уроке — Konjunktiv II настоящего времени (о сейчас и будущем).</p>"
+    },
+    {
+      "h": "würde + Infinitiv",
+      "html": "<p>Для большинства глаголов Konjunktiv II образуется просто: <b>würde + инфинитив в конце</b>.</p><table><tr><th>Лицо</th><th>werden → würde</th><th>Пример</th></tr><tr><td>ich</td><td>würde</td><td><span class=\"de\">ich würde helfen</span></td></tr><tr><td>du</td><td>würdest</td><td><span class=\"de\">du würdest helfen</span></td></tr><tr><td>er/sie/es</td><td>würde</td><td><span class=\"de\">er würde helfen</span></td></tr><tr><td>wir</td><td>würden</td><td><span class=\"de\">wir würden helfen</span></td></tr><tr><td>ihr</td><td>würdet</td><td><span class=\"de\">ihr würdet helfen</span></td></tr><tr><td>sie/Sie</td><td>würden</td><td><span class=\"de\">sie würden helfen</span></td></tr></table><p><span class=\"de\">Ich würde gerne ein Auto kaufen, aber ich habe kein Geld.</span> — Я бы с удовольствием купил машину, но у меня нет денег.</p>"
+    },
+    {
+      "h": "Особые формы: wäre, hätte и модальные",
+      "html": "<p>У <b>sein, haben</b> и модальных глаголов используют собственные формы (würde с ними почти не употребляют). Они образуются от Präteritum + умлаут:</p><table><tr><th>Инфинитив</th><th>Präteritum</th><th>Konj. II (ich/er)</th><th>du</th><th>wir/sie</th></tr><tr><td>sein</td><td>war</td><td><b>wäre</b></td><td>wärst (wärest)</td><td>wären</td></tr><tr><td>haben</td><td>hatte</td><td><b>hätte</b></td><td>hättest</td><td>hätten</td></tr><tr><td>können</td><td>konnte</td><td><b>könnte</b></td><td>könntest</td><td>könnten</td></tr><tr><td>dürfen</td><td>durfte</td><td><b>dürfte</b></td><td>dürftest</td><td>dürften</td></tr><tr><td>müssen</td><td>musste</td><td><b>müsste</b></td><td>müsstest</td><td>müssten</td></tr><tr><td>sollen</td><td>sollte</td><td><b>sollte</b></td><td>solltest</td><td>sollten</td></tr><tr><td>wollen</td><td>wollte</td><td><b>wollte</b></td><td>wolltest</td><td>wollten</td></tr></table><div class=\"note\">У sollen и wollen умлаута нет — формы Konjunktiv II совпадают с Präteritum. Часто встречаются также <span class=\"de\">wüsste</span> (wissen), <span class=\"de\">käme</span> (kommen), <span class=\"de\">ginge</span> (gehen), <span class=\"de\">gäbe</span> (es gibt).</div>"
+    },
+    {
+      "h": "Нереальное условие: Wenn …, (dann) würde …",
+      "html": "<p>В придаточном с <span class=\"de\">wenn</span> глагол в конце; главное предложение после него начинается с глагола:</p><ul><li><span class=\"de\">Wenn ich mehr Zeit <b>hätte</b>, <b>würde</b> ich mehr lesen.</span></li><li><span class=\"de\">Wenn ich nicht so müde <b>wäre</b>, <b>würde</b> ich mit meinem Sohn spielen.</span></li><li><span class=\"de\">Ich würde mit meinem Chef sprechen, wenn er nicht so streng <b>wäre</b>.</span></li></ul><p>Вопросы: <span class=\"de\">Was würdest du machen, wenn du reich wärst?</span> — Что бы ты делал, если бы был богат?</p><p><b>Желание</b> выражают придаточным с wenn без главного предложения, часто с <span class=\"de\">nur</span> или <span class=\"de\">doch</span>: <span class=\"de\">Wenn ich nur mehr Zeit hätte!</span> То же можно сказать без wenn, поставив глагол на первое место: <span class=\"de\">Hätte ich nur mehr Zeit!</span></p>"
+    },
+    {
+      "h": "Вежливость и советы",
+      "html": "<table><tr><th>Indikativ (прямо)</th><th>Konjunktiv II (вежливо)</th></tr><tr><td><span class=\"de\">Können Sie mir helfen?</span></td><td><span class=\"de\">Könnten Sie mir bitte helfen?</span></td></tr><tr><td><span class=\"de\">Ich will einen Kaffee.</span></td><td><span class=\"de\">Ich hätte gern einen Kaffee. / Ich möchte einen Kaffee.</span></td></tr><tr><td><span class=\"de\">Hast du Zeit?</span></td><td><span class=\"de\">Hättest du kurz Zeit?</span></td></tr><tr><td><span class=\"de\">Mach das!</span></td><td><span class=\"de\">Würdest du das bitte machen?</span></td></tr><tr><td><span class=\"de\">Du musst mehr schlafen.</span></td><td><span class=\"de\">Du solltest mehr schlafen.</span> (совет)</td></tr></table><p>Полезные фразы: <span class=\"de\">Ich würde mich sehr freuen, wenn …</span> — Я был бы очень рад, если бы… ; <span class=\"de\">Ich hätte nichts dagegen.</span> — Я был бы не против.</p>"
+    }
+  ],
+  "tips": [
+    "Русское «бы» стоит в обеих частях фразы — в немецком тоже: Konjunktiv нужен и в wenn-части, и в главной. Неверно: «Wenn ich Zeit habe, würde ich kommen».",
+    "Не говорите «ich würde haben / ich würde sein» — это звучит неуклюже. Используйте hätte и wäre.",
+    "Не путайте würde (бы) и wurde (стал, Präteritum от werden). Точки над u меняют смысл!",
+    "Möchte — тоже Konjunktiv II (от mögen). Поэтому «Ich möchte» уже само по себе вежливо."
+  ],
+  "examples": [
+    {"de": "Wenn ich Zeit hätte, würde ich dich besuchen.", "ru": "Если бы у меня было время, я бы тебя навестил."},
+    {"de": "Wenn das Wetter schön wäre, würden wir an den See fahren.", "ru": "Если бы погода была хорошей, мы бы поехали на озеро."},
+    {"de": "Ich wäre gern am Meer.", "ru": "Я бы хотел оказаться на море."},
+    {"de": "Könnten Sie bitte das Fenster schließen?", "ru": "Не могли бы Вы закрыть окно?"},
+    {"de": "Ich hätte gern ein Glas Wasser.", "ru": "Я бы хотел стакан воды."},
+    {"de": "Du solltest weniger arbeiten.", "ru": "Тебе следовало бы меньше работать."},
+    {"de": "Was würdest du an meiner Stelle machen?", "ru": "Что бы ты сделал на моём месте?"},
+    {"de": "Hätte ich nur mehr Geld!", "ru": "Было бы у меня только больше денег!"},
+    {"de": "Würden Sie mir bitte helfen?", "ru": "Вы не помогли бы мне?"},
+    {"de": "Wenn ich du wäre, würde ich die Wohnung nehmen.", "ru": "На твоём месте я бы взял эту квартиру."},
+    {"de": "Es wäre schön, wenn du mitkommen könntest.", "ru": "Было бы здорово, если бы ты смог пойти с нами."}
+  ],
+  "vocab": [
+    {"de": "würde", "ru": "бы (Konjunktiv II от werden)"},
+    {"de": "wäre", "ru": "был бы (от sein)"},
+    {"de": "hätte", "ru": "имел бы, было бы у … (от haben)"},
+    {"de": "könnte", "ru": "мог бы"},
+    {"de": "dürfte", "ru": "можно было бы (разрешение)"},
+    {"de": "müsste", "ru": "должен был бы"},
+    {"de": "sollte", "ru": "следовало бы"},
+    {"de": "wüsste", "ru": "знал бы (от wissen)"},
+    {"de": "gäbe", "ru": "было бы, имелось бы (es gäbe)"},
+    {"de": "reich", "ru": "богатый"},
+    {"de": "streng", "ru": "строгий"},
+    {"de": "nervös", "ru": "нервный"},
+    {"de": "eigen", "ru": "собственный (ein eigenes Haus)"},
+    {"de": "gewinnen", "forms": "gewinnt, gewann, hat gewonnen", "ru": "выигрывать"},
+    {"de": "mitfahren", "forms": "fährt mit, fuhr mit, ist mitgefahren", "ru": "ехать вместе (с кем-л.)"},
+    {"de": "mitspielen", "ru": "играть вместе, участвовать в игре"},
+    {"de": "die Ferien", "pl": "die Ferien", "ru": "каникулы (только мн.ч.)"},
+    {"de": "der Urlaub", "pl": "die Urlaube", "ru": "отпуск"},
+    {"de": "die Angst", "pl": "die Ängste", "ru": "страх (Angst haben vor + Dat)"},
+    {"de": "der Fehler", "pl": "die Fehler", "ru": "ошибка"},
+    {"de": "der Chef", "pl": "die Chefs", "ru": "начальник"},
+    {"de": "etwas dagegen haben", "ru": "быть против чего-л."},
+    {"de": "an deiner Stelle", "ru": "на твоём месте"}
+  ],
+  "phrasesNote": "Закрепляем Konjunktiv II: желания с Wenn … nur (wäre, hätte, könnte, dürfte), würde gerne …, aber …, нереальные условия с wenn и вопросы «что бы ты сделал, если бы…». Проспрягайте фразы по всем лицам.",
+  "phrases": [
+    {"de": "Wenn ich nur ein bisschen größer wäre!", "ru": "Если бы я только был чуть повыше!"},
+    {"de": "Wenn ich nur ein bisschen jünger wäre!", "ru": "Если бы я только был чуть моложе!"},
+    {"de": "Wenn ich nur reich wäre!", "ru": "Если бы я только был богат!"},
+    {"de": "Wenn ich ein eigenes Haus hätte!", "ru": "Если бы у меня был собственный дом!"},
+    {"de": "Wenn ich mehr Zeit hätte!", "ru": "Если бы у меня было больше времени!"},
+    {"de": "Wenn ich jetzt Ferien hätte!", "ru": "Если бы у меня сейчас были каникулы!"},
+    {"de": "Wenn sie auch Urlaub hätten!", "ru": "Если бы у них тоже был отпуск!"},
+    {"de": "Wenn ich nur heute zu dir kommen könnte!", "ru": "Если бы я только мог прийти к тебе сегодня!"},
+    {"de": "Wenn ich nur meinen Eltern helfen könnte!", "ru": "Если бы я только мог помочь своим родителям!"},
+    {"de": "Wenn ich nur das machen könnte!", "ru": "Если бы я только мог это сделать!"},
+    {"de": "Wenn ich nur mitspielen dürfte!", "ru": "Если бы мне только разрешили поиграть вместе со всеми!"},
+    {"de": "Wenn du nur auch mitfahren könntest!", "ru": "Если бы ты тоже мог поехать с нами!"},
+    {"de": "Ich würde gerne meinem Freund helfen, aber ich habe heute keine Zeit.", "ru": "Я бы с радостью помог другу, но сегодня у меня нет времени."},
+    {"de": "Ich würde gerne mitfahren, aber ich habe kein Auto.", "ru": "Я бы с удовольствием поехал с вами, но у меня нет машины."},
+    {"de": "Ich würde gerne ein Auto kaufen, aber ich habe kein Geld.", "ru": "Я бы с удовольствием купил машину, но у меня нет денег."},
+    {"de": "Ich würde mit meinem Chef sprechen, wenn er nicht so streng wäre.", "ru": "Я бы поговорил со своим начальником, если бы он не был таким строгим."},
+    {"de": "Ich würde mir diese Wohnung kaufen, wenn sie nicht so teuer wäre.", "ru": "Я бы купил себе эту квартиру, если бы она не была такой дорогой."},
+    {"de": "Würdest du kommen, wenn du Zeit hättest?", "ru": "Ты бы пришёл, если бы у тебя было время?"},
+    {"de": "Würdest du deinem Bruder helfen, wenn du genug Geld hättest?", "ru": "Ты бы помог брату, если бы у тебя было достаточно денег?"},
+    {"de": "Würdest du mehr lesen, wenn du mehr Zeit hättest?", "ru": "Ты бы больше читал, если бы у тебя было больше времени?"},
+    {"de": "Was würdest du machen, wenn du reich wärst?", "ru": "Что бы ты делал, если бы был богат?"},
+    {"de": "Was würdest du dir kaufen, wenn du gewinnen würdest?", "ru": "Что бы ты себе купил, если бы выиграл?"},
+    {"de": "Wenn ich keine Angst vor Fehlern hätte, würde ich mehr Deutsch sprechen.", "ru": "Если бы я не боялся ошибок, я бы больше говорил по-немецки."},
+    {"de": "Wenn ich nicht so müde wäre, würde ich mit meinem Sohn spielen.", "ru": "Если бы я не был таким уставшим, я бы поиграл с сыном."},
+    {"de": "Wenn ich mehr Sport machen würde, wäre ich nicht so oft krank.", "ru": "Если бы я больше занимался спортом, я бы не болел так часто."},
+    {"de": "Wenn ich mehr Zeit hätte, wäre ich nicht so nervös.", "ru": "Если бы у меня было больше времени, я бы не нервничал так сильно."},
+    {"de": "Ich hätte nichts dagegen, wenn ich im Sommer einen langen Urlaub machen könnte.", "ru": "Я был бы не против, если бы мог летом взять долгий отпуск."},
+    {"de": "Ich würde mich besser fühlen, wenn ich weniger arbeiten müsste.", "ru": "Я чувствовал бы себя лучше, если бы мне приходилось меньше работать."},
+    {"de": "Ich würde mich sehr freuen, wenn du am Wochenende kommen könntest.", "ru": "Я был бы очень рад, если бы ты смог приехать на выходных."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Wenn ich reich ___, würde ich ein Haus kaufen.", "options": ["bin", "wäre", "war"], "answer": 1, "explain": "Нереальное условие: sein → wäre."},
+    {"type": "choice", "q": "Wenn ich mehr Zeit ___, würde ich mehr lesen.", "options": ["habe", "hatte", "hätte"], "answer": 2, "explain": "haben → hätte."},
+    {"type": "gap", "q": "Ich ___ gerne mitfahren, aber ich habe kein Auto. (werden, Konj. II)", "answer": ["würde"], "explain": "ich würde + Infinitiv."},
+    {"type": "gap", "q": "___ du kommen, wenn du Zeit hättest? (werden, Konj. II)", "answer": ["Würdest"], "explain": "du würdest."},
+    {"type": "choice", "q": "Wenn ich nur meinen Eltern helfen ___!", "options": ["kann", "könnte", "konnte"], "answer": 1, "explain": "können → könnte."},
+    {"type": "choice", "q": "___ Sie mir bitte helfen?", "options": ["Könnten", "Konnten", "Können"], "answer": 0, "explain": "Самая вежливая форма — Könnten Sie …?"},
+    {"type": "gap", "q": "Was würdest du machen, wenn du reich ___? (sein)", "answer": ["wärst", "wärest"], "explain": "du wärst (или wärest)."},
+    {"type": "choice", "q": "Du ___ mehr schlafen. (совет)", "options": ["solltest", "sollst", "würdest"], "answer": 0, "explain": "Совет: du solltest."},
+    {"type": "choice", "q": "Ich ___ gern einen Kaffee.", "options": ["habe", "hätte", "würde"], "answer": 1, "explain": "Вежливый заказ: Ich hätte gern …"},
+    {"type": "gap", "q": "Wenn ich mehr Sport machen würde, ___ ich nicht so oft krank. (sein)", "answer": ["wäre"], "explain": "ich wäre."},
+    {"type": "gap", "q": "Ich würde mich besser fühlen, wenn ich weniger arbeiten ___. (müssen)", "answer": ["müsste"], "explain": "müssen → müsste."},
+    {"type": "choice", "q": "Wenn ich nur mitspielen ___! (разрешение)", "options": ["dürfte", "durfte", "darf"], "answer": 0, "explain": "dürfen → dürfte."},
+    {"type": "translate", "q": "Если бы у меня было время, я бы пришёл.", "answer": ["Wenn ich Zeit hätte, würde ich kommen.", "Ich würde kommen, wenn ich Zeit hätte.", "Hätte ich Zeit, würde ich kommen.", "Wenn ich Zeit hätte, käme ich."], "explain": "wenn + hätte (в конце), затем würde + kommen."},
+    {"type": "translate", "q": "Если бы я только был богат!", "answer": ["Wenn ich nur reich wäre!", "Wäre ich nur reich!", "Wenn ich doch reich wäre!", "Wäre ich doch reich!"], "explain": "Желание: Wenn ich nur … wäre!"},
+    {"type": "translate", "q": "Я бы с удовольствием купил машину, но у меня нет денег.", "answer": ["Ich würde gerne ein Auto kaufen, aber ich habe kein Geld.", "Ich würde gern ein Auto kaufen, aber ich habe kein Geld."], "explain": "würde gerne + Infinitiv; вторая часть — реальность, Indikativ."},
+    {"type": "order", "q": "Составьте предложение", "words": ["wäre,", "Wenn", "ich", "nicht so müde", "würde", "ich", "mit meinem Sohn spielen"], "answer": ["Wenn ich nicht so müde wäre, würde ich mit meinem Sohn spielen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["kommen könntest", "Ich", "mich sehr freuen,", "würde", "wenn", "du", "am Wochenende"], "answer": ["Ich würde mich sehr freuen, wenn du am Wochenende kommen könntest."]},
+    {"type": "translate", "q": "Что бы ты сделал на моём месте?", "answer": ["Was würdest du an meiner Stelle machen?", "Was würdest du an meiner Stelle tun?"], "explain": "an meiner Stelle — на моём месте."}
+  ]
+}

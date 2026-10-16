@@ -1,0 +1,494 @@
+{
+ "id": 19,
+ "title": "Artikelwörter: dieser, jeder, welcher",
+ "level": "A1",
+ "goal": "Вы научитесь склонять dieser, jeder, welcher, mancher и alle во всех падежах и различать welcher? и was für ein?",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Что такое Artikelwörter",
+   "html": "<p><b>Artikelwörter</b> — слова, которые стоят на месте артикля перед существительным: <span class=\"de\">dieser</span> (этот), <span class=\"de\">jeder</span> (каждый), <span class=\"de\">welcher</span> (который? какой?), <span class=\"de\">mancher</span> (некоторый), <span class=\"de\">alle</span> (все).</p>\n<p>Хорошая новость: они склоняются <b>точно как определённый артикль der/die/das</b>. Посмотрите на окончания артикля — и вы знаете окончания <span class=\"de\">dieser</span>:</p>\n<p><span class=\"de\">d<b>er</b> → dies<b>er</b>, d<b>ie</b> → dies<b>e</b>, d<b>as</b> → dies<b>es</b>, d<b>en</b> → dies<b>en</b>, d<b>em</b> → dies<b>em</b></span></p>"
+  },
+  {
+   "h": "Таблица склонения dieser",
+   "html": "<table><tr><th></th><th>м.р.</th><th>ж.р.</th><th>ср.р.</th><th>мн.ч.</th></tr>\n<tr><td><b>Nom</b></td><td><span class=\"de\">dieser Tisch</span></td><td><span class=\"de\">diese Wohnung</span></td><td><span class=\"de\">dieses Haus</span></td><td><span class=\"de\">diese Bücher</span></td></tr>\n<tr><td><b>Akk</b></td><td><span class=\"de\">diesen Tisch</span></td><td><span class=\"de\">diese Wohnung</span></td><td><span class=\"de\">dieses Haus</span></td><td><span class=\"de\">diese Bücher</span></td></tr>\n<tr><td><b>Dat</b></td><td><span class=\"de\">diesem Tisch</span></td><td><span class=\"de\">dieser Wohnung</span></td><td><span class=\"de\">diesem Haus</span></td><td><span class=\"de\">diesen Büchern</span></td></tr></table>\n<p>Так же склоняются <span class=\"de\">jeder, welcher, mancher</span>:</p>\n<ul><li><span class=\"de\">Jeder Mann soll arbeiten. – Ich kenne jeden Mann. – Ich spreche mit jedem Mann.</span></li>\n<li><span class=\"de\">Welches Auto? Welche Tasche? Welchen Tisch?</span></li></ul>"
+  },
+  {
+   "h": "jeder, alle, mancher, einige, viele",
+   "html": "<ul><li><span class=\"de\">jeder / jede / jedes</span> — каждый; <b>только единственное число</b>: <span class=\"de\">jeder Tag, jede Frau, jedes Kind</span>.</li>\n<li><span class=\"de\">alle</span> — все; <b>только множественное число</b>: <span class=\"de\">alle Freunde</span>, Dativ: <span class=\"de\">mit allen Freunden</span>.</li>\n<li><span class=\"de\">manche</span> — некоторые (часть, но неопределённо): <span class=\"de\">Manche Freunde helfen selten.</span></li>\n<li><span class=\"de\">einige</span> — несколько, некоторые; <span class=\"de\">viele</span> — многие: <span class=\"de\">mit einigen / vielen Freunden</span>.</li></ul>\n<h4>Регулярность</h4>\n<p><span class=\"de\">jeden Tag</span> — каждый день (Akkusativ времени!), <span class=\"de\">jeden zweiten Tag</span> — через день, <span class=\"de\">alle zwei Tage</span> — каждые два дня.</p>\n<div class=\"note\"><span class=\"de\">viel</span> с неисчисляемым — без окончания: <span class=\"de\">viel Zucker, mit viel Sand</span>; <span class=\"de\">viele</span> с исчисляемыми во мн.ч.: <span class=\"de\">viele Autos, mit vielen Autos</span>.</div>"
+  },
+  {
+   "h": "welcher? и was für ein?",
+   "html": "<p>Оба переводятся как «какой?», но различаются:</p>\n<table><tr><th>Вопрос</th><th>Смысл</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">Welcher? Welche? Welches?</span></td><td>выбор из известных вариантов («который из»)</td><td><span class=\"de\">Welches Auto willst du – das rote oder das blaue?</span></td></tr>\n<tr><td><span class=\"de\">Was für ein…?</span></td><td>какой по качеству, какого типа</td><td><span class=\"de\">Was für ein Auto möchtest du kaufen? – Ein kleines.</span></td></tr></table>\n<p>В <span class=\"de\">was für ein</span> склоняется только <span class=\"de\">ein</span>: <span class=\"de\">Was für einen Tisch? Was für eine Tasche?</span> Во мн.ч. — без ein: <span class=\"de\">Was für Bücher liest du?</span></p>"
+  }
+ ],
+ "tips": [
+  "Знаете der/die/das — знаете dieser/jeder/welcher: окончание повторяет последнюю букву артикля (der → dieser, dem → diesem).",
+  "Не говорите «jede Tage» — jeder только в ед. числе: jeden Tag; во мн.ч. — alle Tage, alle zwei Tage.",
+  "«Каждый день» — jeden Tag (Akkusativ), без предлога: Ich lerne jeden Tag Deutsch.",
+  "Dieses Jahr / diese Woche / diesen Monat — «в этом году / на этой неделе / в этом месяце» тоже без предлога."
+ ],
+ "examples": [
+  {
+   "de": "Dieser Film ist sehr spannend.",
+   "ru": "Этот фильм очень захватывающий."
+  },
+  {
+   "de": "Ich kenne diesen Mann nicht.",
+   "ru": "Я не знаю этого мужчину."
+  },
+  {
+   "de": "Wir wohnen in dieser Stadt seit fünf Jahren.",
+   "ru": "Мы живём в этом городе уже пять лет."
+  },
+  {
+   "de": "Jedes Kind bekommt ein Geschenk.",
+   "ru": "Каждый ребёнок получает подарок."
+  },
+  {
+   "de": "Ich rufe jeden Tag meine Mutter an.",
+   "ru": "Я каждый день звоню маме."
+  },
+  {
+   "de": "Welche Farbe gefällt dir?",
+   "ru": "Какой цвет тебе нравится?"
+  },
+  {
+   "de": "Mit welchem Bus fährst du?",
+   "ru": "На каком автобусе ты едешь?"
+  },
+  {
+   "de": "Was für ein Buch liest du? – Einen Krimi.",
+   "ru": "Какую книгу ты читаешь? – Детектив."
+  },
+  {
+   "de": "Alle Kinder spielen im Garten.",
+   "ru": "Все дети играют в саду."
+  },
+  {
+   "de": "Manche Leute arbeiten auch am Sonntag.",
+   "ru": "Некоторые люди работают и в воскресенье."
+  },
+  {
+   "de": "Diese Woche habe ich viel Arbeit.",
+   "ru": "На этой неделе у меня много работы."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "dieser, diese, dieses",
+   "ru": "| этот, эта, это"
+  },
+  {
+   "de": "jeder, jede, jedes",
+   "ru": "| каждый, каждая, каждое"
+  },
+  {
+   "de": "welcher, welche, welches",
+   "ru": "| который, какой"
+  },
+  {
+   "de": "mancher, manche, manches",
+   "ru": "| некоторый"
+  },
+  {
+   "de": "alle",
+   "ru": "| все"
+  },
+  {
+   "de": "einige",
+   "ru": "| несколько, некоторые"
+  },
+  {
+   "de": "viele",
+   "ru": "| многие"
+  },
+  {
+   "de": "was für ein",
+   "ru": "| что за, какой (по качеству)"
+  },
+  {
+   "de": "die Tasche",
+   "pl": "die Taschen",
+   "ru": "сумка"
+  },
+  {
+   "de": "der Zucker",
+   "pl": "—",
+   "ru": "сахар"
+  },
+  {
+   "de": "der Sand",
+   "pl": "—",
+   "ru": "песок"
+  },
+  {
+   "de": "die Farbe",
+   "pl": "die Farben",
+   "ru": "цвет; краска"
+  },
+  {
+   "de": "die Leute",
+   "pl": "die Leute",
+   "ru": "люди (только мн.ч.)"
+  },
+  {
+   "de": "die Woche",
+   "pl": "die Wochen",
+   "ru": "неделя"
+  },
+  {
+   "de": "der Monat",
+   "pl": "die Monate",
+   "ru": "месяц"
+  },
+  {
+   "de": "das Wort",
+   "pl": "die Wörter",
+   "ru": "слово"
+  },
+  {
+   "de": "wiederholen",
+   "ru": "| повторять"
+  },
+  {
+   "de": "wichtig",
+   "ru": "| важный"
+  },
+  {
+   "de": "nett",
+   "ru": "| милый, приятный"
+  },
+  {
+   "de": "selten",
+   "ru": "| редко"
+  },
+  {
+   "de": "nie",
+   "ru": "| никогда"
+  },
+  {
+   "de": "immer",
+   "ru": "| всегда"
+  }
+ ],
+ "phrasesNote": "Закрепляем склонение dieser и jeder в цепочках Nominativ – Akkusativ – Dativ (Dieses Haus ist neu – Ich kaufe dieses Haus – Ich wohne in diesem Haus), вопросы welcher / was für ein и слова einige, manche, viele, alle.",
+ "phrases": [
+  {
+   "de": "Dieses Haus ist neu – Ich kaufe dieses Haus – Ich wohne in diesem Haus.",
+   "ru": "Этот дом новый – Я покупаю этот дом – Я живу в этом доме."
+  },
+  {
+   "de": "Diese Wohnung ist alt – Ich kaufe diese Wohnung – Ich wohne in dieser Wohnung.",
+   "ru": "Эта квартира старая – Я покупаю эту квартиру – Я живу в этой квартире."
+  },
+  {
+   "de": "Dieser Tisch ist groß – Ich kaufe diesen Tisch – Das Buch liegt auf diesem Tisch.",
+   "ru": "Этот стол большой – Я покупаю этот стол – Книга лежит на этом столе."
+  },
+  {
+   "de": "Diese Bücher sind teuer – Ich kaufe diese Bücher – Das Geld ist hinter diesen Büchern.",
+   "ru": "Эти книги дорогие – Я покупаю эти книги – Деньги за этими книгами."
+  },
+  {
+   "de": "Jedes Kind soll lernen – Ich kenne jedes Kind – Ich spreche mit jedem Kind.",
+   "ru": "Каждый ребёнок должен учиться – Я знаю каждого ребёнка – Я говорю с каждым ребёнком."
+  },
+  {
+   "de": "Jede Frau soll lernen – Ich kenne jede Frau – Ich spreche mit jeder Frau.",
+   "ru": "Каждая женщина должна учиться – Я знаю каждую женщину – Я говорю с каждой женщиной."
+  },
+  {
+   "de": "Jeder Mann soll arbeiten – Ich kenne jeden Mann – Ich spreche mit jedem Mann.",
+   "ru": "Каждый мужчина должен работать – Я знаю каждого мужчину – Я говорю с каждым мужчиной."
+  },
+  {
+   "de": "Alle zwei Tage muss man die Wörter wiederholen.",
+   "ru": "Каждые два дня нужно повторять слова."
+  },
+  {
+   "de": "Jeden zweiten Tag lerne ich Deutsch.",
+   "ru": "Через день (каждый второй день) я учу немецкий."
+  },
+  {
+   "de": "Jeder Tag ist wichtig – Ich lerne jeden Tag Deutsch.",
+   "ru": "Каждый день важен – Я учу немецкий каждый день."
+  },
+  {
+   "de": "Welches Auto willst du?",
+   "ru": "Какую машину ты хочешь?"
+  },
+  {
+   "de": "Welche Tasche willst du?",
+   "ru": "Какую сумку ты хочешь?"
+  },
+  {
+   "de": "Welchen Tisch willst du?",
+   "ru": "Какой стол ты хочешь?"
+  },
+  {
+   "de": "Was für ein Auto möchtest du kaufen?",
+   "ru": "Какую машину ты хотел бы купить?"
+  },
+  {
+   "de": "Was für eine Tasche möchtest du kaufen?",
+   "ru": "Какую сумку ты хотел бы купить?"
+  },
+  {
+   "de": "Was für einen Tisch möchtest du kaufen?",
+   "ru": "Какой стол ты хотел бы купить?"
+  },
+  {
+   "de": "Einige Freunde helfen immer.",
+   "ru": "Несколько друзей помогают всегда."
+  },
+  {
+   "de": "Manche Freunde helfen selten.",
+   "ru": "Некоторые друзья помогают редко."
+  },
+  {
+   "de": "Viele Freunde helfen nie.",
+   "ru": "Многие друзья не помогают никогда."
+  },
+  {
+   "de": "Alle Freunde sind sehr nett.",
+   "ru": "Все друзья очень милые."
+  },
+  {
+   "de": "Ich frage einige Freunde.",
+   "ru": "Я спрашиваю нескольких друзей."
+  },
+  {
+   "de": "Ich frage manche Freunde.",
+   "ru": "Я спрашиваю некоторых друзей."
+  },
+  {
+   "de": "Ich frage viele Freunde.",
+   "ru": "Я спрашиваю многих друзей."
+  },
+  {
+   "de": "Ich frage alle Freunde.",
+   "ru": "Я спрашиваю всех друзей."
+  },
+  {
+   "de": "Ich spreche mit einigen Freunden.",
+   "ru": "Я говорю с несколькими друзьями."
+  },
+  {
+   "de": "Ich spreche mit manchen Freunden.",
+   "ru": "Я говорю с некоторыми друзьями."
+  },
+  {
+   "de": "Ich spreche mit vielen Freunden.",
+   "ru": "Я говорю со многими друзьями."
+  },
+  {
+   "de": "Ich spreche mit allen Freunden.",
+   "ru": "Я говорю со всеми друзьями."
+  },
+  {
+   "de": "Viel Zucker – Mit viel Zucker.",
+   "ru": "Много сахара – С большим количеством сахара."
+  },
+  {
+   "de": "Viele Autos – Mit vielen Autos.",
+   "ru": "Много машин – Со многими машинами."
+  },
+  {
+   "de": "Viel Sand – Mit viel Sand.",
+   "ru": "Много песка – С большим количеством песка."
+  },
+  {
+   "de": "Viele Freunde – Mit vielen Freunden.",
+   "ru": "Много друзей – Со многими друзьями."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "___ Haus ist neu.",
+   "options": [
+    "Dieser",
+    "Diese",
+    "Dieses"
+   ],
+   "answer": 2,
+   "explain": "das Haus → dieses"
+  },
+  {
+   "type": "choice",
+   "q": "Ich kaufe ___ Tisch.",
+   "options": [
+    "dieser",
+    "diesen",
+    "diesem"
+   ],
+   "answer": 1,
+   "explain": "Akkusativ м.р.: diesen"
+  },
+  {
+   "type": "choice",
+   "q": "Ich wohne in ___ Wohnung.",
+   "options": [
+    "diese",
+    "dieser",
+    "diesem"
+   ],
+   "answer": 1,
+   "explain": "Wo? → Dativ ж.р.: dieser"
+  },
+  {
+   "type": "gap",
+   "q": "Ich spreche mit ___ Kind. (каждый)",
+   "answer": [
+    "jedem"
+   ],
+   "explain": "mit + Dativ, ср.р.: jedem"
+  },
+  {
+   "type": "gap",
+   "q": "Ich kenne ___ Mann. (каждый)",
+   "answer": [
+    "jeden"
+   ],
+   "explain": "Akkusativ м.р.: jeden"
+  },
+  {
+   "type": "gap",
+   "q": "Ich lerne ___ Tag Deutsch. (каждый)",
+   "answer": [
+    "jeden"
+   ],
+   "explain": "Akkusativ времени: jeden Tag"
+  },
+  {
+   "type": "choice",
+   "q": "___ Freunde sind sehr nett. (все)",
+   "options": [
+    "Jede",
+    "Alle",
+    "Jeder"
+   ],
+   "answer": 1,
+   "explain": "Мн.ч. → alle"
+  },
+  {
+   "type": "gap",
+   "q": "Ich spreche mit ___ Freunden. (все)",
+   "answer": [
+    "allen"
+   ],
+   "explain": "Dativ мн.ч.: allen"
+  },
+  {
+   "type": "choice",
+   "q": "___ Tasche willst du – die rote oder die schwarze?",
+   "options": [
+    "Welche",
+    "Welcher",
+    "Was für"
+   ],
+   "answer": 0,
+   "explain": "Выбор из известных → welche (ж.р.)"
+  },
+  {
+   "type": "gap",
+   "q": "Was für ___ Tisch möchtest du kaufen?",
+   "answer": [
+    "einen"
+   ],
+   "explain": "в was für ein склоняется ein: Akk м.р. einen"
+  },
+  {
+   "type": "choice",
+   "q": "Mit ___ Zucker, bitte!",
+   "options": [
+    "viel",
+    "viele",
+    "vielen"
+   ],
+   "answer": 0,
+   "explain": "Неисчисляемое: viel без окончания"
+  },
+  {
+   "type": "gap",
+   "q": "Das Geld ist hinter ___ Büchern. (эти)",
+   "answer": [
+    "diesen"
+   ],
+   "explain": "Dativ мн.ч.: diesen"
+  },
+  {
+   "type": "translate",
+   "q": "Я покупаю этот дом.",
+   "answer": [
+    "Ich kaufe dieses Haus."
+   ],
+   "explain": "das Haus → dieses"
+  },
+  {
+   "type": "translate",
+   "q": "Каждый день важен.",
+   "answer": [
+    "Jeder Tag ist wichtig."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Я говорю со многими друзьями.",
+   "answer": [
+    "Ich spreche mit vielen Freunden."
+   ],
+   "explain": "Dativ мн.ч.: vielen + -n"
+  },
+  {
+   "type": "translate",
+   "q": "Какой стол ты хочешь?",
+   "answer": [
+    "Welchen Tisch willst du?",
+    "Welchen Tisch möchtest du?"
+   ],
+   "explain": "Akkusativ м.р.: welchen"
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "lerne",
+    "jeden zweiten Tag",
+    "Deutsch",
+    "ich"
+   ],
+   "answer": [
+    "Jeden zweiten Tag lerne ich Deutsch.",
+    "Ich lerne jeden zweiten Tag Deutsch."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "helfen",
+    "manche Freunde",
+    "selten"
+   ],
+   "answer": [
+    "Manche Freunde helfen selten."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос",
+   "words": [
+    "möchtest",
+    "was für ein Auto",
+    "kaufen",
+    "du"
+   ],
+   "answer": [
+    "Was für ein Auto möchtest du kaufen?"
+   ]
+  }
+ ]
+}

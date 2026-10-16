@@ -1,0 +1,513 @@
+[
+ {
+  "group": 1,
+  "inf": "bleiben",
+  "prat": "blieb",
+  "p2": "ist geblieben",
+  "ru": "оставаться"
+ },
+ {
+  "group": 1,
+  "inf": "schreiben",
+  "prat": "schrieb",
+  "p2": "geschrieben",
+  "ru": "писать"
+ },
+ {
+  "group": 1,
+  "inf": "schreien",
+  "prat": "schrie",
+  "p2": "geschrien",
+  "ru": "кричать"
+ },
+ {
+  "group": 1,
+  "inf": "schweigen",
+  "prat": "schwieg",
+  "p2": "geschwiegen",
+  "ru": "молчать"
+ },
+ {
+  "group": 1,
+  "inf": "verzeihen",
+  "prat": "verzieh",
+  "p2": "verziehen",
+  "ru": "прощать"
+ },
+ {
+  "group": 2,
+  "inf": "leiden",
+  "prat": "litt",
+  "p2": "gelitten",
+  "ru": "страдать"
+ },
+ {
+  "group": 2,
+  "inf": "pfeifen",
+  "prat": "pfiff",
+  "p2": "gepfiffen",
+  "ru": "свистеть"
+ },
+ {
+  "group": 2,
+  "inf": "reiten",
+  "prat": "ritt",
+  "p2": "ist geritten",
+  "ru": "скакать, ездить верхом"
+ },
+ {
+  "group": 2,
+  "inf": "schneiden",
+  "prat": "schnitt",
+  "p2": "geschnitten",
+  "ru": "резать"
+ },
+ {
+  "group": 2,
+  "inf": "streiten",
+  "prat": "stritt",
+  "p2": "gestritten",
+  "ru": "спорить, ссориться"
+ },
+ {
+  "group": 2,
+  "inf": "steigen",
+  "prat": "stieg",
+  "p2": "ist gestiegen",
+  "ru": "подниматься"
+ },
+ {
+  "group": 3,
+  "inf": "fliegen",
+  "prat": "flog",
+  "p2": "ist geflogen",
+  "ru": "летать, лететь"
+ },
+ {
+  "group": 3,
+  "inf": "genießen",
+  "prat": "genoss",
+  "p2": "genossen",
+  "ru": "наслаждаться"
+ },
+ {
+  "group": 3,
+  "inf": "schießen",
+  "prat": "schoss",
+  "p2": "geschossen",
+  "ru": "стрелять, забивать гол"
+ },
+ {
+  "group": 3,
+  "inf": "riechen",
+  "prat": "roch",
+  "p2": "gerochen",
+  "ru": "пахнуть, нюхать"
+ },
+ {
+  "group": 3,
+  "inf": "verlieren",
+  "prat": "verlor",
+  "p2": "verloren",
+  "ru": "проигрывать, терять"
+ },
+ {
+  "group": 3,
+  "inf": "ziehen",
+  "prat": "zog",
+  "p2": "gezogen",
+  "ru": "тянуть"
+ },
+ {
+  "group": 4,
+  "inf": "finden",
+  "prat": "fand",
+  "p2": "gefunden",
+  "ru": "находить"
+ },
+ {
+  "group": 4,
+  "inf": "singen",
+  "prat": "sang",
+  "p2": "gesungen",
+  "ru": "петь"
+ },
+ {
+  "group": 4,
+  "inf": "springen",
+  "prat": "sprang",
+  "p2": "ist gesprungen",
+  "ru": "прыгать"
+ },
+ {
+  "group": 4,
+  "inf": "trinken",
+  "prat": "trank",
+  "p2": "getrunken",
+  "ru": "пить"
+ },
+ {
+  "group": 4,
+  "inf": "verschwinden",
+  "prat": "verschwand",
+  "p2": "ist verschwunden",
+  "ru": "исчезать"
+ },
+ {
+  "group": 4,
+  "inf": "gelingen",
+  "prat": "gelang",
+  "p2": "ist gelungen",
+  "ru": "удаваться"
+ },
+ {
+  "group": 5,
+  "inf": "beginnen",
+  "prat": "begann",
+  "p2": "begonnen",
+  "ru": "начинать"
+ },
+ {
+  "group": 5,
+  "inf": "gewinnen",
+  "prat": "gewann",
+  "p2": "gewonnen",
+  "ru": "выигрывать"
+ },
+ {
+  "group": 5,
+  "inf": "schwimmen",
+  "prat": "schwamm",
+  "p2": "ist geschwommen",
+  "ru": "плавать, плыть"
+ },
+ {
+  "group": 6,
+  "inf": "brechen",
+  "prat": "brach",
+  "p2": "gebrochen",
+  "ru": "ломать"
+ },
+ {
+  "group": 6,
+  "inf": "helfen",
+  "prat": "half",
+  "p2": "geholfen",
+  "ru": "помогать"
+ },
+ {
+  "group": 6,
+  "inf": "nehmen",
+  "prat": "nahm",
+  "p2": "genommen",
+  "ru": "брать"
+ },
+ {
+  "group": 6,
+  "inf": "sprechen",
+  "prat": "sprach",
+  "p2": "gesprochen",
+  "ru": "говорить"
+ },
+ {
+  "group": 6,
+  "inf": "sterben",
+  "prat": "starb",
+  "p2": "ist gestorben",
+  "ru": "умирать"
+ },
+ {
+  "group": 6,
+  "inf": "treffen",
+  "prat": "traf",
+  "p2": "getroffen",
+  "ru": "встречать"
+ },
+ {
+  "group": 6,
+  "inf": "werfen",
+  "prat": "warf",
+  "p2": "geworfen",
+  "ru": "бросать"
+ },
+ {
+  "group": 6,
+  "inf": "empfehlen",
+  "prat": "empfahl",
+  "p2": "empfohlen",
+  "ru": "советовать, рекомендовать"
+ },
+ {
+  "group": 7,
+  "inf": "essen",
+  "prat": "aß",
+  "p2": "gegessen",
+  "ru": "есть (кушать)"
+ },
+ {
+  "group": 7,
+  "inf": "geben",
+  "prat": "gab",
+  "p2": "gegeben",
+  "ru": "давать"
+ },
+ {
+  "group": 7,
+  "inf": "geschehen",
+  "prat": "geschah",
+  "p2": "ist geschehen",
+  "ru": "случаться, происходить"
+ },
+ {
+  "group": 7,
+  "inf": "lesen",
+  "prat": "las",
+  "p2": "gelesen",
+  "ru": "читать"
+ },
+ {
+  "group": 7,
+  "inf": "sehen",
+  "prat": "sah",
+  "p2": "gesehen",
+  "ru": "видеть"
+ },
+ {
+  "group": 7,
+  "inf": "vergessen",
+  "prat": "vergaß",
+  "p2": "vergessen",
+  "ru": "забывать"
+ },
+ {
+  "group": 8,
+  "inf": "bitten",
+  "prat": "bat",
+  "p2": "gebeten",
+  "ru": "просить"
+ },
+ {
+  "group": 8,
+  "inf": "liegen",
+  "prat": "lag",
+  "p2": "gelegen",
+  "ru": "лежать"
+ },
+ {
+  "group": 8,
+  "inf": "sitzen",
+  "prat": "saß",
+  "p2": "gesessen",
+  "ru": "сидеть"
+ },
+ {
+  "group": 9,
+  "inf": "fahren",
+  "prat": "fuhr",
+  "p2": "ist gefahren",
+  "ru": "ехать, вести (машину), подвозить"
+ },
+ {
+  "group": 9,
+  "inf": "laden",
+  "prat": "lud",
+  "p2": "geladen",
+  "ru": "грузить, заряжать"
+ },
+ {
+  "group": 9,
+  "inf": "schaffen",
+  "prat": "schuf",
+  "p2": "geschaffen",
+  "ru": "творить, создавать"
+ },
+ {
+  "group": 9,
+  "inf": "schlagen",
+  "prat": "schlug",
+  "p2": "geschlagen",
+  "ru": "бить"
+ },
+ {
+  "group": 9,
+  "inf": "tragen",
+  "prat": "trug",
+  "p2": "getragen",
+  "ru": "носить"
+ },
+ {
+  "group": 9,
+  "inf": "wachsen",
+  "prat": "wuchs",
+  "p2": "ist gewachsen",
+  "ru": "расти"
+ },
+ {
+  "group": 9,
+  "inf": "waschen",
+  "prat": "wusch",
+  "p2": "gewaschen",
+  "ru": "мыть, стирать"
+ },
+ {
+  "group": 10,
+  "inf": "braten",
+  "prat": "briet",
+  "p2": "gebraten",
+  "ru": "жарить"
+ },
+ {
+  "group": 10,
+  "inf": "fallen",
+  "prat": "fiel",
+  "p2": "ist gefallen",
+  "ru": "падать"
+ },
+ {
+  "group": 10,
+  "inf": "halten",
+  "prat": "hielt",
+  "p2": "gehalten",
+  "ru": "держать, останавливаться"
+ },
+ {
+  "group": 10,
+  "inf": "lassen",
+  "prat": "ließ",
+  "p2": "gelassen",
+  "ru": "оставлять, давать, позволять"
+ },
+ {
+  "group": 10,
+  "inf": "schlafen",
+  "prat": "schlief",
+  "p2": "geschlafen",
+  "ru": "спать"
+ },
+ {
+  "group": 10,
+  "inf": "fangen",
+  "prat": "fing",
+  "p2": "gefangen",
+  "ru": "ловить"
+ },
+ {
+  "group": 11,
+  "inf": "heißen",
+  "prat": "hieß",
+  "p2": "geheißen",
+  "ru": "зваться, называться"
+ },
+ {
+  "group": 11,
+  "inf": "laufen",
+  "prat": "lief",
+  "p2": "ist gelaufen",
+  "ru": "бегать, бежать"
+ },
+ {
+  "group": 11,
+  "inf": "rufen",
+  "prat": "rief",
+  "p2": "gerufen",
+  "ru": "звать, кричать"
+ },
+ {
+  "group": 12,
+  "inf": "lügen",
+  "prat": "log",
+  "p2": "gelogen",
+  "ru": "лгать, врать"
+ },
+ {
+  "group": 12,
+  "inf": "gehen",
+  "prat": "ging",
+  "p2": "ist gegangen",
+  "ru": "идти, ходить"
+ },
+ {
+  "group": 12,
+  "inf": "kommen",
+  "prat": "kam",
+  "p2": "ist gekommen",
+  "ru": "приходить, приезжать"
+ },
+ {
+  "group": 12,
+  "inf": "stehen",
+  "prat": "stand",
+  "p2": "gestanden",
+  "ru": "стоять"
+ },
+ {
+  "group": 13,
+  "inf": "sein",
+  "prat": "war",
+  "p2": "ist gewesen",
+  "ru": "быть"
+ },
+ {
+  "group": 13,
+  "inf": "haben",
+  "prat": "hatte",
+  "p2": "gehabt",
+  "ru": "иметь"
+ },
+ {
+  "group": 13,
+  "inf": "werden",
+  "prat": "wurde",
+  "p2": "ist geworden",
+  "ru": "становиться"
+ },
+ {
+  "group": 14,
+  "inf": "brennen",
+  "prat": "brannte",
+  "p2": "gebrannt",
+  "ru": "гореть"
+ },
+ {
+  "group": 14,
+  "inf": "bringen",
+  "prat": "brachte",
+  "p2": "gebracht",
+  "ru": "приносить"
+ },
+ {
+  "group": 14,
+  "inf": "denken",
+  "prat": "dachte",
+  "p2": "gedacht",
+  "ru": "думать"
+ },
+ {
+  "group": 14,
+  "inf": "kennen",
+  "prat": "kannte",
+  "p2": "gekannt",
+  "ru": "знать (быть знакомым)"
+ },
+ {
+  "group": 14,
+  "inf": "nennen",
+  "prat": "nannte",
+  "p2": "genannt",
+  "ru": "называть"
+ },
+ {
+  "group": 14,
+  "inf": "rennen",
+  "prat": "rannte",
+  "p2": "ist gerannt",
+  "ru": "бежать, мчаться"
+ },
+ {
+  "group": 14,
+  "inf": "wissen",
+  "prat": "wusste",
+  "p2": "gewusst",
+  "ru": "знать (иметь сведения)"
+ }
+]

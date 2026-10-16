@@ -1,0 +1,481 @@
+{
+ "id": 1,
+ "title": "Алфавит, чтение и числа 0–1000",
+ "level": "A1",
+ "goal": "Вы научитесь читать немецкие слова по правилам, знать алфавит и называть любые числа от 0 до 1000.",
+ "minutes": 60,
+ "theory": [
+  {
+   "h": "Немецкий алфавит",
+   "html": "<p>В немецком алфавите <b>26 основных букв</b> (как в латинском) плюс <b>три буквы с умлаутом</b> — <span class=\"de\">Ä ä, Ö ö, Ü ü</span> — и особая буква <span class=\"de\">ß</span> («эсцет»). Хорошая новость: немецкий читается почти так, как пишется. Выучив правила этого урока, вы сможете правильно прочитать практически любое слово, даже незнакомое.</p>\n<table>\n<tr><th>Буква</th><th>Название</th><th>Звук</th><th>Пример</th></tr>\n<tr><td>A a</td><td>а</td><td>[а]</td><td><span class=\"de\">Abend</span> — вечер</td></tr>\n<tr><td>B b</td><td>бэ</td><td>[б]</td><td><span class=\"de\">Brot</span> — хлеб</td></tr>\n<tr><td>C c</td><td>цэ</td><td>[ц]/[к]</td><td><span class=\"de\">Café</span> — кафе</td></tr>\n<tr><td>D d</td><td>дэ</td><td>[д]</td><td><span class=\"de\">Dach</span> — крыша</td></tr>\n<tr><td>E e</td><td>э</td><td>[э]</td><td><span class=\"de\">Esel</span> — осёл</td></tr>\n<tr><td>F f</td><td>эф</td><td>[ф]</td><td><span class=\"de\">Fisch</span> — рыба</td></tr>\n<tr><td>G g</td><td>гэ</td><td>[г]</td><td><span class=\"de\">gut</span> — хорошо</td></tr>\n<tr><td>H h</td><td>ха</td><td>[х] (лёгкий выдох)</td><td><span class=\"de\">Haus</span> — дом</td></tr>\n<tr><td>I i</td><td>и</td><td>[и]</td><td><span class=\"de\">Igel</span> — ёж</td></tr>\n<tr><td>J j</td><td>йот</td><td>[й]</td><td><span class=\"de\">ja</span> — да</td></tr>\n<tr><td>K k</td><td>ка</td><td>[к]</td><td><span class=\"de\">Kind</span> — ребёнок</td></tr>\n<tr><td>L l</td><td>эль</td><td>[ль] (мягкое)</td><td><span class=\"de\">Lampe</span> — лампа</td></tr>\n<tr><td>M m</td><td>эм</td><td>[м]</td><td><span class=\"de\">Mama</span> — мама</td></tr>\n<tr><td>N n</td><td>эн</td><td>[н]</td><td><span class=\"de\">Name</span> — имя</td></tr>\n<tr><td>O o</td><td>о</td><td>[о]</td><td><span class=\"de\">Oma</span> — бабушка</td></tr>\n<tr><td>P p</td><td>пэ</td><td>[п]</td><td><span class=\"de\">Park</span> — парк</td></tr>\n<tr><td>Q q</td><td>ку</td><td>[к] (только в qu = [кв])</td><td><span class=\"de\">Quark</span> — творог</td></tr>\n<tr><td>R r</td><td>эр</td><td>[р] (картавое, горловое)</td><td><span class=\"de\">Rose</span> — роза</td></tr>\n<tr><td>S s</td><td>эс</td><td>[з]/[с]</td><td><span class=\"de\">Sonne</span> — солнце</td></tr>\n<tr><td>T t</td><td>тэ</td><td>[т]</td><td><span class=\"de\">Tag</span> — день</td></tr>\n<tr><td>U u</td><td>у</td><td>[у]</td><td><span class=\"de\">Uhr</span> — часы</td></tr>\n<tr><td>V v</td><td>фау</td><td>[ф] (в заимствованиях [в])</td><td><span class=\"de\">Vater</span> — отец</td></tr>\n<tr><td>W w</td><td>вэ</td><td>[в]</td><td><span class=\"de\">Wasser</span> — вода</td></tr>\n<tr><td>X x</td><td>икс</td><td>[кс]</td><td><span class=\"de\">Taxi</span> — такси</td></tr>\n<tr><td>Y y</td><td>ипсилон</td><td>[ю]/[й]</td><td><span class=\"de\">Typ</span> — тип</td></tr>\n<tr><td>Z z</td><td>цэт</td><td>[ц]</td><td><span class=\"de\">Zeit</span> — время</td></tr>\n<tr><td>Ä ä</td><td>а-умлаут</td><td>[э]</td><td><span class=\"de\">Käse</span> — сыр</td></tr>\n<tr><td>Ö ö</td><td>о-умлаут</td><td>[ё] без «й»</td><td><span class=\"de\">schön</span> — красивый</td></tr>\n<tr><td>Ü ü</td><td>у-умлаут</td><td>[ю] без «й»</td><td><span class=\"de\">Tür</span> — дверь</td></tr>\n<tr><td>ß</td><td>эсцет</td><td>[с] (глухое)</td><td><span class=\"de\">Straße</span> — улица</td></tr>\n</table>\n<div class=\"note\">Все <b>существительные</b> в немецком пишутся <b>с большой буквы</b>: <span class=\"de\">das Haus, die Katze, der Tisch</span>. Это сразу помогает узнать существительное в тексте.</div>"
+  },
+  {
+   "h": "Гласные: долгие, краткие и умлауты",
+   "html": "<p>Каждая немецкая гласная бывает <b>долгой</b> или <b>краткой</b>, и от этого может меняться смысл: <span class=\"de\">Staat</span> (государство, долгое [а:]) — <span class=\"de\">Stadt</span> (город, краткое [а]). Русскому уху долгота непривычна, поэтому запомните признаки.</p>\n<h4>Гласная долгая, если:</h4>\n<ul>\n<li>она <b>удвоена</b>: <span class=\"de\">Tee</span> [тэ:] — чай, <span class=\"de\">Boot</span> [бо:т] — лодка, <span class=\"de\">Haar</span> — волосы;</li>\n<li>после неё стоит <b>немое h</b> (оно не читается, только удлиняет гласную): <span class=\"de\">Bahn</span> [ба:н] — железная дорога, <span class=\"de\">Uhr</span> [у:р] — часы, <span class=\"de\">fahren</span>;</li>\n<li>это сочетание <b>ie</b>: <span class=\"de\">Liebe</span> [ли:бэ] — любовь, <span class=\"de\">vier</span> [фи:р] — четыре;</li>\n<li>она стоит в <b>открытом слоге</b> (слог кончается на гласную) или перед <b>одной</b> согласной: <span class=\"de\">Name</span> [на:мэ], <span class=\"de\">gut</span> [гу:т], <span class=\"de\">Tag</span> [та:к].</li>\n</ul>\n<h4>Гласная краткая, если:</h4>\n<ul>\n<li>после неё <b>две и более согласных</b> или <b>удвоенная согласная</b>: <span class=\"de\">Mann</span> [ман], <span class=\"de\">Bett</span> [бэт], <span class=\"de\">kalt</span> [кальт], <span class=\"de\">Kind</span>;</li>\n<li>после неё стоит <b>ck</b> или <b>tz</b>: <span class=\"de\">Zucker</span> [цукер] — сахар, <span class=\"de\">Katze</span> [кацэ] — кошка.</li>\n</ul>\n<h4>Умлауты</h4>\n<table>\n<tr><th>Буква</th><th>Как произносить</th><th>Примеры</th></tr>\n<tr><td><b>ä</b></td><td>как русское открытое [э] в слове «это»</td><td><span class=\"de\">Käse</span> [кэ:зэ], <span class=\"de\">Äpfel</span> [эпфэль]</td></tr>\n<tr><td><b>ö</b></td><td>губы как для [о], а язык говорит [э]; похоже на «ё» в «мёд», но без «й» впереди</td><td><span class=\"de\">schön</span> [шё:н], <span class=\"de\">zwölf</span> [цвёльф]</td></tr>\n<tr><td><b>ü</b></td><td>губы как для [у], а язык говорит [и]; похоже на «ю» в «тюль», но без «й»</td><td><span class=\"de\">Tür</span> [тю:р], <span class=\"de\">fünf</span> [фюнф]</td></tr>\n</table>\n<p><b>Буква e в конце слова и в безударных слогах</b> читается кратко и нечётко, как ослабленное [э]: <span class=\"de\">Name</span> [на:мэ], <span class=\"de\">bitte</span> [битэ]. Окончание <b>-er</b> в конце слова звучит почти как короткое [а]: <span class=\"de\">Vater</span> [фа:та], <span class=\"de\">Lehrer</span> [ле:ра].</p>\n<div class=\"note\"><b>Ударение</b> в немецких словах почти всегда падает на <b>первый слог</b>: <span class=\"de\">Abend, Mutter, Arbeit</span>. Исключения — заимствования (<span class=\"de\">Student, Musik, Büro</span>) и слова с приставками be-, ge-, ver-, er-, zer-, ent-, emp- (<span class=\"de\">verstehen, beginnen</span>).</div>"
+  },
+  {
+   "h": "Сочетания букв: правила чтения",
+   "html": "<p>Главная трудность немецкого чтения — <b>буквосочетания</b>. Их немного, и они читаются всегда одинаково. Выучите таблицу — это ключ ко всему языку.</p>\n<table>\n<tr><th>Пишем</th><th>Читаем</th><th>Примеры</th></tr>\n<tr><td><b>ei, ai</b></td><td>[ай]</td><td><span class=\"de\">drei</span> [драй] — три, <span class=\"de\">Mai</span> [май] — май, <span class=\"de\">nein</span> — нет</td></tr>\n<tr><td><b>ie</b></td><td>долгое [и:]</td><td><span class=\"de\">vier</span> [фи:р], <span class=\"de\">Bier</span> [би:р], <span class=\"de\">sieben</span></td></tr>\n<tr><td><b>eu, äu</b></td><td>[ой]</td><td><span class=\"de\">neun</span> [нойн] — девять, <span class=\"de\">Häuser</span> [хойзер] — дома, <span class=\"de\">Euro</span> [ойро]</td></tr>\n<tr><td><b>au</b></td><td>[ау]</td><td><span class=\"de\">Haus</span> [хаус], <span class=\"de\">Frau</span> [фрау]</td></tr>\n<tr><td><b>sch</b></td><td>[ш]</td><td><span class=\"de\">Schule</span> [шу:лэ] — школа, <span class=\"de\">Tisch</span> [тиш]</td></tr>\n<tr><td><b>tsch</b></td><td>[ч]</td><td><span class=\"de\">Deutsch</span> [дойч], <span class=\"de\">tschüss</span> [чюс]</td></tr>\n<tr><td><b>sp, st</b> в начале слова/корня</td><td>[шп], [шт]</td><td><span class=\"de\">sprechen</span> [шпрэхен], <span class=\"de\">Stadt</span> [штат], <span class=\"de\">verstehen</span> [фэрштэ:ен]</td></tr>\n<tr><td><b>st</b> в середине/конце</td><td>[ст]</td><td><span class=\"de\">Fenster</span>, <span class=\"de\">ist</span>, <span class=\"de\">bist</span></td></tr>\n<tr><td><b>ch</b> после a, o, u, au</td><td>[х] (твёрдое)</td><td><span class=\"de\">acht</span> [ахт], <span class=\"de\">Buch</span> [бу:х], <span class=\"de\">auch</span></td></tr>\n<tr><td><b>ch</b> после e, i, ä, ö, ü, ei, eu, согласных</td><td>[хь] (мягкое, как в «химия»)</td><td><span class=\"de\">ich</span> [ихь], <span class=\"de\">Milch</span> [мильхь], <span class=\"de\">Bücher</span></td></tr>\n<tr><td><b>chs</b></td><td>[кс]</td><td><span class=\"de\">sechs</span> [зэкс] — шесть, <span class=\"de\">wachsen</span></td></tr>\n<tr><td><b>-ig</b> в конце слова</td><td>[ихь]</td><td><span class=\"de\">zwanzig</span> [цванцихь], <span class=\"de\">richtig</span></td></tr>\n<tr><td><b>z, tz</b></td><td>[ц]</td><td><span class=\"de\">zehn</span> [цэ:н], <span class=\"de\">zwei</span> [цвай], <span class=\"de\">Katze</span></td></tr>\n<tr><td><b>s</b> перед гласной</td><td>[з]</td><td><span class=\"de\">sieben</span> [зи:бен], <span class=\"de\">Sonne</span>, <span class=\"de\">Rose</span></td></tr>\n<tr><td><b>s</b> в конце слога, <b>ss, ß</b></td><td>[с]</td><td><span class=\"de\">Haus</span>, <span class=\"de\">Wasser</span>, <span class=\"de\">dreißig</span> [драйсихь]</td></tr>\n<tr><td><b>v</b></td><td>[ф]</td><td><span class=\"de\">vier</span> [фи:р], <span class=\"de\">Vater</span>; в заимствованиях [в]: <span class=\"de\">Vase, Klavier</span></td></tr>\n<tr><td><b>w</b></td><td>[в]</td><td><span class=\"de\">Wein</span> [вайн], <span class=\"de\">wo</span> [во:]</td></tr>\n<tr><td><b>j</b></td><td>[й]</td><td><span class=\"de\">ja</span> [я:], <span class=\"de\">Januar</span> [януар], <span class=\"de\">jung</span></td></tr>\n<tr><td><b>h</b> в начале слога</td><td>лёгкий выдох [х]</td><td><span class=\"de\">hundert</span> [хундерт], <span class=\"de\">haben</span></td></tr>\n<tr><td><b>h</b> после гласной</td><td>не читается (удлиняет гласную)</td><td><span class=\"de\">zehn</span> [цэ:н], <span class=\"de\">Uhr</span>, <span class=\"de\">gehen</span></td></tr>\n<tr><td><b>qu</b></td><td>[кв]</td><td><span class=\"de\">Quadrat</span>, <span class=\"de\">bequem</span></td></tr>\n<tr><td><b>pf</b></td><td>[пф] (оба звука!)</td><td><span class=\"de\">Apfel</span> [апфэль], <span class=\"de\">Kopf</span></td></tr>\n<tr><td><b>ph</b></td><td>[ф]</td><td><span class=\"de\">Telefon</span>, <span class=\"de\">Physik</span></td></tr>\n<tr><td><b>ng</b></td><td>носовое [н] без [г]</td><td><span class=\"de\">jung</span>, <span class=\"de\">lang</span></td></tr>\n<tr><td><b>-tion</b></td><td>[цьо:н]</td><td><span class=\"de\">Information</span>, <span class=\"de\">Station</span></td></tr>\n<tr><td><b>l</b></td><td>всегда мягкое [ль]</td><td><span class=\"de\">elf</span> [эльф], <span class=\"de\">alt</span> [альт]</td></tr>\n</table>\n<div class=\"note\">Не путайте <b>ei</b> и <b>ie</b>! Читайте <b>вторую</b> букву: <span class=\"de\">ei</span> → «вторая i — значит [ай]», <span class=\"de\">ie</span> → «вторая e — значит долгое [и:]». <span class=\"de\">Wein</span> [вайн] — вино, <span class=\"de\">Wien</span> [ви:н] — Вена.</div>"
+  },
+  {
+   "h": "Числа от 0 до 20",
+   "html": "<p>Числа — первое, что нужно выучить: они нужны для цен, времени, телефонов, возраста. Первые 12 чисел — отдельные слова, их надо просто запомнить. Числа 13–19 строятся по схеме <b>единицы + zehn</b> (как русское «три-над-цать»).</p>\n<table>\n<tr><th>Цифра</th><th>По-немецки</th><th>Чтение</th><th>Цифра</th><th>По-немецки</th><th>Чтение</th></tr>\n<tr><td>0</td><td><span class=\"de\">null</span></td><td>[нуль]</td><td>11</td><td><span class=\"de\">elf</span></td><td>[эльф]</td></tr>\n<tr><td>1</td><td><span class=\"de\">eins</span></td><td>[айнс]</td><td>12</td><td><span class=\"de\">zwölf</span></td><td>[цвёльф]</td></tr>\n<tr><td>2</td><td><span class=\"de\">zwei</span></td><td>[цвай]</td><td>13</td><td><span class=\"de\">dreizehn</span></td><td>[драйцэ:н]</td></tr>\n<tr><td>3</td><td><span class=\"de\">drei</span></td><td>[драй]</td><td>14</td><td><span class=\"de\">vierzehn</span></td><td>[фирцэ:н]</td></tr>\n<tr><td>4</td><td><span class=\"de\">vier</span></td><td>[фи:р]</td><td>15</td><td><span class=\"de\">fünfzehn</span></td><td>[фюнфцэ:н]</td></tr>\n<tr><td>5</td><td><span class=\"de\">fünf</span></td><td>[фюнф]</td><td>16</td><td><span class=\"de\">sechzehn</span></td><td>[зэхьцэ:н]</td></tr>\n<tr><td>6</td><td><span class=\"de\">sechs</span></td><td>[зэкс]</td><td>17</td><td><span class=\"de\">siebzehn</span></td><td>[зи:пцэ:н]</td></tr>\n<tr><td>7</td><td><span class=\"de\">sieben</span></td><td>[зи:бен]</td><td>18</td><td><span class=\"de\">achtzehn</span></td><td>[ахтцэ:н]</td></tr>\n<tr><td>8</td><td><span class=\"de\">acht</span></td><td>[ахт]</td><td>19</td><td><span class=\"de\">neunzehn</span></td><td>[нойнцэ:н]</td></tr>\n<tr><td>9</td><td><span class=\"de\">neun</span></td><td>[нойн]</td><td>20</td><td><span class=\"de\">zwanzig</span></td><td>[цванцихь]</td></tr>\n<tr><td>10</td><td><span class=\"de\">zehn</span></td><td>[цэ:н]</td><td></td><td></td><td></td></tr>\n</table>\n<div class=\"note\">Две «ловушки»: <span class=\"de\">sech<b>s</b></span> → <span class=\"de\">sech<b>zehn</b></span> (без s!) и <span class=\"de\">sieb<b>en</b></span> → <span class=\"de\">sieb<b>zehn</b></span> (без -en!).</div>"
+  },
+  {
+   "h": "Десятки, сотни и числа до 1000",
+   "html": "<p>Десятки образуются с помощью суффикса <b>-zig</b> (в 30 — <b>-ßig</b>):</p>\n<table>\n<tr><th>Цифра</th><th>По-немецки</th><th>Чтение</th></tr>\n<tr><td>10</td><td><span class=\"de\">zehn</span></td><td>[цэ:н]</td></tr>\n<tr><td>20</td><td><span class=\"de\">zwanzig</span></td><td>[цванцихь]</td></tr>\n<tr><td>30</td><td><span class=\"de\">dreißig</span></td><td>[драйсихь] — единственный десяток на <b>-ßig</b></td></tr>\n<tr><td>40</td><td><span class=\"de\">vierzig</span></td><td>[фирцихь]</td></tr>\n<tr><td>50</td><td><span class=\"de\">fünfzig</span></td><td>[фюнфцихь]</td></tr>\n<tr><td>60</td><td><span class=\"de\">sechzig</span></td><td>[зэхьцихь] — без s</td></tr>\n<tr><td>70</td><td><span class=\"de\">siebzig</span></td><td>[зи:пцихь] — без -en</td></tr>\n<tr><td>80</td><td><span class=\"de\">achtzig</span></td><td>[ахтцихь]</td></tr>\n<tr><td>90</td><td><span class=\"de\">neunzig</span></td><td>[нойнцихь]</td></tr>\n<tr><td>100</td><td><span class=\"de\">(ein)hundert</span></td><td>[хундерт]</td></tr>\n<tr><td>1000</td><td><span class=\"de\">(ein)tausend</span></td><td>[таузэнт]</td></tr>\n</table>\n<h4>Главное правило: сначала единицы, потом десятки</h4>\n<p>В числах от 21 до 99 немцы говорят <b>«единицы — und (и) — десятки»</b>, как в старой сказке «два-и-двадцать». Всё пишется <b>одним словом</b>:</p>\n<ul>\n<li>21 = <span class=\"de\">ein<b>und</b>zwanzig</span> — «один-и-двадцать»</li>\n<li>35 = <span class=\"de\">fünf<b>und</b>dreißig</span> — «пять-и-тридцать»</li>\n<li>47 = <span class=\"de\">sieben<b>und</b>vierzig</span></li>\n<li>99 = <span class=\"de\">neun<b>und</b>neunzig</span></li>\n</ul>\n<p>Обратите внимание: перед <b>und</b> число <b>eins теряет s</b>: <span class=\"de\">einundzwanzig</span>, <span class=\"de\">einunddreißig</span>. А в самом конце числа s сохраняется: 101 = <span class=\"de\">hunderteins</span>, 301 = <span class=\"de\">dreihunderteins</span>.</p>\n<h4>Сотни</h4>\n<p>Сотни: <span class=\"de\">einhundert, zweihundert, dreihundert … neunhundert</span>. Число собираем так: <b>сотни + (единицы und десятки)</b>:</p>\n<table>\n<tr><th>Число</th><th>По-немецки</th><th>Как «собрано»</th></tr>\n<tr><td>105</td><td><span class=\"de\">hundertfünf</span></td><td>сто + пять</td></tr>\n<tr><td>117</td><td><span class=\"de\">hundertsiebzehn</span></td><td>сто + семнадцать</td></tr>\n<tr><td>248</td><td><span class=\"de\">zweihundertachtundvierzig</span></td><td>двести + восемь-и-сорок</td></tr>\n<tr><td>365</td><td><span class=\"de\">dreihundertfünfundsechzig</span></td><td>триста + пять-и-шестьдесят</td></tr>\n<tr><td>571</td><td><span class=\"de\">fünfhunderteinundsiebzig</span></td><td>пятьсот + один-и-семьдесят</td></tr>\n<tr><td>999</td><td><span class=\"de\">neunhundertneunundneunzig</span></td><td>девятьсот + девять-и-девяносто</td></tr>\n<tr><td>1000</td><td><span class=\"de\">tausend</span> / <span class=\"de\">eintausend</span></td><td>тысяча</td></tr>\n</table>\n<div class=\"note\">Как читать длинное число: разбейте его в уме. <b>743</b> → «семь сотен» <span class=\"de\">siebenhundert</span> + «три-и-сорок» <span class=\"de\">dreiundvierzig</span> = <span class=\"de\">siebenhundertdreiundvierzig</span>.</div>"
+  },
+  {
+   "h": "Числа в жизни и первые фразы",
+   "html": "<ul>\n<li><b>Возраст:</b> <span class=\"de\">Ich bin dreißig Jahre alt.</span> — Мне тридцать лет. Вопрос: <span class=\"de\">Wie alt bist du?</span> — Сколько тебе лет?</li>\n<li><b>Цена:</b> <span class=\"de\">Wie viel kostet das?</span> — Сколько это стоит? <span class=\"de\">Das kostet zwölf Euro.</span> 2,50 € читают <span class=\"de\">zwei Euro fünfzig</span>.</li>\n<li><b>Телефон:</b> номера диктуют по одной цифре или парами: <span class=\"de\">null – eins – sieben – sechs …</span> Чтобы не перепутать <span class=\"de\">zwei</span> и <span class=\"de\">drei</span>, по телефону часто говорят <span class=\"de\">zwo</span> вместо zwei.</li>\n<li><b>Счёт:</b> <span class=\"de\">plus</span> (плюс), <span class=\"de\">minus</span> (минус), <span class=\"de\">mal</span> (умножить), <span class=\"de\">geteilt durch</span> (разделить), <span class=\"de\">ist / gleich</span> (равно): <span class=\"de\">Drei plus vier ist sieben.</span></li>\n</ul>\n<h4>Приветствия и вежливые слова</h4>\n<table>\n<tr><th>Немецкий</th><th>Русский</th><th>Когда</th></tr>\n<tr><td><span class=\"de\">Hallo!</span></td><td>Привет!</td><td>неформально, в любое время</td></tr>\n<tr><td><span class=\"de\">Guten Morgen!</span></td><td>Доброе утро!</td><td>примерно до 11 часов</td></tr>\n<tr><td><span class=\"de\">Guten Tag!</span></td><td>Добрый день!</td><td>днём, официально</td></tr>\n<tr><td><span class=\"de\">Guten Abend!</span></td><td>Добрый вечер!</td><td>примерно с 18 часов</td></tr>\n<tr><td><span class=\"de\">Gute Nacht!</span></td><td>Спокойной ночи!</td><td>перед сном</td></tr>\n<tr><td><span class=\"de\">Tschüss!</span></td><td>Пока!</td><td>неформально</td></tr>\n<tr><td><span class=\"de\">Auf Wiedersehen!</span></td><td>До свидания!</td><td>официально</td></tr>\n<tr><td><span class=\"de\">Danke! / Bitte!</span></td><td>Спасибо! / Пожалуйста!</td><td>всегда</td></tr>\n</table>"
+  }
+ ],
+ "tips": [
+  "Числа 21–99 «переворачивайте»: сначала единицы, потом десятки. Тренируйтесь на номерах машин и ценах в магазине: 45 — fünfundvierzig («пять-и-сорок»).",
+  "Ловушки при письме: sechzehn/sechzig (без s), siebzehn/siebzig (без -en), dreißig (с ß, а не -zig).",
+  "Типичная ошибка русскоговорящих: читать «ei» как [эй] и «eu» как [эу]. Правильно: ei = [ай] (drei), eu = [ой] (neun).",
+  "Буква v почти всегда = [ф] (vier, Vater), а w = [в] (wo, Wein). Запомните: «V — Vier — Ф»."
+ ],
+ "examples": [
+  {
+   "de": "Guten Tag!",
+   "ru": "Добрый день!"
+  },
+  {
+   "de": "Eins, zwei, drei, vier, fünf.",
+   "ru": "Один, два, три, четыре, пять."
+  },
+  {
+   "de": "Das kostet neunzehn Euro.",
+   "ru": "Это стоит девятнадцать евро."
+  },
+  {
+   "de": "Ich bin einundzwanzig Jahre alt.",
+   "ru": "Мне двадцать один год."
+  },
+  {
+   "de": "Zwölf plus acht ist zwanzig.",
+   "ru": "Двенадцать плюс восемь — двадцать."
+  },
+  {
+   "de": "Das Zimmer hat die Nummer dreihundertsieben.",
+   "ru": "У комнаты номер триста семь."
+  },
+  {
+   "de": "Ein Jahr hat dreihundertfünfundsechzig Tage.",
+   "ru": "В году триста шестьдесят пять дней."
+  },
+  {
+   "de": "Die Straße ist schön.",
+   "ru": "Улица красивая."
+  },
+  {
+   "de": "Danke schön! – Bitte schön!",
+   "ru": "Большое спасибо! – Пожалуйста!"
+  },
+  {
+   "de": "Auf Wiedersehen!",
+   "ru": "До свидания!"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "null",
+   "ru": "ноль"
+  },
+  {
+   "de": "eins",
+   "ru": "один"
+  },
+  {
+   "de": "zwei",
+   "ru": "два"
+  },
+  {
+   "de": "drei",
+   "ru": "три"
+  },
+  {
+   "de": "vier",
+   "ru": "четыре"
+  },
+  {
+   "de": "fünf",
+   "ru": "пять"
+  },
+  {
+   "de": "sechs",
+   "ru": "шесть"
+  },
+  {
+   "de": "sieben",
+   "ru": "семь"
+  },
+  {
+   "de": "acht",
+   "ru": "восемь"
+  },
+  {
+   "de": "neun",
+   "ru": "девять"
+  },
+  {
+   "de": "zehn",
+   "ru": "десять"
+  },
+  {
+   "de": "elf",
+   "ru": "одиннадцать"
+  },
+  {
+   "de": "zwölf",
+   "ru": "двенадцать"
+  },
+  {
+   "de": "zwanzig",
+   "ru": "двадцать"
+  },
+  {
+   "de": "dreißig",
+   "ru": "тридцать"
+  },
+  {
+   "de": "hundert",
+   "ru": "сто"
+  },
+  {
+   "de": "tausend",
+   "ru": "тысяча"
+  },
+  {
+   "de": "die Zahl",
+   "pl": "die Zahlen",
+   "ru": "число"
+  },
+  {
+   "de": "die Nummer",
+   "pl": "die Nummern",
+   "ru": "номер"
+  },
+  {
+   "de": "der Buchstabe",
+   "pl": "die Buchstaben",
+   "ru": "буква"
+  },
+  {
+   "de": "das Jahr",
+   "pl": "die Jahre",
+   "ru": "год"
+  },
+  {
+   "de": "der Euro",
+   "pl": "die Euro",
+   "ru": "евро"
+  },
+  {
+   "de": "danke",
+   "ru": "спасибо"
+  },
+  {
+   "de": "bitte",
+   "ru": "пожалуйста"
+  },
+  {
+   "de": "kosten",
+   "ru": "стоить"
+  }
+ ],
+ "phrasesNote": "Курс начинается с приветствий и счёта. Произносите каждую фразу вслух несколько раз, следите за чтением ei, ie, eu, z, s, v и за порядком «единицы — und — десятки» в числах.",
+ "phrases": [
+  {
+   "de": "Hallo!",
+   "ru": "Привет!"
+  },
+  {
+   "de": "Guten Morgen!",
+   "ru": "Доброе утро!"
+  },
+  {
+   "de": "Guten Tag!",
+   "ru": "Добрый день!"
+  },
+  {
+   "de": "Guten Abend!",
+   "ru": "Добрый вечер!"
+  },
+  {
+   "de": "Gute Nacht!",
+   "ru": "Спокойной ночи!"
+  },
+  {
+   "de": "Tschüss!",
+   "ru": "Пока!"
+  },
+  {
+   "de": "Auf Wiedersehen!",
+   "ru": "До свидания!"
+  },
+  {
+   "de": "Danke!",
+   "ru": "Спасибо!"
+  },
+  {
+   "de": "Danke schön!",
+   "ru": "Большое спасибо!"
+  },
+  {
+   "de": "Bitte schön!",
+   "ru": "Пожалуйста! (в ответ на спасибо)"
+  },
+  {
+   "de": "Entschuldigung!",
+   "ru": "Извините!"
+  },
+  {
+   "de": "Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn.",
+   "ru": "Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять."
+  },
+  {
+   "de": "Elf, zwölf, dreizehn, vierzehn, fünfzehn.",
+   "ru": "Одиннадцать, двенадцать, тринадцать, четырнадцать, пятнадцать."
+  },
+  {
+   "de": "Sechzehn, siebzehn, achtzehn, neunzehn, zwanzig.",
+   "ru": "Шестнадцать, семнадцать, восемнадцать, девятнадцать, двадцать."
+  },
+  {
+   "de": "Zehn, zwanzig, dreißig, vierzig, fünfzig.",
+   "ru": "Десять, двадцать, тридцать, сорок, пятьдесят."
+  },
+  {
+   "de": "Sechzig, siebzig, achtzig, neunzig, hundert.",
+   "ru": "Шестьдесят, семьдесят, восемьдесят, девяносто, сто."
+  },
+  {
+   "de": "Wie alt bist du?",
+   "ru": "Сколько тебе лет?"
+  },
+  {
+   "de": "Ich bin fünfundzwanzig Jahre alt.",
+   "ru": "Мне двадцать пять лет."
+  },
+  {
+   "de": "Wie viel kostet das?",
+   "ru": "Сколько это стоит?"
+  },
+  {
+   "de": "Das kostet dreizehn Euro.",
+   "ru": "Это стоит тринадцать евро."
+  },
+  {
+   "de": "Das kostet zwei Euro fünfzig.",
+   "ru": "Это стоит два евро пятьдесят (центов)."
+  },
+  {
+   "de": "Meine Nummer ist null, eins, sieben, sechs, drei, acht.",
+   "ru": "Мой номер: ноль, один, семь, шесть, три, восемь."
+  },
+  {
+   "de": "Zwei plus drei ist fünf.",
+   "ru": "Два плюс три — пять."
+  },
+  {
+   "de": "Zehn minus vier ist sechs.",
+   "ru": "Десять минус четыре — шесть."
+  },
+  {
+   "de": "Drei mal sieben ist einundzwanzig.",
+   "ru": "Три умножить на семь — двадцать один."
+  },
+  {
+   "de": "Der Bus Nummer hundertzwölf kommt.",
+   "ru": "Идёт автобус номер сто двенадцать."
+  },
+  {
+   "de": "Ein Jahr hat zwölf Monate.",
+   "ru": "В году двенадцать месяцев."
+  },
+  {
+   "de": "Tausend Dank!",
+   "ru": "Тысяча благодарностей! (Огромное спасибо!)"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Как читается сочетание ei (например, в слове drei)?",
+   "options": [
+    "[эй]",
+    "[ай]",
+    "[и:]"
+   ],
+   "answer": 1,
+   "explain": "ei всегда читается [ай]: drei [драй], nein [найн]."
+  },
+  {
+   "type": "choice",
+   "q": "Как читается сочетание ie (например, в слове vier)?",
+   "options": [
+    "[ие]",
+    "[ай]",
+    "долгое [и:]"
+   ],
+   "answer": 2,
+   "explain": "ie = долгое [и:]: vier [фи:р], sieben [зи:бен]."
+  },
+  {
+   "type": "choice",
+   "q": "Как читается eu в слове neun?",
+   "options": [
+    "[эу]",
+    "[ой]",
+    "[ю]"
+   ],
+   "answer": 1,
+   "explain": "eu и äu читаются [ой]: neun [нойн], Euro [ойро]."
+  },
+  {
+   "type": "choice",
+   "q": "Какая буква в слове vier звучит как [ф]?",
+   "options": [
+    "v",
+    "i",
+    "r"
+   ],
+   "answer": 0,
+   "explain": "Буква v в немецких словах читается [ф]."
+  },
+  {
+   "type": "choice",
+   "q": "Как читается начало слова sprechen?",
+   "options": [
+    "[спр]",
+    "[шпр]",
+    "[зпр]"
+   ],
+   "answer": 1,
+   "explain": "sp и st в начале слова читаются [шп], [шт]."
+  },
+  {
+   "type": "choice",
+   "q": "В каком слове гласная ДОЛГАЯ?",
+   "options": [
+    "Mann",
+    "Bett",
+    "Bahn"
+   ],
+   "answer": 2,
+   "explain": "Немое h после гласной удлиняет её: Bahn [ба:н]. В Mann и Bett — двойная согласная, гласная краткая."
+  },
+  {
+   "type": "choice",
+   "q": "Как пишется число 16?",
+   "options": [
+    "sechszehn",
+    "sechzehn",
+    "sechzig"
+   ],
+   "answer": 1,
+   "explain": "В 16 и 60 буква s пропадает: sechzehn, sechzig."
+  },
+  {
+   "type": "choice",
+   "q": "Как пишется число 30?",
+   "options": [
+    "dreizig",
+    "dreißig",
+    "dreizehn"
+   ],
+   "answer": 1,
+   "explain": "30 — единственный десяток на -ßig: dreißig."
+  },
+  {
+   "type": "gap",
+   "q": "7 = ___",
+   "answer": [
+    "sieben"
+   ],
+   "explain": "sieben [зи:бен]"
+  },
+  {
+   "type": "gap",
+   "q": "12 = ___",
+   "answer": [
+    "zwölf"
+   ],
+   "explain": "zwölf [цвёльф]"
+  },
+  {
+   "type": "gap",
+   "q": "17 = ___",
+   "answer": [
+    "siebzehn"
+   ],
+   "explain": "В 17 и 70 -en пропадает: siebzehn, siebzig."
+  },
+  {
+   "type": "gap",
+   "q": "21 = ___",
+   "answer": [
+    "einundzwanzig"
+   ],
+   "explain": "Единицы + und + десятки, eins теряет s: einundzwanzig."
+  },
+  {
+   "type": "gap",
+   "q": "Zwei plus drei ist ___. (5)",
+   "answer": [
+    "fünf"
+   ],
+   "explain": "2 + 3 = 5 → fünf."
+  },
+  {
+   "type": "translate",
+   "q": "сорок пять (словом)",
+   "answer": [
+    "fünfundvierzig"
+   ],
+   "explain": "5 + und + 40 = fünfundvierzig."
+  },
+  {
+   "type": "translate",
+   "q": "девяносто восемь (словом)",
+   "answer": [
+    "achtundneunzig"
+   ],
+   "explain": "8 + und + 90 = achtundneunzig."
+  },
+  {
+   "type": "translate",
+   "q": "триста шестьдесят пять (словом)",
+   "answer": [
+    "dreihundertfünfundsechzig"
+   ],
+   "explain": "dreihundert + fünfundsechzig, всё одним словом."
+  },
+  {
+   "type": "translate",
+   "q": "Сколько это стоит?",
+   "answer": [
+    "Wie viel kostet das?",
+    "Was kostet das?"
+   ],
+   "explain": "Wie viel = сколько; kosten = стоить."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Мне тридцать лет.»",
+   "words": [
+    "alt",
+    "dreißig",
+    "bin",
+    "Jahre",
+    "Ich"
+   ],
+   "answer": [
+    "Ich bin dreißig Jahre alt."
+   ],
+   "explain": "Возраст: Ich bin … Jahre alt."
+  }
+ ]
+}

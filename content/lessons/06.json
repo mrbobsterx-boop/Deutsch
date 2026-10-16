@@ -1,0 +1,826 @@
+{
+ "id": 6,
+ "title": "Модальные глаголы",
+ "level": "A1",
+ "goal": "Вы сможете сказать, что вы умеете, хотите, должны и что вам можно, используя семь модальных глаголов и рамочную конструкцию.",
+ "minutes": 55,
+ "theory": [
+  {
+   "h": "Что такое модальные глаголы",
+   "html": "<p><b>Модальные глаголы</b> выражают не само действие, а <b>отношение</b> к нему: могу, хочу, должен, можно. В немецком их семь:</p>\n<table>\n<tr><th>Глагол</th><th>Значение</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">können</span></td><td>мочь, уметь; быть возможным</td><td><span class=\"de\">Ich kann gut tanzen.</span> — Я умею хорошо танцевать.</td></tr>\n<tr><td><span class=\"de\">dürfen</span></td><td>иметь разрешение («мне можно»)</td><td><span class=\"de\">Ich darf laut singen.</span> — Мне можно громко петь.</td></tr>\n<tr><td><span class=\"de\">müssen</span></td><td>быть должным по необходимости, «надо»</td><td><span class=\"de\">Sie muss Deutsch lernen.</span> — Она должна учить немецкий.</td></tr>\n<tr><td><span class=\"de\">sollen</span></td><td>быть должным по чужой воле: приказ, совет, правило</td><td><span class=\"de\">Du sollst gut lernen.</span> — Ты обязан (тебе велят) хорошо учиться.</td></tr>\n<tr><td><span class=\"de\">wollen</span></td><td>хотеть (твёрдое желание, намерение)</td><td><span class=\"de\">Wir wollen spielen.</span> — Мы хотим играть.</td></tr>\n<tr><td><span class=\"de\">möchten</span></td><td>хотел бы (вежливое желание)</td><td><span class=\"de\">Ich möchte ein Buch bestellen.</span> — Я хотел бы заказать книгу.</td></tr>\n<tr><td><span class=\"de\">mögen</span></td><td>любить, нравиться</td><td><span class=\"de\">Ich mag Cola.</span> — Мне нравится кола.</td></tr>\n</table>"
+  },
+  {
+   "h": "Рамочная конструкция: модальный глагол + инфинитив в конце",
+   "html": "<p>Модальный глагол <b>спрягается и стоит на втором месте</b>, а смысловой глагол стоит <b>в инфинитиве в самом конце</b> предложения. Получается «рамка»:</p>\n<table>\n<tr><th>1</th><th>2 (модальный)</th><th>середина</th><th>конец (инфинитив)</th></tr>\n<tr><td><span class=\"de\">Ich</span></td><td><span class=\"de\">kann</span></td><td><span class=\"de\">gut</span></td><td><span class=\"de\">singen.</span></td></tr>\n<tr><td><span class=\"de\">Wir</span></td><td><span class=\"de\">wollen</span></td><td><span class=\"de\">nach Deutschland</span></td><td><span class=\"de\">fahren.</span></td></tr>\n<tr><td><span class=\"de\">Heute</span></td><td><span class=\"de\">muss</span></td><td><span class=\"de\">er</span></td><td><span class=\"de\">arbeiten.</span></td></tr>\n</table>\n<p>Смысловой глагол <b>не спрягается</b>: <span class=\"de\">Er kann singen</span>, а не «Er kann singt». В вопросе модальный глагол выходит на первое место, инфинитив по-прежнему в конце: <span class=\"de\">Kannst du schnell lesen?</span> — Ты умеешь быстро читать? <span class=\"de\">Was möchtest du trinken?</span> — Что ты хотел бы выпить?</p>"
+  },
+  {
+   "h": "Спряжение модальных глаголов",
+   "html": "<p>У модальных глаголов две особенности: (1) в <b>единственном числе</b> (кроме sollen) меняется корневая гласная; (2) формы <span class=\"de\">ich</span> и <span class=\"de\">er/sie/es</span> <b>совпадают</b> и <b>не имеют окончания</b>.</p>\n<table>\n<tr><th></th><th>können</th><th>dürfen</th><th>müssen</th><th>sollen</th><th>wollen</th><th>mögen</th><th>möchten</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td>kann</td><td>darf</td><td>muss</td><td>soll</td><td>will</td><td>mag</td><td>möchte</td></tr>\n<tr><td><span class=\"de\">du</span></td><td>kannst</td><td>darfst</td><td>musst</td><td>sollst</td><td>willst</td><td>magst</td><td>möchtest</td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td>kann</td><td>darf</td><td>muss</td><td>soll</td><td>will</td><td>mag</td><td>möchte</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td>können</td><td>dürfen</td><td>müssen</td><td>sollen</td><td>wollen</td><td>mögen</td><td>möchten</td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td>könnt</td><td>dürft</td><td>müsst</td><td>sollt</td><td>wollt</td><td>mögt</td><td>möchtet</td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td>können</td><td>dürfen</td><td>müssen</td><td>sollen</td><td>wollen</td><td>mögen</td><td>möchten</td></tr>\n</table>\n<div class=\"note\">Так же спрягается немодальный глагол <span class=\"de\">wissen</span> (знать): <span class=\"de\">ich weiß, du weißt, er weiß, wir wissen, ihr wisst, sie wissen</span>. Обратите внимание: <span class=\"de\">ich weiß</span> и <span class=\"de\">er weiß</span> — без окончания.</div>"
+  },
+  {
+   "h": "Тонкости значений",
+   "html": "<h4>müssen или sollen?</h4>\n<p>Оба переводятся «должен», но <span class=\"de\">müssen</span> — это <b>необходимость</b> (обстоятельства, собственное понимание): <span class=\"de\">Ich muss Deutsch lernen</span> — мне надо (я переезжаю в Германию). <span class=\"de\">sollen</span> — это <b>чужая воля</b>: начальник, врач, правило, совет: <span class=\"de\">Ich soll heute arbeiten</span> — мне сказали, что я сегодня работаю. Вопрос <span class=\"de\">Soll ich …?</span> = «Мне …?» (предложение помощи): <span class=\"de\">Soll ich helfen?</span> — Мне помочь?</p>\n<h4>können или dürfen?</h4>\n<p><span class=\"de\">können</span> — я <b>умею/имею возможность</b>; <span class=\"de\">dürfen</span> — мне <b>разрешено</b>. <span class=\"de\">Ich kann schwimmen</span> — я умею плавать. <span class=\"de\">Ich darf hier schwimmen</span> — мне здесь можно плавать. В разговорной речи <span class=\"de\">können</span> часто заменяет <span class=\"de\">dürfen</span>: <span class=\"de\">Kann ich gehen?</span></p>\n<h4>wollen, möchten, mögen</h4>\n<ul>\n<li><span class=\"de\">wollen</span> — прямо «хочу», звучит категорично. В магазине или ресторане лучше <span class=\"de\">möchten</span>: <span class=\"de\">Ich möchte einen Kaffee.</span> — Я хотел бы кофе.</li>\n<li><span class=\"de\">mögen</span> чаще всего употребляется с существительным: <span class=\"de\">Ich mag Cola. Er mag Hunde.</span> С глаголом в живой речи чаще говорят <span class=\"de\">gern</span>: <span class=\"de\">Ich spiele gern Volleyball</span> = <span class=\"de\">Ich mag Volleyball spielen</span>.</li>\n</ul>\n<h4>Отрицание — ловушка!</h4>\n<table>\n<tr><th>Немецкий</th><th>Значит</th></tr>\n<tr><td><span class=\"de\">Du musst nicht kommen.</span></td><td>Тебе <b>не обязательно</b> приходить.</td></tr>\n<tr><td><span class=\"de\">Du darfst nicht kommen.</span></td><td>Тебе <b>нельзя</b> приходить.</td></tr>\n</table>\n<p>«Нельзя» по-немецки — <span class=\"de\">nicht dürfen</span>, а не «nicht müssen»!</p>"
+  }
+ ],
+ "tips": [
+  "Модальный глагол — на 2-м месте, инфинитив — в самом конце: Ich will nach Deutschland fahren. Представьте рамку, внутрь которой кладутся все остальные слова.",
+  "ich = er у всех модальных глаголов и без окончания: ich kann — er kann, ich muss — er muss. Никаких «er kannt».",
+  "«Нельзя» = nicht dürfen. «Не обязательно» = nicht müssen. Русскоговорящие часто путают.",
+  "В кафе и магазине говорите möchte, а не will: «Ich möchte einen Tee» звучит вежливо, «Ich will» — как требование."
+ ],
+ "examples": [
+  {
+   "de": "Ich kann gut tanzen.",
+   "ru": "Я умею хорошо танцевать."
+  },
+  {
+   "de": "Ich darf laut singen.",
+   "ru": "Мне можно громко петь."
+  },
+  {
+   "de": "Wir wollen spielen.",
+   "ru": "Мы хотим играть."
+  },
+  {
+   "de": "Ich möchte ein Buch bestellen.",
+   "ru": "Я хотел бы заказать книгу."
+  },
+  {
+   "de": "Sie muss Deutsch lernen.",
+   "ru": "Она должна учить немецкий."
+  },
+  {
+   "de": "Du sollst gut lernen.",
+   "ru": "Ты обязан хорошо учиться."
+  },
+  {
+   "de": "Ich mag Cola.",
+   "ru": "Мне нравится кола."
+  },
+  {
+   "de": "Er mag arbeiten.",
+   "ru": "Ему нравится работать."
+  },
+  {
+   "de": "Kannst du schnell lesen?",
+   "ru": "Ты умеешь быстро читать?"
+  },
+  {
+   "de": "Kann er helfen?",
+   "ru": "Он может помочь?"
+  },
+  {
+   "de": "Was magst du machen?",
+   "ru": "Что ты любишь делать?"
+  },
+  {
+   "de": "Hier darf man nicht rauchen.",
+   "ru": "Здесь нельзя курить."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "können",
+   "forms": "kann, konnte, hat gekonnt",
+   "ru": "мочь, уметь"
+  },
+  {
+   "de": "dürfen",
+   "forms": "darf, durfte, hat gedurft",
+   "ru": "иметь разрешение, «можно»"
+  },
+  {
+   "de": "müssen",
+   "forms": "muss, musste, hat gemusst",
+   "ru": "быть должным, «надо»"
+  },
+  {
+   "de": "sollen",
+   "forms": "soll, sollte, hat gesollt",
+   "ru": "быть должным (по чужой воле)"
+  },
+  {
+   "de": "wollen",
+   "forms": "will, wollte, hat gewollt",
+   "ru": "хотеть"
+  },
+  {
+   "de": "mögen",
+   "forms": "mag, mochte, hat gemocht",
+   "ru": "любить, нравиться"
+  },
+  {
+   "de": "möchten",
+   "ru": "хотел бы"
+  },
+  {
+   "de": "wissen",
+   "forms": "weiß, wusste, hat gewusst",
+   "ru": "знать"
+  },
+  {
+   "de": "singen",
+   "forms": "singt, sang, hat gesungen",
+   "ru": "петь"
+  },
+  {
+   "de": "bleiben",
+   "forms": "bleibt, blieb, ist geblieben",
+   "ru": "оставаться"
+  },
+  {
+   "de": "tanzen",
+   "ru": "танцевать"
+  },
+  {
+   "de": "bestellen",
+   "ru": "заказывать"
+  },
+  {
+   "de": "trinken",
+   "forms": "trinkt, trank, hat getrunken",
+   "ru": "пить"
+  },
+  {
+   "de": "schwimmen",
+   "forms": "schwimmt, schwamm, ist geschwommen",
+   "ru": "плавать"
+  },
+  {
+   "de": "rauchen",
+   "ru": "курить"
+  },
+  {
+   "de": "die Party",
+   "pl": "die Partys",
+   "ru": "вечеринка"
+  },
+  {
+   "de": "Deutschland",
+   "ru": "Германия"
+  },
+  {
+   "de": "der Volleyball",
+   "ru": "волейбол"
+  },
+  {
+   "de": "die Cola",
+   "pl": "die Colas",
+   "ru": "кола"
+  },
+  {
+   "de": "der Kaffee",
+   "pl": "die Kaffees",
+   "ru": "кофе"
+  },
+  {
+   "de": "laut",
+   "ru": "громко"
+  },
+  {
+   "de": "leise",
+   "ru": "тихо"
+  },
+  {
+   "de": "gern",
+   "ru": "охотно, с удовольствием"
+  },
+  {
+   "de": "nach",
+   "ru": "в (о странах и городах при движении)"
+  },
+  {
+   "de": "man",
+   "ru": "(безличное) «люди», «можно/нельзя»"
+  }
+ ],
+ "phrasesNote": "Каждая пара фраз: сначала обычное предложение в Präsens, затем то же самое с модальным глаголом (können, dürfen, sollen, müssen, möchten, wollen, mögen). Следите, как смысловой глагол «уезжает» в конец предложения в форме инфинитива, а модальный глагол спрягается.",
+ "phrases": [
+  {
+   "de": "Ich singe gut.",
+   "ru": "Я хорошо пою."
+  },
+  {
+   "de": "Ich kann gut singen.",
+   "ru": "Я умею хорошо петь."
+  },
+  {
+   "de": "Du singst gut.",
+   "ru": "Ты хорошо поёшь."
+  },
+  {
+   "de": "Du kannst gut singen.",
+   "ru": "Ты умеешь хорошо петь."
+  },
+  {
+   "de": "Er singt gut.",
+   "ru": "Он хорошо поёт."
+  },
+  {
+   "de": "Er kann gut singen.",
+   "ru": "Он умеет хорошо петь."
+  },
+  {
+   "de": "Sie singt gut.",
+   "ru": "Она хорошо поёт."
+  },
+  {
+   "de": "Sie kann gut singen.",
+   "ru": "Она умеет хорошо петь."
+  },
+  {
+   "de": "Wir singen gut.",
+   "ru": "Мы хорошо поём."
+  },
+  {
+   "de": "Wir können gut singen.",
+   "ru": "Мы умеем хорошо петь."
+  },
+  {
+   "de": "Ihr singt gut.",
+   "ru": "Вы хорошо поёте."
+  },
+  {
+   "de": "Ihr könnt gut singen.",
+   "ru": "Вы умеете хорошо петь."
+  },
+  {
+   "de": "Sie singen gut.",
+   "ru": "Они хорошо поют."
+  },
+  {
+   "de": "Sie können gut singen.",
+   "ru": "Они умеют хорошо петь."
+  },
+  {
+   "de": "Ich bleibe zu Hause.",
+   "ru": "Я остаюсь дома."
+  },
+  {
+   "de": "Ich darf zu Hause bleiben.",
+   "ru": "Мне можно остаться дома."
+  },
+  {
+   "de": "Du bleibst zu Hause.",
+   "ru": "Ты остаёшься дома."
+  },
+  {
+   "de": "Du darfst zu Hause bleiben.",
+   "ru": "Тебе можно остаться дома."
+  },
+  {
+   "de": "Er bleibt zu Hause.",
+   "ru": "Он остаётся дома."
+  },
+  {
+   "de": "Er darf zu Hause bleiben.",
+   "ru": "Ему можно остаться дома."
+  },
+  {
+   "de": "Sie bleibt zu Hause.",
+   "ru": "Она остаётся дома."
+  },
+  {
+   "de": "Sie darf zu Hause bleiben.",
+   "ru": "Ей можно остаться дома."
+  },
+  {
+   "de": "Wir bleiben zu Hause.",
+   "ru": "Мы остаёмся дома."
+  },
+  {
+   "de": "Wir dürfen zu Hause bleiben.",
+   "ru": "Нам можно остаться дома."
+  },
+  {
+   "de": "Ihr bleibt zu Hause.",
+   "ru": "Вы остаётесь дома."
+  },
+  {
+   "de": "Ihr dürft zu Hause bleiben.",
+   "ru": "Вам можно остаться дома."
+  },
+  {
+   "de": "Sie bleiben zu Hause.",
+   "ru": "Они остаются дома."
+  },
+  {
+   "de": "Sie dürfen zu Hause bleiben.",
+   "ru": "Им можно остаться дома."
+  },
+  {
+   "de": "Ich arbeite heute.",
+   "ru": "Я сегодня работаю."
+  },
+  {
+   "de": "Ich soll heute arbeiten.",
+   "ru": "Я должен сегодня работать (так велели)."
+  },
+  {
+   "de": "Du arbeitest heute.",
+   "ru": "Ты сегодня работаешь."
+  },
+  {
+   "de": "Du sollst heute arbeiten.",
+   "ru": "Ты должен сегодня работать (так велели)."
+  },
+  {
+   "de": "Er arbeitet heute.",
+   "ru": "Он сегодня работает."
+  },
+  {
+   "de": "Er soll heute arbeiten.",
+   "ru": "Он должен сегодня работать (так велели)."
+  },
+  {
+   "de": "Sie arbeitet heute.",
+   "ru": "Она сегодня работает."
+  },
+  {
+   "de": "Sie soll heute arbeiten.",
+   "ru": "Она должна сегодня работать (так велели)."
+  },
+  {
+   "de": "Wir arbeiten heute.",
+   "ru": "Мы сегодня работаем."
+  },
+  {
+   "de": "Wir sollen heute arbeiten.",
+   "ru": "Мы должны сегодня работать (так велели)."
+  },
+  {
+   "de": "Ihr arbeitet heute.",
+   "ru": "Вы сегодня работаете."
+  },
+  {
+   "de": "Ihr sollt heute arbeiten.",
+   "ru": "Вы должны сегодня работать (так велели)."
+  },
+  {
+   "de": "Sie arbeiten heute.",
+   "ru": "Они сегодня работают."
+  },
+  {
+   "de": "Sie sollen heute arbeiten.",
+   "ru": "Они должны сегодня работать (так велели)."
+  },
+  {
+   "de": "Ich lerne Deutsch.",
+   "ru": "Я учу немецкий."
+  },
+  {
+   "de": "Ich muss Deutsch lernen.",
+   "ru": "Я должен учить немецкий."
+  },
+  {
+   "de": "Du lernst Deutsch.",
+   "ru": "Ты учишь немецкий."
+  },
+  {
+   "de": "Du musst Deutsch lernen.",
+   "ru": "Ты должен учить немецкий."
+  },
+  {
+   "de": "Er lernt Deutsch.",
+   "ru": "Он учит немецкий."
+  },
+  {
+   "de": "Er muss Deutsch lernen.",
+   "ru": "Он должен учить немецкий."
+  },
+  {
+   "de": "Sie lernt Deutsch.",
+   "ru": "Она учит немецкий."
+  },
+  {
+   "de": "Sie muss Deutsch lernen.",
+   "ru": "Она должна учить немецкий."
+  },
+  {
+   "de": "Wir lernen Deutsch.",
+   "ru": "Мы учим немецкий."
+  },
+  {
+   "de": "Wir müssen Deutsch lernen.",
+   "ru": "Мы должны учить немецкий."
+  },
+  {
+   "de": "Ihr lernt Deutsch.",
+   "ru": "Вы учите немецкий."
+  },
+  {
+   "de": "Ihr müsst Deutsch lernen.",
+   "ru": "Вы должны учить немецкий."
+  },
+  {
+   "de": "Sie lernen Deutsch.",
+   "ru": "Они учат немецкий."
+  },
+  {
+   "de": "Sie müssen Deutsch lernen.",
+   "ru": "Они должны учить немецкий."
+  },
+  {
+   "de": "Ich mache eine Party.",
+   "ru": "Я устраиваю вечеринку."
+  },
+  {
+   "de": "Ich möchte eine Party machen.",
+   "ru": "Я хотел бы устроить вечеринку."
+  },
+  {
+   "de": "Du machst eine Party.",
+   "ru": "Ты устраиваешь вечеринку."
+  },
+  {
+   "de": "Du möchtest eine Party machen.",
+   "ru": "Ты хотел бы устроить вечеринку."
+  },
+  {
+   "de": "Er macht eine Party.",
+   "ru": "Он устраивает вечеринку."
+  },
+  {
+   "de": "Er möchte eine Party machen.",
+   "ru": "Он хотел бы устроить вечеринку."
+  },
+  {
+   "de": "Sie macht eine Party.",
+   "ru": "Она устраивает вечеринку."
+  },
+  {
+   "de": "Sie möchte eine Party machen.",
+   "ru": "Она хотела бы устроить вечеринку."
+  },
+  {
+   "de": "Wir machen eine Party.",
+   "ru": "Мы устраиваем вечеринку."
+  },
+  {
+   "de": "Wir möchten eine Party machen.",
+   "ru": "Мы хотели бы устроить вечеринку."
+  },
+  {
+   "de": "Ihr macht eine Party.",
+   "ru": "Вы устраиваете вечеринку."
+  },
+  {
+   "de": "Ihr möchtet eine Party machen.",
+   "ru": "Вы хотели бы устроить вечеринку."
+  },
+  {
+   "de": "Sie machen eine Party.",
+   "ru": "Они устраивают вечеринку."
+  },
+  {
+   "de": "Sie möchten eine Party machen.",
+   "ru": "Они хотели бы устроить вечеринку."
+  },
+  {
+   "de": "Ich fahre nach Deutschland.",
+   "ru": "Я еду в Германию."
+  },
+  {
+   "de": "Ich will nach Deutschland fahren.",
+   "ru": "Я хочу поехать в Германию."
+  },
+  {
+   "de": "Du fährst nach Deutschland.",
+   "ru": "Ты едешь в Германию."
+  },
+  {
+   "de": "Du willst nach Deutschland fahren.",
+   "ru": "Ты хочешь поехать в Германию."
+  },
+  {
+   "de": "Er fährt nach Deutschland.",
+   "ru": "Он едет в Германию."
+  },
+  {
+   "de": "Er will nach Deutschland fahren.",
+   "ru": "Он хочет поехать в Германию."
+  },
+  {
+   "de": "Sie fährt nach Deutschland.",
+   "ru": "Она едет в Германию."
+  },
+  {
+   "de": "Sie will nach Deutschland fahren.",
+   "ru": "Она хочет поехать в Германию."
+  },
+  {
+   "de": "Wir fahren nach Deutschland.",
+   "ru": "Мы едем в Германию."
+  },
+  {
+   "de": "Wir wollen nach Deutschland fahren.",
+   "ru": "Мы хотим поехать в Германию."
+  },
+  {
+   "de": "Ihr fahrt nach Deutschland.",
+   "ru": "Вы едете в Германию."
+  },
+  {
+   "de": "Ihr wollt nach Deutschland fahren.",
+   "ru": "Вы хотите поехать в Германию."
+  },
+  {
+   "de": "Sie fahren nach Deutschland.",
+   "ru": "Они едут в Германию."
+  },
+  {
+   "de": "Sie wollen nach Deutschland fahren.",
+   "ru": "Они хотят поехать в Германию."
+  },
+  {
+   "de": "Ich spiele Volleyball.",
+   "ru": "Я играю в волейбол."
+  },
+  {
+   "de": "Ich mag Volleyball spielen.",
+   "ru": "Я люблю играть в волейбол."
+  },
+  {
+   "de": "Du spielst Volleyball.",
+   "ru": "Ты играешь в волейбол."
+  },
+  {
+   "de": "Du magst Volleyball spielen.",
+   "ru": "Ты любишь играть в волейбол."
+  },
+  {
+   "de": "Er spielt Volleyball.",
+   "ru": "Он играет в волейбол."
+  },
+  {
+   "de": "Er mag Volleyball spielen.",
+   "ru": "Он любит играть в волейбол."
+  },
+  {
+   "de": "Sie spielt Volleyball.",
+   "ru": "Она играет в волейбол."
+  },
+  {
+   "de": "Sie mag Volleyball spielen.",
+   "ru": "Она любит играть в волейбол."
+  },
+  {
+   "de": "Wir spielen Volleyball.",
+   "ru": "Мы играем в волейбол."
+  },
+  {
+   "de": "Wir mögen Volleyball spielen.",
+   "ru": "Мы любим играть в волейбол."
+  },
+  {
+   "de": "Ihr spielt Volleyball.",
+   "ru": "Вы играете в волейбол."
+  },
+  {
+   "de": "Ihr mögt Volleyball spielen.",
+   "ru": "Вы любите играть в волейбол."
+  },
+  {
+   "de": "Sie spielen Volleyball.",
+   "ru": "Они играют в волейбол."
+  },
+  {
+   "de": "Sie mögen Volleyball spielen.",
+   "ru": "Они любят играть в волейбол."
+  },
+  {
+   "de": "Ich weiß nicht.",
+   "ru": "Я не знаю."
+  },
+  {
+   "de": "Ich will das nicht wissen.",
+   "ru": "Я не хочу этого знать."
+  },
+  {
+   "de": "Du weißt nicht.",
+   "ru": "Ты не знаешь."
+  },
+  {
+   "de": "Du willst das nicht wissen.",
+   "ru": "Ты не хочешь этого знать."
+  },
+  {
+   "de": "Er weiß nicht.",
+   "ru": "Он не знает."
+  },
+  {
+   "de": "Er will das nicht wissen.",
+   "ru": "Он не хочет этого знать."
+  },
+  {
+   "de": "Sie weiß nicht.",
+   "ru": "Она не знает."
+  },
+  {
+   "de": "Sie will das nicht wissen.",
+   "ru": "Она не хочет этого знать."
+  },
+  {
+   "de": "Wir wissen nicht.",
+   "ru": "Мы не знаем."
+  },
+  {
+   "de": "Wir wollen das nicht wissen.",
+   "ru": "Мы не хотим этого знать."
+  },
+  {
+   "de": "Ihr wisst nicht.",
+   "ru": "Вы не знаете."
+  },
+  {
+   "de": "Ihr wollt das nicht wissen.",
+   "ru": "Вы не хотите этого знать."
+  },
+  {
+   "de": "Sie wissen nicht.",
+   "ru": "Они не знают."
+  },
+  {
+   "de": "Sie wollen das nicht wissen.",
+   "ru": "Они не хотят этого знать."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Er ___ gut singen.",
+   "options": [
+    "kannt",
+    "kann",
+    "können"
+   ],
+   "answer": 1,
+   "explain": "ich/er у модальных глаголов без окончания: er kann."
+  },
+  {
+   "type": "choice",
+   "q": "Ihr ___ zu Hause bleiben. (dürfen)",
+   "options": [
+    "darft",
+    "dürft",
+    "dürfen"
+   ],
+   "answer": 1,
+   "explain": "ihr dürft — во мн. числе корень как в инфинитиве."
+  },
+  {
+   "type": "choice",
+   "q": "Как сказать «Тебе нельзя курить»?",
+   "options": [
+    "Du musst nicht rauchen.",
+    "Du darfst nicht rauchen.",
+    "Du willst nicht rauchen."
+   ],
+   "answer": 1,
+   "explain": "«Нельзя» = nicht dürfen. «nicht müssen» = не обязательно."
+  },
+  {
+   "type": "choice",
+   "q": "В кафе вежливо: «Я хотел бы кофе.»",
+   "options": [
+    "Ich will einen Kaffee.",
+    "Ich möchte einen Kaffee.",
+    "Ich mag einen Kaffee."
+   ],
+   "answer": 1,
+   "explain": "Вежливое желание — möchte."
+  },
+  {
+   "type": "choice",
+   "q": "Врач сказал, что мне нужно много спать. Ich ___ viel schlafen.",
+   "options": [
+    "soll",
+    "will",
+    "darf"
+   ],
+   "answer": 0,
+   "explain": "Чужая воля, совет → sollen."
+  },
+  {
+   "type": "choice",
+   "q": "Du ___ das nicht wissen. (wollen)",
+   "options": [
+    "willst",
+    "wollst",
+    "will"
+   ],
+   "answer": 0,
+   "explain": "wollen: du willst."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ Deutsch lernen. (müssen)",
+   "answer": [
+    "müssen"
+   ],
+   "explain": "wir müssen"
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ eine Party machen. (möchten)",
+   "answer": [
+    "möchtest"
+   ],
+   "explain": "du möchtest"
+  },
+  {
+   "type": "gap",
+   "q": "Sie (она) ___ Volleyball spielen. (mögen)",
+   "answer": [
+    "mag"
+   ],
+   "explain": "sie mag"
+  },
+  {
+   "type": "gap",
+   "q": "Ich ___ nicht. (wissen)",
+   "answer": [
+    "weiß"
+   ],
+   "explain": "ich weiß — без окончания."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ heute arbeiten. (sollen)",
+   "answer": [
+    "sollt"
+   ],
+   "explain": "ihr sollt"
+  },
+  {
+   "type": "gap",
+   "q": "Er will nach Deutschland ___. (ехать)",
+   "answer": [
+    "fahren"
+   ],
+   "explain": "После модального — инфинитив в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Я умею хорошо петь.",
+   "answer": [
+    "Ich kann gut singen."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Мы хотим поехать в Германию.",
+   "answer": [
+    "Wir wollen nach Deutschland fahren."
+   ],
+   "explain": "Инфинитив fahren — в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Ты умеешь быстро читать?",
+   "answer": [
+    "Kannst du schnell lesen?"
+   ],
+   "explain": "Модальный глагол на первом месте, инфинитив в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Ему можно остаться дома.",
+   "answer": [
+    "Er darf zu Hause bleiben."
+   ],
+   "explain": "«Можно» (разрешение) = dürfen."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Она должна учить немецкий.»",
+   "words": [
+    "Deutsch",
+    "muss",
+    "lernen",
+    "Sie"
+   ],
+   "answer": [
+    "Sie muss Deutsch lernen."
+   ],
+   "explain": "Рамка: muss … lernen."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Сегодня я хотел бы устроить вечеринку.»",
+   "words": [
+    "machen",
+    "ich",
+    "eine Party",
+    "möchte",
+    "Heute"
+   ],
+   "answer": [
+    "Heute möchte ich eine Party machen.",
+    "Ich möchte heute eine Party machen."
+   ],
+   "explain": "Модальный глагол — на 2-м месте, инфинитив — в конце."
+  }
+ ]
+}

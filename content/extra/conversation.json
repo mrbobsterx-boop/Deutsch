@@ -1,0 +1,3865 @@
+[
+ {
+  "id": "nach",
+  "block": 1,
+  "title": "Все значения NACH",
+  "intro": "Предлог nach всегда требует Dativ. Он обозначает направление (на, в — со странами, городами, сторонами света и в выражении nach Hause), время (после, через), соответствие (по, согласно) и входит в управление многих глаголов.",
+  "groups": [
+   {
+    "meaning": "на (направление)",
+    "items": [
+     {
+      "de": "nach oben, nach unten",
+      "ru": "наверх, вниз"
+     },
+     {
+      "de": "nach außen",
+      "ru": "наружу"
+     },
+     {
+      "de": "nach links, nach rechts",
+      "ru": "налево, направо"
+     }
+    ]
+   },
+   {
+    "meaning": "в (направление: страны, города, части света)",
+    "items": [
+     {
+      "de": "nach Deutschland, nach Spanien",
+      "ru": "в Германию, в Испанию"
+     },
+     {
+      "de": "nach Europa, nach Asien",
+      "ru": "в Европу, в Азию"
+     },
+     {
+      "de": "nach Hause",
+      "ru": "домой"
+     }
+    ]
+   },
+   {
+    "meaning": "после, через (время)",
+    "items": [
+     {
+      "de": "nach der Schule",
+      "ru": "после школы"
+     },
+     {
+      "de": "nach dem Unterricht",
+      "ru": "после занятий"
+     },
+     {
+      "de": "nach mir, nach uns",
+      "ru": "после меня, после нас"
+     },
+     {
+      "de": "nach wenigen Minuten",
+      "ru": "через несколько минут"
+     }
+    ]
+   },
+   {
+    "meaning": "по, согласно",
+    "items": [
+     {
+      "de": "meiner Meinung nach / nach meiner Meinung",
+      "ru": "по моему мнению"
+     },
+     {
+      "de": "der Überlieferung nach",
+      "ru": "по преданию"
+     },
+     {
+      "de": "nach Wunsch",
+      "ru": "по желанию"
+     },
+     {
+      "de": "der Sage nach",
+      "ru": "по легенде"
+     }
+    ]
+   },
+   {
+    "meaning": "управление глаголов",
+    "items": [
+     {
+      "de": "schmecken nach",
+      "ru": "иметь вкус чего-л."
+     },
+     {
+      "de": "riechen nach",
+      "ru": "пахнуть чем-л."
+     },
+     {
+      "de": "fragen nach",
+      "ru": "спрашивать о ком-л./чём-л."
+     },
+     {
+      "de": "suchen nach",
+      "ru": "искать кого-л./что-л."
+     },
+     {
+      "de": "greifen nach",
+      "ru": "хвататься за что-л."
+     },
+     {
+      "de": "streben nach",
+      "ru": "стремиться к чему-л."
+     },
+     {
+      "de": "sich sehnen nach",
+      "ru": "тосковать по кому-л./чему-л."
+     }
+    ]
+   },
+   {
+    "meaning": "устойчивые выражения",
+    "items": [
+     {
+      "de": "Kein Hahn kräht danach.",
+      "ru": "Никому до этого нет дела."
+     },
+     {
+      "de": "nach und nach",
+      "ru": "постепенно"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Посмотри наверх! Я здесь!",
+    "de": [
+     "Schau mal nach oben! Ich bin hier!",
+     "Schau nach oben! Ich bin hier!"
+    ]
+   },
+   {
+    "ru": "Я иду вниз, тебе что-нибудь принести?",
+    "de": [
+     "Ich gehe nach unten. Soll ich etwas holen?",
+     "Ich gehe nach unten, soll ich dir etwas bringen?",
+     "Ich gehe nach unten. Soll ich dir etwas mitbringen?"
+    ]
+   },
+   {
+    "ru": "Здесь надо повернуть налево!",
+    "de": [
+     "Hier muss man nach links abbiegen!"
+    ]
+   },
+   {
+    "ru": "На следующем перекрёстке поверните направо.",
+    "de": [
+     "An der nächsten Kreuzung biegen Sie nach rechts ab.",
+     "An der nächsten Kreuzung biegen Sie rechts ab."
+    ]
+   },
+   {
+    "ru": "Прошлым летом я ездил во Францию.",
+    "de": [
+     "Letzten Sommer bin ich nach Frankreich gefahren.",
+     "Im letzten Sommer bin ich nach Frankreich gefahren."
+    ]
+   },
+   {
+    "ru": "Я всегда хотел съездить в Азию.",
+    "de": [
+     "Ich wollte immer nach Asien fahren.",
+     "Ich wollte schon immer nach Asien fahren."
+    ]
+   },
+   {
+    "ru": "Мы едем на юг, потому что там тепло!",
+    "de": [
+     "Wir fahren nach Süden, weil es dort warm ist!",
+     "Wir fahren in den Süden, weil es dort warm ist!"
+    ]
+   },
+   {
+    "ru": "Я не хочу ехать зимой на север!",
+    "de": [
+     "Ich will nicht im Winter nach Norden fahren!",
+     "Ich will im Winter nicht nach Norden fahren!",
+     "Ich will im Winter nicht in den Norden fahren!"
+    ]
+   },
+   {
+    "ru": "После занятия я пошёл домой.",
+    "de": [
+     "Nach dem Unterricht bin ich nach Hause gegangen."
+    ]
+   },
+   {
+    "ru": "Что ты будешь делать после школы?",
+    "de": [
+     "Was wirst du nach der Schule machen?",
+     "Was machst du nach der Schule?"
+    ]
+   },
+   {
+    "ru": "Через несколько минут он снова мне позвонил.",
+    "de": [
+     "Nach wenigen Minuten hat er mich wieder angerufen.",
+     "Nach ein paar Minuten hat er mich wieder angerufen."
+    ]
+   },
+   {
+    "ru": "Через две недели он снова приехал домой.",
+    "de": [
+     "Nach zwei Wochen ist er wieder nach Hause gekommen."
+    ]
+   },
+   {
+    "ru": "Потом мы пошли в библиотеку.",
+    "de": [
+     "Danach sind wir in die Bibliothek gegangen.",
+     "Danach gingen wir in die Bibliothek."
+    ]
+   },
+   {
+    "ru": "По-моему, немецкий не такой сложный.",
+    "de": [
+     "Meiner Meinung nach ist Deutsch nicht so schwer.",
+     "Nach meiner Meinung ist Deutsch nicht so schwer."
+    ]
+   },
+   {
+    "ru": "По желанию можно пойти в кино или в театр.",
+    "de": [
+     "Nach Wunsch kann man ins Kino oder ins Theater gehen."
+    ]
+   },
+   {
+    "ru": "По легенде здесь жили великаны.",
+    "de": [
+     "Der Sage nach haben hier Riesen gelebt.",
+     "Der Sage nach lebten hier Riesen."
+    ]
+   },
+   {
+    "ru": "Это яблоко на вкус как груша!",
+    "de": [
+     "Dieser Apfel schmeckt nach einer Birne!",
+     "Dieser Apfel schmeckt nach Birne!"
+    ]
+   },
+   {
+    "ru": "Я хочу есть, потому что здесь пахнет едой.",
+    "de": [
+     "Ich möchte essen, weil es hier nach Essen riecht.",
+     "Ich habe Hunger, weil es hier nach Essen riecht.",
+     "Ich möchte essen, weil es hier nach dem Essen riecht."
+    ]
+   },
+   {
+    "ru": "В библиотеке всегда пахнет книгами.",
+    "de": [
+     "In der Bibliothek riecht es immer nach Büchern."
+    ]
+   },
+   {
+    "ru": "Я хочу спросить о погоде.",
+    "de": [
+     "Ich möchte nach dem Wetter fragen.",
+     "Ich will nach dem Wetter fragen."
+    ]
+   },
+   {
+    "ru": "Он спрашивает о твоём мнении.",
+    "de": [
+     "Er fragt nach deiner Meinung."
+    ]
+   },
+   {
+    "ru": "Я не буду его об этом спрашивать.",
+    "de": [
+     "Ich will ihn nicht danach fragen.",
+     "Ich werde ihn nicht danach fragen."
+    ]
+   },
+   {
+    "ru": "Ты можешь сегодня об этом разузнать?",
+    "de": [
+     "Kannst du dich heute danach erkundigen?",
+     "Kannst du dich danach heute erkundigen?"
+    ]
+   },
+   {
+    "ru": "Я уже давно ищу счастье.",
+    "de": [
+     "Ich suche schon lange nach dem Glück."
+    ]
+   },
+   {
+    "ru": "Когда я его заметил, он схватился за своё ружьё.",
+    "de": [
+     "Als ich ihn sah, griff er nach seinem Gewehr.",
+     "Als ich ihn bemerkte, griff er nach seinem Gewehr."
+    ]
+   },
+   {
+    "ru": "Всю свою жизнь я стремился к успеху.",
+    "de": [
+     "Mein ganzes Leben strebe ich nach Erfolg.",
+     "Mein ganzes Leben lang habe ich nach Erfolg gestrebt.",
+     "Mein ganzes Leben strebe ich nach dem Glück."
+    ]
+   },
+   {
+    "ru": "Теперь я не знаю, к чему мне дальше стремиться.",
+    "de": [
+     "Nun weiß ich nicht mehr, wonach ich weiter streben soll.",
+     "Jetzt weiß ich nicht, wonach ich weiter streben soll."
+    ]
+   },
+   {
+    "ru": "Он тоскует по своей родине.",
+    "de": [
+     "Er sehnt sich nach seiner Heimat."
+    ]
+   },
+   {
+    "ru": "Собака будет тосковать по своему хозяину всю жизнь.",
+    "de": [
+     "Der Hund wird sich sein ganzes Leben nach seinem Besitzer sehnen.",
+     "Der Hund wird sich sein ganzes Leben lang nach seinem Herrchen sehnen."
+    ]
+   },
+   {
+    "ru": "Никому нет дела до твоих проблем.",
+    "de": [
+     "Nach deinen Problemen kräht kein Hahn.",
+     "Kein Hahn kräht nach deinen Problemen."
+    ]
+   },
+   {
+    "ru": "Никому до тебя нет дела.",
+    "de": [
+     "Kein Hahn kräht nach dir.",
+     "Nach dir kräht kein Hahn."
+    ]
+   },
+   {
+    "ru": "На площадь постепенно приходили всё новые люди.",
+    "de": [
+     "Nach und nach kamen neue Menschen auf den Platz.",
+     "Nach und nach kamen neue Leute auf den Platz."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма!"
+ },
+ {
+  "id": "aus-von",
+  "block": 1,
+  "title": "Все значения AUS и VON",
+  "intro": "Оба предлога требуют Dativ. Aus — «из» (изнутри чего-то, происхождение, материал, причина). Von — «от», «с» (от поверхности, места, времени), часть целого и принадлежность.",
+  "groups": [
+   {
+    "meaning": "aus — из (откуда?)",
+    "items": [
+     {
+      "de": "Ich nehme ein Buch aus dem Schrank.",
+      "ru": "Я беру книгу из шкафа."
+     },
+     {
+      "de": "Ich gehe aus meiner Wohnung.",
+      "ru": "Я выхожу из своей квартиры."
+     },
+     {
+      "de": "Ich komme aus Moskau.",
+      "ru": "Я из Москвы."
+     }
+    ]
+   },
+   {
+    "meaning": "aus — из-за (причина)",
+    "items": [
+     {
+      "de": "aus Angst",
+      "ru": "из-за страха"
+     },
+     {
+      "de": "aus Hunger",
+      "ru": "от голода"
+     },
+     {
+      "de": "aus Überzeugung",
+      "ru": "из убеждения"
+     }
+    ]
+   },
+   {
+    "meaning": "aus — из (материал: из чего?)",
+    "items": [
+     {
+      "de": "aus Holz",
+      "ru": "из дерева"
+     },
+     {
+      "de": "aus Stein",
+      "ru": "из камня"
+     }
+    ]
+   },
+   {
+    "meaning": "von — от",
+    "items": [
+     {
+      "de": "Was willst du von mir?",
+      "ru": "Что ты от меня хочешь?"
+     },
+     {
+      "de": "Ich fahre von meinen Eltern ab.",
+      "ru": "Я уезжаю от родителей."
+     }
+    ]
+   },
+   {
+    "meaning": "von — с (место)",
+    "items": [
+     {
+      "de": "von vorn, von hinten",
+      "ru": "спереди, сзади"
+     },
+     {
+      "de": "vom Norden, vom Süden",
+      "ru": "с севера, с юга"
+     },
+     {
+      "de": "von Ast zu Ast",
+      "ru": "с ветки на ветку"
+     }
+    ]
+   },
+   {
+    "meaning": "von — с (время)",
+    "items": [
+     {
+      "de": "das Brot von gestern",
+      "ru": "вчерашний хлеб"
+     },
+     {
+      "de": "Ich kenne ihn von früher.",
+      "ru": "Я знаю его с давних пор."
+     },
+     {
+      "de": "von Anfang an, von jetzt an",
+      "ru": "с самого начала, с этого момента"
+     }
+    ]
+   },
+   {
+    "meaning": "von — из (часть целого)",
+    "items": [
+     {
+      "de": "einer von uns",
+      "ru": "один из нас"
+     },
+     {
+      "de": "Keins von diesen Fotos gefällt mir.",
+      "ru": "Мне не нравится ни одна из этих фотографий."
+     }
+    ]
+   },
+   {
+    "meaning": "von — принадлежность",
+    "items": [
+     {
+      "de": "der König von Schweden",
+      "ru": "король Швеции"
+     },
+     {
+      "de": "das Auto von meinem Vater",
+      "ru": "машина моего отца"
+     }
+    ]
+   },
+   {
+    "meaning": "управление глаголов",
+    "items": [
+     {
+      "de": "abhängen von",
+      "ru": "зависеть от"
+     },
+     {
+      "de": "sich trennen von",
+      "ru": "расставаться с"
+     },
+     {
+      "de": "überzeugen von",
+      "ru": "убеждать в"
+     },
+     {
+      "de": "sich verabschieden von",
+      "ru": "прощаться с"
+     },
+     {
+      "de": "halten von",
+      "ru": "быть какого-л. мнения о"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Ты можешь принести стул из кухни?",
+    "de": [
+     "Kannst du den Stuhl aus der Küche bringen?",
+     "Kannst du einen Stuhl aus der Küche bringen?",
+     "Kannst du den Stuhl aus der Küche holen?"
+    ]
+   },
+   {
+    "ru": "Он не хочет выходить из своей комнаты.",
+    "de": [
+     "Er möchte nicht aus seinem Zimmer gehen.",
+     "Er will nicht aus seinem Zimmer gehen.",
+     "Er will nicht aus seinem Zimmer kommen."
+    ]
+   },
+   {
+    "ru": "Из-за страха он едва мог говорить.",
+    "de": [
+     "Aus Angst konnte er kaum sprechen."
+    ]
+   },
+   {
+    "ru": "Из-за своих убеждений он никогда не лгал.",
+    "de": [
+     "Aus seinen Überzeugungen hat er nie gelogen.",
+     "Aus Überzeugung hat er nie gelogen."
+    ]
+   },
+   {
+    "ru": "Этот дом из дерева.",
+    "de": [
+     "Dieses Haus ist aus Holz."
+    ]
+   },
+   {
+    "ru": "Мы состоим главным образом из воды.",
+    "de": [
+     "Wir bestehen hauptsächlich aus Wasser."
+    ]
+   },
+   {
+    "ru": "Мне надо ещё забрать детей из школы.",
+    "de": [
+     "Ich muss noch meine Kinder von der Schule abholen.",
+     "Ich muss noch die Kinder von der Schule abholen."
+    ]
+   },
+   {
+    "ru": "Я не мог понять, чего они от меня хотели.",
+    "de": [
+     "Ich konnte nicht verstehen, was sie von mir wollten.",
+     "Ich konnte nicht verstehen, was sie alle von mir wollten."
+    ]
+   },
+   {
+    "ru": "Птица прыгала с ветки на ветку.",
+    "de": [
+     "Der Vogel sprang von Ast zu Ast."
+    ]
+   },
+   {
+    "ru": "Начнём сначала!",
+    "de": [
+     "Fangen wir von vorne an!",
+     "Fangen wir von vorn an!"
+    ]
+   },
+   {
+    "ru": "Семья Старков родом с севера.",
+    "de": [
+     "Familie Stark kommt aus dem Norden.",
+     "Familie Stark kommt vom Norden.",
+     "Die Familie Stark kommt aus dem Norden."
+    ]
+   },
+   {
+    "ru": "Снизу я слышал тихую музыку.",
+    "de": [
+     "Von unten hörte ich leise Musik."
+    ]
+   },
+   {
+    "ru": "Сверху можно видеть весь город.",
+    "de": [
+     "Von oben kann man die ganze Stadt sehen."
+    ]
+   },
+   {
+    "ru": "Он стёр пот со лба.",
+    "de": [
+     "Er wischte sich den Schweiß von der Stirn."
+    ]
+   },
+   {
+    "ru": "Тогда я поеду из дома.",
+    "de": [
+     "Ich fahre dann von zu Hause los.",
+     "Ich fahre dann von zu Hause."
+    ]
+   },
+   {
+    "ru": "Я знаю этого актёра с детства.",
+    "de": [
+     "Diesen Schauspieler kenne ich seit der Kindheit.",
+     "Diesen Schauspieler kenne ich von der Kindheit.",
+     "Ich kenne diesen Schauspieler seit meiner Kindheit."
+    ]
+   },
+   {
+    "ru": "От своих старых снов (мечтаний) я избавился.",
+    "de": [
+     "Die Träume von früher bin ich losgeworden.",
+     "Die alten Träume bin ich losgeworden."
+    ]
+   },
+   {
+    "ru": "С самого начала ему приходилось напряжённо работать.",
+    "de": [
+     "Von Anfang an musste er hart arbeiten."
+    ]
+   },
+   {
+    "ru": "С этого момента я начинаю новую жизнь.",
+    "de": [
+     "Von jetzt an beginne ich ein neues Leben.",
+     "Von jetzt an starte ich ein neues Leben.",
+     "Ab jetzt beginne ich ein neues Leben."
+    ]
+   },
+   {
+    "ru": "Я работаю с понедельника по субботу.",
+    "de": [
+     "Ich arbeite von Montag bis Samstag."
+    ]
+   },
+   {
+    "ru": "Вы можете позвонить мне с 10 до 20 часов.",
+    "de": [
+     "Sie können mich von 10 bis 20 Uhr anrufen.",
+     "Ihr könnt mich von 10 bis 20 Uhr anrufen."
+    ]
+   },
+   {
+    "ru": "Один из нас должен умереть.",
+    "de": [
+     "Einer von uns muss sterben."
+    ]
+   },
+   {
+    "ru": "Я последний из пяти детей в моей семье.",
+    "de": [
+     "Ich bin der Letzte von fünf Kindern in meiner Familie.",
+     "Ich bin das letzte von fünf Kindern in meiner Familie."
+    ]
+   },
+   {
+    "ru": "Мне ничего из этого не нравится.",
+    "de": [
+     "Mir gefällt nichts davon.",
+     "Nichts davon gefällt mir."
+    ]
+   },
+   {
+    "ru": "На вечеринку придут и несколько моих друзей.",
+    "de": [
+     "Zur Party kommen auch ein paar Freunde von mir.",
+     "Zur Party kommen ein paar Freunde von mir."
+    ]
+   },
+   {
+    "ru": "В окрестностях Мюнхена много достопримечательностей.",
+    "de": [
+     "In der Umgebung von München gibt es viele Sehenswürdigkeiten."
+    ]
+   },
+   {
+    "ru": "Я уже очень устал от своей работы.",
+    "de": [
+     "Ich bin schon sehr müde von meiner Arbeit."
+    ]
+   },
+   {
+    "ru": "Я уже с ним попрощался.",
+    "de": [
+     "Ich habe mich von ihm schon verabschiedet.",
+     "Ich habe mich schon von ihm verabschiedet."
+    ]
+   },
+   {
+    "ru": "Я невысокого мнения о нём.",
+    "de": [
+     "Ich halte nicht viel von ihm."
+    ]
+   },
+   {
+    "ru": "Какого ты мнения о моей книге?",
+    "de": [
+     "Was hältst du von meinem Buch?"
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма!"
+ },
+ {
+  "id": "bei",
+  "block": 1,
+  "title": "Все значения BEI",
+  "intro": "Предлог bei требует Dativ. Основные значения: «у» (у кого-то, у врача), «на» (на фирме, на празднике), «во время» (bei + действие), «при» (при себе, при такой погоде) и «среди».",
+  "groups": [
+   {
+    "meaning": "у (кого-то)",
+    "items": [
+     {
+      "de": "Er war bei uns die ganze Nacht.",
+      "ru": "Он был у нас всю ночь."
+     },
+     {
+      "de": "Ich übernachte bei meinen Eltern.",
+      "ru": "Я ночую у родителей."
+     },
+     {
+      "de": "Ich bin beim Arzt.",
+      "ru": "Я у врача."
+     }
+    ]
+   },
+   {
+    "meaning": "на",
+    "items": [
+     {
+      "de": "bei einer Firma arbeiten",
+      "ru": "работать на фирме"
+     },
+     {
+      "de": "bei der Hochzeit sein",
+      "ru": "быть на свадьбе"
+     },
+     {
+      "de": "Ich war auch dabei.",
+      "ru": "Я тоже там был."
+     }
+    ]
+   },
+   {
+    "meaning": "во время",
+    "items": [
+     {
+      "de": "beim Essen",
+      "ru": "во время еды"
+     },
+     {
+      "de": "beim Joggen",
+      "ru": "во время пробежки"
+     },
+     {
+      "de": "bei der Demonstration",
+      "ru": "во время демонстрации"
+     },
+     {
+      "de": "bei Nacht",
+      "ru": "ночью"
+     }
+    ]
+   },
+   {
+    "meaning": "при",
+    "items": [
+     {
+      "de": "Hast du Geld bei dir?",
+      "ru": "У тебя есть деньги с собой?"
+     },
+     {
+      "de": "Hast du Geld dabei?",
+      "ru": "У тебя есть при себе деньги?"
+     },
+     {
+      "de": "Bei dieser Hitze bleibe ich lieber zu Hause.",
+      "ru": "В такую жару я лучше останусь дома."
+     }
+    ]
+   },
+   {
+    "meaning": "среди",
+    "items": [
+     {
+      "de": "Er war bei den Demonstranten.",
+      "ru": "Он был среди демонстрантов."
+     },
+     {
+      "de": "bei den Schülern",
+      "ru": "среди школьников"
+     }
+    ]
+   },
+   {
+    "meaning": "устойчивые выражения",
+    "items": [
+     {
+      "de": "Die Temperatur liegt bei 30 Grad.",
+      "ru": "Температура около 30 градусов."
+     },
+     {
+      "de": "bei Berlin wohnen",
+      "ru": "жить под Берлином"
+     },
+     {
+      "de": "beim Wort nehmen",
+      "ru": "ловить на слове"
+     },
+     {
+      "de": "nicht bei sich sein",
+      "ru": "быть не в себе"
+     },
+     {
+      "de": "bei sich anfangen",
+      "ru": "начинать с себя"
+     }
+    ]
+   },
+   {
+    "meaning": "управление глаголов",
+    "items": [
+     {
+      "de": "sich bedanken bei",
+      "ru": "благодарить кого-л."
+     },
+     {
+      "de": "sich entschuldigen bei",
+      "ru": "извиняться перед кем-л."
+     },
+     {
+      "de": "sich beschweren bei",
+      "ru": "жаловаться кому-л."
+     },
+     {
+      "de": "sich bewerben bei",
+      "ru": "подавать заявку (на работу) куда-л."
+     },
+     {
+      "de": "helfen bei",
+      "ru": "помогать с чем-л."
+     },
+     {
+      "de": "zuschauen bei, zusehen bei",
+      "ru": "наблюдать (за кем-л.) во время какого-л. занятия"
+     },
+     {
+      "de": "beliebt sein bei",
+      "ru": "быть популярным среди кого-л."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я был у своих друзей.",
+    "de": [
+     "Ich war bei meinen Freunden."
+    ]
+   },
+   {
+    "ru": "Она хочет переночевать у своей подруги.",
+    "de": [
+     "Sie will bei ihrer Freundin übernachten.",
+     "Sie möchte bei ihrer Freundin übernachten."
+    ]
+   },
+   {
+    "ru": "Вчера я был у Макса.",
+    "de": [
+     "Gestern war ich bei Max.",
+     "Ich war gestern bei Max."
+    ]
+   },
+   {
+    "ru": "Я в парикмахерской (у парикмахера).",
+    "de": [
+     "Ich bin beim Friseur."
+    ]
+   },
+   {
+    "ru": "Я в пекарне (у пекаря).",
+    "de": [
+     "Ich bin beim Bäcker."
+    ]
+   },
+   {
+    "ru": "Я работаю в «Лукойле».",
+    "de": [
+     "Ich arbeite bei Lukoil."
+    ]
+   },
+   {
+    "ru": "Петер работает в Lufthansa.",
+    "de": [
+     "Peter arbeitet bei Lufthansa.",
+     "Peter arbeitet bei der Lufthansa."
+    ]
+   },
+   {
+    "ru": "Я был на его дне рождения.",
+    "de": [
+     "Ich war bei seinem Geburtstag.",
+     "Ich war auf seinem Geburtstag.",
+     "Ich war auf seiner Geburtstagsfeier."
+    ]
+   },
+   {
+    "ru": "Во время еды мы всегда смотрим телевизор.",
+    "de": [
+     "Beim Essen sehen wir immer fern."
+    ]
+   },
+   {
+    "ru": "Во время пробежки я слушаю музыку.",
+    "de": [
+     "Beim Joggen höre ich Musik.",
+     "Beim Joggen höre ich immer Musik."
+    ]
+   },
+   {
+    "ru": "Он учит немецкий днём и ночью.",
+    "de": [
+     "Er lernt Deutsch bei Tag und bei Nacht.",
+     "Er lernt Deutsch Tag und Nacht."
+    ]
+   },
+   {
+    "ru": "У тебя есть с собой мобильник?",
+    "de": [
+     "Hast du dein Handy bei dir?",
+     "Hast du dein Handy dabei?",
+     "Hast du ein Handy dabei?"
+    ]
+   },
+   {
+    "ru": "У тебя есть с собой сигареты?",
+    "de": [
+     "Hast du Zigaretten bei dir?",
+     "Hast du Zigaretten dabei?"
+    ]
+   },
+   {
+    "ru": "При таком холоде надо тепло одеваться.",
+    "de": [
+     "Bei dieser Kälte muss man sich warm anziehen.",
+     "Bei so einer Kälte muss man sich warm anziehen."
+    ]
+   },
+   {
+    "ru": "Среди демонстрантов было много детей.",
+    "de": [
+     "Bei den Demonstranten gab es viele Kinder.",
+     "Unter den Demonstranten waren viele Kinder."
+    ]
+   },
+   {
+    "ru": "Температура была в районе 20 градусов.",
+    "de": [
+     "Die Temperatur lag bei 20 Grad."
+    ]
+   },
+   {
+    "ru": "Я живу под Гамбургом уже 2 года.",
+    "de": [
+     "Ich wohne schon 2 Jahre bei Hamburg.",
+     "Ich wohne bei Hamburg schon 2 Jahre.",
+     "Ich wohne schon seit zwei Jahren bei Hamburg."
+    ]
+   },
+   {
+    "ru": "Мы должны поймать его на слове.",
+    "de": [
+     "Wir müssen ihn beim Wort nehmen."
+    ]
+   },
+   {
+    "ru": "Он уже давно не в себе.",
+    "de": [
+     "Er ist schon lange nicht mehr bei sich.",
+     "Er ist schon lange nicht bei sich."
+    ]
+   },
+   {
+    "ru": "Если хочешь изменить мир, ты должен начать с себя!",
+    "de": [
+     "Wenn du die Welt verändern willst, musst du bei dir selbst anfangen!",
+     "Wenn du die Welt verändern willst, musst du bei dir selber anfangen!"
+    ]
+   },
+   {
+    "ru": "Я благодарю тебя за помощь.",
+    "de": [
+     "Ich bedanke mich bei dir für die Hilfe.",
+     "Ich danke dir für die Hilfe."
+    ]
+   },
+   {
+    "ru": "Она поблагодарила его за цветы.",
+    "de": [
+     "Sie hat sich bei ihm für die Blumen bedankt.",
+     "Sie bedankte sich bei ihm für die Blumen."
+    ]
+   },
+   {
+    "ru": "Ты должен перед ней извиниться.",
+    "de": [
+     "Du musst dich bei ihr entschuldigen."
+    ]
+   },
+   {
+    "ru": "Он никогда не жалуется учителю.",
+    "de": [
+     "Er beschwert sich nie beim Lehrer.",
+     "Er beschwert sich nie bei dem Lehrer."
+    ]
+   },
+   {
+    "ru": "Я хочу поступать в этот университет.",
+    "de": [
+     "Ich will mich bei dieser Uni bewerben.",
+     "Ich will mich an dieser Uni bewerben.",
+     "Ich möchte mich an dieser Universität bewerben."
+    ]
+   },
+   {
+    "ru": "Я хочу получить работу в этой фирме.",
+    "de": [
+     "Ich möchte mich bei dieser Firma bewerben.",
+     "Ich will mich bei dieser Firma bewerben."
+    ]
+   },
+   {
+    "ru": "Ты поможешь мне с домашкой?",
+    "de": [
+     "Hilfst du mir bei den Hausaufgaben?"
+    ]
+   },
+   {
+    "ru": "Ты поможешь мне с готовкой?",
+    "de": [
+     "Hilfst du mir beim Kochen?"
+    ]
+   },
+   {
+    "ru": "Он смотрит на меня во время игры.",
+    "de": [
+     "Er sieht mir beim Spielen zu.",
+     "Er schaut mir beim Spielen zu."
+    ]
+   },
+   {
+    "ru": "Битлз очень любили фанаты.",
+    "de": [
+     "Die Beatles waren bei ihren Fans sehr beliebt.",
+     "Die Beatles waren sehr beliebt bei ihren Fans.",
+     "Beatles waren sehr beliebt bei ihren Fans."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма!"
+ },
+ {
+  "id": "fuer-durch",
+  "block": 1,
+  "title": "Все значения FÜR и DURCH",
+  "intro": "Оба предлога требуют Akkusativ. Für — «для», «за» (в обмен, в поддержку), «на» (срок). Durch — «через», «сквозь», «по» (движение внутри пространства) и «посредством, с помощью».",
+  "groups": [
+   {
+    "meaning": "für — для",
+    "items": [
+     {
+      "de": "Das ist eine Sendung für Kinder.",
+      "ru": "Это передача для детей."
+     },
+     {
+      "de": "Es ist gut für die Gesundheit.",
+      "ru": "Это полезно для здоровья."
+     },
+     {
+      "de": "Sie singt für uns.",
+      "ru": "Она поёт для нас."
+     }
+    ]
+   },
+   {
+    "meaning": "für — за",
+    "items": [
+     {
+      "de": "Er arbeitet für zwei.",
+      "ru": "Он работает за двоих."
+     },
+     {
+      "de": "Wort für Wort",
+      "ru": "слово за словом"
+     },
+     {
+      "de": "Tag für Tag",
+      "ru": "день за днём"
+     },
+     {
+      "de": "Ich bin dafür!",
+      "ru": "Я за!"
+     }
+    ]
+   },
+   {
+    "meaning": "für — на (срок)",
+    "items": [
+     {
+      "de": "für 2 Tage",
+      "ru": "на 2 дня"
+     },
+     {
+      "de": "für eine Woche",
+      "ru": "на неделю"
+     },
+     {
+      "de": "für immer",
+      "ru": "навсегда"
+     }
+    ]
+   },
+   {
+    "meaning": "für — управление глаголов",
+    "items": [
+     {
+      "de": "danken für",
+      "ru": "благодарить за"
+     },
+     {
+      "de": "ausgeben für",
+      "ru": "тратить на"
+     },
+     {
+      "de": "sich entscheiden für",
+      "ru": "выбрать что-л., решиться в пользу"
+     },
+     {
+      "de": "sich interessieren für",
+      "ru": "интересоваться чем-л."
+     },
+     {
+      "de": "halten für",
+      "ru": "считать кем-л./чем-л."
+     },
+     {
+      "de": "sorgen für",
+      "ru": "заботиться о"
+     }
+    ]
+   },
+   {
+    "meaning": "durch — через, сквозь",
+    "items": [
+     {
+      "de": "Ich gehe durch die Tür.",
+      "ru": "Я прохожу через дверь."
+     },
+     {
+      "de": "Ich atme durch die Nase.",
+      "ru": "Я дышу через нос."
+     }
+    ]
+   },
+   {
+    "meaning": "durch — по (движение по пространству)",
+    "items": [
+     {
+      "de": "Ich gehe durch den Garten.",
+      "ru": "Я иду по саду."
+     },
+     {
+      "de": "Wir fahren durch die Stadt.",
+      "ru": "Мы едем по городу."
+     }
+    ]
+   },
+   {
+    "meaning": "durch — посредством, с помощью",
+    "items": [
+     {
+      "de": "durch Argumente überzeugen",
+      "ru": "убедить аргументами"
+     },
+     {
+      "de": "durch das Los entscheiden",
+      "ru": "решить жребием"
+     }
+    ]
+   },
+   {
+    "meaning": "устойчивые выражения",
+    "items": [
+     {
+      "de": "Mit dem Lehrbuch bin ich durch.",
+      "ru": "С учебником я закончил."
+     },
+     {
+      "de": "Ich bin durch und durch nass.",
+      "ru": "Я насквозь промок."
+     },
+     {
+      "de": "Darf ich durch?",
+      "ru": "Можно пройти?"
+     },
+     {
+      "de": "6 durch 3 ist 2.",
+      "ru": "6 разделить на 3 равно 2."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Для иностранца ты очень хорошо говоришь по-немецки.",
+    "de": [
+     "Für einen Ausländer sprichst du ganz gut Deutsch.",
+     "Für einen Ausländer sprichst du sehr gut Deutsch."
+    ]
+   },
+   {
+    "ru": "Этот подарок для моего сына за хорошие оценки.",
+    "de": [
+     "Dieses Geschenk ist für meinen Sohn für gute Noten."
+    ]
+   },
+   {
+    "ru": "Это тяжёлая потеря для нас.",
+    "de": [
+     "Das ist ein schwerer Verlust für uns."
+    ]
+   },
+   {
+    "ru": "Я прошу прощения за опоздание.",
+    "de": [
+     "Ich entschuldige mich für die Verspätung."
+    ]
+   },
+   {
+    "ru": "Он покупает машину за 20 000 евро.",
+    "de": [
+     "Er kauft ein Auto für 20 000 Euro.",
+     "Er kauft ein Auto für 20.000 Euro.",
+     "Er kauft das Auto für 20 000 Euro."
+    ]
+   },
+   {
+    "ru": "Она борется за свои права.",
+    "de": [
+     "Sie kämpft für ihre Rechte."
+    ]
+   },
+   {
+    "ru": "Что у тебя за машина?",
+    "de": [
+     "Was für ein Auto hast du?"
+    ]
+   },
+   {
+    "ru": "Какое платье вы хотите купить?",
+    "de": [
+     "Was für ein Kleid möchten Sie kaufen?",
+     "Was für ein Kleid wollen Sie kaufen?"
+    ]
+   },
+   {
+    "ru": "Я поддерживаю (я за)!",
+    "de": [
+     "Ich bin dafür!"
+    ]
+   },
+   {
+    "ru": "Я не могу взять на себя ответственность за твоих детей.",
+    "de": [
+     "Ich kann keine Verantwortung für deine Kinder übernehmen.",
+     "Ich kann die Verantwortung für deine Kinder nicht übernehmen."
+    ]
+   },
+   {
+    "ru": "Почему мы не берём на себя ответственность за свою жизнь?",
+    "de": [
+     "Warum übernehmen wir keine Verantwortung für unser Leben?",
+     "Warum übernehmen wir nicht die Verantwortung für unser Leben?"
+    ]
+   },
+   {
+    "ru": "Я не буду за это извиняться.",
+    "de": [
+     "Ich werde mich dafür nicht entschuldigen!",
+     "Ich werde mich nicht dafür entschuldigen!"
+    ]
+   },
+   {
+    "ru": "Мы едем в Германию на месяц.",
+    "de": [
+     "Wir fahren für einen Monat nach Deutschland.",
+     "Wir fahren nach Deutschland für einen Monat."
+    ]
+   },
+   {
+    "ru": "Я останусь здесь навсегда.",
+    "de": [
+     "Ich bleibe hier für immer!",
+     "Ich bleibe für immer hier!"
+    ]
+   },
+   {
+    "ru": "Я благодарю тебя за твою помощь.",
+    "de": [
+     "Ich danke dir für deine Hilfe."
+    ]
+   },
+   {
+    "ru": "Я считаю его хорошим другом.",
+    "de": [
+     "Ich halte ihn für einen guten Freund."
+    ]
+   },
+   {
+    "ru": "Я не интересуюсь политикой.",
+    "de": [
+     "Ich interessiere mich nicht für Politik."
+    ]
+   },
+   {
+    "ru": "Ты потратил на это слишком много денег.",
+    "de": [
+     "Du hast dafür zu viel Geld ausgegeben.",
+     "Du hast dafür sehr viel Geld ausgegeben."
+    ]
+   },
+   {
+    "ru": "Он бегает каждый день по парку.",
+    "de": [
+     "Er joggt jeden Tag durch den Park.",
+     "Er läuft jeden Tag durch den Park."
+    ]
+   },
+   {
+    "ru": "Прогуляемся по старому городу?",
+    "de": [
+     "Bummeln wir durch die Altstadt?",
+     "Gehen wir durch die Altstadt spazieren?"
+    ]
+   },
+   {
+    "ru": "Тебе же надо дышать через нос!",
+    "de": [
+     "Du musst doch durch die Nase atmen!"
+    ]
+   },
+   {
+    "ru": "Он может ходить сквозь стены!",
+    "de": [
+     "Er kann durch die Wände gehen!",
+     "Er kann durch Wände gehen!"
+    ]
+   },
+   {
+    "ru": "Я убедил его с помощью хороших аргументов.",
+    "de": [
+     "Ich habe ihn durch gute Argumente überzeugt."
+    ]
+   },
+   {
+    "ru": "Мы решили жребием, кто сегодня будет убираться.",
+    "de": [
+     "Wir haben durch das Los entschieden, wer heute aufräumen wird.",
+     "Wir haben durch das Los entschieden, wer heute aufräumt."
+    ]
+   },
+   {
+    "ru": "Эту главу я уже давно прошёл.",
+    "de": [
+     "Mit diesem Kapitel bin ich schon lange durch!"
+    ]
+   },
+   {
+    "ru": "Можно мне пройти?",
+    "de": [
+     "Darf ich durch?"
+    ]
+   },
+   {
+    "ru": "Нельзя делить на ноль.",
+    "de": [
+     "Man darf nicht durch null teilen.",
+     "Man darf nicht durch Null teilen.",
+     "Man kann nicht durch null teilen."
+    ]
+   },
+   {
+    "ru": "Я совершенно обессилен.",
+    "de": [
+     "Ich bin durch und durch erschöpft.",
+     "Ich bin völlig erschöpft."
+    ]
+   },
+   {
+    "ru": "100 разделить на 2 равно 50.",
+    "de": [
+     "100 durch 2 ist 50.",
+     "Hundert durch zwei ist fünfzig."
+    ]
+   },
+   {
+    "ru": "Благодаря выдержке он достиг своей цели.",
+    "de": [
+     "Durch Ausdauer hat er sein Ziel erreicht."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма!"
+ },
+ {
+  "id": "direction",
+  "block": 1,
+  "title": "Предлоги направления AN, IN, AUF, NACH, ZU",
+  "intro": "Куда? — nach: страны и города без артикля, части света, nach Hause. In + Akk.: страны с артиклем (in die Schweiz, in die Türkei, in die USA) и закрытые помещения (in die Schule). An + Akk.: к воде и к краю (ans Meer, an den See, an den Fluss). Auf + Akk.: на острова и открытые места (auf die Insel, auf die Krim). Zu + Dat.: к людям и учреждениям (zum Arzt, zu meinen Eltern, zur Arbeit).",
+  "groups": [
+   {
+    "meaning": "nach — страны и города без артикля, nach Hause",
+    "items": [
+     {
+      "de": "Ich fliege nach Europa.",
+      "ru": "Я лечу в Европу."
+     },
+     {
+      "de": "Wir fliegen nach Österreich, nach Wien.",
+      "ru": "Мы летим в Австрию, в Вену."
+     },
+     {
+      "de": "Wir müssen wieder nach Hause fahren.",
+      "ru": "Нам надо снова ехать домой."
+     }
+    ]
+   },
+   {
+    "meaning": "in + Akk. — страны с артиклем, помещения",
+    "items": [
+     {
+      "de": "Ich möchte in die Schweiz fahren.",
+      "ru": "Я хочу поехать в Швейцарию."
+     },
+     {
+      "de": "Ich fliege in die Türkei.",
+      "ru": "Я лечу в Турцию."
+     },
+     {
+      "de": "Warum möchtest du nicht in die Schule fahren?",
+      "ru": "Почему ты не хочешь ехать в школу?"
+     }
+    ]
+   },
+   {
+    "meaning": "an + Akk. — к воде (море, озеро, река)",
+    "items": [
+     {
+      "de": "Im Sommer fahren wir ans Meer.",
+      "ru": "Летом мы едем на море."
+     },
+     {
+      "de": "Ich fahre an den Bodensee.",
+      "ru": "Я еду на Боденское озеро."
+     },
+     {
+      "de": "Du fährst an den Fluss.",
+      "ru": "Ты едешь на реку."
+     }
+    ]
+   },
+   {
+    "meaning": "auf + Akk. — на острова, полуострова",
+    "items": [
+     {
+      "de": "Wann fliegst du auf die Kanarischen Inseln?",
+      "ru": "Когда ты летишь на Канарские острова?"
+     },
+     {
+      "de": "Wir sind auf die Krim gefahren.",
+      "ru": "Мы ездили в Крым."
+     }
+    ]
+   },
+   {
+    "meaning": "zu + Dat. — к людям и учреждениям",
+    "items": [
+     {
+      "de": "Ich möchte nicht zu Onkel Werner fahren.",
+      "ru": "Я не хочу ехать к дяде Вернеру."
+     },
+     {
+      "de": "Ich gehe zum Arzt.",
+      "ru": "Я иду к врачу."
+     },
+     {
+      "de": "Morgen muss ich nicht zur Arbeit fahren.",
+      "ru": "Завтра мне не надо ехать на работу."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я хочу поехать в Азию, прежде всего в Японию.",
+    "de": [
+     "Ich möchte nach Asien fahren, vor allem nach Japan.",
+     "Ich will nach Asien fahren, vor allem nach Japan."
+    ]
+   },
+   {
+    "ru": "Я еду на Боденское озеро в следующем году.",
+    "de": [
+     "Ich fahre nächstes Jahr an den Bodensee.",
+     "Ich fahre an den Bodensee nächstes Jahr.",
+     "Nächstes Jahr fahre ich an den Bodensee."
+    ]
+   },
+   {
+    "ru": "Я лечу в Европу, поэтому у меня хорошее настроение.",
+    "de": [
+     "Ich fliege nach Europa, deshalb habe ich gute Laune.",
+     "Ich fliege nach Europa, darum habe ich gute Laune."
+    ]
+   },
+   {
+    "ru": "Ты едешь на реку, потому что у тебя каникулы.",
+    "de": [
+     "Du fährst an den Fluss, weil du Ferien hast."
+    ]
+   },
+   {
+    "ru": "Когда ты летишь на Канарские острова?",
+    "de": [
+     "Wann fliegst du auf die Kanarischen Inseln?",
+     "Wann fliegst du auf die Kanaren?"
+    ]
+   },
+   {
+    "ru": "В прошлом году мы ездили в Крым.",
+    "de": [
+     "Letztes Jahr sind wir auf die Krim gefahren.",
+     "Im letzten Jahr sind wir auf die Krim gefahren."
+    ]
+   },
+   {
+    "ru": "Но я не хочу ехать к дяде Вернеру!",
+    "de": [
+     "Ich möchte aber nicht zu Onkel Werner fahren!",
+     "Ich will aber nicht zu Onkel Werner fahren!"
+    ]
+   },
+   {
+    "ru": "Почему ты не хочешь ехать в школу?",
+    "de": [
+     "Warum möchtest du nicht in die Schule fahren?",
+     "Warum willst du nicht in die Schule fahren?",
+     "Warum willst du nicht zur Schule fahren?"
+    ]
+   },
+   {
+    "ru": "Завтра мне не надо ехать на работу.",
+    "de": [
+     "Morgen muss ich nicht zur Arbeit fahren."
+    ]
+   },
+   {
+    "ru": "Мы летим в Австрию, в Вену.",
+    "de": [
+     "Wir fliegen nach Österreich, nach Wien."
+    ]
+   },
+   {
+    "ru": "Я хочу поехать в Швейцарию, чтобы купить шоколад.",
+    "de": [
+     "Ich möchte in die Schweiz fahren, um Schokolade zu kaufen.",
+     "Ich will in die Schweiz fahren, um Schokolade zu kaufen."
+    ]
+   },
+   {
+    "ru": "Я еду в Гамбург, потому что ещё никогда там не был.",
+    "de": [
+     "Ich fahre nach Hamburg, weil ich noch nie dort war.",
+     "Ich fahre nach Hamburg, weil ich dort noch nie war."
+    ]
+   },
+   {
+    "ru": "Летом я еду в Украину, в Киев.",
+    "de": [
+     "Ich fahre im Sommer in die Ukraine, nach Kiew.",
+     "Ich fahre im Sommer in die Ukraine, nach Kyjiw.",
+     "Im Sommer fahre ich in die Ukraine, nach Kiew."
+    ]
+   },
+   {
+    "ru": "Мы летим в Италию, чтобы осмотреть Рим.",
+    "de": [
+     "Wir fliegen nach Italien, um Rom zu besichtigen."
+    ]
+   },
+   {
+    "ru": "Когда ты хочешь поехать в Одессу?",
+    "de": [
+     "Wann möchtest du nach Odessa fahren?",
+     "Wann willst du nach Odessa fahren?"
+    ]
+   },
+   {
+    "ru": "Летом мы едем на море.",
+    "de": [
+     "Im Sommer fahren wir ans Meer.",
+     "Wir fahren im Sommer ans Meer."
+    ]
+   },
+   {
+    "ru": "Осенью я не хочу ехать на Северное море.",
+    "de": [
+     "Im Herbst möchte ich nicht an die Nordsee fahren.",
+     "Im Herbst will ich nicht an die Nordsee fahren."
+    ]
+   },
+   {
+    "ru": "Когда ты едешь на Чёрное море?",
+    "de": [
+     "Wann fährst du ans Schwarze Meer?"
+    ]
+   },
+   {
+    "ru": "Я лечу не в Египет, а в Турцию.",
+    "de": [
+     "Ich fliege nicht nach Ägypten, sondern in die Türkei."
+    ]
+   },
+   {
+    "ru": "Всегда, когда я еду к родителям, я остаюсь там на пару дней.",
+    "de": [
+     "Immer wenn ich zu meinen Eltern fahre, bleibe ich dort für ein paar Tage.",
+     "Immer wenn ich zu meinen Eltern fahre, bleibe ich dort ein paar Tage."
+    ]
+   },
+   {
+    "ru": "Я не хочу идти к твоим друзьям.",
+    "de": [
+     "Ich möchte nicht zu deinen Freunden gehen.",
+     "Ich will nicht zu deinen Freunden gehen."
+    ]
+   },
+   {
+    "ru": "Я иду в аптеку, потому что я болею.",
+    "de": [
+     "Ich gehe zur Apotheke, weil ich krank bin.",
+     "Ich gehe in die Apotheke, weil ich krank bin."
+    ]
+   },
+   {
+    "ru": "Я не хочу идти к врачу, потому что я боюсь.",
+    "de": [
+     "Ich möchte nicht zum Arzt gehen, weil ich Angst habe.",
+     "Ich will nicht zum Arzt gehen, weil ich Angst habe."
+    ]
+   },
+   {
+    "ru": "Через пару дней нам надо снова ехать домой.",
+    "de": [
+     "In ein paar Tagen müssen wir wieder nach Hause fahren."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма!"
+ },
+ {
+  "id": "alle-alles-ganz",
+  "block": 2,
+  "title": "ALLE, ALLES, GANZ",
+  "intro": "alle — «все» (люди или предметы во множественном числе: alle Freunde, mit allen). alles — «всё» (обобщённо, ед. число: Ich habe alles gemacht). ganz — «весь, целый» перед существительным в ед. числе (die ganze Stadt, ganz Europa) и «совсем, вполне, довольно» перед прилагательным (ganz alt, ganz schön).",
+  "groups": [
+   {
+    "meaning": "alle — все (множественное число)",
+    "items": [
+     {
+      "de": "Ich möchte alle meine Freunde einladen.",
+      "ru": "Я хочу пригласить всех своих друзей."
+     },
+     {
+      "de": "Alle Städte in Deutschland sind schön.",
+      "ru": "Все города в Германии красивые."
+     },
+     {
+      "de": "Warum streitest du mit allen?",
+      "ru": "Зачем ты со всеми споришь?"
+     }
+    ]
+   },
+   {
+    "meaning": "alles — всё",
+    "items": [
+     {
+      "de": "Ich habe schon alles gemacht!",
+      "ru": "Я уже всё сделал!"
+     },
+     {
+      "de": "Ich möchte das alles einfach vergessen!",
+      "ru": "Я просто хочу всё это забыть!"
+     }
+    ]
+   },
+   {
+    "meaning": "ganz + существительное — весь, целый",
+    "items": [
+     {
+      "de": "Die ganze Stadt wurde neu gebaut.",
+      "ru": "Весь город был построен заново."
+     },
+     {
+      "de": "In ganz Deutschland spielt man Fußball.",
+      "ru": "По всей Германии играют в футбол."
+     },
+     {
+      "de": "Das ist nicht die ganze Wahrheit!",
+      "ru": "Это не вся правда!"
+     }
+    ]
+   },
+   {
+    "meaning": "ganz + прилагательное/наречие — совсем, вполне",
+    "items": [
+     {
+      "de": "Es ist ganz alt.",
+      "ru": "Она совсем старая."
+     },
+     {
+      "de": "Sie sieht ganz fit aus!",
+      "ru": "Она выглядит очень спортивной!"
+     },
+     {
+      "de": "Ich bin mit dir nicht ganz einverstanden.",
+      "ru": "Я с тобой не совсем согласен."
+     },
+     {
+      "de": "Ich bin ganz alleine geblieben.",
+      "ru": "Я остался совсем один."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я хочу пригласить всех моих друзей!",
+    "de": [
+     "Ich möchte alle meine Freunde einladen!",
+     "Ich will alle meine Freunde einladen!"
+    ]
+   },
+   {
+    "ru": "Я общаюсь со всеми моими коллегами.",
+    "de": [
+     "Ich unterhalte mich mit allen meinen Kollegen."
+    ]
+   },
+   {
+    "ru": "Ты ещё не всё сделал? Я уже всё сделал!",
+    "de": [
+     "Hast du noch nicht alles gemacht? Ich habe schon alles gemacht!"
+    ]
+   },
+   {
+    "ru": "Я сделал всё упражнение в одиночку!",
+    "de": [
+     "Ich habe die ganze Übung alleine gemacht!",
+     "Ich habe die ganze Übung allein gemacht!"
+    ]
+   },
+   {
+    "ru": "Я сделал все упражнения самостоятельно!",
+    "de": [
+     "Ich habe alle Übungen selbstständig gemacht!",
+     "Ich habe alle Übungen selbständig gemacht!"
+    ]
+   },
+   {
+    "ru": "Все города в Германии красивые.",
+    "de": [
+     "Alle Städte in Deutschland sind schön."
+    ]
+   },
+   {
+    "ru": "Весь город был построен заново.",
+    "de": [
+     "Die ganze Stadt wurde neu gebaut."
+    ]
+   },
+   {
+    "ru": "Все люди должны учить иностранные языки!",
+    "de": [
+     "Alle Menschen müssen Fremdsprachen lernen!",
+     "Alle Menschen sollen Fremdsprachen lernen!"
+    ]
+   },
+   {
+    "ru": "Почти все, кто хоть раз был в Германии, любят эту страну!",
+    "de": [
+     "Fast alle, die mal in Deutschland waren, mögen dieses Land!",
+     "Fast alle, die einmal in Deutschland waren, lieben dieses Land!"
+    ]
+   },
+   {
+    "ru": "Почему ты не хочешь праздновать со всеми?",
+    "de": [
+     "Warum möchtest du nicht mit allen feiern?",
+     "Warum willst du nicht mit allen feiern?"
+    ]
+   },
+   {
+    "ru": "Она выглядит очень спортивной (в форме)!",
+    "de": [
+     "Sie sieht ganz fit aus!"
+    ]
+   },
+   {
+    "ru": "Я хочу продать свою машину, потому что она совсем старая.",
+    "de": [
+     "Ich möchte mein Auto verkaufen, weil es ganz alt ist.",
+     "Ich will mein Auto verkaufen, weil es ganz alt ist."
+    ]
+   },
+   {
+    "ru": "Погода сегодня была очень хорошей.",
+    "de": [
+     "Das Wetter war heute ganz schön.",
+     "Heute war das Wetter ganz schön."
+    ]
+   },
+   {
+    "ru": "Зачем ты со всеми споришь?",
+    "de": [
+     "Warum streitest du mit allen?",
+     "Wozu streitest du mit allen?"
+    ]
+   },
+   {
+    "ru": "Все эти дети не хотят учить немецкий!",
+    "de": [
+     "Alle diese Kinder wollen kein Deutsch lernen!",
+     "Alle diese Kinder wollen nicht Deutsch lernen!"
+    ]
+   },
+   {
+    "ru": "Немецкий очень сложный!",
+    "de": [
+     "Deutsch ist sehr kompliziert!",
+     "Deutsch ist sehr schwer!"
+    ]
+   },
+   {
+    "ru": "Я просто хочу всё это забыть!",
+    "de": [
+     "Ich möchte das alles einfach vergessen!",
+     "Ich möchte einfach das alles vergessen!",
+     "Ich will das alles einfach vergessen!"
+    ]
+   },
+   {
+    "ru": "Я страшно устал, потому что должен был всем позвонить.",
+    "de": [
+     "Ich bin ganz müde, weil ich alle anrufen musste."
+    ]
+   },
+   {
+    "ru": "По всей Германии играют в футбол.",
+    "de": [
+     "In ganz Deutschland spielt man Fußball."
+    ]
+   },
+   {
+    "ru": "Я путешествую по всей Европе.",
+    "de": [
+     "Ich reise durch ganz Europa."
+    ]
+   },
+   {
+    "ru": "Я с тобой не совсем согласен.",
+    "de": [
+     "Ich bin mit dir nicht ganz einverstanden."
+    ]
+   },
+   {
+    "ru": "Я тебе не верю, это не вся правда!",
+    "de": [
+     "Ich glaube dir nicht, das ist nicht die ganze Wahrheit!"
+    ]
+   },
+   {
+    "ru": "Я остался совсем один.",
+    "de": [
+     "Ich bin ganz alleine geblieben.",
+     "Ich bin ganz allein geblieben."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "anrufen-telefonieren",
+  "block": 2,
+  "title": "ANRUFEN и TELEFONIEREN",
+  "intro": "anrufen + Akkusativ — «позвонить кому-то» (набрать номер): Ich rufe dich an (не «dir»!). telefonieren mit + Dativ — «разговаривать по телефону с кем-то»: Ich telefoniere mit dir. По телефону представляются так: Hier ist …, а «можно поговорить с …» — Kann/Darf ich … sprechen?",
+  "groups": [
+   {
+    "meaning": "anrufen + Akk. — позвонить кому-то",
+    "items": [
+     {
+      "de": "Ich rufe meine Mutter an.",
+      "ru": "Я звоню маме."
+     },
+     {
+      "de": "Ich habe ihn fünfmal angerufen.",
+      "ru": "Я звонил ему пять раз."
+     },
+     {
+      "de": "Du solltest ihn nicht mehr anrufen.",
+      "ru": "Тебе не стоит больше ему звонить."
+     }
+    ]
+   },
+   {
+    "meaning": "telefonieren mit + Dat. — говорить по телефону",
+    "items": [
+     {
+      "de": "Mit wem hast du so lange telefoniert?",
+      "ru": "С кем ты так долго разговаривала по телефону?"
+     },
+     {
+      "de": "Frauen telefonieren länger als Männer.",
+      "ru": "Женщины разговаривают по телефону дольше мужчин."
+     }
+    ]
+   },
+   {
+    "meaning": "телефонный разговор",
+    "items": [
+     {
+      "de": "Hier ist Dima.",
+      "ru": "Это Дима (говорит Дима)."
+     },
+     {
+      "de": "Kann ich Herrn Müller sprechen?",
+      "ru": "Могу я поговорить с господином Мюллером?"
+     },
+     {
+      "de": "Er war nicht erreichbar.",
+      "ru": "Он был недоступен."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Привет, это Дима! Можно мне поговорить с Пашей?",
+    "de": [
+     "Hallo, hier ist Dima! Darf ich Pascha sprechen?",
+     "Hallo, hier ist Dima, darf ich Pascha sprechen?",
+     "Hallo, hier ist Dima! Kann ich Pascha sprechen?"
+    ]
+   },
+   {
+    "ru": "Добрый день, это госпожа Иванова!",
+    "de": [
+     "Guten Tag, hier ist Frau Iwanowa!"
+    ]
+   },
+   {
+    "ru": "Могу я поговорить с господином Мюллером?",
+    "de": [
+     "Kann ich Herrn Müller sprechen?",
+     "Darf ich Herrn Müller sprechen?"
+    ]
+   },
+   {
+    "ru": "Добрый вечер, это господин Мюллер!",
+    "de": [
+     "Guten Abend, hier ist Herr Müller!"
+    ]
+   },
+   {
+    "ru": "Могу я поговорить с госпожой Ивановой?",
+    "de": [
+     "Kann ich Frau Iwanowa sprechen?",
+     "Darf ich Frau Iwanowa sprechen?"
+    ]
+   },
+   {
+    "ru": "Я звонил ему 5 раз, но он был недоступен!",
+    "de": [
+     "Ich habe ihn fünfmal angerufen, aber er war nicht erreichbar!",
+     "Ich habe ihn 5 Mal angerufen, aber er war nicht erreichbar!"
+    ]
+   },
+   {
+    "ru": "Я ей ещё не звонил, потому что у меня не было времени.",
+    "de": [
+     "Ich habe sie noch nicht angerufen, weil ich keine Zeit hatte."
+    ]
+   },
+   {
+    "ru": "Ты должен позвонить своим родителям, ты уже давно с ними не говорил!",
+    "de": [
+     "Du musst deine Eltern anrufen, du hast schon lange nicht mehr mit ihnen telefoniert!",
+     "Du musst deine Eltern anrufen, du hast mit ihnen schon lange nicht mehr telefoniert!"
+    ]
+   },
+   {
+    "ru": "С кем ты так долго разговаривала по телефону?",
+    "de": [
+     "Mit wem hast du so lange telefoniert?"
+    ]
+   },
+   {
+    "ru": "Кому ты хотела позвонить?",
+    "de": [
+     "Wen wolltest du anrufen?"
+    ]
+   },
+   {
+    "ru": "Я звоню маме, чтобы спросить, как она себя чувствует.",
+    "de": [
+     "Ich rufe meine Mutter an, um zu fragen, wie sie sich fühlt.",
+     "Ich rufe meine Mama an, um zu fragen, wie es ihr geht."
+    ]
+   },
+   {
+    "ru": "Он звонит своему отцу, чтобы спросить, не нужна ли ему помощь.",
+    "de": [
+     "Er ruft seinen Vater an, um zu fragen, ob er Hilfe braucht.",
+     "Er ruft seinen Vater an, um zu fragen, ob er seine Hilfe braucht."
+    ]
+   },
+   {
+    "ru": "Женщины разговаривают по телефону дольше, чем мужчины.",
+    "de": [
+     "Frauen telefonieren länger als Männer."
+    ]
+   },
+   {
+    "ru": "Почему ты вчера был недоступен?",
+    "de": [
+     "Warum warst du gestern nicht erreichbar?"
+    ]
+   },
+   {
+    "ru": "Я был недоступен, потому что мы были в горах!",
+    "de": [
+     "Ich war nicht erreichbar, weil wir in den Bergen waren!"
+    ]
+   },
+   {
+    "ru": "Я не звонил ему уже три недели, я не хочу с ним разговаривать.",
+    "de": [
+     "Ich habe ihn schon seit drei Wochen nicht mehr angerufen, ich will nicht mit ihm sprechen.",
+     "Ich habe ihn schon seit drei Wochen nicht mehr angerufen, ich will nicht mit ihm telefonieren.",
+     "Ich habe ihn schon drei Wochen nicht angerufen, ich will nicht mit ihm reden."
+    ]
+   },
+   {
+    "ru": "Ты должен ей позвонить, если хочешь её увидеть.",
+    "de": [
+     "Du musst sie anrufen, wenn du sie sehen willst.",
+     "Du musst sie anrufen, wenn du sie sehen möchtest."
+    ]
+   },
+   {
+    "ru": "Тебе не следует ему больше звонить.",
+    "de": [
+     "Du solltest ihn nicht mehr anrufen."
+    ]
+   },
+   {
+    "ru": "Если бы ты мне не позвонила, я бы не приехал.",
+    "de": [
+     "Wenn du mich nicht angerufen hättest, wäre ich nicht gekommen.",
+     "Hättest du mich nicht angerufen, wäre ich nicht gekommen."
+    ]
+   },
+   {
+    "ru": "Я бы с удовольствием поговорил с ней по телефону.",
+    "de": [
+     "Ich würde gerne mit ihr telefonieren!",
+     "Ich würde mit ihr gerne telefonieren!",
+     "Ich würde gern mit ihr telefonieren!"
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "fertig-bereit",
+  "block": 2,
+  "title": "FERTIG и BEREIT",
+  "intro": "fertig — «готовый» в смысле «законченный, сделанный» (Das Essen ist fertig; mit etwas fertig sein — закончить что-л.), а также разговорное «вымотанный» (Ich bin total fertig). bereit — «готовый» в смысле «согласный, морально настроенный» (Ich bin bereit, dir zu helfen).",
+  "groups": [
+   {
+    "meaning": "fertig — готов, закончен",
+    "items": [
+     {
+      "de": "Ist das Essen noch nicht fertig?",
+      "ru": "Еда ещё не готова?"
+     },
+     {
+      "de": "Ich bin damit fertig.",
+      "ru": "Я с этим закончил."
+     },
+     {
+      "de": "Wenn er weiter so arbeitet, wird er nie fertig.",
+      "ru": "Если он и дальше будет так работать, он никогда не закончит."
+     },
+     {
+      "de": "das Fertiggericht",
+      "ru": "полуфабрикат, готовое блюдо"
+     }
+    ]
+   },
+   {
+    "meaning": "fertig — вымотан; fertigmachen — «добить», «сделать» кого-то",
+    "items": [
+     {
+      "de": "Ich bin total fertig.",
+      "ru": "Я совершенно вымотан."
+     },
+     {
+      "de": "Ich mach ihn fertig!",
+      "ru": "Я его сделаю!"
+     },
+     {
+      "de": "Ich bin mit meiner Ehe fertig.",
+      "ru": "С моим браком покончено."
+     }
+    ]
+   },
+   {
+    "meaning": "bereit — готов (согласен, настроен)",
+    "items": [
+     {
+      "de": "Ich bin bereit, dir zu helfen.",
+      "ru": "Я готов тебе помочь."
+     },
+     {
+      "de": "Ich bin noch nicht bereit zu heiraten.",
+      "ru": "Я ещё не готов жениться."
+     },
+     {
+      "de": "Sie hat sich bereit erklärt, in der Schule zu arbeiten.",
+      "ru": "Она изъявила готовность работать в школе."
+     },
+     {
+      "de": "sich bereithalten",
+      "ru": "быть наготове"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я закончил работу ещё вчера.",
+    "de": [
+     "Ich war schon gestern mit der Arbeit fertig.",
+     "Ich war noch gestern mit der Arbeit fertig.",
+     "Ich bin schon gestern mit der Arbeit fertig geworden."
+    ]
+   },
+   {
+    "ru": "Я готов тебе помочь, если тебе это нужно.",
+    "de": [
+     "Ich bin bereit, dir zu helfen, wenn du es brauchst.",
+     "Ich bin bereit, dir zu helfen, wenn du das brauchst."
+    ]
+   },
+   {
+    "ru": "Он ещё не готов сдавать экзамен.",
+    "de": [
+     "Er ist noch nicht bereit, die Prüfung abzulegen.",
+     "Er ist noch nicht bereit, die Prüfung zu machen.",
+     "Er ist noch nicht bereit, die Prüfung zu bestehen."
+    ]
+   },
+   {
+    "ru": "Я ещё не готов с тобой разговаривать.",
+    "de": [
+     "Ich bin noch nicht bereit, mit dir zu sprechen.",
+     "Ich bin noch nicht bereit mit dir zu sprechen.",
+     "Ich bin noch nicht bereit, mit dir zu reden."
+    ]
+   },
+   {
+    "ru": "Несмотря на то, что ты ещё не готов, ты должен попробовать.",
+    "de": [
+     "Obwohl du noch nicht bereit bist, musst du es versuchen."
+    ]
+   },
+   {
+    "ru": "Я с этим закончил.",
+    "de": [
+     "Ich bin damit fertig."
+    ]
+   },
+   {
+    "ru": "Я скажу тебе, когда ты будешь готов.",
+    "de": [
+     "Ich sage dir, wenn du bereit bist!",
+     "Ich sage es dir, wenn du bereit bist!"
+    ]
+   },
+   {
+    "ru": "Еда ещё не готова?",
+    "de": [
+     "Ist das Essen noch nicht fertig?"
+    ]
+   },
+   {
+    "ru": "Я надеюсь, что смогу закончить работу вовремя.",
+    "de": [
+     "Ich hoffe, dass ich rechtzeitig mit der Arbeit fertig bin.",
+     "Ich hoffe, dass ich mit der Arbeit rechtzeitig fertig werde."
+    ]
+   },
+   {
+    "ru": "Если он и дальше будет так работать, то он никогда не закончит.",
+    "de": [
+     "Wenn er weiter so arbeitet, wird er nie fertig."
+    ]
+   },
+   {
+    "ru": "Раньше я часто ел полуфабрикаты.",
+    "de": [
+     "Früher habe ich oft Fertiggerichte gegessen."
+    ]
+   },
+   {
+    "ru": "Я больше никогда не буду покупать полуфабрикаты.",
+    "de": [
+     "Ich werde nie wieder Fertiggerichte kaufen."
+    ]
+   },
+   {
+    "ru": "Она изъявила готовность работать в школе.",
+    "de": [
+     "Sie hat sich bereit erklärt, in der Schule zu arbeiten.",
+     "Sie hat sich bereit gezeigt, in der Schule zu arbeiten."
+    ]
+   },
+   {
+    "ru": "Я совершенно вымотан, потому что работал 12 часов.",
+    "de": [
+     "Ich bin total fertig, weil ich 12 Stunden gearbeitet habe.",
+     "Ich bin total fertig, weil ich zwölf Stunden gearbeitet habe."
+    ]
+   },
+   {
+    "ru": "Я сильнее! Я его сделаю!",
+    "de": [
+     "Ich bin stärker! Ich mach ihn fertig!",
+     "Ich bin stärker! Ich mache ihn fertig!"
+    ]
+   },
+   {
+    "ru": "Ты должен всегда быть наготове!",
+    "de": [
+     "Du musst dich immer bereithalten!",
+     "Du musst dich immer fertighalten!"
+    ]
+   },
+   {
+    "ru": "Если ты не будешь всегда наготове, то не получишь эту работу.",
+    "de": [
+     "Wenn du dich nicht immer bereithältst, bekommst du diese Arbeit nicht!",
+     "Wenn du dich nicht immer fertighältst, bekommst du diese Arbeit nicht!"
+    ]
+   },
+   {
+    "ru": "Я ещё не готов жениться.",
+    "de": [
+     "Ich bin noch nicht bereit zu heiraten.",
+     "Ich bin noch nicht bereit, zu heiraten."
+    ]
+   },
+   {
+    "ru": "С моим браком покончено (я закончил с моим браком).",
+    "de": [
+     "Ich bin mit meiner Ehe fertig."
+    ]
+   },
+   {
+    "ru": "Я всегда был готов тебе помочь.",
+    "de": [
+     "Ich war immer bereit, dir zu helfen.",
+     "Ich war immer bereit dir zu helfen."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "weise",
+  "block": 2,
+  "title": "Normalerweise, glücklicherweise, teilweise и др.",
+  "intro": "Суффикс -weise превращает прилагательное или существительное в наречие: normal → normalerweise (обычно), Glück → glücklicherweise (к счастью), Teil → teilweise (частично), Schritt → schrittweise (шаг за шагом). Сюда же auf diese Weise — «таким образом».",
+  "groups": [
+   {
+    "meaning": "оценка ситуации говорящим",
+    "items": [
+     {
+      "de": "glücklicherweise",
+      "ru": "к счастью"
+     },
+     {
+      "de": "erstaunlicherweise",
+      "ru": "удивительным образом, на удивление"
+     },
+     {
+      "de": "dummerweise",
+      "ru": "по глупости, как назло"
+     },
+     {
+      "de": "seltenerweise",
+      "ru": "на редкость, редкий случай"
+     },
+     {
+      "de": "möglicherweise",
+      "ru": "возможно"
+     }
+    ]
+   },
+   {
+    "meaning": "образ действия",
+    "items": [
+     {
+      "de": "normalerweise",
+      "ru": "обычно"
+     },
+     {
+      "de": "teilweise",
+      "ru": "частично"
+     },
+     {
+      "de": "schrittweise",
+      "ru": "шаг за шагом, постепенно"
+     },
+     {
+      "de": "zwangsweise",
+      "ru": "в принудительном порядке"
+     },
+     {
+      "de": "auf diese (solche) Weise",
+      "ru": "таким образом"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я выучил немецкие глаголы только частично.",
+    "de": [
+     "Ich habe deutsche Verben nur teilweise erlernt.",
+     "Ich habe die deutschen Verben nur teilweise gelernt."
+    ]
+   },
+   {
+    "ru": "Мы частично убрали квартиру.",
+    "de": [
+     "Wir haben die Wohnung teilweise aufgeräumt.",
+     "Wir haben die Wohnung nur teilweise aufgeräumt."
+    ]
+   },
+   {
+    "ru": "Я с тобой частично согласен.",
+    "de": [
+     "Ich bin mit dir teilweise einverstanden.",
+     "Ich bin teilweise mit dir einverstanden."
+    ]
+   },
+   {
+    "ru": "Обычно я не хожу в клубы.",
+    "de": [
+     "Normalerweise gehe ich nicht in die Clubs.",
+     "Normalerweise gehe ich nicht in Clubs."
+    ]
+   },
+   {
+    "ru": "В выходные я обычно остаюсь дома и читаю книгу.",
+    "de": [
+     "Am Wochenende bleibe ich normalerweise zu Hause und lese ein Buch."
+    ]
+   },
+   {
+    "ru": "Обычно мы ходим в бар по субботам.",
+    "de": [
+     "Normalerweise gehen wir samstags in die Bar.",
+     "Normalerweise gehen wir samstags in eine Bar."
+    ]
+   },
+   {
+    "ru": "Возможно, мы поедем в Германию в августе.",
+    "de": [
+     "Möglicherweise fahren wir im August nach Deutschland.",
+     "Möglicherweise fahren wir nach Deutschland im August."
+    ]
+   },
+   {
+    "ru": "Он, возможно, приедет уже в декабре.",
+    "de": [
+     "Er kommt möglicherweise schon im Dezember."
+    ]
+   },
+   {
+    "ru": "Когда ты приедешь, я, возможно, заберу тебя с вокзала.",
+    "de": [
+     "Wenn du kommst, hole ich dich möglicherweise vom Bahnhof ab."
+    ]
+   },
+   {
+    "ru": "К счастью, мы не стали покупать эту машину.",
+    "de": [
+     "Glücklicherweise haben wir dieses Auto nicht gekauft."
+    ]
+   },
+   {
+    "ru": "К счастью, я не видел его уже очень давно.",
+    "de": [
+     "Glücklicherweise habe ich ihn schon lange nicht mehr gesehen."
+    ]
+   },
+   {
+    "ru": "К счастью, мы прибыли вовремя.",
+    "de": [
+     "Glücklicherweise sind wir pünktlich angekommen.",
+     "Glücklicherweise sind wir rechtzeitig angekommen."
+    ]
+   },
+   {
+    "ru": "Он выглядел на удивление счастливым.",
+    "de": [
+     "Er sah erstaunlicherweise glücklich aus."
+    ]
+   },
+   {
+    "ru": "На удивление, на этот раз он приехал вовремя.",
+    "de": [
+     "Er ist diesmal erstaunlicherweise pünktlich angekommen.",
+     "Erstaunlicherweise ist er diesmal pünktlich angekommen."
+    ]
+   },
+   {
+    "ru": "Во вторник была на редкость хорошая погода.",
+    "de": [
+     "Am Dienstag war das Wetter seltenerweise gut."
+    ]
+   },
+   {
+    "ru": "Немецкий надо учить шаг за шагом.",
+    "de": [
+     "Deutsch muss man schrittweise lernen."
+    ]
+   },
+   {
+    "ru": "По глупости мы ему не позвонили.",
+    "de": [
+     "Dummerweise haben wir ihn nicht angerufen."
+    ]
+   },
+   {
+    "ru": "Как назло, он не смог с ней встретиться.",
+    "de": [
+     "Dummerweise konnte er sich nicht mit ihr treffen."
+    ]
+   },
+   {
+    "ru": "Таким образом можно выучить немецкий намного быстрее.",
+    "de": [
+     "Auf diese Weise kann man Deutsch viel schneller erlernen.",
+     "Auf solche Weise kann man Deutsch viel schneller erlernen.",
+     "Auf diese Weise kann man Deutsch viel schneller lernen."
+    ]
+   },
+   {
+    "ru": "Таким образом мы можем решить эту проблему.",
+    "de": [
+     "Auf diese Weise können wir dieses Problem lösen.",
+     "Auf solche Weise können wir dieses Problem lösen."
+    ]
+   },
+   {
+    "ru": "Таким образом можно защищать окружающую среду.",
+    "de": [
+     "Auf diese Weise kann man die Umwelt schützen.",
+     "Auf solche Weise kann man die Umwelt schützen."
+    ]
+   },
+   {
+    "ru": "Эти упражнения должны быть сделаны в принудительном порядке.",
+    "de": [
+     "Diese Übungen sollen zwangsweise gemacht werden.",
+     "Diese Übungen müssen zwangsweise gemacht werden."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "doch",
+  "block": 3,
+  "title": "DOCH",
+  "intro": "doch — многозначное слово. 1) Частица «же, ведь» для усиления: Das weißt du doch! 2) В повелительных предложениях смягчает или подгоняет: Komm doch her! 3) Ответ «Нет, …!» (наоборот, да) на отрицательный вопрос: Hast du nicht gegessen? — Doch! 4) Союз/наречие «всё-таки, всё же, однако».",
+  "groups": [
+   {
+    "meaning": "же, ведь (усиление)",
+    "items": [
+     {
+      "de": "Das weißt du doch!",
+      "ru": "Ну ты же это знаешь!"
+     },
+     {
+      "de": "Du hast doch dieses Buch gelesen!",
+      "ru": "Ты же уже читал эту книгу!"
+     }
+    ]
+   },
+   {
+    "meaning": "в просьбах и призывах",
+    "items": [
+     {
+      "de": "Komm doch her!",
+      "ru": "Подойди же сюда!"
+     },
+     {
+      "de": "Geh doch endlich!",
+      "ru": "Иди уже наконец!"
+     }
+    ]
+   },
+   {
+    "meaning": "ответ на отрицательный вопрос — «нет, …!» (на самом деле да)",
+    "items": [
+     {
+      "de": "Hast du noch nicht gegessen? — Doch!",
+      "ru": "Ты ещё не ел? — Нет, ел!"
+     },
+     {
+      "de": "Warst du noch nie in Deutschland? — Doch!",
+      "ru": "Ты ни разу не был в Германии? — Нет, был!"
+     }
+    ]
+   },
+   {
+    "meaning": "всё-таки, всё же",
+    "items": [
+     {
+      "de": "Er hat mich doch überredet.",
+      "ru": "Он меня всё-таки уговорил."
+     },
+     {
+      "de": "Ich bin doch ins Kino gegangen.",
+      "ru": "Я всё-таки пошёл в кино."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Ну ты же это знаешь!",
+    "de": [
+     "Das weißt du doch!",
+     "Du weißt das doch!"
+    ]
+   },
+   {
+    "ru": "Ты же уже читал эту книгу!",
+    "de": [
+     "Du hast doch dieses Buch gelesen!",
+     "Du hast dieses Buch doch schon gelesen!",
+     "Du hast doch schon dieses Buch gelesen!"
+    ]
+   },
+   {
+    "ru": "Ты же знаешь, что я не люблю ходить в кино!",
+    "de": [
+     "Du weißt doch, dass ich nicht gerne ins Kino gehe!",
+     "Du weißt doch, dass ich nicht gern ins Kino gehe!"
+    ]
+   },
+   {
+    "ru": "Я же тебе уже говорил, что не хочу ей звонить!",
+    "de": [
+     "Ich habe dir doch gesagt, dass ich sie nicht anrufen will!",
+     "Ich habe dir doch schon gesagt, dass ich sie nicht anrufen will!"
+    ]
+   },
+   {
+    "ru": "Он же не будет это есть!",
+    "de": [
+     "Das wird er doch nicht essen!",
+     "Er wird das doch nicht essen!"
+    ]
+   },
+   {
+    "ru": "Подойди же сюда!",
+    "de": [
+     "Komm doch her!"
+    ]
+   },
+   {
+    "ru": "Иди уже наконец!",
+    "de": [
+     "Geh doch endlich!"
+    ]
+   },
+   {
+    "ru": "Вы же придёте сегодня вечером?",
+    "de": [
+     "Ihr kommt doch heute Abend?",
+     "Kommt ihr doch heute Abend?"
+    ]
+   },
+   {
+    "ru": "Ты же меня не обманываешь?",
+    "de": [
+     "Du betrügst mich doch nicht?",
+     "Du belügst mich doch nicht?",
+     "Wirst du mich doch nicht betrügen?"
+    ]
+   },
+   {
+    "ru": "Ты ещё не ел? — Нет, ел!",
+    "de": [
+     "Hast du noch nicht gegessen? Doch!"
+    ]
+   },
+   {
+    "ru": "Ты не сделал домашку? — Нет, сделал!",
+    "de": [
+     "Hast du keine Hausaufgaben gemacht? Doch!",
+     "Hast du die Hausaufgaben nicht gemacht? Doch!"
+    ]
+   },
+   {
+    "ru": "Вы не ходили в школу? — Нет, ходили!",
+    "de": [
+     "Seid ihr nicht in die Schule gegangen? Doch!"
+    ]
+   },
+   {
+    "ru": "Вы не хотите идти в кино? — Нет, хотим!",
+    "de": [
+     "Wollt ihr nicht ins Kino gehen? Doch!"
+    ]
+   },
+   {
+    "ru": "Ты ни разу не был в Германии? — Нет, был!",
+    "de": [
+     "Warst du noch nie in Deutschland? Doch!"
+    ]
+   },
+   {
+    "ru": "Ты не встал сегодня вовремя? — Нет, встал!",
+    "de": [
+     "Bist du heute nicht rechtzeitig aufgestanden? Doch!",
+     "Bist du heute nicht pünktlich aufgestanden? Doch!"
+    ]
+   },
+   {
+    "ru": "Мы хотели погулять, но дождь шёл весь день.",
+    "de": [
+     "Wir wollten spazieren gehen, doch es hat den ganzen Tag geregnet.",
+     "Wir wollten spazieren gehen, es hat doch den ganzen Tag geregnet."
+    ]
+   },
+   {
+    "ru": "Я не хотел ехать, но он всё-таки меня уговорил.",
+    "de": [
+     "Ich wollte nicht mitfahren. Er hat mich doch überredet.",
+     "Ich wollte nicht mitfahren, doch er hat mich überredet."
+    ]
+   },
+   {
+    "ru": "Я не хотел смотреть этот фильм, но всё-таки пошёл в кино.",
+    "de": [
+     "Ich wollte diesen Film nicht sehen, bin aber doch ins Kino gegangen.",
+     "Ich wollte diesen Film nicht sehen, bin doch ins Kino gegangen."
+    ]
+   },
+   {
+    "ru": "Я не хотел читать эту книгу, но всё-таки её купил.",
+    "de": [
+     "Ich wollte dieses Buch nicht lesen, habe es aber doch gekauft.",
+     "Ich wollte dieses Buch nicht lesen, hab es doch gekauft."
+    ]
+   },
+   {
+    "ru": "Погода была прекрасной, но я всё равно не хотел идти в парк.",
+    "de": [
+     "Das Wetter war schön, ich wollte doch nicht in den Park gehen.",
+     "Das Wetter war schön, doch ich wollte nicht in den Park gehen."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "knapp",
+  "block": 3,
+  "title": "KNAPP",
+  "intro": "knapp — «скудный, едва достаточный»: о деньгах, времени, еде; «с минимальным перевесом» (knapp gewinnen); «почти, неполных» с числами (knapp eine Stunde); «сразу после» (knapp nach); «тесный» об одежде; «краткий» о тексте или речи.",
+  "groups": [
+   {
+    "meaning": "мало, в обрез",
+    "items": [
+     {
+      "de": "Das Geld war äußerst knapp.",
+      "ru": "Денег было крайне мало."
+     },
+     {
+      "de": "Die Zeit war knapp.",
+      "ru": "Времени было совсем мало."
+     }
+    ]
+   },
+   {
+    "meaning": "с минимальным перевесом, впритык",
+    "items": [
+     {
+      "de": "Der Sieg war knapp.",
+      "ru": "Победа висела на волоске."
+     },
+     {
+      "de": "Er hat nur knapp gesiegt.",
+      "ru": "Он победил с минимальным перевесом."
+     }
+    ]
+   },
+   {
+    "meaning": "почти, неполных (с числами)",
+    "items": [
+     {
+      "de": "vor knapp einer Stunde",
+      "ru": "чуть меньше часа назад"
+     },
+     {
+      "de": "Sie ist knapp zehn Jahre alt.",
+      "ru": "Ей почти десять лет."
+     }
+    ]
+   },
+   {
+    "meaning": "сразу после",
+    "items": [
+     {
+      "de": "knapp nach der Abfahrt",
+      "ru": "сразу после отъезда"
+     },
+     {
+      "de": "knapp nach deinem Anruf",
+      "ru": "сразу после твоего звонка"
+     }
+    ]
+   },
+   {
+    "meaning": "тесный (об одежде)",
+    "items": [
+     {
+      "de": "Dieses Hemd ist mir zu knapp.",
+      "ru": "Эта рубашка мне слишком тесна."
+     }
+    ]
+   },
+   {
+    "meaning": "краткий, коротко",
+    "items": [
+     {
+      "de": "Die Begrüßung war ganz knapp.",
+      "ru": "Приветствие было очень коротким."
+     },
+     {
+      "de": "Ich kann darüber ganz knapp erzählen.",
+      "ru": "Я могу рассказать об этом совсем коротко."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Денег было крайне мало.",
+    "de": [
+     "Das Geld war äußerst knapp."
+    ]
+   },
+   {
+    "ru": "Моей зарплаты едва хватает, чтобы оплатить аренду.",
+    "de": [
+     "Mein Gehalt reicht nur knapp, um die Miete zu bezahlen.",
+     "Mein Gehalt reicht knapp, um die Miete zu bezahlen."
+    ]
+   },
+   {
+    "ru": "Времени оставалось совсем немного, поэтому мы поехали домой.",
+    "de": [
+     "Die Zeit war knapp, deshalb sind wir nach Hause gefahren.",
+     "Die Zeit war knapp, darum sind wir nach Hause gefahren."
+    ]
+   },
+   {
+    "ru": "Наша команда победила, но победа висела на волоске.",
+    "de": [
+     "Unsere Mannschaft hat gesiegt, aber der Sieg war knapp.",
+     "Unsere Mannschaft hat gewonnen, aber der Sieg war knapp."
+    ]
+   },
+   {
+    "ru": "Решение судьи было спорным (принято с минимальным перевесом).",
+    "de": [
+     "Die Entscheidung des Schiedsrichters war knapp."
+    ]
+   },
+   {
+    "ru": "Выборы закончились с минимальной разницей.",
+    "de": [
+     "Der Wahlausgang war knapp."
+    ]
+   },
+   {
+    "ru": "Он приехал чуть меньше часа назад.",
+    "de": [
+     "Er ist vor knapp einer Stunde gekommen.",
+     "Er ist vor knapp einer Stunde angekommen."
+    ]
+   },
+   {
+    "ru": "Совещание длилось чуть меньше часа.",
+    "de": [
+     "Die Besprechung dauerte knapp eine Stunde.",
+     "Die Besprechung hat knapp eine Stunde gedauert."
+    ]
+   },
+   {
+    "ru": "Ей уже почти десять лет!",
+    "de": [
+     "Sie ist schon knapp zehn Jahre alt!"
+    ]
+   },
+   {
+    "ru": "Сразу после отъезда я попробовал заснуть.",
+    "de": [
+     "Knapp nach der Abfahrt versuchte ich einzuschlafen.",
+     "Knapp nach der Abfahrt habe ich versucht einzuschlafen.",
+     "Knapp nach der Abfahrt habe ich versucht, einzuschlafen."
+    ]
+   },
+   {
+    "ru": "Сразу после твоего звонка я выехал.",
+    "de": [
+     "Knapp nach deinem Anruf bin ich losgefahren."
+    ]
+   },
+   {
+    "ru": "Сразу после прибытия мы нашли гостиницу.",
+    "de": [
+     "Knapp nach der Ankunft haben wir ein Hotel gefunden."
+    ]
+   },
+   {
+    "ru": "Эти ботинки очень тесные, но я всё равно их куплю.",
+    "de": [
+     "Diese Schuhe sind zu knapp, ich kaufe sie doch!",
+     "Diese Schuhe sind sehr knapp, aber ich kaufe sie trotzdem!"
+    ]
+   },
+   {
+    "ru": "Эта рубашка мне слишком тесна.",
+    "de": [
+     "Dieses Hemd ist mir zu knapp."
+    ]
+   },
+   {
+    "ru": "Я бы купила это платье, если бы оно не было таким тесным.",
+    "de": [
+     "Ich würde dieses Kleid kaufen, wenn es nicht so knapp wäre."
+    ]
+   },
+   {
+    "ru": "Приветствие было очень коротким.",
+    "de": [
+     "Die Begrüßung war ganz knapp.",
+     "Die Begrüßung war sehr knapp."
+    ]
+   },
+   {
+    "ru": "Описание нашего путешествия будет коротким.",
+    "de": [
+     "Die Beschreibung unserer Reise wird ganz knapp.",
+     "Die Beschreibung unserer Reise wird knapp."
+    ]
+   },
+   {
+    "ru": "Я могу рассказать об этом совсем коротко.",
+    "de": [
+     "Ich kann darüber ganz knapp erzählen.",
+     "Ich kann ganz knapp darüber erzählen."
+    ]
+   },
+   {
+    "ru": "Еды оставалось совсем немного.",
+    "de": [
+     "Das Essen war ganz knapp.",
+     "Das Essen war knapp."
+    ]
+   },
+   {
+    "ru": "Он выиграл с минимальным перевесом.",
+    "de": [
+     "Er hat nur knapp gesiegt.",
+     "Er hat nur knapp gewonnen.",
+     "Er hat knapp gewonnen."
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "wohl",
+  "block": 3,
+  "title": "WOHL",
+  "intro": "wohl — 1) «наверное, должно быть» (предположение): Du hast wohl keine Zeit? 2) «хорошо, комфортно»: Ich fühle mich wohl. 3) «вполне, хорошо» как усиление: wohl überlegen, wohl wissend. 4) Устойчивые выражения: Zum Wohl!, Leb wohl!, wohl oder übel, Jawohl! 5) Существительное das Wohl — благо, благополучие, и производные: der Wohlstand, die Wohltätigkeit.",
+  "groups": [
+   {
+    "meaning": "наверное, должно быть (предположение)",
+    "items": [
+     {
+      "de": "Du hast wohl keine Zeit?",
+      "ru": "У тебя, наверное, нет времени?"
+     },
+     {
+      "de": "Er hat wohl viel zu tun.",
+      "ru": "У него, должно быть, много дел."
+     }
+    ]
+   },
+   {
+    "meaning": "хорошо, комфортно",
+    "items": [
+     {
+      "de": "Ich fühle mich nicht besonders wohl.",
+      "ru": "Я чувствую себя не очень комфортно."
+     },
+     {
+      "de": "So fühle ich mich ganz wohl.",
+      "ru": "Так я чувствую себя вполне комфортно."
+     }
+    ]
+   },
+   {
+    "meaning": "вполне, хорошо (усиление)",
+    "items": [
+     {
+      "de": "Du musst wohl überlegen.",
+      "ru": "Тебе надо хорошенько подумать."
+     },
+     {
+      "de": "wohl wissend, dass …",
+      "ru": "прекрасно зная, что …"
+     },
+     {
+      "de": "Seine Meinung war wohl begründet.",
+      "ru": "Его мнение было хорошо обосновано."
+     }
+    ]
+   },
+   {
+    "meaning": "устойчивые выражения",
+    "items": [
+     {
+      "de": "Zum Wohl!",
+      "ru": "За здоровье! (тост)"
+     },
+     {
+      "de": "Leb wohl!",
+      "ru": "Прощай! Всего хорошего!"
+     },
+     {
+      "de": "wohl oder übel",
+      "ru": "волей-неволей, хочешь не хочешь"
+     },
+     {
+      "de": "Jawohl!",
+      "ru": "Так точно!"
+     }
+    ]
+   },
+   {
+    "meaning": "das Wohl и производные",
+    "items": [
+     {
+      "de": "das Wohl",
+      "ru": "благо, благополучие"
+     },
+     {
+      "de": "der Wohlstand",
+      "ru": "достаток, благосостояние"
+     },
+     {
+      "de": "die Wohltätigkeit",
+      "ru": "благотворительность"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "У тебя, наверное, нет времени?",
+    "de": [
+     "Du hast wohl keine Zeit?"
+    ]
+   },
+   {
+    "ru": "У них, должно быть, слишком много денег.",
+    "de": [
+     "Sie haben wohl zu viel Geld."
+    ]
+   },
+   {
+    "ru": "У него, должно быть, слишком много дел.",
+    "de": [
+     "Er hat wohl zu viel zu tun.",
+     "Er hat wohl viel zu tun."
+    ]
+   },
+   {
+    "ru": "Можно, пожалуй, так сказать!",
+    "de": [
+     "Man kann wohl so sagen!",
+     "Man kann es wohl so sagen!"
+    ]
+   },
+   {
+    "ru": "Ты же это должен знать!",
+    "de": [
+     "Das musst du wohl wissen!"
+    ]
+   },
+   {
+    "ru": "Я чувствую себя не очень комфортно!",
+    "de": [
+     "Ich fühle mich nicht besonders wohl!",
+     "Ich fühle mich nicht sehr wohl!"
+    ]
+   },
+   {
+    "ru": "За здоровье! Прощай! (тосты и прощание)",
+    "de": [
+     "Zum Wohl! Leb wohl!"
+    ]
+   },
+   {
+    "ru": "Так я чувствую себя вполне комфортно.",
+    "de": [
+     "So fühle ich mich ganz wohl!",
+     "So fühle ich mich ganz wohl."
+    ]
+   },
+   {
+    "ru": "Ты должен приехать в четверг, хочешь не хочешь!",
+    "de": [
+     "Du musst am Donnerstag kommen, wohl oder übel!"
+    ]
+   },
+   {
+    "ru": "Ты должен хорошенько подумать!",
+    "de": [
+     "Du musst wohl überlegen!",
+     "Du musst es dir gut überlegen!"
+    ]
+   },
+   {
+    "ru": "Его мнение было хорошо обосновано!",
+    "de": [
+     "Seine Meinung war wohl begründet!",
+     "Seine Meinung war wohlbegründet!"
+    ]
+   },
+   {
+    "ru": "Он не позвонил ей, прекрасно зная, что она обидится.",
+    "de": [
+     "Er hat sie nicht angerufen, wohl wissend, dass sie beleidigt sein wird.",
+     "Er hat sie nicht angerufen, wohl wissend, dass sie beleidigt wird."
+    ]
+   },
+   {
+    "ru": "Я не подготовился к экзамену, прекрасно зная, что получу двойку.",
+    "de": [
+     "Ich habe mich nicht auf die Prüfung vorbereitet, wohl wissend, dass ich eine 2 bekomme.",
+     "Ich habe mich nicht auf die Prüfung vorbereitet, wohl wissend, dass ich eine schlechte Note bekomme."
+    ]
+   },
+   {
+    "ru": "Мы ждали целых 4 часа, когда он наконец позвонил.",
+    "de": [
+     "Wir haben wohl 4 Stunden gewartet, als er endlich angerufen hat.",
+     "Wir haben wohl vier Stunden gewartet, bis er endlich angerufen hat."
+    ]
+   },
+   {
+    "ru": "Так точно, мой капитан!",
+    "de": [
+     "Jawohl, mein Kapitän!",
+     "Jawohl, Herr Kapitän!"
+    ]
+   },
+   {
+    "ru": "Ты мне поможешь? — Так точно!",
+    "de": [
+     "Hilfst du mir? Jawohl!"
+    ]
+   },
+   {
+    "ru": "Благосостояние нашей семьи находится в твоих руках!",
+    "de": [
+     "Der Wohlstand unserer Familie liegt in deinen Händen!"
+    ]
+   },
+   {
+    "ru": "Чиновники озабочены только своим благополучием.",
+    "de": [
+     "Die Beamten sind nur um ihr eigenes Wohl besorgt.",
+     "Die Beamten sind nur um das eigene Wohl besorgt."
+    ]
+   },
+   {
+    "ru": "Благотворительность — важная вещь!",
+    "de": [
+     "Die Wohltätigkeit ist eine wichtige Sache!",
+     "Wohltätigkeit ist eine wichtige Sache!"
+    ]
+   },
+   {
+    "ru": "Мы должны отказаться от благотворительности.",
+    "de": [
+     "Wir müssen auf die Wohltätigkeit verzichten!",
+     "Wir müssen auf Wohltätigkeit verzichten!"
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "da",
+  "block": 3,
+  "title": "Все значения DA",
+  "intro": "da — 1) союз «так как, поскольку» (глагол уходит в конец): Da er krank war, … 2) наречие места «здесь, тут, там»: Ich bin da. Ist da jemand? 3) наречие времени «тогда, в этот момент»: Da lachte er. 4) «в этом, тут» в значении «в этом вопросе»: Da bin ich ganz Ihrer Meinung.",
+  "groups": [
+   {
+    "meaning": "так как, поскольку (союз, глагол в конце)",
+    "items": [
+     {
+      "de": "Da er krank war, konnte er mir nicht helfen.",
+      "ru": "Так как он болел, он не мог мне помочь."
+     },
+     {
+      "de": "Da wir müde waren, gingen wir nicht ins Kino.",
+      "ru": "Так как мы устали, мы не пошли в кино."
+     }
+    ]
+   },
+   {
+    "meaning": "здесь, тут, там (место, присутствие)",
+    "items": [
+     {
+      "de": "Wir sind wieder da!",
+      "ru": "Мы снова здесь!"
+     },
+     {
+      "de": "Er ist nicht da.",
+      "ru": "Его нет (здесь)."
+     },
+     {
+      "de": "Ich bin immer für dich da!",
+      "ru": "Я всегда буду рядом с тобой!"
+     },
+     {
+      "de": "Ich bin gleich wieder da!",
+      "ru": "Я скоро вернусь!"
+     }
+    ]
+   },
+   {
+    "meaning": "тогда (время)",
+    "items": [
+     {
+      "de": "Da lachte er.",
+      "ru": "Тогда он засмеялся."
+     }
+    ]
+   },
+   {
+    "meaning": "в этом, тут (в этом вопросе) / тогда (в следствии)",
+    "items": [
+     {
+      "de": "Da bin ich ganz Ihrer Meinung.",
+      "ru": "Тут я полностью разделяю ваше мнение."
+     },
+     {
+      "de": "Wenn ich schon gehen muss, da gehe ich gleich!",
+      "ru": "Если мне уже надо идти, то я иду сразу!"
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Так как он болел, он не мог мне помочь.",
+    "de": [
+     "Da er krank war, konnte er mir nicht helfen."
+    ]
+   },
+   {
+    "ru": "Так как мы устали, мы не пошли в кино.",
+    "de": [
+     "Da wir müde waren, gingen wir nicht ins Kino.",
+     "Da wir müde waren, sind wir nicht ins Kino gegangen."
+    ]
+   },
+   {
+    "ru": "Так как он не умел говорить по-немецки, он остался дома.",
+    "de": [
+     "Da er kein Deutsch konnte, blieb er zu Hause.",
+     "Da er nicht Deutsch sprechen konnte, blieb er zu Hause.",
+     "Da er kein Deutsch sprechen konnte, ist er zu Hause geblieben."
+    ]
+   },
+   {
+    "ru": "Так как я уже принял решение, ты не сможешь мне помешать.",
+    "de": [
+     "Da ich bereits eine Entscheidung getroffen habe, kannst du mich nicht stören.",
+     "Da ich die Entscheidung bereits getroffen habe, kannst du mich nicht daran hindern.",
+     "Da ich schon eine Entscheidung getroffen habe, kannst du mich nicht stören."
+    ]
+   },
+   {
+    "ru": "Так как он был уже старым, он не хотел ехать с нами.",
+    "de": [
+     "Da er schon alt war, wollte er nicht mitfahren.",
+     "Da er schon zu alt war, wollte er nicht mitfahren.",
+     "Da er schon alt war, wollte er nicht mit uns fahren."
+    ]
+   },
+   {
+    "ru": "Так как я остался дома, я мог спокойно почитать книгу.",
+    "de": [
+     "Da ich zu Hause blieb, konnte ich ruhig ein Buch lesen.",
+     "Da ich zu Hause geblieben bin, konnte ich in Ruhe ein Buch lesen."
+    ]
+   },
+   {
+    "ru": "Мы снова здесь!",
+    "de": [
+     "Wir sind wieder da!"
+    ]
+   },
+   {
+    "ru": "Я уже на месте!",
+    "de": [
+     "Ich bin schon da!"
+    ]
+   },
+   {
+    "ru": "Он должен быть там!",
+    "de": [
+     "Er muss da sein!"
+    ]
+   },
+   {
+    "ru": "Там никого не было.",
+    "de": [
+     "Es war niemand da.",
+     "Da war niemand."
+    ]
+   },
+   {
+    "ru": "Я всегда буду с тобой!",
+    "de": [
+     "Ich bin immer für dich da!",
+     "Ich werde immer für dich da sein!"
+    ]
+   },
+   {
+    "ru": "Тогда он засмеялся.",
+    "de": [
+     "Da lachte er."
+    ]
+   },
+   {
+    "ru": "Тут я полностью разделяю твоё мнение.",
+    "de": [
+     "Da bin ich ganz deiner Meinung.",
+     "Da bin ich ganz Ihrer Meinung."
+    ]
+   },
+   {
+    "ru": "Я скоро вернусь!",
+    "de": [
+     "Ich bin gleich wieder da!"
+    ]
+   },
+   {
+    "ru": "Здесь кто-нибудь есть?",
+    "de": [
+     "Ist da jemand?"
+    ]
+   },
+   {
+    "ru": "Ты здесь?",
+    "de": [
+     "Bist du da?"
+    ]
+   },
+   {
+    "ru": "Его здесь нет.",
+    "de": [
+     "Er ist nicht da."
+    ]
+   },
+   {
+    "ru": "Там остановка!",
+    "de": [
+     "Da ist die Haltestelle!"
+    ]
+   },
+   {
+    "ru": "Здесь должно быть ещё немного пива.",
+    "de": [
+     "Es muss da noch ein bisschen Bier sein.",
+     "Da muss noch ein bisschen Bier sein."
+    ]
+   },
+   {
+    "ru": "Если мне уже надо идти, то я иду сразу!",
+    "de": [
+     "Wenn ich schon gehen muss, da gehe ich gleich!",
+     "Wenn ich schon gehen muss, dann gehe ich gleich!"
+    ]
+   }
+  ],
+  "advice": "Работаем так: сначала смотрим предложения на немецком (ключи) и сопоставляем их с русским переводом — словарём пользоваться не нужно. Когда всё уложится в голове, переходим к самостоятельному переводу с русского на немецкий и проверяем себя по тому же ключу. При письменном переводе сначала напишите все предложения, потом проверяйте. При устном — проверяйте каждое предложение сразу. Доводим до автоматизма! Помните: язык — это не математика, почти всегда есть несколько вариантов, как выразить одну и ту же мысль!"
+ },
+ {
+  "id": "qa-system",
+  "block": 4,
+  "title": "Бонус: говорим свободно по системе «вопрос — ответ»",
+  "intro": "Учимся говорить свободно, не думая о грамматике: задаём себе простой вопрос и сразу отвечаем на него полным предложением. Ответ почти повторяет вопрос — меняются только лицо глагола и местоимения.",
+  "groups": [
+   {
+    "meaning": "вопрос — ответ",
+    "items": [
+     {
+      "de": "Wie heißt du? – Ich heiße Anton.",
+      "ru": "Как тебя зовут? — Меня зовут Антон."
+     },
+     {
+      "de": "Wie ist dein Name? – Mein Name ist Anton.",
+      "ru": "Как твоё имя? — Моё имя Антон."
+     },
+     {
+      "de": "Was magst du? – Ich mag Volleyball.",
+      "ru": "Что ты любишь? — Я люблю волейбол."
+     },
+     {
+      "de": "Gefällt dir Volleyball? – Ja, Volleyball gefällt mir!",
+      "ru": "Тебе нравится волейбол? — Да, волейбол мне нравится!"
+     },
+     {
+      "de": "Wann stehst du auf? – Ich stehe um 7 Uhr auf.",
+      "ru": "Когда ты встаёшь? — Я встаю в 7 часов."
+     },
+     {
+      "de": "Wann bist du heute aufgestanden? – Ich bin heute um 7 aufgestanden.",
+      "ru": "Когда ты сегодня встал? — Я сегодня встал в 7."
+     },
+     {
+      "de": "Wäschst du dir die Hände? – Ja, ich wasche mir die Hände.",
+      "ru": "Ты моешь руки? — Да, я мою руки."
+     },
+     {
+      "de": "Hast du dir die Hände gewaschen? – Ja, ich habe mir die Hände gewaschen.",
+      "ru": "Ты помыл руки? — Да, я помыл руки."
+     },
+     {
+      "de": "Was hast du zum Frühstück gegessen? – Ich habe Haferflocken zum Frühstück gegessen.",
+      "ru": "Что ты ел на завтрак? — Я ел на завтрак овсянку."
+     },
+     {
+      "de": "Wie lange hast du heute Deutsch gelernt? – Ich habe heute 2 Stunden Deutsch gelernt.",
+      "ru": "Сколько ты сегодня учил немецкий? — Я сегодня учил немецкий 2 часа."
+     },
+     {
+      "de": "Bist du nach Deutschland gefahren? – Ja, ich bin nach Deutschland gefahren.",
+      "ru": "Ты ездил в Германию? — Да, я ездил в Германию."
+     },
+     {
+      "de": "Warst du in der Schule? – Nein, ich war nicht in der Schule.",
+      "ru": "Ты был в школе? — Нет, я не был в школе."
+     },
+     {
+      "de": "Warst du gestern im Kino? – Ja, ich war gestern im Kino!",
+      "ru": "Ты был вчера в кино? — Да, я был вчера в кино!"
+     },
+     {
+      "de": "Wie lange warst du in der Kneipe? – Ich war 3 Stunden in der Kneipe!",
+      "ru": "Сколько ты пробыл в пивной? — Я был в пивной 3 часа!"
+     },
+     {
+      "de": "Gehst du ins Fitnessstudio? – Ja, ich gehe heute Abend ins Fitnessstudio!",
+      "ru": "Ты идёшь в спортзал? — Да, я сегодня вечером иду в спортзал!"
+     },
+     {
+      "de": "Fahrt ihr in die Berge? – Ja, wir fahren morgen in die Berge.",
+      "ru": "Вы едете в горы? — Да, мы завтра едем в горы."
+     },
+     {
+      "de": "Hast du deinem Bruder geholfen? – Ja, ich habe meinem Bruder geholfen.",
+      "ru": "Ты помог своему брату? — Да, я помог своему брату."
+     },
+     {
+      "de": "Spielst du mit deiner Schwester? – Ja, ich spiele mit meiner Schwester.",
+      "ru": "Ты играешь со своей сестрой? — Да, я играю со своей сестрой."
+     },
+     {
+      "de": "Wie alt warst du, als ihr nach Deutschland umgezogen seid? – Ich war 8. / Ich war 8, als wir nach Deutschland umgezogen sind.",
+      "ru": "Сколько тебе было лет, когда вы переехали в Германию? — Мне было 8. / Мне было 8, когда мы переехали в Германию."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Как тебя зовут? — Меня зовут Антон.",
+    "de": [
+     "Wie heißt du? Ich heiße Anton."
+    ]
+   },
+   {
+    "ru": "Что ты любишь? — Я люблю волейбол.",
+    "de": [
+     "Was magst du? Ich mag Volleyball."
+    ]
+   },
+   {
+    "ru": "Тебе нравится волейбол? — Да, волейбол мне нравится!",
+    "de": [
+     "Gefällt dir Volleyball? Ja, Volleyball gefällt mir!",
+     "Gefällt dir Volleyball? Ja, mir gefällt Volleyball!"
+    ]
+   },
+   {
+    "ru": "Когда ты встаёшь? — Я встаю в 7 часов.",
+    "de": [
+     "Wann stehst du auf? Ich stehe um 7 Uhr auf.",
+     "Wann stehst du auf? Ich stehe um sieben Uhr auf."
+    ]
+   },
+   {
+    "ru": "Когда ты сегодня встал? — Я сегодня встал в 7.",
+    "de": [
+     "Wann bist du heute aufgestanden? Ich bin heute um 7 aufgestanden.",
+     "Wann bist du heute aufgestanden? Ich bin heute um 7 Uhr aufgestanden."
+    ]
+   },
+   {
+    "ru": "Ты моешь руки? — Да, я мою руки.",
+    "de": [
+     "Wäschst du dir die Hände? Ja, ich wasche mir die Hände."
+    ]
+   },
+   {
+    "ru": "Ты помыл руки? — Да, я помыл руки.",
+    "de": [
+     "Hast du dir die Hände gewaschen? Ja, ich habe mir die Hände gewaschen."
+    ]
+   },
+   {
+    "ru": "Что ты ел на завтрак? — Я ел на завтрак овсянку.",
+    "de": [
+     "Was hast du zum Frühstück gegessen? Ich habe Haferflocken zum Frühstück gegessen.",
+     "Was hast du zum Frühstück gegessen? Ich habe zum Frühstück Haferflocken gegessen."
+    ]
+   },
+   {
+    "ru": "Сколько ты сегодня учил немецкий? — Я сегодня учил немецкий 2 часа.",
+    "de": [
+     "Wie lange hast du heute Deutsch gelernt? Ich habe heute 2 Stunden Deutsch gelernt.",
+     "Wie lange hast du heute Deutsch gelernt? Ich habe heute zwei Stunden Deutsch gelernt."
+    ]
+   },
+   {
+    "ru": "Ты ездил в Германию? — Да, я ездил в Германию.",
+    "de": [
+     "Bist du nach Deutschland gefahren? Ja, ich bin nach Deutschland gefahren."
+    ]
+   },
+   {
+    "ru": "Ты был в школе? — Нет, я не был в школе.",
+    "de": [
+     "Warst du in der Schule? Nein, ich war nicht in der Schule."
+    ]
+   },
+   {
+    "ru": "Ты был вчера в кино? — Да, я был вчера в кино!",
+    "de": [
+     "Warst du gestern im Kino? Ja, ich war gestern im Kino!"
+    ]
+   },
+   {
+    "ru": "Сколько ты пробыл в пивной? — Я был в пивной 3 часа!",
+    "de": [
+     "Wie lange warst du in der Kneipe? Ich war 3 Stunden in der Kneipe!",
+     "Wie lange warst du in der Kneipe? Ich war drei Stunden in der Kneipe!"
+    ]
+   },
+   {
+    "ru": "Ты идёшь в спортзал? — Да, я сегодня вечером иду в спортзал!",
+    "de": [
+     "Gehst du ins Fitnessstudio? Ja, ich gehe heute Abend ins Fitnessstudio!"
+    ]
+   },
+   {
+    "ru": "Вы едете в горы? — Да, мы завтра едем в горы.",
+    "de": [
+     "Fahrt ihr in die Berge? Ja, wir fahren morgen in die Berge."
+    ]
+   },
+   {
+    "ru": "Ты помог своему брату? — Да, я помог своему брату.",
+    "de": [
+     "Hast du deinem Bruder geholfen? Ja, ich habe meinem Bruder geholfen."
+    ]
+   },
+   {
+    "ru": "Ты играешь со своей сестрой? — Да, я играю со своей сестрой.",
+    "de": [
+     "Spielst du mit deiner Schwester? Ja, ich spiele mit meiner Schwester."
+    ]
+   },
+   {
+    "ru": "Сколько тебе было лет, когда вы переехали в Германию? — Мне было 8, когда мы переехали в Германию.",
+    "de": [
+     "Wie alt warst du, als ihr nach Deutschland umgezogen seid? Ich war 8, als wir nach Deutschland umgezogen sind.",
+     "Wie alt warst du, als ihr nach Deutschland umgezogen seid? Ich war acht, als wir nach Deutschland umgezogen sind."
+    ]
+   }
+  ],
+  "advice": "Система «вопрос — ответ» помогает заговорить без долгих раздумий о грамматике. Каждый день задавайте себе вопросы о своём дне (что ты ел, когда встал, где был, что любишь) и отвечайте вслух полным предложением. Начинайте с настоящего времени, затем задавайте тот же вопрос в Perfekt (Wann stehst du auf? → Wann bist du heute aufgestanden?). Ответ строится из вопроса: меняйте du → ich, dein → mein, ihr → wir и переставляйте глагол на второе место. Подставляйте реальные факты о себе — так фразы запоминаются быстрее и превращаются в живую речь."
+ },
+ {
+  "id": "think-german",
+  "block": 4,
+  "title": "Бонус: как говорить правильно и думать по-немецки",
+  "intro": "Берём один глагол (здесь — anrufen, «звонить») и «прогоняем» его через все темы курса: настоящее время, модальные глаголы, Perfekt, придаточные предложения, Konjunktiv II, Passiv. Так одна и та же мысль закрепляется во всех грамматических конструкциях. В скобках указаны уроки, где разбирается конструкция.",
+  "groups": [
+   {
+    "meaning": "уровень A1–A2",
+    "items": [
+     {
+      "de": "Ich rufe meinen Bruder an.",
+      "ru": "Я позвоню моему брату."
+     },
+     {
+      "de": "Ich rufe dich morgen an.",
+      "ru": "Я позвоню тебе завтра."
+     },
+     {
+      "de": "Ich kann dich morgen anrufen.",
+      "ru": "Я могу позвонить тебе завтра."
+     },
+     {
+      "de": "Rufst du mich an?",
+      "ru": "Ты мне позвонишь?"
+     },
+     {
+      "de": "Kannst du mich anrufen?",
+      "ru": "Ты можешь мне позвонить?"
+     },
+     {
+      "de": "Ich kann dich jetzt nicht anrufen.",
+      "ru": "Я не могу тебе сейчас позвонить."
+     },
+     {
+      "de": "Ich habe gestern meine Schwester angerufen.",
+      "ru": "Я вчера звонил моей сестре."
+     },
+     {
+      "de": "Ich konnte dich gestern anrufen.",
+      "ru": "Я мог позвонить тебе вчера."
+     },
+     {
+      "de": "Ich wollte dich nicht anrufen.",
+      "ru": "Я не хотел тебе звонить."
+     },
+     {
+      "de": "Warum hast du mich gestern nicht angerufen?",
+      "ru": "Почему ты мне вчера не позвонил?"
+     }
+    ]
+   },
+   {
+    "meaning": "уровень B1–B2",
+    "items": [
+     {
+      "de": "Ich habe Angst, sie anzurufen. (урок 31)",
+      "ru": "Я боюсь ей звонить."
+     },
+     {
+      "de": "Warum hast du Angst, sie anzurufen? (урок 31)",
+      "ru": "Почему ты боишься ей звонить?"
+     },
+     {
+      "de": "Ich habe Angst, sie anzurufen, weil sie böse ist. (урок 34)",
+      "ru": "Я боюсь ей звонить, потому что она злая."
+     },
+     {
+      "de": "Er hat mich nicht angerufen, obwohl ich darauf gewartet habe. (уроки 38, 40)",
+      "ru": "Он мне не позвонил, хотя я этого ждала."
+     },
+     {
+      "de": "Ich rufe sie an, um sie zum Abendessen einzuladen. (урок 32)",
+      "ru": "Я звоню ей, чтобы пригласить её на ужин."
+     },
+     {
+      "de": "Ich rufe sie an, damit ihr nicht langweilig ist. (урок 32)",
+      "ru": "Я звоню ей, чтобы ей не было скучно."
+     },
+     {
+      "de": "Man hätte sie am Montag anrufen sollen. (уроки 25, 26, 45)",
+      "ru": "Надо было позвонить ей в понедельник."
+     },
+     {
+      "de": "Ich habe ihn nicht angerufen, weil ich nicht mit ihm sprechen will. (уроки 27–28, 34)",
+      "ru": "Я не позвонил ему, потому что не хочу с ним разговаривать."
+     },
+     {
+      "de": "Ich habe ihn nicht angerufen, weil er mir nicht geholfen hat. (уроки 27–28, 34)",
+      "ru": "Я не позвонил ему, потому что он мне не помог."
+     },
+     {
+      "de": "Ich weiß, dass du mich anrufen wolltest. (уроки 26, 33)",
+      "ru": "Я знаю, что ты хотел мне позвонить."
+     },
+     {
+      "de": "Ich wusste nicht, dass du mich gestern angerufen hast. (уроки 29, 33)",
+      "ru": "Я не знал, что ты мне вчера звонил."
+     },
+     {
+      "de": "Statt seine Freundin anzurufen, ist er mit Freunden in die Bar gegangen. (урок 40)",
+      "ru": "Вместо того чтобы позвонить своей девушке, он пошёл с друзьями в бар."
+     },
+     {
+      "de": "Ich könnte dich anrufen, aber ich habe keine Zeit. (урок 41)",
+      "ru": "Я бы мог тебе позвонить, но у меня нет времени."
+     },
+     {
+      "de": "Wenn ich Zeit hätte, würde ich dich gerne anrufen. (уроки 35, 41)",
+      "ru": "Если бы у меня было время, я бы с удовольствием тебе позвонил."
+     },
+     {
+      "de": "Wenn du mich gestern angerufen hättest, wäre ich gekommen. (урок 45)",
+      "ru": "Если бы ты мне вчера позвонил, я бы приехал."
+     },
+     {
+      "de": "Man hat mich angerufen und gefragt, ob ich heute kommen kann. (уроки 33, 42)",
+      "ru": "Мне позвонили и спросили, могу ли я сегодня прийти."
+     }
+    ]
+   }
+  ],
+  "practice": [
+   {
+    "ru": "Я позвоню моему брату.",
+    "de": [
+     "Ich rufe meinen Bruder an.",
+     "Ich werde meinen Bruder anrufen."
+    ]
+   },
+   {
+    "ru": "Я позвоню тебе завтра.",
+    "de": [
+     "Ich rufe dich morgen an.",
+     "Ich werde dich morgen anrufen."
+    ]
+   },
+   {
+    "ru": "Я могу позвонить тебе завтра.",
+    "de": [
+     "Ich kann dich morgen anrufen."
+    ]
+   },
+   {
+    "ru": "Ты мне позвонишь?",
+    "de": [
+     "Rufst du mich an?",
+     "Wirst du mich anrufen?"
+    ]
+   },
+   {
+    "ru": "Ты можешь мне позвонить?",
+    "de": [
+     "Kannst du mich anrufen?",
+     "Kannst du mich jetzt anrufen?"
+    ]
+   },
+   {
+    "ru": "Я не могу тебе сейчас позвонить.",
+    "de": [
+     "Ich kann dich jetzt nicht anrufen."
+    ]
+   },
+   {
+    "ru": "Я вчера звонил моей сестре.",
+    "de": [
+     "Ich habe gestern meine Schwester angerufen.",
+     "Gestern habe ich meine Schwester angerufen."
+    ]
+   },
+   {
+    "ru": "Я мог позвонить тебе вчера.",
+    "de": [
+     "Ich konnte dich gestern anrufen.",
+     "Ich hätte dich gestern anrufen können."
+    ]
+   },
+   {
+    "ru": "Я не хотел тебе звонить.",
+    "de": [
+     "Ich wollte dich nicht anrufen."
+    ]
+   },
+   {
+    "ru": "Почему ты мне вчера не позвонил?",
+    "de": [
+     "Warum hast du mich gestern nicht angerufen?"
+    ]
+   },
+   {
+    "ru": "Я боюсь ей звонить.",
+    "de": [
+     "Ich habe Angst, sie anzurufen.",
+     "Ich habe Angst sie anzurufen."
+    ]
+   },
+   {
+    "ru": "Почему ты боишься ей звонить?",
+    "de": [
+     "Warum hast du Angst, sie anzurufen?",
+     "Warum hast du Angst sie anzurufen?"
+    ]
+   },
+   {
+    "ru": "Я боюсь ей звонить, потому что она злая.",
+    "de": [
+     "Ich habe Angst, sie anzurufen, weil sie böse ist.",
+     "Ich habe Angst sie anzurufen, weil sie böse ist."
+    ]
+   },
+   {
+    "ru": "Он мне не позвонил, хотя я этого ждала.",
+    "de": [
+     "Er hat mich nicht angerufen, obwohl ich darauf gewartet habe."
+    ]
+   },
+   {
+    "ru": "Я звоню ей, чтобы пригласить её на ужин.",
+    "de": [
+     "Ich rufe sie an, um sie zum Abendessen einzuladen."
+    ]
+   },
+   {
+    "ru": "Я звоню ей, чтобы ей не было скучно.",
+    "de": [
+     "Ich rufe sie an, damit ihr nicht langweilig ist.",
+     "Ich rufe sie an, damit ihr nicht langweilig wird.",
+     "Ich rufe sie an, damit es ihr nicht langweilig ist."
+    ]
+   },
+   {
+    "ru": "Надо было позвонить ей в понедельник.",
+    "de": [
+     "Man hätte sie am Montag anrufen sollen.",
+     "Man sollte sie am Montag anrufen."
+    ]
+   },
+   {
+    "ru": "Я не позвонил ему, потому что не хочу с ним разговаривать.",
+    "de": [
+     "Ich habe ihn nicht angerufen, weil ich nicht mit ihm sprechen will.",
+     "Ich habe ihn nicht angerufen, weil ich mit ihm nicht sprechen will."
+    ]
+   },
+   {
+    "ru": "Я не позвонил ему, потому что он мне не помог.",
+    "de": [
+     "Ich habe ihn nicht angerufen, weil er mir nicht geholfen hat."
+    ]
+   },
+   {
+    "ru": "Я знаю, что ты хотел мне позвонить.",
+    "de": [
+     "Ich weiß, dass du mich anrufen wolltest."
+    ]
+   },
+   {
+    "ru": "Я не знал, что ты мне вчера звонил.",
+    "de": [
+     "Ich wusste nicht, dass du mich gestern angerufen hast."
+    ]
+   },
+   {
+    "ru": "Вместо того чтобы позвонить своей девушке, он пошёл с друзьями в бар.",
+    "de": [
+     "Statt seine Freundin anzurufen, ist er mit Freunden in die Bar gegangen.",
+     "Anstatt seine Freundin anzurufen, ist er mit Freunden in die Bar gegangen.",
+     "Statt seine Freundin anzurufen, ging er mit Freunden in die Bar."
+    ]
+   },
+   {
+    "ru": "Я бы мог тебе позвонить, но у меня нет времени.",
+    "de": [
+     "Ich könnte dich anrufen, aber ich habe keine Zeit."
+    ]
+   },
+   {
+    "ru": "Если бы у меня было время, я бы с удовольствием тебе позвонил.",
+    "de": [
+     "Wenn ich Zeit hätte, würde ich dich gerne anrufen.",
+     "Wenn ich Zeit hätte, würde ich dich gern anrufen.",
+     "Hätte ich Zeit, würde ich dich gerne anrufen."
+    ]
+   },
+   {
+    "ru": "Если бы ты мне вчера позвонил, я бы приехал.",
+    "de": [
+     "Wenn du mich gestern angerufen hättest, wäre ich gekommen.",
+     "Hättest du mich gestern angerufen, wäre ich gekommen."
+    ]
+   },
+   {
+    "ru": "Мне позвонили и спросили, могу ли я сегодня прийти.",
+    "de": [
+     "Man hat mich angerufen und gefragt, ob ich heute kommen kann.",
+     "Ich wurde angerufen und gefragt, ob ich heute kommen kann."
+    ]
+   }
+  ],
+  "advice": "Чтобы научиться думать по-немецки, не учите грамматику отдельно от речи. Возьмите один частотный глагол (anrufen, helfen, kaufen, fahren…) и составьте с ним предложения на каждую пройденную тему: сначала простые (настоящее время, модальные глаголы, Perfekt — уровень A1–A2), затем сложные (zu + Infinitiv, um … zu / damit, weil, obwohl, dass, statt … zu, Konjunktiv II, Passiv — уровень B1–B2). Проговаривайте их вслух, пока не начнёте строить такие фразы автоматически. Потом повторите то же самое с другим глаголом — так грамматика превращается в готовые речевые шаблоны."
+ }
+]

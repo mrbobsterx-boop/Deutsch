@@ -1,0 +1,584 @@
+{
+ "id": 4,
+ "title": "Глаголы: инфинитив и Präsens",
+ "level": "A1",
+ "goal": "Вы научитесь спрягать любые правильные глаголы в настоящем времени, включая глаголы с основой на -t, -s/-z и -eln.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Что такое инфинитив",
+   "html": "<p><b>Инфинитив</b> — это начальная, словарная форма глагола (как русское «делать», «работать»). В немецком почти все инфинитивы оканчиваются на <b>-en</b>, некоторые — на <b>-n</b>:</p>\n<ul>\n<li><span class=\"de\">mach<b>en</b></span> — делать, <span class=\"de\">spiel<b>en</b></span> — играть, <span class=\"de\">lern<b>en</b></span> — учить(ся)</li>\n<li><span class=\"de\">sammel<b>n</b></span> — собирать, <span class=\"de\">zweifel<b>n</b></span> — сомневаться, <span class=\"de\">tu<b>n</b></span> — делать</li>\n</ul>\n<p>Если отбросить <b>-en</b> (или -n), останется <b>основа</b> глагола: <span class=\"de\">mach-</span>, <span class=\"de\">spiel-</span>, <span class=\"de\">arbeit-</span>, <span class=\"de\">sammel-</span>. К основе прибавляются <b>личные окончания</b> — как в русском «работа-ю, работа-ешь, работа-ет».</p>"
+  },
+  {
+   "h": "Спряжение правильных глаголов в Präsens",
+   "html": "<p><b>Präsens</b> — настоящее время. Немецкие окончания нужно выучить один раз — они одинаковы почти для всех глаголов:</p>\n<table>\n<tr><th>Лицо</th><th>Окончание</th><th>machen (делать)</th><th>spielen (играть)</th><th>malen (рисовать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><b>-e</b></td><td><span class=\"de\">mache</span></td><td><span class=\"de\">spiele</span></td><td><span class=\"de\">male</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><b>-st</b></td><td><span class=\"de\">machst</span></td><td><span class=\"de\">spielst</span></td><td><span class=\"de\">malst</span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><b>-t</b></td><td><span class=\"de\">macht</span></td><td><span class=\"de\">spielt</span></td><td><span class=\"de\">malt</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><b>-en</b></td><td><span class=\"de\">machen</span></td><td><span class=\"de\">spielen</span></td><td><span class=\"de\">malen</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><b>-t</b></td><td><span class=\"de\">macht</span></td><td><span class=\"de\">spielt</span></td><td><span class=\"de\">malt</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><b>-en</b></td><td><span class=\"de\">machen</span></td><td><span class=\"de\">spielen</span></td><td><span class=\"de\">malen</span></td></tr>\n</table>\n<div class=\"note\">Запомните формулу: <b>e – st – t – en – t – en</b>. Формы для <span class=\"de\">wir</span>, <span class=\"de\">sie</span> и <span class=\"de\">Sie</span> совпадают с инфинитивом. Формы <span class=\"de\">er</span> и <span class=\"de\">ihr</span> тоже совпадают: <span class=\"de\">er spielt — ihr spielt</span>.</div>\n<p>Немецкое Präsens соответствует сразу нескольким русским формам: <span class=\"de\">Ich spiele Fußball</span> — «я играю в футбол», «я сейчас играю», а иногда и «я буду играть» (<span class=\"de\">Ich spiele morgen</span> — я завтра играю/буду играть).</p>"
+  },
+  {
+   "h": "Основа на -t, -d и др.: вставляем -e-",
+   "html": "<p>Если основа оканчивается на <b>-t</b> или <b>-d</b> (а также на сочетания -chn, -ffn, -gn, -tm), то перед окончаниями <b>-st</b> и <b>-t</b> вставляется <b>-e-</b>. Иначе слово было бы невозможно произнести («du arbeitst»).</p>\n<table>\n<tr><th>Лицо</th><th>arbeiten (работать)</th><th>antworten (отвечать)</th><th>finden (находить)</th><th>öffnen (открывать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">arbeite</span></td><td><span class=\"de\">antworte</span></td><td><span class=\"de\">finde</span></td><td><span class=\"de\">öffne</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">arbeit<b>e</b>st</span></td><td><span class=\"de\">antwort<b>e</b>st</span></td><td><span class=\"de\">find<b>e</b>st</span></td><td><span class=\"de\">öffn<b>e</b>st</span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">arbeit<b>e</b>t</span></td><td><span class=\"de\">antwort<b>e</b>t</span></td><td><span class=\"de\">find<b>e</b>t</span></td><td><span class=\"de\">öffn<b>e</b>t</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">arbeiten</span></td><td><span class=\"de\">antworten</span></td><td><span class=\"de\">finden</span></td><td><span class=\"de\">öffnen</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">arbeit<b>e</b>t</span></td><td><span class=\"de\">antwort<b>e</b>t</span></td><td><span class=\"de\">find<b>e</b>t</span></td><td><span class=\"de\">öffn<b>e</b>t</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">arbeiten</span></td><td><span class=\"de\">antworten</span></td><td><span class=\"de\">finden</span></td><td><span class=\"de\">öffnen</span></td></tr>\n</table>"
+  },
+  {
+   "h": "Основа на -s, -ss, -ß, -z, -tz: du без лишнего s",
+   "html": "<p>Если основа оканчивается на шипящий/свистящий звук <b>-s, -ss, -ß, -z, -tz, -x</b>, то у <span class=\"de\">du</span> окончание <b>-st</b> сливается с основой и остаётся только <b>-t</b>. Поэтому форма <span class=\"de\">du</span> совпадает с формой <span class=\"de\">er</span>:</p>\n<table>\n<tr><th>Лицо</th><th>sitzen (сидеть)</th><th>passen (подходить; пасовать)</th><th>heißen (зваться)</th><th>tanzen (танцевать)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">sitze</span></td><td><span class=\"de\">passe</span></td><td><span class=\"de\">heiße</span></td><td><span class=\"de\">tanze</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">sitz<b>t</b></span></td><td><span class=\"de\">pass<b>t</b></span></td><td><span class=\"de\">heiß<b>t</b></span></td><td><span class=\"de\">tanz<b>t</b></span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">sitzt</span></td><td><span class=\"de\">passt</span></td><td><span class=\"de\">heißt</span></td><td><span class=\"de\">tanzt</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">sitzen</span></td><td><span class=\"de\">passen</span></td><td><span class=\"de\">heißen</span></td><td><span class=\"de\">tanzen</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">sitzt</span></td><td><span class=\"de\">passt</span></td><td><span class=\"de\">heißt</span></td><td><span class=\"de\">tanzt</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">sitzen</span></td><td><span class=\"de\">passen</span></td><td><span class=\"de\">heißen</span></td><td><span class=\"de\">tanzen</span></td></tr>\n</table>\n<div class=\"note\">Не пишите «du sitzst» или «du heißst» — это ошибка. Правильно: <span class=\"de\">du sitzt, du heißt</span>.</div>"
+  },
+  {
+   "h": "Глаголы на -eln и -ern",
+   "html": "<p>У глаголов с инфинитивом на <b>-eln</b> (<span class=\"de\">sammeln</span> — собирать, <span class=\"de\">zweifeln</span> — сомневаться, <span class=\"de\">lächeln</span> — улыбаться) в форме <span class=\"de\">ich</span> обычно <b>выпадает e</b> из основы. У глаголов на <b>-ern</b> (<span class=\"de\">wandern</span> — ходить в походы) так тоже бывает, но реже. Окончания для <span class=\"de\">wir</span> и <span class=\"de\">sie/Sie</span> — просто <b>-n</b>.</p>\n<table>\n<tr><th>Лицо</th><th>sammeln (собирать)</th><th>zweifeln (сомневаться)</th><th>wandern (путешествовать пешком)</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">samm<b>le</b></span></td><td><span class=\"de\">zweif<b>le</b></span></td><td><span class=\"de\">wand(e)re</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">sammelst</span></td><td><span class=\"de\">zweifelst</span></td><td><span class=\"de\">wanderst</span></td></tr>\n<tr><td><span class=\"de\">er/sie/es</span></td><td><span class=\"de\">sammelt</span></td><td><span class=\"de\">zweifelt</span></td><td><span class=\"de\">wandert</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">sammel<b>n</b></span></td><td><span class=\"de\">zweifel<b>n</b></span></td><td><span class=\"de\">wander<b>n</b></span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">sammelt</span></td><td><span class=\"de\">zweifelt</span></td><td><span class=\"de\">wandert</span></td></tr>\n<tr><td><span class=\"de\">sie/Sie</span></td><td><span class=\"de\">sammel<b>n</b></span></td><td><span class=\"de\">zweifel<b>n</b></span></td><td><span class=\"de\">wander<b>n</b></span></td></tr>\n</table>"
+  },
+  {
+   "h": "Порядок слов: глагол на втором месте",
+   "html": "<p>В немецком повествовательном предложении спрягаемый глагол <b>всегда стоит на втором месте</b>. Первое место может занять подлежащее или другое слово — тогда подлежащее переходит за глагол:</p>\n<ul>\n<li><span class=\"de\">Ich <b>arbeite</b> heute.</span> — Я работаю сегодня.</li>\n<li><span class=\"de\">Heute <b>arbeite</b> ich.</span> — Сегодня я работаю.</li>\n</ul>\n<p>В вопросе без вопросительного слова глагол ставится <b>на первое место</b>: <span class=\"de\"><b>Spielst</b> du Fußball?</span> — Ты играешь в футбол? С вопросительным словом — на второе: <span class=\"de\">Wo <b>arbeitest</b> du?</span> — Где ты работаешь?</p>"
+  }
+ ],
+ "tips": [
+  "Формула окончаний Präsens: e – st – t – en – t – en (ich, du, er, wir, ihr, sie). Повторяйте её как считалку.",
+  "Основа на -t/-d? Добавьте «прокладку» -e-: du arbeitest, er findet. Основа на -s/-z/-ß? У du только -t: du sitzt, du heißt.",
+  "Типичная ошибка: пропускать подлежащее («Spiele Fußball»). В немецком всегда: Ich spiele Fußball."
+ ],
+ "examples": [
+  {
+   "de": "Ich lerne Deutsch.",
+   "ru": "Я учу немецкий."
+  },
+  {
+   "de": "Du wohnst in Berlin.",
+   "ru": "Ты живёшь в Берлине."
+  },
+  {
+   "de": "Er arbeitet jeden Tag.",
+   "ru": "Он работает каждый день."
+  },
+  {
+   "de": "Wir spielen heute Fußball.",
+   "ru": "Мы сегодня играем в футбол."
+  },
+  {
+   "de": "Ihr tanzt gut.",
+   "ru": "Вы хорошо танцуете."
+  },
+  {
+   "de": "Sie kaufen ein Auto.",
+   "ru": "Они покупают машину."
+  },
+  {
+   "de": "Was machst du?",
+   "ru": "Что ты делаешь?"
+  },
+  {
+   "de": "Heute antworte ich.",
+   "ru": "Сегодня отвечаю я."
+  },
+  {
+   "de": "Spielst du Fußball?",
+   "ru": "Ты играешь в футбол?"
+  },
+  {
+   "de": "Wo wohnst du?",
+   "ru": "Где ты живёшь?"
+  },
+  {
+   "de": "Du heißt Anna, und du sitzt hier.",
+   "ru": "Тебя зовут Анна, и ты сидишь здесь."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "machen",
+   "ru": "делать"
+  },
+  {
+   "de": "malen",
+   "ru": "рисовать (красками)"
+  },
+  {
+   "de": "arbeiten",
+   "ru": "работать"
+  },
+  {
+   "de": "sitzen",
+   "forms": "sitzt, saß, hat gesessen",
+   "ru": "сидеть"
+  },
+  {
+   "de": "sammeln",
+   "ru": "собирать, коллекционировать"
+  },
+  {
+   "de": "spielen",
+   "ru": "играть"
+  },
+  {
+   "de": "antworten",
+   "ru": "отвечать"
+  },
+  {
+   "de": "passen",
+   "ru": "подходить; пасовать (в спорте)"
+  },
+  {
+   "de": "zweifeln",
+   "ru": "сомневаться"
+  },
+  {
+   "de": "lernen",
+   "ru": "учить, учиться"
+  },
+  {
+   "de": "wohnen",
+   "ru": "жить, проживать"
+  },
+  {
+   "de": "kaufen",
+   "ru": "покупать"
+  },
+  {
+   "de": "tanzen",
+   "ru": "танцевать"
+  },
+  {
+   "de": "finden",
+   "forms": "findet, fand, hat gefunden",
+   "ru": "находить; считать"
+  },
+  {
+   "de": "fragen",
+   "ru": "спрашивать"
+  },
+  {
+   "de": "die Münze",
+   "pl": "die Münzen",
+   "ru": "монета"
+  },
+  {
+   "de": "der Fußball",
+   "ru": "футбол"
+  },
+  {
+   "de": "der Tag",
+   "pl": "die Tage",
+   "ru": "день"
+  },
+  {
+   "de": "jeden Tag",
+   "ru": "каждый день"
+  },
+  {
+   "de": "zu Hause",
+   "ru": "дома"
+  },
+  {
+   "de": "heute",
+   "ru": "сегодня"
+  },
+  {
+   "de": "gut",
+   "ru": "хорошо, хороший"
+  },
+  {
+   "de": "selten",
+   "ru": "редко"
+  },
+  {
+   "de": "oft",
+   "ru": "часто"
+  }
+ ],
+ "phrasesNote": "Закрепляем личные окончания глаголов в Präsens: обычные глаголы (malen, spielen), основа на -t (arbeiten, antworten), основа на -s/-z (sitzen, passen) и глаголы на -eln (sammeln, zweifeln). Проговаривая, обращайте внимание на окончание каждого глагола.",
+ "phrases": [
+  {
+   "de": "Ich male gut.",
+   "ru": "Я хорошо рисую."
+  },
+  {
+   "de": "Du malst gut.",
+   "ru": "Ты хорошо рисуешь."
+  },
+  {
+   "de": "Er malt gut.",
+   "ru": "Он хорошо рисует."
+  },
+  {
+   "de": "Sie malt gut.",
+   "ru": "Она хорошо рисует."
+  },
+  {
+   "de": "Wir malen gut.",
+   "ru": "Мы хорошо рисуем."
+  },
+  {
+   "de": "Ihr malt gut.",
+   "ru": "Вы хорошо рисуете."
+  },
+  {
+   "de": "Sie malen gut.",
+   "ru": "Они хорошо рисуют."
+  },
+  {
+   "de": "Ich arbeite jeden Tag.",
+   "ru": "Я работаю каждый день."
+  },
+  {
+   "de": "Du arbeitest jeden Tag.",
+   "ru": "Ты работаешь каждый день."
+  },
+  {
+   "de": "Er arbeitet jeden Tag.",
+   "ru": "Он работает каждый день."
+  },
+  {
+   "de": "Sie arbeitet jeden Tag.",
+   "ru": "Она работает каждый день."
+  },
+  {
+   "de": "Wir arbeiten jeden Tag.",
+   "ru": "Мы работаем каждый день."
+  },
+  {
+   "de": "Ihr arbeitet jeden Tag.",
+   "ru": "Вы работаете каждый день."
+  },
+  {
+   "de": "Sie arbeiten jeden Tag.",
+   "ru": "Они работают каждый день."
+  },
+  {
+   "de": "Ich sitze zu Hause.",
+   "ru": "Я сижу дома."
+  },
+  {
+   "de": "Du sitzt zu Hause.",
+   "ru": "Ты сидишь дома."
+  },
+  {
+   "de": "Er sitzt zu Hause.",
+   "ru": "Он сидит дома."
+  },
+  {
+   "de": "Sie sitzt zu Hause.",
+   "ru": "Она сидит дома."
+  },
+  {
+   "de": "Wir sitzen zu Hause.",
+   "ru": "Мы сидим дома."
+  },
+  {
+   "de": "Ihr sitzt zu Hause.",
+   "ru": "Вы сидите дома."
+  },
+  {
+   "de": "Sie sitzen zu Hause.",
+   "ru": "Они сидят дома."
+  },
+  {
+   "de": "Ich sammle Münzen.",
+   "ru": "Я собираю монеты."
+  },
+  {
+   "de": "Du sammelst Münzen.",
+   "ru": "Ты собираешь монеты."
+  },
+  {
+   "de": "Er sammelt Münzen.",
+   "ru": "Он собирает монеты."
+  },
+  {
+   "de": "Sie sammelt Münzen.",
+   "ru": "Она собирает монеты."
+  },
+  {
+   "de": "Wir sammeln Münzen.",
+   "ru": "Мы собираем монеты."
+  },
+  {
+   "de": "Ihr sammelt Münzen.",
+   "ru": "Вы собираете монеты."
+  },
+  {
+   "de": "Sie sammeln Münzen.",
+   "ru": "Они собирают монеты."
+  },
+  {
+   "de": "Ich spiele Fußball.",
+   "ru": "Я играю в футбол."
+  },
+  {
+   "de": "Du spielst Fußball.",
+   "ru": "Ты играешь в футбол."
+  },
+  {
+   "de": "Er spielt Fußball.",
+   "ru": "Он играет в футбол."
+  },
+  {
+   "de": "Sie spielt Fußball.",
+   "ru": "Она играет в футбол."
+  },
+  {
+   "de": "Wir spielen Fußball.",
+   "ru": "Мы играем в футбол."
+  },
+  {
+   "de": "Ihr spielt Fußball.",
+   "ru": "Вы играете в футбол."
+  },
+  {
+   "de": "Sie spielen Fußball.",
+   "ru": "Они играют в футбол."
+  },
+  {
+   "de": "Ich antworte heute.",
+   "ru": "Я отвечаю сегодня."
+  },
+  {
+   "de": "Du antwortest heute.",
+   "ru": "Ты отвечаешь сегодня."
+  },
+  {
+   "de": "Er antwortet heute.",
+   "ru": "Он отвечает сегодня."
+  },
+  {
+   "de": "Sie antwortet heute.",
+   "ru": "Она отвечает сегодня."
+  },
+  {
+   "de": "Wir antworten heute.",
+   "ru": "Мы отвечаем сегодня."
+  },
+  {
+   "de": "Ihr antwortet heute.",
+   "ru": "Вы отвечаете сегодня."
+  },
+  {
+   "de": "Sie antworten heute.",
+   "ru": "Они отвечают сегодня."
+  },
+  {
+   "de": "Ich passe gut.",
+   "ru": "Я хорошо пасую мяч (в футболе)."
+  },
+  {
+   "de": "Du passt gut.",
+   "ru": "Ты хорошо пасуешь мяч (в футболе)."
+  },
+  {
+   "de": "Er passt gut.",
+   "ru": "Он хорошо пасует мяч (в футболе)."
+  },
+  {
+   "de": "Sie passt gut.",
+   "ru": "Она хорошо пасует мяч (в футболе)."
+  },
+  {
+   "de": "Wir passen gut.",
+   "ru": "Мы хорошо пасуем мяч (в футболе)."
+  },
+  {
+   "de": "Ihr passt gut.",
+   "ru": "Вы хорошо пасуете мяч (в футболе)."
+  },
+  {
+   "de": "Sie passen gut.",
+   "ru": "Они хорошо пасуют мяч (в футболе)."
+  },
+  {
+   "de": "Ich zweifle selten.",
+   "ru": "Я редко сомневаюсь."
+  },
+  {
+   "de": "Du zweifelst selten.",
+   "ru": "Ты редко сомневаешься."
+  },
+  {
+   "de": "Er zweifelt selten.",
+   "ru": "Он редко сомневается."
+  },
+  {
+   "de": "Sie zweifelt selten.",
+   "ru": "Она редко сомневается."
+  },
+  {
+   "de": "Wir zweifeln selten.",
+   "ru": "Мы редко сомневаемся."
+  },
+  {
+   "de": "Ihr zweifelt selten.",
+   "ru": "Вы редко сомневаетесь."
+  },
+  {
+   "de": "Sie zweifeln selten.",
+   "ru": "Они редко сомневаются."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Du ___ gut. (malen)",
+   "options": [
+    "male",
+    "malst",
+    "malt"
+   ],
+   "answer": 1,
+   "explain": "du → -st: malst."
+  },
+  {
+   "type": "choice",
+   "q": "Er ___ jeden Tag. (arbeiten)",
+   "options": [
+    "arbeitt",
+    "arbeitet",
+    "arbeiten"
+   ],
+   "answer": 1,
+   "explain": "Основа на -t → вставляем -e-: arbeitet."
+  },
+  {
+   "type": "choice",
+   "q": "Du ___ zu Hause. (sitzen)",
+   "options": [
+    "sitzst",
+    "sitzest",
+    "sitzt"
+   ],
+   "answer": 2,
+   "explain": "Основа на -z: у du только -t → du sitzt."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ Münzen. (sammeln)",
+   "options": [
+    "sammele",
+    "sammle",
+    "sammeln"
+   ],
+   "answer": 1,
+   "explain": "У глаголов на -eln в форме ich выпадает e: ich sammle."
+  },
+  {
+   "type": "choice",
+   "q": "Wir ___ Fußball. (spielen)",
+   "options": [
+    "spielen",
+    "spielt",
+    "spielst"
+   ],
+   "answer": 0,
+   "explain": "wir → -en, как инфинитив."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ heute. (antworten)",
+   "answer": [
+    "antwortet"
+   ],
+   "explain": "ihr + основа на -t → antwortet."
+  },
+  {
+   "type": "gap",
+   "q": "Sie (они) ___ selten. (zweifeln)",
+   "answer": [
+    "zweifeln"
+   ],
+   "explain": "sie (мн.) = инфинитив: zweifeln."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ Anna. (heißen)",
+   "answer": [
+    "heißt"
+   ],
+   "explain": "Основа на -ß → du heißt."
+  },
+  {
+   "type": "gap",
+   "q": "Er ___ Deutsch. (lernen)",
+   "answer": [
+    "lernt"
+   ],
+   "explain": "er → -t."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ Münzen. (sammeln)",
+   "answer": [
+    "sammeln"
+   ],
+   "explain": "wir sammeln (-n после -el)."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ heute. (antworten)",
+   "answer": [
+    "antwortest"
+   ],
+   "explain": "du + основа на -t → antwortest."
+  },
+  {
+   "type": "translate",
+   "q": "Я работаю каждый день.",
+   "answer": [
+    "Ich arbeite jeden Tag."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Ты играешь в футбол.",
+   "answer": [
+    "Du spielst Fußball."
+   ],
+   "explain": "Играть в футбол — Fußball spielen (без предлога)."
+  },
+  {
+   "type": "translate",
+   "q": "Она сидит дома.",
+   "answer": [
+    "Sie sitzt zu Hause."
+   ],
+   "explain": "дома = zu Hause."
+  },
+  {
+   "type": "translate",
+   "q": "Мы редко сомневаемся.",
+   "answer": [
+    "Wir zweifeln selten."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Он хорошо рисует.",
+   "answer": [
+    "Er malt gut."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Сегодня я работаю.»",
+   "words": [
+    "arbeite",
+    "Heute",
+    "ich"
+   ],
+   "answer": [
+    "Heute arbeite ich."
+   ],
+   "explain": "Глагол на втором месте, подлежащее после него."
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос: «Ты собираешь монеты?»",
+   "words": [
+    "du",
+    "Münzen",
+    "Sammelst"
+   ],
+   "answer": [
+    "Sammelst du Münzen?"
+   ],
+   "explain": "Вопрос без вопросительного слова: глагол на первом месте."
+  }
+ ]
+}

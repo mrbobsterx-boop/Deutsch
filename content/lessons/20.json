@@ -1,0 +1,506 @@
+{
+ "id": 20,
+ "title": "Глаголы с приставками",
+ "level": "A1",
+ "goal": "Вы научитесь использовать глаголы с отделяемыми (aufstehen, anrufen, einladen) и неотделяемыми (besuchen, verstehen, bekommen) приставками в настоящем времени и с модальными глаголами.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Приставки меняют смысл глагола",
+   "html": "<p>В немецком, как и в русском, приставка меняет значение глагола: <span class=\"de\">kommen</span> — приходить, <span class=\"de\">ankommen</span> — прибывать, <span class=\"de\">bekommen</span> — получать.</p>\n<p>Приставки бывают двух видов:</p>\n<ul><li><b>отделяемые</b> (trennbar) — «отрываются» от глагола и уходят в конец предложения: <span class=\"de\">aufstehen → Ich stehe früh auf.</span></li>\n<li><b>неотделяемые</b> (untrennbar) — всегда остаются с глаголом: <span class=\"de\">besuchen → Ich besuche dich.</span></li></ul>"
+  },
+  {
+   "h": "Отделяемые приставки",
+   "html": "<p>Самые частые: <span class=\"de\">ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-, fern-, kennen-, spazieren-</span>.</p>\n<table><tr><th>Глагол</th><th>Значение</th><th>Präsens</th></tr>\n<tr><td><span class=\"de\">aufstehen</span></td><td>вставать</td><td><span class=\"de\">Ich stehe früh auf.</span></td></tr>\n<tr><td><span class=\"de\">ausgehen</span></td><td>выходить (развлекаться)</td><td><span class=\"de\">Ich gehe gerne aus.</span></td></tr>\n<tr><td><span class=\"de\">aussehen</span></td><td>выглядеть</td><td><span class=\"de\">Du siehst gut aus.</span></td></tr>\n<tr><td><span class=\"de\">abholen</span></td><td>забирать, встречать</td><td><span class=\"de\">Ich hole meinen Sohn ab.</span></td></tr>\n<tr><td><span class=\"de\">einkaufen</span></td><td>делать покупки</td><td><span class=\"de\">Ich kaufe im Supermarkt ein.</span></td></tr>\n<tr><td><span class=\"de\">einschlafen</span></td><td>засыпать</td><td><span class=\"de\">Er schläft schnell ein.</span></td></tr>\n<tr><td><span class=\"de\">einladen</span></td><td>приглашать</td><td><span class=\"de\">Sie lädt uns ein.</span></td></tr>\n<tr><td><span class=\"de\">zumachen / aufmachen</span></td><td>закрывать / открывать</td><td><span class=\"de\">Mach die Tür zu!</span></td></tr>\n<tr><td><span class=\"de\">anrufen</span></td><td>звонить (по телефону)</td><td><span class=\"de\">Ich rufe dich an.</span></td></tr>\n<tr><td><span class=\"de\">vorstellen</span></td><td>представлять</td><td><span class=\"de\">Ich stelle dich vor.</span></td></tr></table>\n<p>Ударение падает на приставку: <span class=\"de\"><u>auf</u>stehen, <u>an</u>rufen</span>.</p>"
+  },
+  {
+   "h": "Где стоит приставка: рамка",
+   "html": "<p>Спрягаемая часть — на 2-м месте, приставка — <b>в самом конце</b> предложения. Получается рамка:</p>\n<p><span class=\"de\">Ich <b>stehe</b> morgen um sechs Uhr <b>auf</b>.</span></p>\n<p>Если есть модальный глагол, на 2-м месте стоит он, а глагол с приставкой идёт в конец <b>целиком</b>, одним словом:</p>\n<p><span class=\"de\">Ich <b>möchte</b> morgen früh <b>aufstehen</b>.</span><br><span class=\"de\">Ich <b>soll</b> heute meinen Sohn <b>abholen</b>.</span></p>\n<p>В повелительном наклонении приставка тоже в конце: <span class=\"de\">Mach bitte die Tür zu! Steh auf!</span></p>\n<div class=\"note\">Глаголы-сочетания <span class=\"de\">kennenlernen</span> (знакомиться) и <span class=\"de\">spazieren gehen</span> (гулять) ведут себя так же: <span class=\"de\">Ich lerne dich kennen. – Ich will dich kennenlernen. Ich gehe spazieren. – Ich möchte spazieren gehen.</span></div>"
+  },
+  {
+   "h": "Неотделяемые приставки",
+   "html": "<p>Приставки <span class=\"de\">be-, ge-, er-, ver-, zer-, ent-, emp-, miss-</span> <b>никогда не отделяются</b> и не берут ударение.</p>\n<ul><li><span class=\"de\">besuchen</span> — навещать: <span class=\"de\">Ich besuche meine Oma.</span></li>\n<li><span class=\"de\">bekommen</span> — получать (не «становиться»!): <span class=\"de\">Ich bekomme einen Brief.</span></li>\n<li><span class=\"de\">verstehen</span> — понимать: <span class=\"de\">Verstehst du mich?</span></li>\n<li><span class=\"de\">erklären</span> — объяснять; <span class=\"de\">erzählen</span> — рассказывать</li>\n<li><span class=\"de\">gefallen</span> — нравиться; <span class=\"de\">gehören</span> — принадлежать</li>\n<li><span class=\"de\">vergessen</span> — забывать; <span class=\"de\">verkaufen</span> — продавать</li></ul>\n<p>Запоминалка: «<b>Be</b>n <b>Ge</b>rt <b>Er</b>ika <b>Ver</b>a <b>Zer</b>a <b>Ent</b>e <b>Emp</b>» — список неотделяемых приставок.</p>"
+  }
+ ],
+ "tips": [
+  "Не забывайте приставку в конце! «Ich stehe um 7 Uhr» без auf значит «Я стою в 7 часов».",
+  "С модальным глаголом приставка не отрывается: Ich muss früh aufstehen (одно слово в конце).",
+  "bekommen — это «получать», а не «become». Ich bekomme ein Geschenk — я получаю подарок.",
+  "Ударная приставка — отделяемая (ANrufen), безударная — неотделяемая (beSUCHen)."
+ ],
+ "examples": [
+  {
+   "de": "Ich stehe jeden Tag um sieben Uhr auf.",
+   "ru": "Я встаю каждый день в семь часов."
+  },
+  {
+   "de": "Wann fängt der Film an?",
+   "ru": "Когда начинается фильм?"
+  },
+  {
+   "de": "Ruf mich bitte morgen an!",
+   "ru": "Позвони мне, пожалуйста, завтра!"
+  },
+  {
+   "de": "Wir kaufen am Samstag ein.",
+   "ru": "В субботу мы делаем покупки."
+  },
+  {
+   "de": "Kommst du mit?",
+   "ru": "Ты пойдёшь со мной?"
+  },
+  {
+   "de": "Er sieht heute müde aus.",
+   "ru": "Он сегодня выглядит уставшим."
+  },
+  {
+   "de": "Ich muss heute meine Tochter abholen.",
+   "ru": "Сегодня мне нужно забрать дочь."
+  },
+  {
+   "de": "Mach bitte das Fenster auf!",
+   "ru": "Открой, пожалуйста, окно!"
+  },
+  {
+   "de": "Ich verstehe dich nicht.",
+   "ru": "Я тебя не понимаю."
+  },
+  {
+   "de": "Sie bekommt viele Geschenke.",
+   "ru": "Она получает много подарков."
+  },
+  {
+   "de": "Ich möchte dich meinen Eltern vorstellen.",
+   "ru": "Я хочу представить тебя своим родителям."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "aufstehen",
+   "forms": "steht auf, stand auf, ist aufgestanden",
+   "ru": "вставать"
+  },
+  {
+   "de": "ausgehen",
+   "forms": "geht aus, ging aus, ist ausgegangen",
+   "ru": "выходить (развлечься)"
+  },
+  {
+   "de": "aussehen",
+   "forms": "sieht aus, sah aus, hat ausgesehen",
+   "ru": "выглядеть"
+  },
+  {
+   "de": "abholen",
+   "ru": "| забирать, встречать"
+  },
+  {
+   "de": "einkaufen",
+   "ru": "| делать покупки"
+  },
+  {
+   "de": "einschlafen",
+   "forms": "schläft ein, schlief ein, ist eingeschlafen",
+   "ru": "засыпать"
+  },
+  {
+   "de": "einladen",
+   "forms": "lädt ein, lud ein, hat eingeladen",
+   "ru": "приглашать"
+  },
+  {
+   "de": "zumachen",
+   "ru": "| закрывать"
+  },
+  {
+   "de": "aufmachen",
+   "ru": "| открывать"
+  },
+  {
+   "de": "anrufen",
+   "forms": "ruft an, rief an, hat angerufen",
+   "ru": "звонить"
+  },
+  {
+   "de": "anfangen",
+   "forms": "fängt an, fing an, hat angefangen",
+   "ru": "начинать(ся)"
+  },
+  {
+   "de": "mitkommen",
+   "forms": "kommt mit, kam mit, ist mitgekommen",
+   "ru": "идти вместе, сопровождать"
+  },
+  {
+   "de": "vorstellen",
+   "ru": "| представлять, знакомить"
+  },
+  {
+   "de": "kennenlernen",
+   "ru": "| знакомиться"
+  },
+  {
+   "de": "spazieren gehen",
+   "ru": "| гулять"
+  },
+  {
+   "de": "fernsehen",
+   "forms": "sieht fern, sah fern, hat ferngesehen",
+   "ru": "смотреть телевизор"
+  },
+  {
+   "de": "besuchen",
+   "ru": "| навещать"
+  },
+  {
+   "de": "bekommen",
+   "forms": "bekam, hat bekommen",
+   "ru": "получать"
+  },
+  {
+   "de": "verstehen",
+   "forms": "verstand, hat verstanden",
+   "ru": "понимать"
+  },
+  {
+   "de": "erzählen",
+   "ru": "| рассказывать"
+  },
+  {
+   "de": "vergessen",
+   "forms": "vergisst, vergaß, hat vergessen",
+   "ru": "забывать"
+  },
+  {
+   "de": "der Cousin",
+   "pl": "die Cousins",
+   "ru": "двоюродный брат"
+  }
+ ],
+ "phrasesNote": "Закрепляем отделяемые приставки по таблице в глубину (Ich stehe früh auf – Ich möchte morgen früh aufstehen) и в ширину с местоимениями (Ich hole dich ab – Du holst mich ab; Ich lade dich ein – Du lädst mich ein).",
+ "phrases": [
+  {
+   "de": "Ich stehe früh auf – Ich stehe morgen früh auf – Ich möchte morgen früh aufstehen.",
+   "ru": "Я встаю рано – Я завтра рано встаю – Я хочу завтра рано встать."
+  },
+  {
+   "de": "Ich gehe gerne aus – Ich gehe heute gerne aus – Ich möchte heute Abend ausgehen.",
+   "ru": "Я люблю куда-нибудь выходить – Я с удовольствием сегодня выйду – Я хочу сегодня вечером куда-нибудь пойти."
+  },
+  {
+   "de": "Ich sehe gut aus – Ich sehe immer gut aus – Ich will heute gut aussehen.",
+   "ru": "Я хорошо выгляжу – Я всегда хорошо выгляжу – Я хочу сегодня хорошо выглядеть."
+  },
+  {
+   "de": "Ich hole heute meinen Sohn ab – Ich soll heute meinen Sohn abholen.",
+   "ru": "Я сегодня забираю сына – Я должен сегодня забрать сына."
+  },
+  {
+   "de": "Ich kaufe immer in diesem Supermarkt ein – Ich will in diesem Supermarkt einkaufen.",
+   "ru": "Я всегда делаю покупки в этом супермаркете – Я хочу купить продукты в этом супермаркете."
+  },
+  {
+   "de": "Ich schlafe immer zu spät ein – Ich möchte nicht zu spät einschlafen.",
+   "ru": "Я всегда засыпаю слишком поздно – Я не хочу засыпать слишком поздно."
+  },
+  {
+   "de": "Ich lade alle meine Freunde ein – Ich möchte alle meine Freunde einladen.",
+   "ru": "Я приглашаю всех своих друзей – Я хочу пригласить всех своих друзей."
+  },
+  {
+   "de": "Ich mache die Tür zu – Ich soll sofort die Tür zumachen.",
+   "ru": "Я закрываю дверь – Я должен сразу закрыть дверь."
+  },
+  {
+   "de": "Ich lerne meinen Cousin kennen – Ich möchte heute meinen Cousin kennenlernen.",
+   "ru": "Я знакомлюсь со своим двоюродным братом – Я хочу сегодня познакомиться со своим двоюродным братом."
+  },
+  {
+   "de": "Ich gehe mit meinem Bruder spazieren – Ich möchte mit meinem Bruder spazieren gehen.",
+   "ru": "Я гуляю с братом – Я хочу погулять с братом."
+  },
+  {
+   "de": "Ich hole dich ab – Du holst mich ab.",
+   "ru": "Я тебя забираю – Ты меня забираешь."
+  },
+  {
+   "de": "Er holt sie ab – Sie holt ihn ab.",
+   "ru": "Он её забирает – Она его забирает."
+  },
+  {
+   "de": "Wir holen euch ab – Ihr holt uns ab.",
+   "ru": "Мы вас забираем – Вы нас забираете."
+  },
+  {
+   "de": "Ich hole sie ab.",
+   "ru": "Я их забираю."
+  },
+  {
+   "de": "Ich stelle dich vor – Du stellst mich vor.",
+   "ru": "Я тебя представляю – Ты меня представляешь."
+  },
+  {
+   "de": "Er stellt sie vor – Sie stellt ihn vor.",
+   "ru": "Он её представляет – Она его представляет."
+  },
+  {
+   "de": "Wir stellen euch vor – Ihr stellt uns vor.",
+   "ru": "Мы вас представляем – Вы нас представляете."
+  },
+  {
+   "de": "Ich stelle sie vor.",
+   "ru": "Я их представляю."
+  },
+  {
+   "de": "Ich lade dich ein – Du lädst mich ein.",
+   "ru": "Я тебя приглашаю – Ты меня приглашаешь."
+  },
+  {
+   "de": "Er lädt sie ein – Sie lädt ihn ein.",
+   "ru": "Он её приглашает – Она его приглашает."
+  },
+  {
+   "de": "Wir laden euch ein – Ihr ladet uns ein.",
+   "ru": "Мы вас приглашаем – Вы нас приглашаете."
+  },
+  {
+   "de": "Ich lade sie ein.",
+   "ru": "Я их приглашаю."
+  },
+  {
+   "de": "Ich lerne dich kennen – Ich will dich kennenlernen.",
+   "ru": "Я с тобой знакомлюсь – Я хочу с тобой познакомиться."
+  },
+  {
+   "de": "Du lernst mich kennen – Du willst mich kennenlernen.",
+   "ru": "Ты со мной знакомишься – Ты хочешь со мной познакомиться."
+  },
+  {
+   "de": "Er lernt sie kennen – Er will sie kennenlernen.",
+   "ru": "Он с ней знакомится – Он хочет с ней познакомиться."
+  },
+  {
+   "de": "Sie lernt ihn kennen – Sie will ihn kennenlernen.",
+   "ru": "Она с ним знакомится – Она хочет с ним познакомиться."
+  },
+  {
+   "de": "Wir lernen euch kennen – Wir wollen euch kennenlernen.",
+   "ru": "Мы с вами знакомимся – Мы хотим с вами познакомиться."
+  },
+  {
+   "de": "Ihr lernt uns kennen – Ihr wollt uns kennenlernen.",
+   "ru": "Вы с нами знакомитесь – Вы хотите с нами познакомиться."
+  },
+  {
+   "de": "Ich lerne sie kennen – Ich will sie kennenlernen.",
+   "ru": "Я с ними знакомлюсь – Я хочу с ними познакомиться."
+  },
+  {
+   "de": "Ich gehe mit dir spazieren – Du gehst mit mir spazieren.",
+   "ru": "Я гуляю с тобой – Ты гуляешь со мной."
+  },
+  {
+   "de": "Er geht mit ihr spazieren – Sie geht mit ihm spazieren.",
+   "ru": "Он гуляет с ней – Она гуляет с ним."
+  },
+  {
+   "de": "Wir gehen mit euch spazieren – Ihr geht mit uns spazieren.",
+   "ru": "Мы гуляем с вами – Вы гуляете с нами."
+  },
+  {
+   "de": "Ich gehe mit ihnen spazieren.",
+   "ru": "Я гуляю с ними."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Выберите правильное предложение:",
+   "options": [
+    "Ich aufstehe jeden Tag um 7 Uhr.",
+    "Ich stehe jeden Tag um 7 Uhr auf.",
+    "Ich stehe auf jeden Tag um 7 Uhr."
+   ],
+   "answer": 1,
+   "explain": "Отделяемая приставка уходит в конец"
+  },
+  {
+   "type": "gap",
+   "q": "Ich ___ dich morgen an. (anrufen)",
+   "answer": [
+    "rufe"
+   ],
+   "explain": "Ich rufe dich morgen an."
+  },
+  {
+   "type": "gap",
+   "q": "Ich möchte morgen früh ___. (aufstehen)",
+   "answer": [
+    "aufstehen"
+   ],
+   "explain": "С модальным — инфинитив целиком в конце"
+  },
+  {
+   "type": "choice",
+   "q": "Какая приставка НЕ отделяется?",
+   "options": [
+    "an-",
+    "auf-",
+    "ver-",
+    "ein-"
+   ],
+   "answer": 2,
+   "explain": "ver- — неотделяемая"
+  },
+  {
+   "type": "choice",
+   "q": "Выберите правильное предложение:",
+   "options": [
+    "Er sieht heute müde aus.",
+    "Er aussieht heute müde.",
+    "Er siehst heute müde aus."
+   ],
+   "answer": 0,
+   "explain": "aussehen: er sieht … aus"
+  },
+  {
+   "type": "gap",
+   "q": "Mach bitte die Tür ___! (закрой)",
+   "answer": [
+    "zu"
+   ],
+   "explain": "zumachen → Mach … zu!"
+  },
+  {
+   "type": "gap",
+   "q": "Sie ___ uns zum Geburtstag ein. (einladen)",
+   "answer": [
+    "lädt"
+   ],
+   "explain": "einladen: sie lädt … ein (a → ä)"
+  },
+  {
+   "type": "choice",
+   "q": "Выберите правильное предложение:",
+   "options": [
+    "Ich suche meine Oma am Sonntag be.",
+    "Ich besuche meine Oma am Sonntag.",
+    "Ich be suche meine Oma am Sonntag."
+   ],
+   "answer": 1,
+   "explain": "be- не отделяется"
+  },
+  {
+   "type": "gap",
+   "q": "Ich soll heute meinen Sohn ___. (abholen)",
+   "answer": [
+    "abholen"
+   ],
+   "explain": "Модальный + инфинитив в конце"
+  },
+  {
+   "type": "choice",
+   "q": "Ich will dich ___.",
+   "options": [
+    "kennenlernen",
+    "lerne kennen",
+    "kennenlerne"
+   ],
+   "answer": 0,
+   "explain": "После модального — инфинитив"
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ am Samstag ein. (einkaufen)",
+   "answer": [
+    "kaufen"
+   ],
+   "explain": "Wir kaufen am Samstag ein."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ einen Brief. (получаю)",
+   "options": [
+    "bekomme",
+    "werde",
+    "komme an"
+   ],
+   "answer": 0,
+   "explain": "bekommen = получать"
+  },
+  {
+   "type": "translate",
+   "q": "Я встаю рано.",
+   "answer": [
+    "Ich stehe früh auf."
+   ],
+   "explain": "aufstehen — приставка в конце"
+  },
+  {
+   "type": "translate",
+   "q": "Я хочу пригласить всех своих друзей.",
+   "answer": [
+    "Ich möchte alle meine Freunde einladen.",
+    "Ich will alle meine Freunde einladen."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Ты хорошо выглядишь.",
+   "answer": [
+    "Du siehst gut aus."
+   ],
+   "explain": "aussehen: du siehst … aus"
+  },
+  {
+   "type": "translate",
+   "q": "Я забираю тебя.",
+   "answer": [
+    "Ich hole dich ab."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "ein",
+    "ich",
+    "immer",
+    "zu spät",
+    "schlafe"
+   ],
+   "answer": [
+    "Ich schlafe immer zu spät ein."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "mit meinem Bruder",
+    "möchte",
+    "spazieren gehen",
+    "ich"
+   ],
+   "answer": [
+    "Ich möchte mit meinem Bruder spazieren gehen.",
+    "Mit meinem Bruder möchte ich spazieren gehen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "vor",
+    "stellst",
+    "du",
+    "mich"
+   ],
+   "answer": [
+    "Du stellst mich vor."
+   ]
+  }
+ ]
+}

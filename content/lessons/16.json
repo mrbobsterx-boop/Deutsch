@@ -1,0 +1,729 @@
+{
+ "id": 16,
+ "title": "Порядковые числительные и порядок слов",
+ "level": "A1",
+ "goal": "Вы сможете называть даты и порядковые числа (der erste, am dritten) и свободно строить предложения с глаголом на втором месте и инверсией.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Порядковые числительные: как образуются",
+   "html": "<p>Порядковые числительные (<b>Ordinalzahlen</b>) отвечают на вопрос «который?»: первый, второй, третий…</p>\n<ul><li><b>1–19</b>: число + <b>-t</b>: <span class=\"de\">vier → viert-, fünf → fünft-, zehn → zehnt-</span></li>\n<li><b>от 20</b>: число + <b>-st</b>: <span class=\"de\">zwanzig → zwanzigst-, einundzwanzig → einundzwanzigst-, hundert → hundertst-</span></li></ul>\n<p>Исключения — их нужно выучить наизусть:</p>\n<table><tr><th>Число</th><th>Порядковое</th><th>Перевод</th></tr>\n<tr><td>1</td><td><span class=\"de\">erst-</span></td><td>первый</td></tr>\n<tr><td>3</td><td><span class=\"de\">dritt-</span></td><td>третий</td></tr>\n<tr><td>7</td><td><span class=\"de\">siebt-</span></td><td>седьмой</td></tr>\n<tr><td>8</td><td><span class=\"de\">acht-</span> (одно t!)</td><td>восьмой</td></tr></table>\n<p>На письме порядковое числительное обозначается <b>точкой</b>: <span class=\"de\">der 3. Mai</span> = <span class=\"de\">der dritte Mai</span>.</p>"
+  },
+  {
+   "h": "Окончания порядковых числительных",
+   "html": "<p>Порядковое числительное — это, по сути, прилагательное, поэтому оно получает окончание.</p>\n<table><tr><th></th><th>с der/die/das</th><th>с mein/ein</th></tr>\n<tr><td>м.р.</td><td><span class=\"de\">der erste Bruder</span></td><td><span class=\"de\">mein erster Bruder</span></td></tr>\n<tr><td>ж.р.</td><td><span class=\"de\">die erste Wohnung</span></td><td><span class=\"de\">meine erste Wohnung</span></td></tr>\n<tr><td>ср.р.</td><td><span class=\"de\">das erste Auto</span></td><td><span class=\"de\">mein erstes Auto</span></td></tr></table>\n<p>В Akkusativ м.р.: <span class=\"de\">Ich liebe meinen ersten Bruder</span>. После предлога (Dativ) — всегда <b>-en</b>: <span class=\"de\">am ersten Januar</span>.</p>\n<div class=\"note\">Простое правило: после <span class=\"de\">der/die/das</span> в Nominativ — <b>-e</b>; после <span class=\"de\">mein/ein</span> окончание «показывает род»: <b>-er</b> (м.р.), <b>-e</b> (ж.р.), <b>-es</b> (ср.р.).</div>"
+  },
+  {
+   "h": "Даты",
+   "html": "<ul><li>Какое сегодня число? — <span class=\"de\">Der Wievielte ist heute?</span> / <span class=\"de\">Welches Datum ist heute?</span></li>\n<li>Сегодня первое мая. — <span class=\"de\">Heute ist der erste Mai.</span> (Nominativ, -e)</li>\n<li>Когда? Первого мая. — <span class=\"de\">Am ersten Mai.</span> (am + Dativ, -en)</li>\n<li>Письменно: <span class=\"de\">am 1. Mai</span>, <span class=\"de\">am 24.12.</span> — читается <span class=\"de\">am vierundzwanzigsten Zwölften</span></li></ul>\n<p>Год называется без предлога: <span class=\"de\">Ich bin 1995 geboren</span> или <span class=\"de\">im Jahr 1995</span>.</p>"
+  },
+  {
+   "h": "Порядок слов: глагол всегда на 2-м месте",
+   "html": "<p>Главное правило немецкого повествовательного предложения: <b>спрягаемый глагол стоит на втором месте</b>. На первое место можно поставить <b>что угодно</b> — подлежащее, время, место, дополнение. Тогда подлежащее «перепрыгивает» за глагол — это <b>инверсия</b>.</p>\n<table><tr><th>1 место</th><th>2 место (глагол)</th><th>остальное</th></tr>\n<tr><td><span class=\"de\">Ich</span></td><td><span class=\"de\">gehe</span></td><td><span class=\"de\">heute nach der Arbeit ins Kino.</span></td></tr>\n<tr><td><span class=\"de\">Heute</span></td><td><span class=\"de\">gehe</span></td><td><span class=\"de\">ich nach der Arbeit ins Kino.</span></td></tr>\n<tr><td><span class=\"de\">Nach der Arbeit</span></td><td><span class=\"de\">gehe</span></td><td><span class=\"de\">ich heute ins Kino.</span></td></tr>\n<tr><td><span class=\"de\">Ins Kino</span></td><td><span class=\"de\">gehe</span></td><td><span class=\"de\">ich heute nach der Arbeit.</span></td></tr></table>\n<p>«Место» — это смысловой блок, а не одно слово: <span class=\"de\">nach der Arbeit</span>, <span class=\"de\">mit meinen Freunden</span>, <span class=\"de\">mindestens drei Bücher</span> занимают одно место.</p>"
+  },
+  {
+   "h": "Рамка предложения и порядок обстоятельств",
+   "html": "<p>Если глаголов два (модальный + инфинитив), образуется <b>рамка</b>: модальный глагол — на 2-м месте, инфинитив — <b>в самом конце</b>.</p>\n<p><span class=\"de\">Ich <b>kann</b> dir gerne am Freitag <b>helfen</b>.</span> → <span class=\"de\">Am Freitag <b>kann</b> ich dir gerne <b>helfen</b>.</span></p>\n<p>Порядок обстоятельств в середине предложения — правило <b>TeKaMoLo</b>: <b>Te</b>mporal (когда?) – <b>Ka</b>usal (почему?) – <b>Mo</b>dal (как?) – <b>Lo</b>kal (где/куда?).</p>\n<p><span class=\"de\">Ich fahre <u>morgen</u> <u>mit dem Auto</u> <u>nach Berlin</u>.</span> — когда → как → куда.</p>\n<div class=\"note\">Вопрос с вопросительным словом — тоже глагол на 2-м месте: <span class=\"de\">Wohin fährst du am ersten Mai?</span> Вопрос без вопросительного слова — глагол на 1-м месте: <span class=\"de\">Fährst du am ersten Mai nach Spanien?</span></div>"
+  }
+ ],
+ "tips": [
+  "Не путайте: «am dritten» (третьего числа), но «der dritte» (третье число). После am — всегда -en.",
+  "Самая частая ошибка русскоговорящих: «Heute ich gehe ins Kino». Если первое место занято (heute), подлежащее идёт ПОСЛЕ глагола: Heute gehe ich ins Kino.",
+  "Ставьте на первое место то, что хотите подчеркнуть, — порядок слов в немецком тоже бывает гибким, но глагол всегда держит второе место.",
+  "Siebte, а не «siebente» (устаревший вариант), и achte с одним t."
+ ],
+ "examples": [
+  {
+   "de": "Heute ist der erste Mai.",
+   "ru": "Сегодня первое мая."
+  },
+  {
+   "de": "Am dritten Juni habe ich Geburtstag.",
+   "ru": "Третьего июня у меня день рождения."
+  },
+  {
+   "de": "Das ist meine zweite Reise nach Italien.",
+   "ru": "Это моя вторая поездка в Италию."
+  },
+  {
+   "de": "Er wohnt im vierten Stock.",
+   "ru": "Он живёт на пятом этаже (в Германии счёт этажей с нуля)."
+  },
+  {
+   "de": "Der Wievielte ist heute? – Heute ist der zwanzigste.",
+   "ru": "Какое сегодня число? – Сегодня двадцатое."
+  },
+  {
+   "de": "Morgen fahre ich mit dem Zug nach Hamburg.",
+   "ru": "Завтра я еду на поезде в Гамбург."
+  },
+  {
+   "de": "Mit dem Zug fahre ich morgen nach Hamburg.",
+   "ru": "На поезде я еду завтра в Гамбург."
+  },
+  {
+   "de": "Am Wochenende spielt mein Bruder Fußball.",
+   "ru": "По выходным мой брат играет в футбол."
+  },
+  {
+   "de": "Deutsch lerne ich jeden Tag.",
+   "ru": "Немецкий я учу каждый день."
+  },
+  {
+   "de": "Am Montag muss ich früh arbeiten.",
+   "ru": "В понедельник мне нужно рано работать."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "erste",
+   "ru": "| первый"
+  },
+  {
+   "de": "zweite",
+   "ru": "| второй"
+  },
+  {
+   "de": "dritte",
+   "ru": "| третий"
+  },
+  {
+   "de": "vierte",
+   "ru": "| четвёртый"
+  },
+  {
+   "de": "siebte",
+   "ru": "| седьмой"
+  },
+  {
+   "de": "achte",
+   "ru": "| восьмой"
+  },
+  {
+   "de": "zwanzigste",
+   "ru": "| двадцатый"
+  },
+  {
+   "de": "das Datum",
+   "pl": "die Daten",
+   "ru": "дата"
+  },
+  {
+   "de": "der Stock",
+   "pl": "die Stockwerke",
+   "ru": "этаж"
+  },
+  {
+   "de": "der Osten",
+   "ru": "| восток",
+   "pl": "—"
+  },
+  {
+   "de": "der Westen",
+   "ru": "| запад",
+   "pl": "—"
+  },
+  {
+   "de": "der Norden",
+   "ru": "| север",
+   "pl": "—"
+  },
+  {
+   "de": "der Süden",
+   "ru": "| юг",
+   "pl": "—"
+  },
+  {
+   "de": "die Insel",
+   "pl": "die Inseln",
+   "ru": "остров"
+  },
+  {
+   "de": "mindestens",
+   "ru": "| по меньшей мере, минимум"
+  },
+  {
+   "de": "endlich",
+   "ru": "| наконец"
+  },
+  {
+   "de": "fleißig",
+   "ru": "| усердно, прилежно"
+  },
+  {
+   "de": "am meisten",
+   "ru": "| больше всего"
+  },
+  {
+   "de": "schwierig",
+   "ru": "| трудный"
+  },
+  {
+   "de": "böse",
+   "ru": "| злой"
+  },
+  {
+   "de": "lustig",
+   "ru": "| весёлый"
+  },
+  {
+   "de": "traurig",
+   "ru": "| грустный"
+  },
+  {
+   "de": "hässlich",
+   "ru": "| некрасивый, уродливый"
+  },
+  {
+   "de": "billig",
+   "ru": "| дешёвый"
+  },
+  {
+   "de": "teuer",
+   "ru": "| дорогой"
+  }
+ ],
+ "phrasesNote": "Закрепляем даты (am ersten Januar…), порядковые числительные с окончаниями (mein erstes Auto, meine erste Wohnung, mein erster Bruder) и перестановку членов предложения: одно и то же предложение начинаем с разных слов, а глагол всегда держим на 2-м месте.",
+ "phrases": [
+  {
+   "de": "Am ersten Januar fahre ich nach Deutschland.",
+   "ru": "Первого января я еду в Германию."
+  },
+  {
+   "de": "Am zweiten Februar fahre ich nach Österreich.",
+   "ru": "Второго февраля я еду в Австрию."
+  },
+  {
+   "de": "Am dritten März fahre ich nach Russland.",
+   "ru": "Третьего марта я еду в Россию."
+  },
+  {
+   "de": "Am vierten April fahre ich nach China.",
+   "ru": "Четвёртого апреля я еду в Китай."
+  },
+  {
+   "de": "Am fünften Mai fahre ich nach Japan.",
+   "ru": "Пятого мая я еду в Японию."
+  },
+  {
+   "de": "Am sechsten Juni fahre ich nach Kanada.",
+   "ru": "Шестого июня я еду в Канаду."
+  },
+  {
+   "de": "Am siebten Juli fahre ich nach Mexiko.",
+   "ru": "Седьмого июля я еду в Мексику."
+  },
+  {
+   "de": "Am achten August fahre ich nach Brasilien.",
+   "ru": "Восьмого августа я еду в Бразилию."
+  },
+  {
+   "de": "Am neunten September fahre ich nach Argentinien.",
+   "ru": "Девятого сентября я еду в Аргентину."
+  },
+  {
+   "de": "Am zehnten Oktober fahre ich nach Portugal.",
+   "ru": "Десятого октября я еду в Португалию."
+  },
+  {
+   "de": "Am elften November fahre ich nach Spanien.",
+   "ru": "Одиннадцатого ноября я еду в Испанию."
+  },
+  {
+   "de": "Am zwölften Dezember fahre ich nach Belgien.",
+   "ru": "Двенадцатого декабря я еду в Бельгию."
+  },
+  {
+   "de": "Am dreizehnten Januar fliege ich nach Osten.",
+   "ru": "Тринадцатого января я лечу на восток."
+  },
+  {
+   "de": "Am vierzehnten Januar fliege ich nach Süden.",
+   "ru": "Четырнадцатого января я лечу на юг."
+  },
+  {
+   "de": "Am fünfzehnten Januar fliege ich nach Westen.",
+   "ru": "Пятнадцатого января я лечу на запад."
+  },
+  {
+   "de": "Am sechzehnten Januar fliege ich nach Norden.",
+   "ru": "Шестнадцатого января я лечу на север."
+  },
+  {
+   "de": "Am siebzehnten Februar fahre ich nach Europa.",
+   "ru": "Семнадцатого февраля я еду в Европу."
+  },
+  {
+   "de": "Am achtzehnten Februar fahre ich nach Asien.",
+   "ru": "Восемнадцатого февраля я еду в Азию."
+  },
+  {
+   "de": "Am neunzehnten Februar fahre ich nach Amerika.",
+   "ru": "Девятнадцатого февраля я еду в Америку."
+  },
+  {
+   "de": "Am zwanzigsten Februar fahre ich nach Afrika.",
+   "ru": "Двадцатого февраля я еду в Африку."
+  },
+  {
+   "de": "Am einundzwanzigsten März fahre ich auf die Kanarischen Inseln.",
+   "ru": "Двадцать первого марта я еду на Канарские острова."
+  },
+  {
+   "de": "Am zweiundzwanzigsten März fahre ich nach Malta.",
+   "ru": "Двадцать второго марта я еду на Мальту."
+  },
+  {
+   "de": "Am dreiundzwanzigsten März fahre ich nach Mallorca.",
+   "ru": "Двадцать третьего марта я еду на Майорку."
+  },
+  {
+   "de": "Am vierundzwanzigsten März fahre ich auf die Krim.",
+   "ru": "Двадцать четвёртого марта я еду в Крым."
+  },
+  {
+   "de": "Wohin fährst du am fünfundzwanzigsten April?",
+   "ru": "Куда ты едешь двадцать пятого апреля?"
+  },
+  {
+   "de": "Wohin fährst du am sechsundzwanzigsten April?",
+   "ru": "Куда ты едешь двадцать шестого апреля?"
+  },
+  {
+   "de": "Wohin fährst du am siebenundzwanzigsten April?",
+   "ru": "Куда ты едешь двадцать седьмого апреля?"
+  },
+  {
+   "de": "Wohin fährst du am achtundzwanzigsten April?",
+   "ru": "Куда ты едешь двадцать восьмого апреля?"
+  },
+  {
+   "de": "Wohin fliegt er am neunundzwanzigsten Mai?",
+   "ru": "Куда он летит двадцать девятого мая?"
+  },
+  {
+   "de": "Wohin fliegt er am dreißigsten Mai?",
+   "ru": "Куда он летит тридцатого мая?"
+  },
+  {
+   "de": "Das ist mein erstes Auto – Das erste Auto ist schlecht.",
+   "ru": "Это моя первая машина – Первая машина плохая."
+  },
+  {
+   "de": "Das ist dein zweites Auto – Das zweite Auto ist gut.",
+   "ru": "Это твоя вторая машина – Вторая машина хорошая."
+  },
+  {
+   "de": "Das ist sein drittes Auto – Das dritte Auto ist billig.",
+   "ru": "Это его третья машина – Третья машина дешёвая."
+  },
+  {
+   "de": "Das ist ihr viertes Auto – Das vierte Auto ist teuer.",
+   "ru": "Это её четвёртая машина – Четвёртая машина дорогая."
+  },
+  {
+   "de": "Das ist meine erste Wohnung – Die erste Wohnung ist groß.",
+   "ru": "Это моя первая квартира – Первая квартира большая."
+  },
+  {
+   "de": "Das ist deine zweite Wohnung – Die zweite Wohnung ist klein.",
+   "ru": "Это твоя вторая квартира – Вторая квартира маленькая."
+  },
+  {
+   "de": "Das ist seine dritte Wohnung – Die dritte Wohnung ist schön.",
+   "ru": "Это его третья квартира – Третья квартира красивая."
+  },
+  {
+   "de": "Das ist ihre vierte Wohnung – Die vierte Wohnung ist hässlich.",
+   "ru": "Это её четвёртая квартира – Четвёртая квартира некрасивая."
+  },
+  {
+   "de": "Das ist mein erster Bruder – Der erste Bruder ist böse.",
+   "ru": "Это мой первый брат – Первый брат злой."
+  },
+  {
+   "de": "Das ist dein zweiter Bruder – Der zweite Bruder ist gut.",
+   "ru": "Это твой второй брат – Второй брат добрый."
+  },
+  {
+   "de": "Das ist sein dritter Bruder – Der dritte Bruder ist lustig.",
+   "ru": "Это его третий брат – Третий брат весёлый."
+  },
+  {
+   "de": "Das ist ihr vierter Bruder – Der vierte Bruder ist traurig.",
+   "ru": "Это её четвёртый брат – Четвёртый брат грустный."
+  },
+  {
+   "de": "Ich liebe mein erstes Auto.",
+   "ru": "Я люблю свою первую машину."
+  },
+  {
+   "de": "Du liebst dein erstes Auto.",
+   "ru": "Ты любишь свою первую машину."
+  },
+  {
+   "de": "Er liebt sein erstes Auto.",
+   "ru": "Он любит свою первую машину."
+  },
+  {
+   "de": "Ich liebe meine erste Wohnung.",
+   "ru": "Я люблю свою первую квартиру."
+  },
+  {
+   "de": "Du liebst deine erste Wohnung.",
+   "ru": "Ты любишь свою первую квартиру."
+  },
+  {
+   "de": "Er liebt seine erste Wohnung.",
+   "ru": "Он любит свою первую квартиру."
+  },
+  {
+   "de": "Ich liebe meinen ersten Bruder.",
+   "ru": "Я люблю своего первого брата."
+  },
+  {
+   "de": "Du liebst deinen ersten Bruder.",
+   "ru": "Ты любишь своего первого брата."
+  },
+  {
+   "de": "Er liebt seinen ersten Bruder.",
+   "ru": "Он любит своего первого брата."
+  },
+  {
+   "de": "Ich gehe heute nach der Arbeit ins Kino.",
+   "ru": "Я иду сегодня после работы в кино."
+  },
+  {
+   "de": "Heute gehe ich nach der Arbeit ins Kino.",
+   "ru": "Сегодня я иду после работы в кино."
+  },
+  {
+   "de": "Nach der Arbeit gehe ich heute ins Kino.",
+   "ru": "После работы я сегодня иду в кино."
+  },
+  {
+   "de": "Ins Kino gehe ich heute nach der Arbeit.",
+   "ru": "В кино я иду сегодня после работы."
+  },
+  {
+   "de": "Mein Vater arbeitet jeden Tag ganz fleißig im Garten.",
+   "ru": "Мой отец каждый день очень усердно работает в саду."
+  },
+  {
+   "de": "Jeden Tag arbeitet mein Vater ganz fleißig im Garten.",
+   "ru": "Каждый день мой отец очень усердно работает в саду."
+  },
+  {
+   "de": "Im Garten arbeitet mein Vater jeden Tag ganz fleißig.",
+   "ru": "В саду мой отец каждый день очень усердно работает."
+  },
+  {
+   "de": "Ganz fleißig arbeitet mein Vater jeden Tag im Garten.",
+   "ru": "Очень усердно мой отец каждый день работает в саду."
+  },
+  {
+   "de": "Ich lese jeden Monat mindestens drei Bücher.",
+   "ru": "Я читаю каждый месяц минимум три книги."
+  },
+  {
+   "de": "Jeden Monat lese ich mindestens drei Bücher.",
+   "ru": "Каждый месяц я читаю минимум три книги."
+  },
+  {
+   "de": "Mindestens drei Bücher lese ich jeden Monat.",
+   "ru": "Минимум три книги я читаю каждый месяц."
+  },
+  {
+   "de": "Mindestens lese ich jeden Monat drei Bücher.",
+   "ru": "Как минимум я читаю каждый месяц три книги."
+  },
+  {
+   "de": "Drei Bücher lese ich jeden Monat mindestens.",
+   "ru": "Три книги я читаю каждый месяц как минимум."
+  },
+  {
+   "de": "Am meisten mag ich am Wochenende Volleyball spielen.",
+   "ru": "Больше всего я люблю по выходным играть в волейбол."
+  },
+  {
+   "de": "Ich mag am Wochenende am meisten Volleyball spielen.",
+   "ru": "По выходным я больше всего люблю играть в волейбол."
+  },
+  {
+   "de": "Am Wochenende mag ich am meisten Volleyball spielen.",
+   "ru": "По выходным я больше всего люблю играть в волейбол."
+  },
+  {
+   "de": "Volleyball mag ich am meisten am Wochenende spielen.",
+   "ru": "В волейбол я больше всего люблю играть по выходным."
+  },
+  {
+   "de": "Ich kann dir gerne am Freitag helfen.",
+   "ru": "Я с удовольствием могу помочь тебе в пятницу."
+  },
+  {
+   "de": "Am Freitag kann ich dir gerne helfen.",
+   "ru": "В пятницу я с удовольствием могу тебе помочь."
+  },
+  {
+   "de": "Gerne kann ich dir am Freitag helfen.",
+   "ru": "С удовольствием могу помочь тебе в пятницу."
+  },
+  {
+   "de": "Dir kann ich gerne am Freitag helfen.",
+   "ru": "Тебе я с удовольствием могу помочь в пятницу."
+  },
+  {
+   "de": "Ich will nicht mehr diese schwierige Sprache lernen.",
+   "ru": "Я больше не хочу учить этот трудный язык."
+  },
+  {
+   "de": "Diese schwierige Sprache will ich nicht mehr lernen.",
+   "ru": "Этот трудный язык я больше не хочу учить."
+  },
+  {
+   "de": "Ich möchte nicht mit dem Auto nach Portugal fahren.",
+   "ru": "Я не хочу ехать в Португалию на машине."
+  },
+  {
+   "de": "Mit dem Auto möchte ich nicht nach Portugal fahren.",
+   "ru": "На машине я не хочу ехать в Португалию."
+  },
+  {
+   "de": "Nach Portugal möchte ich nicht mit dem Auto fahren.",
+   "ru": "В Португалию я не хочу ехать на машине."
+  },
+  {
+   "de": "Ich treffe mich mit meinen Freunden immer am Wochenende.",
+   "ru": "Я всегда встречаюсь с друзьями по выходным."
+  },
+  {
+   "de": "Mit meinen Freunden treffe ich mich immer am Wochenende.",
+   "ru": "С друзьями я всегда встречаюсь по выходным."
+  },
+  {
+   "de": "Am Wochenende treffe ich mich immer mit meinen Freunden.",
+   "ru": "По выходным я всегда встречаюсь с друзьями."
+  },
+  {
+   "de": "Immer treffe ich mich am Wochenende mit meinen Freunden.",
+   "ru": "Всегда по выходным я встречаюсь с друзьями."
+  },
+  {
+   "de": "Ich fliege endlich in die Schweiz.",
+   "ru": "Я наконец лечу в Швейцарию."
+  },
+  {
+   "de": "Endlich fliege ich in die Schweiz.",
+   "ru": "Наконец я лечу в Швейцарию."
+  },
+  {
+   "de": "In die Schweiz fliege ich endlich.",
+   "ru": "В Швейцарию я наконец лечу."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "3. — порядковое числительное:",
+   "options": [
+    "dreite",
+    "dritte",
+    "dreiste"
+   ],
+   "answer": 1,
+   "explain": "Исключение: drei → dritte"
+  },
+  {
+   "type": "choice",
+   "q": "20. — порядковое числительное:",
+   "options": [
+    "zwanzigte",
+    "zwanzigste",
+    "zwanzigtste"
+   ],
+   "answer": 1,
+   "explain": "От 20 — суффикс -st-: zwanzigste"
+  },
+  {
+   "type": "choice",
+   "q": "7. — порядковое числительное:",
+   "options": [
+    "siebte",
+    "siebenste",
+    "siebste"
+   ],
+   "answer": 0,
+   "explain": "sieben → siebte"
+  },
+  {
+   "type": "gap",
+   "q": "Heute ist der ___ Mai. (1.)",
+   "answer": [
+    "erste"
+   ],
+   "explain": "Nominativ после der: -e"
+  },
+  {
+   "type": "gap",
+   "q": "Am ___ Juli habe ich Geburtstag. (8.)",
+   "answer": [
+    "achten"
+   ],
+   "explain": "am + Dativ: -en; acht + -en (одно t)"
+  },
+  {
+   "type": "gap",
+   "q": "Das ist mein ___ Auto. (1.)",
+   "answer": [
+    "erstes"
+   ],
+   "explain": "mein + ср.р. Nominativ: erstes"
+  },
+  {
+   "type": "gap",
+   "q": "Das ist mein ___ Bruder. (2.)",
+   "answer": [
+    "zweiter"
+   ],
+   "explain": "mein + м.р. Nominativ: zweiter"
+  },
+  {
+   "type": "choice",
+   "q": "Ich liebe meinen ___ Bruder.",
+   "options": [
+    "erste",
+    "ersten",
+    "erster"
+   ],
+   "answer": 1,
+   "explain": "Akkusativ м.р.: meinen ersten"
+  },
+  {
+   "type": "choice",
+   "q": "Выберите правильный порядок слов:",
+   "options": [
+    "Heute ich gehe ins Kino.",
+    "Heute gehe ich ins Kino.",
+    "Heute gehe ins Kino ich."
+   ],
+   "answer": 1,
+   "explain": "Глагол на 2-м месте, подлежащее после него"
+  },
+  {
+   "type": "choice",
+   "q": "Выберите правильный порядок слов:",
+   "options": [
+    "Am Freitag kann ich dir helfen.",
+    "Am Freitag ich kann dir helfen.",
+    "Am Freitag kann ich helfen dir."
+   ],
+   "answer": 0,
+   "explain": "Модальный глагол — 2-е место, инфинитив — в конце"
+  },
+  {
+   "type": "gap",
+   "q": "Jeden Tag ___ mein Vater im Garten. (arbeiten)",
+   "answer": [
+    "arbeitet"
+   ],
+   "explain": "Инверсия: глагол на 2-м месте, затем подлежащее"
+  },
+  {
+   "type": "translate",
+   "q": "Первого января я еду в Германию.",
+   "answer": [
+    "Am ersten Januar fahre ich nach Deutschland.",
+    "Ich fahre am ersten Januar nach Deutschland."
+   ],
+   "explain": "am ersten + инверсия"
+  },
+  {
+   "type": "translate",
+   "q": "Это моя вторая квартира.",
+   "answer": [
+    "Das ist meine zweite Wohnung."
+   ],
+   "explain": "meine + ж.р.: zweite"
+  },
+  {
+   "type": "translate",
+   "q": "Сегодня после работы я иду в кино.",
+   "answer": [
+    "Heute gehe ich nach der Arbeit ins Kino.",
+    "Nach der Arbeit gehe ich heute ins Kino.",
+    "Ich gehe heute nach der Arbeit ins Kino."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Куда ты едешь пятого мая?",
+   "answer": [
+    "Wohin fährst du am fünften Mai?"
+   ],
+   "explain": "W-вопрос: глагол на 2-м месте"
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "am Wochenende",
+    "ich",
+    "Volleyball",
+    "spiele"
+   ],
+   "answer": [
+    "Am Wochenende spiele ich Volleyball.",
+    "Ich spiele am Wochenende Volleyball.",
+    "Volleyball spiele ich am Wochenende."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "mit dem Auto",
+    "nach Portugal",
+    "möchte",
+    "fahren",
+    "ich"
+   ],
+   "answer": [
+    "Ich möchte mit dem Auto nach Portugal fahren.",
+    "Mit dem Auto möchte ich nach Portugal fahren.",
+    "Nach Portugal möchte ich mit dem Auto fahren."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "fliege",
+    "endlich",
+    "in die Schweiz",
+    "ich"
+   ],
+   "answer": [
+    "Endlich fliege ich in die Schweiz.",
+    "Ich fliege endlich in die Schweiz.",
+    "In die Schweiz fliege ich endlich."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "jeden Monat",
+    "drei Bücher",
+    "lese",
+    "ich"
+   ],
+   "answer": [
+    "Ich lese jeden Monat drei Bücher.",
+    "Jeden Monat lese ich drei Bücher.",
+    "Drei Bücher lese ich jeden Monat."
+   ]
+  }
+ ]
+}

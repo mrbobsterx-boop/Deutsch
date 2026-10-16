@@ -1,0 +1,124 @@
+{
+  "id": 50,
+  "title": "Косвенная речь, Konjunktiv I",
+  "level": "B2",
+  "goal": "Ученик умеет передавать чужие слова в косвенной речи с Konjunktiv I (er sei, er habe, er komme, er werde) и заменять его на Konjunktiv II там, где формы совпадают с индикативом.",
+  "minutes": 55,
+  "theory": [
+    {
+      "h": "Зачем нужен Konjunktiv I",
+      "html": "<p><b>Konjunktiv I</b> — форма для <b>косвенной речи</b> (indirekte Rede). Им пользуются в новостях, газетах, отчётах, официальной речи, чтобы показать: «это сказал он, а не я». Говорящий дистанцируется от информации.</p><ul><li>Прямая речь: <span class=\"de\">Der Präsident sagte: „Ich bereue nichts.“</span></li><li>Косвенная речь: <span class=\"de\">Der Präsident sagte, er bereue nichts.</span> — Президент сказал, что ни о чём не жалеет.</li></ul><p>Союз <span class=\"de\">dass</span> можно опустить — тогда порядок слов прямой: <span class=\"de\">Er sagte, er sei müde.</span> С <span class=\"de\">dass</span> — глагол в конце: <span class=\"de\">Er sagte, dass er müde sei.</span></p><div class=\"note\">В разговорной речи немцы часто используют обычный индикатив или Konjunktiv II: <span class=\"de\">Er hat gesagt, dass er müde ist.</span> Konjunktiv I — признак письменного и официального стиля.</div>"
+    },
+    {
+      "h": "Образование Konjunktiv I",
+      "html": "<p>Основа <b>инфинитива</b> + окончания <b>-e, -est, -e, -en, -et, -en</b>. Корневая гласная <b>не меняется</b> (er fahre, er lese — без умлаута).</p><table><tr><th></th><th>sein</th><th>haben</th><th>kommen</th><th>werden</th><th>wissen</th></tr><tr><td>ich</td><td>sei</td><td>habe</td><td>komme</td><td>werde</td><td>wisse</td></tr><tr><td>du</td><td>sei(e)st</td><td>habest</td><td>kommest</td><td>werdest</td><td>wissest</td></tr><tr><td>er/sie/es</td><td><b>sei</b></td><td><b>habe</b></td><td><b>komme</b></td><td><b>werde</b></td><td><b>wisse</b></td></tr><tr><td>wir</td><td>seien</td><td>haben</td><td>kommen</td><td>werden</td><td>wissen</td></tr><tr><td>ihr</td><td>seiet</td><td>habet</td><td>kommet</td><td>werdet</td><td>wisset</td></tr><tr><td>sie/Sie</td><td>seien</td><td>haben</td><td>kommen</td><td>werden</td><td>wissen</td></tr></table><p>На практике чаще всего нужна форма <b>3-го лица единственного числа</b> (er/sie/es): она всегда отличается от индикатива: <span class=\"de\">er kommt → er komme</span>, <span class=\"de\">er fährt → er fahre</span>. <span class=\"de\">sein</span> отличается во всех лицах.</p>"
+    },
+    {
+      "h": "Три времени в косвенной речи",
+      "html": "<p>В косвенной речи всего три «времени» — по отношению к моменту высказывания:</p><table><tr><th>Время</th><th>Форма</th><th>Пример</th></tr><tr><td>Одновременность (сейчас)</td><td>Konjunktiv I Präsens</td><td><span class=\"de\">Er sagte, er fahre zu schnell.</span></td></tr><tr><td>Предшествование (раньше)</td><td><b>habe/sei + Partizip II</b></td><td><span class=\"de\">Er sagte, er sei zu schnell gefahren.</span><br><span class=\"de\">Sie sagte, sie habe nichts gewusst.</span></td></tr><tr><td>Будущее (потом)</td><td><b>werde + Infinitiv</b></td><td><span class=\"de\">Er sagte, er werde langsamer fahren.</span></td></tr></table><div class=\"note\">Präteritum, Perfekt и Plusquamperfekt прямой речи все превращаются в одну форму: <span class=\"de\">habe/sei + Partizip II</span>. <span class=\"de\">„Ich fuhr / bin gefahren / war gefahren“ → er sei gefahren.</span></div>"
+    },
+    {
+      "h": "Замена на Konjunktiv II",
+      "html": "<p>Если форма Konjunktiv I <b>совпадает с индикативом</b> (обычно во множественном числе и в 1-м лице), её заменяют на <b>Konjunktiv II</b> или <span class=\"de\">würde + Infinitiv</span>:</p><table><tr><th>Konjunktiv I</th><th>= Indikativ?</th><th>Замена</th></tr><tr><td><span class=\"de\">sie haben</span></td><td>да</td><td><span class=\"de\">sie hätten</span></td></tr><tr><td><span class=\"de\">sie kommen</span></td><td>да</td><td><span class=\"de\">sie kämen / sie würden kommen</span></td></tr><tr><td><span class=\"de\">sie werden fahren</span></td><td>да</td><td><span class=\"de\">sie würden fahren</span></td></tr><tr><td><span class=\"de\">sie seien</span></td><td>нет</td><td>остаётся <span class=\"de\">seien</span></td></tr></table><ul><li><span class=\"de\">Die Freunde sagten, sie hätten davon nichts gewusst.</span></li><li><span class=\"de\">Die Kollegen meinten, sie würden am nächsten Tag fliegen.</span></li><li>Но: <span class=\"de\">Die Fahrer erzählten, sie seien zu schnell gefahren.</span></li></ul>"
+    },
+    {
+      "h": "Вопросы, просьбы, местоимения",
+      "html": "<p><b>Вопросы</b> в косвенной речи вводятся вопросительным словом или <span class=\"de\">ob</span> (глагол в конце):</p><ul><li><span class=\"de\">Er fragte, wann der Zug komme.</span></li><li><span class=\"de\">Sie fragte, ob ich Zeit habe / hätte.</span></li></ul><p><b>Просьбы и приказы</b> — через <span class=\"de\">sollen</span> или <span class=\"de\">mögen</span>:</p><ul><li><span class=\"de\">„Komm bitte!“ → Er sagte, ich solle kommen. / Er bat, ich möge kommen.</span></li></ul><p>Не забывайте менять <b>местоимения и указания времени</b>: <span class=\"de\">ich → er</span>, <span class=\"de\">heute → an diesem Tag / am gleichen Tag</span>, <span class=\"de\">gestern → am Tag davor</span>, <span class=\"de\">morgen → am nächsten Tag</span>, <span class=\"de\">hier → dort</span>.</p>"
+    }
+  ],
+  "tips": [
+    "Главная «рабочая» форма — er/sie/es: er sei, er habe, er komme, er werde, er könne, er wisse. Выучите их, и вы поймёте любые новости.",
+    "Прошлое в косвенной речи одно: habe/sei + Partizip II, независимо от того, было ли в оригинале Präteritum или Perfekt.",
+    "Во множественном числе Konjunktiv I почти всегда совпадает с индикативом — смело берите hätten, wären (seien!), würden.",
+    "Русское «он сказал, что…» в разговоре можно передать индикативом с dass, но в письменном тексте лучше Konjunktiv I."
+  ],
+  "examples": [
+    {"de": "Die Ministerin erklärte, die Situation sei unter Kontrolle.", "ru": "Министр заявила, что ситуация под контролем."},
+    {"de": "Er behauptet, er habe das Geld nicht genommen.", "ru": "Он утверждает, что не брал деньги."},
+    {"de": "Laut Zeitung gebe es keine Verletzten.", "ru": "По данным газеты, пострадавших нет."},
+    {"de": "Sie sagte, sie könne heute nicht kommen.", "ru": "Она сказала, что сегодня не может прийти."},
+    {"de": "Der Arzt meinte, ich solle mehr schlafen.", "ru": "Врач сказал, что мне нужно больше спать."},
+    {"de": "Er fragte, ob ich morgen Zeit hätte.", "ru": "Он спросил, есть ли у меня завтра время."},
+    {"de": "Die Polizei teilte mit, der Fahrer sei geflohen.", "ru": "Полиция сообщила, что водитель скрылся."},
+    {"de": "Meine Eltern sagten, sie würden uns am Wochenende besuchen.", "ru": "Родители сказали, что навестят нас на выходных."},
+    {"de": "Er erzählte, er habe am Tag davor einen Unfall gehabt.", "ru": "Он рассказал, что накануне попал в аварию."},
+    {"de": "Der Lehrer sagte, die Prüfung werde nicht schwer sein.", "ru": "Учитель сказал, что экзамен не будет трудным."}
+  ],
+  "vocab": [
+    {"de": "die indirekte Rede", "ru": "косвенная речь"},
+    {"de": "bereuen", "ru": "сожалеть, раскаиваться"},
+    {"de": "erzählen", "ru": "рассказывать"},
+    {"de": "meinen", "ru": "считать, полагать; сказать"},
+    {"de": "erklären", "ru": "объяснять; заявлять"},
+    {"de": "behaupten", "ru": "утверждать"},
+    {"de": "mitteilen", "ru": "сообщать"},
+    {"de": "der Präsident", "pl": "die Präsidenten", "ru": "президент"},
+    {"de": "der Fahrer", "pl": "die Fahrer", "ru": "водитель"},
+    {"de": "der Kollege", "pl": "die Kollegen", "ru": "коллега"},
+    {"de": "der Schiedsrichter", "pl": "die Schiedsrichter", "ru": "судья (в спорте)"},
+    {"de": "das Foul", "pl": "die Fouls", "ru": "фол, нарушение"},
+    {"de": "pfeifen", "forms": "pfeift, pfiff, hat gepfiffen", "ru": "свистеть; (о судье) назначать"},
+    {"de": "der Moderator", "pl": "die Moderatoren", "ru": "ведущий"},
+    {"de": "klären", "ru": "выяснять, улаживать"},
+    {"de": "am Tag davor", "ru": "накануне"},
+    {"de": "am nächsten Tag", "ru": "на следующий день"},
+    {"de": "am gleichen Tag", "ru": "в тот же день"},
+    {"de": "zu Ende sein", "ru": "закончиться"},
+    {"de": "laut + Dat/Gen", "ru": "согласно, по данным"}
+  ],
+  "phrasesNote": "Тренируем косвенную речь в трёх временах (сейчас: er sei/komme; раньше: er habe/sei + Partizip II; потом: er werde + Inf.) в единственном числе и замену на Konjunktiv II / würde во множественном.",
+  "phrases": [
+    {"de": "Der Präsident sagte, er habe nichts bereut.", "ru": "Президент сказал, что ни о чём не жалел."},
+    {"de": "Der Präsident sagte, er bereue nichts.", "ru": "Президент сказал, что ни о чём не жалеет."},
+    {"de": "Der Präsident sagte, er werde das auch wieder machen.", "ru": "Президент сказал, что снова сделает это."},
+    {"de": "Der Fahrer erzählte, er sei zu schnell gefahren.", "ru": "Водитель рассказал, что ехал слишком быстро."},
+    {"de": "Der Fahrer erzählte, er fahre zu schnell.", "ru": "Водитель рассказал, что ездит слишком быстро."},
+    {"de": "Der Fahrer erzählte, nächstes Mal werde er langsamer fahren.", "ru": "Водитель рассказал, что в следующий раз будет ехать медленнее."},
+    {"de": "Der Kollege meinte, er sei erst am Tag davor gekommen.", "ru": "Коллега сказал, что приехал только накануне."},
+    {"de": "Der Kollege meinte, er komme am gleichen Tag.", "ru": "Коллега сказал, что приедет в тот же день."},
+    {"de": "Der Kollege meinte, er werde am nächsten Tag wieder nach Deutschland fliegen.", "ru": "Коллега сказал, что на следующий день снова полетит в Германию."},
+    {"de": "Der Schiedsrichter sagt, es sei ein Foul gewesen.", "ru": "Судья говорит, что это был фол."},
+    {"de": "Der Schiedsrichter sagt, es sei ein Foul.", "ru": "Судья говорит, что это фол."},
+    {"de": "Der Schiedsrichter sagt, er werde so ein Foul immer pfeifen.", "ru": "Судья говорит, что всегда будет свистеть за такой фол."},
+    {"de": "Maria sagte, sie habe davon nichts gewusst.", "ru": "Мария сказала, что ничего об этом не знала."},
+    {"de": "Maria sagte, sie wisse nichts davon.", "ru": "Мария сказала, что ничего об этом не знает."},
+    {"de": "Maria sagte, sie werde das klären.", "ru": "Мария сказала, что выяснит это."},
+    {"de": "Der Moderator erklärte, das Spiel sei schon zu Ende gewesen.", "ru": "Ведущий объяснил, что игра уже закончилась."},
+    {"de": "Der Moderator erklärte, das Spiel sei zu Ende.", "ru": "Ведущий объявил, что игра окончена."},
+    {"de": "Der Moderator erklärte, das nächste Spiel werde morgen kommen.", "ru": "Ведущий объявил, что следующая игра будет завтра."},
+    {"de": "Die Fahrer erzählten, sie seien zu schnell gefahren.", "ru": "Водители рассказали, что ехали слишком быстро."},
+    {"de": "Die Fahrer erzählten, sie würden zu schnell fahren.", "ru": "Водители рассказали, что ездят слишком быстро."},
+    {"de": "Die Fahrer erzählten, nächstes Mal würden sie langsamer fahren.", "ru": "Водители рассказали, что в следующий раз будут ехать медленнее."},
+    {"de": "Die Kollegen meinten, sie seien erst am Tag davor gekommen.", "ru": "Коллеги сказали, что приехали только накануне."},
+    {"de": "Die Kollegen meinten, sie würden am gleichen Tag kommen.", "ru": "Коллеги сказали, что приедут в тот же день."},
+    {"de": "Die Kollegen meinten, sie würden am nächsten Tag wieder nach Deutschland fliegen.", "ru": "Коллеги сказали, что на следующий день снова полетят в Германию."},
+    {"de": "Die Freunde sagten, sie hätten davon nichts gewusst.", "ru": "Друзья сказали, что ничего об этом не знали."},
+    {"de": "Die Freunde sagten, sie wüssten nichts davon.", "ru": "Друзья сказали, что ничего об этом не знают."},
+    {"de": "Die Freunde sagten, sie würden das klären.", "ru": "Друзья сказали, что выяснят это."},
+    {"de": "Der Moderator erklärte, die Spieler seien müde gewesen.", "ru": "Ведущий объяснил, что игроки были уставшими."},
+    {"de": "Der Moderator erklärte, die Spieler seien müde.", "ru": "Ведущий объяснил, что игроки устали."},
+    {"de": "Der Moderator erklärte, die Spieler würden das nächste Spiel gewinnen.", "ru": "Ведущий заявил, что игроки выиграют следующую игру."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "„Ich bin müde.“ → Er sagte, er ___ müde.", "options": ["ist", "sei", "wäre gewesen"], "answer": 1, "explain": "Konjunktiv I от sein: er sei."},
+    {"type": "choice", "q": "„Ich komme heute.“ → Er meinte, er ___ am gleichen Tag.", "options": ["komme", "kommt", "kam"], "answer": 0, "explain": "Konjunktiv I: er komme."},
+    {"type": "choice", "q": "„Ich habe nichts gewusst.“ → Sie sagte, sie ___ nichts gewusst.", "options": ["hat", "habe", "hatte"], "answer": 1, "explain": "Прошлое: habe + Partizip II."},
+    {"type": "choice", "q": "„Ich werde das klären.“ → Maria sagte, sie ___ das klären.", "options": ["wird", "werde", "würde"], "answer": 1, "explain": "Будущее: werde + Infinitiv (в 3 л. ед. ч. Konjunktiv I отличается от индикатива)."},
+    {"type": "choice", "q": "„Wir haben nichts gewusst.“ → Die Freunde sagten, sie ___ nichts gewusst.", "options": ["haben", "hätten", "habe"], "answer": 1, "explain": "sie haben = индикатив → замена на Konjunktiv II: hätten."},
+    {"type": "choice", "q": "„Wir sind zu schnell gefahren.“ → Die Fahrer erzählten, sie ___ zu schnell gefahren.", "options": ["sind", "seien", "sei"], "answer": 1, "explain": "seien отличается от индикатива — замена не нужна."},
+    {"type": "gap", "q": "„Ich bereue nichts.“ → Der Präsident sagte, er ___ nichts. (bereuen)", "answer": ["bereue"], "explain": "Основа + -e: er bereue."},
+    {"type": "gap", "q": "„Ich fahre zu schnell.“ → Der Fahrer erzählte, er ___ zu schnell.", "answer": ["fahre"], "explain": "Без умлаута: er fahre."},
+    {"type": "gap", "q": "„Es war ein Foul.“ → Der Schiedsrichter sagt, es ___ ein Foul gewesen.", "answer": ["sei"], "explain": "Прошлое: sei + gewesen."},
+    {"type": "gap", "q": "„Ich weiß nichts davon.“ → Maria sagte, sie ___ nichts davon.", "answer": ["wisse"], "explain": "Konjunktiv I от wissen: sie wisse."},
+    {"type": "gap", "q": "„Wir fliegen morgen.“ → Die Kollegen meinten, sie ___ am nächsten Tag fliegen.", "answer": ["würden"], "explain": "Мн. ч. совпадает с индикативом → würden + Infinitiv."},
+    {"type": "gap", "q": "„Ich kann nicht kommen.“ → Sie sagte, sie ___ nicht kommen.", "answer": ["könne"], "explain": "Konjunktiv I от können: sie könne."},
+    {"type": "translate", "q": "Президент сказал, что ни о чём не жалеет.", "answer": ["Der Präsident sagte, er bereue nichts.", "Der Präsident sagte, dass er nichts bereue.", "Der Präsident hat gesagt, er bereue nichts."], "explain": "Konjunktiv I Präsens."},
+    {"type": "translate", "q": "Водитель рассказал, что ехал слишком быстро.", "answer": ["Der Fahrer erzählte, er sei zu schnell gefahren.", "Der Fahrer erzählte, dass er zu schnell gefahren sei.", "Der Fahrer hat erzählt, er sei zu schnell gefahren."], "explain": "Прошлое: sei + Partizip II."},
+    {"type": "translate", "q": "Мария сказала, что выяснит это.", "answer": ["Maria sagte, sie werde das klären.", "Maria sagte, dass sie das klären werde.", "Maria hat gesagt, sie werde das klären."], "explain": "Будущее: werde + Infinitiv."},
+    {"type": "translate", "q": "Друзья сказали, что ничего об этом не знали.", "answer": ["Die Freunde sagten, sie hätten davon nichts gewusst.", "Die Freunde sagten, sie hätten nichts davon gewusst.", "Die Freunde sagten, dass sie davon nichts gewusst hätten.", "Die Freunde sagten, dass sie nichts davon gewusst hätten."], "explain": "Мн. ч.: hätten вместо haben."},
+    {"type": "translate", "q": "Ведущий объявил, что игра окончена.", "answer": ["Der Moderator erklärte, das Spiel sei zu Ende.", "Der Moderator erklärte, dass das Spiel zu Ende sei.", "Der Moderator sagte, das Spiel sei zu Ende."], "explain": "Konjunktiv I: sei."},
+    {"type": "order", "q": "Составьте предложение", "words": ["am Tag davor", "er", "Der Kollege", "gekommen", "meinte,", "sei", "erst"], "answer": ["Der Kollege meinte, er sei erst am Tag davor gekommen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["sie", "Die Fahrer", "langsamer", "erzählten,", "würden", "nächstes Mal", "fahren"], "answer": ["Die Fahrer erzählten, nächstes Mal würden sie langsamer fahren.", "Die Fahrer erzählten, sie würden nächstes Mal langsamer fahren."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["die Spieler", "Der Moderator", "müde", "erklärte,", "seien", "gewesen"], "answer": ["Der Moderator erklärte, die Spieler seien müde gewesen."]}
+  ]
+}

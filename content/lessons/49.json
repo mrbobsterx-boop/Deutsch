@@ -1,0 +1,115 @@
+{
+  "id": 49,
+  "title": "Модальные глаголы: субъективное значение",
+  "level": "B2",
+  "goal": "Ученик понимает и использует модальные глаголы для выражения предположения, уверенности и чужих слов (er soll, er muss, er will … gewesen sein, dürfte), а также конструкции brauchen nicht zu и lassen.",
+  "minutes": 55,
+  "theory": [
+    {
+      "h": "Объективное и субъективное значение",
+      "html": "<p>До сих пор модальные глаголы описывали <b>обязанность, возможность, желание</b> подлежащего (объективное значение): <span class=\"de\">Er muss arbeiten.</span> — Он должен работать.</p><p>Но говорящий может с их помощью выразить <b>своё отношение</b> к информации: насколько он уверен, откуда узнал. Это <b>субъективное</b> значение.</p><table><tr><th>Глагол</th><th>Субъективное значение</th><th>Пример</th><th>Перевод</th></tr><tr><td>müssen</td><td>почти уверен (≈ 90%)</td><td><span class=\"de\">Er muss krank sein.</span></td><td>Он, должно быть, болен.</td></tr><tr><td>dürfte</td><td>вероятно (≈ 75%)</td><td><span class=\"de\">Er dürfte zu Hause sein.</span></td><td>Он, вероятно, дома.</td></tr><tr><td>können / könnte</td><td>возможно (≈ 50%)</td><td><span class=\"de\">Das kann schon wahr sein.</span></td><td>Это вполне может быть правдой.</td></tr><tr><td>nicht können</td><td>уверен, что нет</td><td><span class=\"de\">Er kann nicht zu Hause sein.</span></td><td>Не может быть, чтобы он был дома.</td></tr><tr><td>sollen</td><td>говорят, что… (чужие слова)</td><td><span class=\"de\">Er soll reich sein.</span></td><td>Говорят, он богат.</td></tr><tr><td>wollen</td><td>утверждает сам, но я сомневаюсь</td><td><span class=\"de\">Er will krank gewesen sein.</span></td><td>Он утверждает, что был болен.</td></tr><tr><td>mögen</td><td>допускаю, но не согласен</td><td><span class=\"de\">Das mag sein, aber…</span></td><td>Может, и так, но…</td></tr></table>"
+    },
+    {
+      "h": "Настоящее и прошедшее: Infinitiv Perfekt",
+      "html": "<p>Если предположение касается <b>настоящего</b> — модальный глагол + обычный инфинитив:</p><ul><li><span class=\"de\">Karl muss in Urlaub sein.</span> — Карл, должно быть, в отпуске.</li></ul><p>Если предположение касается <b>прошлого</b> — модальный глагол (обычно в Präsens!) + <b>Infinitiv Perfekt</b> = Partizip II + <span class=\"de\">haben / sein</span>:</p><table><tr><th>Сейчас</th><th>В прошлом</th></tr><tr><td><span class=\"de\">Er muss zu Hause sein.</span></td><td><span class=\"de\">Er muss zu Hause gewesen sein.</span></td></tr><tr><td><span class=\"de\">Sie soll eine Dienstreise haben.</span></td><td><span class=\"de\">Sie soll eine Dienstreise gehabt haben.</span></td></tr><tr><td><span class=\"de\">Er kann das Haus nicht kaufen.</span></td><td><span class=\"de\">Er kann das Haus nicht gekauft haben.</span></td></tr></table><div class=\"note\">Не путайте: <span class=\"de\">Er musste arbeiten</span> — он должен был работать (обязанность в прошлом). А предположение о прошлом «он, наверное, был болен» — <span class=\"de\">Er muss krank gewesen sein.</span></div>"
+    },
+    {
+      "h": "Sollen и wollen: чужие слова",
+      "html": "<p><span class=\"de\">sollen</span> — информация «из третьих рук»: я где-то слышал, люди говорят, пишут газеты.</p><ul><li><span class=\"de\">Er soll früher ein Sportler gewesen sein.</span> — Говорят, раньше он был спортсменом.</li><li><span class=\"de\">Das Restaurant soll sehr gut sein.</span> — Говорят, этот ресторан очень хороший.</li></ul><p><span class=\"de\">wollen</span> — человек <b>сам утверждает</b> что-то о себе, а говорящий в этом сомневается. Используется в основном с Infinitiv Perfekt:</p><ul><li><span class=\"de\">Otto will krank gewesen sein.</span> — Отто утверждает, что был болен (но я не верю).</li><li><span class=\"de\">Fritz will sein Auto nur für 2000 Euro gekauft haben.</span></li></ul>"
+    },
+    {
+      "h": "Brauchen nicht zu и nicht müssen",
+      "html": "<p>Отрицание «не нужно, не обязательно» — <span class=\"de\">nicht müssen</span> или <span class=\"de\">nicht brauchen + zu + Infinitiv</span>:</p><ul><li><span class=\"de\">Du musst nicht kommen.</span> = <span class=\"de\">Du brauchst nicht zu kommen.</span> — Тебе не нужно приходить.</li><li><span class=\"de\">Sie brauchen nur zu unterschreiben.</span> — Вам нужно только подписать.</li></ul><div class=\"note\"><span class=\"de\">brauchen … zu</span> употребляется только с <b>nicht, kein, nur, erst</b>. Без них — <span class=\"de\">müssen</span>. И помните: <span class=\"de\">nicht dürfen</span> = «нельзя», а не «не нужно»!</div>"
+    },
+    {
+      "h": "Lassen: «оставлять», «позволять», «поручать»",
+      "html": "<p><span class=\"de\">lassen</span> ведёт себя как модальный глагол: инфинитив без <span class=\"de\">zu</span> в конце.</p><table><tr><th>Значение</th><th>Пример</th></tr><tr><td>поручать сделать (кому-то)</td><td><span class=\"de\">Ich lasse mein Auto reparieren.</span> — Я отдаю машину в ремонт.</td></tr><tr><td>позволять</td><td><span class=\"de\">Meine Eltern lassen mich lange schlafen.</span> — Родители дают мне долго поспать.</td></tr><tr><td>оставлять</td><td><span class=\"de\">Ich lasse den Schlüssel zu Hause.</span></td></tr><tr><td>«давай(те)»</td><td><span class=\"de\">Lass uns gehen!</span> — Давай пойдём!</td></tr></table><p>В Perfekt — двойной инфинитив: <span class=\"de\">Ich habe mir die Haare schneiden lassen.</span> — Я подстригся (в парикмахерской).</p>"
+    }
+  ],
+  "tips": [
+    "«Говорят, что он…» — не нужно «man sagt, dass»: просто Er soll … sein.",
+    "Предположение о прошлом: модальный в Präsens + Partizip II + haben/sein в конце: Er muss das gewusst haben.",
+    "«Не нужно» ≠ «нельзя»: Du musst nicht / brauchst nicht zu kommen (не обязательно) — Du darfst nicht kommen (запрещено).",
+    "«Я подстригся» по-немецки обычно Ich habe mir die Haare schneiden lassen — ведь стриг вас мастер."
+  ],
+  "examples": [
+    {"de": "Das Licht ist an. Er muss noch wach sein.", "ru": "Свет горит. Он, должно быть, ещё не спит."},
+    {"de": "Sie dürfte schon zu Hause angekommen sein.", "ru": "Она, вероятно, уже добралась домой."},
+    {"de": "Der neue Film soll sehr spannend sein.", "ru": "Говорят, новый фильм очень захватывающий."},
+    {"de": "Er will das alles allein gemacht haben.", "ru": "Он утверждает, что сделал всё это сам."},
+    {"de": "Das kann nicht stimmen!", "ru": "Этого не может быть!"},
+    {"de": "Du brauchst morgen nicht zu kommen.", "ru": "Тебе не нужно приходить завтра."},
+    {"de": "Ich lasse meine Wohnung renovieren.", "ru": "Я делаю ремонт в квартире (руками мастеров)."},
+    {"de": "Lass mich bitte in Ruhe!", "ru": "Оставь меня, пожалуйста, в покое!"},
+    {"de": "Sie muss den Zug verpasst haben.", "ru": "Она, должно быть, опоздала на поезд."},
+    {"de": "Er könnte recht haben.", "ru": "Возможно, он прав."}
+  ],
+  "vocab": [
+    {"de": "der Mitarbeiter", "pl": "die Mitarbeiter", "ru": "сотрудник"},
+    {"de": "der Sportler", "pl": "die Sportler", "ru": "спортсмен"},
+    {"de": "die Dienstreise", "pl": "die Dienstreisen", "ru": "командировка"},
+    {"de": "behaupten", "ru": "утверждать"},
+    {"de": "annehmen", "forms": "nimmt an, nahm an, hat angenommen", "ru": "предполагать"},
+    {"de": "die Überzeugung", "pl": "die Überzeugungen", "ru": "убеждение"},
+    {"de": "die Meinung", "pl": "die Meinungen", "ru": "мнение"},
+    {"de": "anderer Meinung sein", "ru": "быть другого мнения"},
+    {"de": "der Nachbar", "pl": "die Nachbarn", "ru": "сосед"},
+    {"de": "witzig", "ru": "смешной, остроумный"},
+    {"de": "recht haben", "ru": "быть правым"},
+    {"de": "die Katastrophe", "pl": "die Katastrophen", "ru": "катастрофа"},
+    {"de": "wahr", "ru": "правдивый, верный"},
+    {"de": "stimmen", "ru": "быть верным (Das stimmt — это так)"},
+    {"de": "wahrscheinlich", "ru": "вероятно"},
+    {"de": "brauchen nicht zu", "ru": "не нужно, не обязательно"},
+    {"de": "lassen", "forms": "lässt, ließ, hat gelassen", "ru": "оставлять; позволять; поручать"},
+    {"de": "reparieren", "ru": "ремонтировать"},
+    {"de": "unterschreiben", "forms": "unterschreibt, unterschrieb, hat unterschrieben", "ru": "подписывать"},
+    {"de": "wach", "ru": "бодрствующий, не спящий"}
+  ],
+  "phrasesNote": "Закрепляем субъективные модальные: soll (говорят), muss (почти уверен), will (утверждает, но я не верю), kann/kann nicht (убеждение), mag (допускаю, но не согласен); в конце — dürfte, brauchen nicht zu, lassen.",
+  "phrases": [
+    {"de": "Das ist mein neuer Mitarbeiter. Er soll ein Sportler sein.", "ru": "Это мой новый сотрудник. Говорят, он спортсмен."},
+    {"de": "Das ist mein neuer Mitarbeiter. Er soll früher ein Sportler gewesen sein.", "ru": "Это мой новый сотрудник. Говорят, раньше он был спортсменом."},
+    {"de": "Maria ist nicht da. Sie soll eine Dienstreise haben.", "ru": "Марии нет. Говорят, она в командировке."},
+    {"de": "Maria war letzte Woche nicht da. Sie soll eine Dienstreise gehabt haben.", "ru": "Марии не было на прошлой неделе. Говорят, она была в командировке."},
+    {"de": "Karl ist nicht in der Stadt. Er muss in Urlaub sein.", "ru": "Карла нет в городе. Он, должно быть, в отпуске."},
+    {"de": "Karl war letzten Monat nicht in der Stadt. Er muss in Urlaub gewesen sein.", "ru": "Карла не было в городе в прошлом месяце. Он, должно быть, был в отпуске."},
+    {"de": "Musik spielt laut aus der Wohnung. Mein Nachbar muss zu Hause sein.", "ru": "Из квартиры громко играет музыка. Мой сосед, должно быть, дома."},
+    {"de": "Gestern spielte die Musik ganz laut. Mein Nachbar muss zu Hause gewesen sein.", "ru": "Вчера музыка играла очень громко. Мой сосед, должно быть, был дома."},
+    {"de": "Otto ist nicht mit in die Kneipe gegangen. Er will krank gewesen sein.", "ru": "Отто не пошёл с нами в бар. Он утверждает, что был болен."},
+    {"de": "Inge ist zu Hause geblieben. Sie will viel zu tun gehabt haben.", "ru": "Инге осталась дома. Она утверждает, что у неё было много дел."},
+    {"de": "Fritz will sein neues Auto nur für 2000 Euro gekauft haben.", "ru": "Фриц утверждает, что купил свою новую машину всего за 2000 евро."},
+    {"de": "Ich habe Karl im Kino gesehen. Er kann also nicht zu Hause gewesen sein.", "ru": "Я видел Карла в кино. Значит, он не мог быть дома."},
+    {"de": "Er hatte gar kein Geld. Er kann also dieses Haus nicht gekauft haben.", "ru": "У него совсем не было денег. Значит, он не мог купить этот дом."},
+    {"de": "Ich glaube dir. Das kann schon wahr sein.", "ru": "Я тебе верю. Это вполне может быть правдой."},
+    {"de": "Du magst das witzig finden? Echt?", "ru": "Ты, может, и находишь это смешным? Серьёзно?"},
+    {"de": "Er mag auch recht haben, das hilft uns aber nicht!", "ru": "Может, он и прав, но нам это не помогает!"},
+    {"de": "Das mag sein! Das wäre aber eine Katastrophe!", "ru": "Может быть! Но это была бы катастрофа!"},
+    {"de": "Es ist schon acht Uhr. Er dürfte bald kommen.", "ru": "Уже восемь часов. Он, вероятно, скоро придёт."},
+    {"de": "Du brauchst heute nicht zu arbeiten.", "ru": "Тебе сегодня не нужно работать."},
+    {"de": "Ich lasse mein Auto in der Werkstatt reparieren.", "ru": "Я отдаю машину в ремонт в мастерскую."},
+    {"de": "Ich habe mir gestern die Haare schneiden lassen.", "ru": "Я вчера подстригся (в парикмахерской)."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "«Говорят, он богат» — Er ___ reich sein.", "options": ["muss", "soll", "will"], "answer": 1, "explain": "Чужие слова — sollen."},
+    {"type": "choice", "q": "«Он утверждает, что был болен (но я не верю)» — Er ___ krank gewesen sein.", "options": ["soll", "will", "kann"], "answer": 1, "explain": "Сам утверждает о себе — wollen."},
+    {"type": "choice", "q": "Musik spielt laut. Mein Nachbar ___ zu Hause sein.", "options": ["muss", "will", "mag"], "answer": 0, "explain": "Почти уверен — müssen."},
+    {"type": "choice", "q": "Ich habe ihn im Kino gesehen. Er ___ nicht zu Hause gewesen sein.", "options": ["soll", "will", "kann"], "answer": 2, "explain": "Уверенность, что нет — kann nicht."},
+    {"type": "choice", "q": "Karl war letzten Monat weg. Er muss in Urlaub ___.", "options": ["sein", "gewesen sein", "war"], "answer": 1, "explain": "О прошлом — Infinitiv Perfekt: gewesen sein."},
+    {"type": "choice", "q": "Du ___ morgen nicht zu kommen.", "options": ["musst", "brauchst", "darfst"], "answer": 1, "explain": "brauchen nicht zu — «не нужно»."},
+    {"type": "gap", "q": "Maria war nicht da. Sie soll eine Dienstreise gehabt ___.", "answer": ["haben"], "explain": "Infinitiv Perfekt: gehabt haben."},
+    {"type": "gap", "q": "Er hatte kein Geld. Er kann das Haus nicht gekauft ___.", "answer": ["haben"], "explain": "gekauft haben."},
+    {"type": "gap", "q": "Inge will viel zu tun gehabt ___.", "answer": ["haben"], "explain": "gehabt haben."},
+    {"type": "gap", "q": "Er ___ auch recht haben, das hilft uns aber nicht. (mögen)", "answer": ["mag"], "explain": "mag — «может, и так, но…»."},
+    {"type": "gap", "q": "Ich ___ mein Auto reparieren. (lassen)", "answer": ["lasse"], "explain": "ich lasse."},
+    {"type": "gap", "q": "Er ___ sein Auto reparieren. (lassen)", "answer": ["lässt"], "explain": "er lässt (a → ä)."},
+    {"type": "translate", "q": "Говорят, раньше он был спортсменом.", "answer": ["Er soll früher ein Sportler gewesen sein.", "Er soll früher Sportler gewesen sein."], "explain": "soll + Infinitiv Perfekt."},
+    {"type": "translate", "q": "Он, должно быть, дома.", "answer": ["Er muss zu Hause sein.", "Er muss daheim sein."], "explain": "müssen — почти уверен."},
+    {"type": "translate", "q": "Она, должно быть, опоздала на поезд.", "answer": ["Sie muss den Zug verpasst haben."], "explain": "muss + verpasst haben."},
+    {"type": "translate", "q": "Тебе не нужно приходить.", "answer": ["Du brauchst nicht zu kommen.", "Du musst nicht kommen."], "explain": "brauchen nicht zu / nicht müssen."},
+    {"type": "translate", "q": "Я вчера подстригся (в парикмахерской).", "answer": ["Ich habe mir gestern die Haare schneiden lassen.", "Gestern habe ich mir die Haare schneiden lassen."], "explain": "Perfekt с lassen — двойной инфинитив."},
+    {"type": "order", "q": "Составьте предложение", "words": ["gewesen", "Er", "in Urlaub", "muss", "sein"], "answer": ["Er muss in Urlaub gewesen sein."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["gekauft", "will", "Fritz", "für 2000 Euro", "sein Auto", "haben"], "answer": ["Fritz will sein Auto für 2000 Euro gekauft haben."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["wahr", "Das", "schon", "kann", "sein"], "answer": ["Das kann schon wahr sein."]}
+  ]
+}

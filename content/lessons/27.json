@@ -1,0 +1,810 @@
+{
+ "id": 27,
+ "title": "Perfekt — разговорное прошедшее время",
+ "level": "A2",
+ "goal": "Вы сможете рассказывать о прошлом в Perfekt: выбирать haben или sein и образовывать Partizip II правильных и неправильных глаголов.",
+ "minutes": 60,
+ "theory": [
+  {
+   "h": "Как устроен Perfekt",
+   "html": "<p><b>Perfekt</b> — главное прошедшее время разговорной речи. Оно состоит из двух частей:</p><p><span class=\"hl\">haben / sein</span> (спрягается, 2-е место) + <span class=\"hl\">Partizip II</span> (в конце предложения).</p><table><tr><th>Präsens</th><th>Perfekt</th></tr><tr><td><span class=\"de\">Ich lerne Deutsch.</span></td><td><span class=\"de\">Ich <b>habe</b> gestern Deutsch <b>gelernt</b>.</span></td></tr><tr><td><span class=\"de\">Er geht in die Schule.</span></td><td><span class=\"de\">Er <b>ist</b> gestern in die Schule <b>gegangen</b>.</span></td></tr></table><p>По-русски обе формы переводятся одним прошедшим: «я учил / выучил», «он ходил / пошёл».</p>"
+  },
+  {
+   "h": "Partizip II правильных глаголов: ge- … -t",
+   "html": "<p>Правильные (слабые) глаголы: <b>ge</b> + основа + <b>t</b>.</p><table><tr><th>Infinitiv</th><th>Partizip II</th></tr><tr><td><span class=\"de\">lernen</span></td><td><span class=\"de\">gelernt</span></td></tr><tr><td><span class=\"de\">spielen</span></td><td><span class=\"de\">gespielt</span></td></tr><tr><td><span class=\"de\">kaufen</span></td><td><span class=\"de\">gekauft</span></td></tr><tr><td><span class=\"de\">malen</span></td><td><span class=\"de\">gemalt</span></td></tr></table><p>Если основа кончается на <b>-t, -d</b> или неудобное сочетание согласных (<b>-chn, -ffn, -gn</b>), добавляется <b>-et</b>:</p><ul><li><span class=\"de\">arbeiten → gearbeitet</span>, <span class=\"de\">antworten → geantwortet</span></li><li><span class=\"de\">öffnen → geöffnet</span>, <span class=\"de\">rechnen → gerechnet</span></li></ul>"
+  },
+  {
+   "h": "Partizip II неправильных глаголов: ge- … -en",
+   "html": "<p>Сильные (неправильные) глаголы получают окончание <b>-en</b>, и часто у них меняется корневая гласная. Формы нужно учить по списку (инфинитив – Präteritum – Partizip II). Помогает то, что глаголы объединяются в <b>группы с одинаковым чередованием</b>:</p><table><tr><th>Группа</th><th>Чередование</th><th>Примеры</th></tr><tr><td>1</td><td>ei – ie – ie</td><td><span class=\"de\">bleiben – blieb – geblieben, schreiben – schrieb – geschrieben, schweigen – schwieg – geschwiegen</span></td></tr><tr><td>2</td><td>ei – i – i</td><td><span class=\"de\">reiten – ritt – geritten, schneiden – schnitt – geschnitten, streiten – stritt – gestritten</span></td></tr><tr><td>3</td><td>ie – o – o</td><td><span class=\"de\">fliegen – flog – geflogen, verlieren – verlor – verloren, ziehen – zog – gezogen</span></td></tr><tr><td>4</td><td>i – a – u</td><td><span class=\"de\">finden – fand – gefunden, trinken – trank – getrunken, singen – sang – gesungen</span></td></tr><tr><td>5</td><td>i – a – o</td><td><span class=\"de\">beginnen – begann – begonnen, gewinnen – gewann – gewonnen, schwimmen – schwamm – geschwommen</span></td></tr><tr><td>6</td><td>e – a – o</td><td><span class=\"de\">helfen – half – geholfen, sprechen – sprach – gesprochen, nehmen – nahm – genommen, treffen – traf – getroffen</span></td></tr><tr><td>7</td><td>e – a – e</td><td><span class=\"de\">essen – aß – gegessen, geben – gab – gegeben, lesen – las – gelesen, sehen – sah – gesehen</span></td></tr><tr><td>8</td><td>i/ie – a – e</td><td><span class=\"de\">bitten – bat – gebeten, liegen – lag – gelegen, sitzen – saß – gesessen</span></td></tr><tr><td>9</td><td>a – u – a</td><td><span class=\"de\">fahren – fuhr – gefahren, tragen – trug – getragen, waschen – wusch – gewaschen, wachsen – wuchs – gewachsen</span></td></tr><tr><td>10</td><td>a – ie – a</td><td><span class=\"de\">schlafen – schlief – geschlafen, fallen – fiel – gefallen, halten – hielt – gehalten, lassen – ließ – gelassen</span></td></tr><tr><td>11</td><td>ei/au/u – ie – ei/au/u</td><td><span class=\"de\">heißen – hieß – geheißen, laufen – lief – gelaufen, rufen – rief – gerufen</span></td></tr><tr><td>12</td><td>особые</td><td><span class=\"de\">gehen – ging – gegangen, kommen – kam – gekommen, stehen – stand – gestanden</span></td></tr><tr><td>13</td><td>главные</td><td><span class=\"de\">sein – war – gewesen, haben – hatte – gehabt, werden – wurde – geworden</span></td></tr><tr><td>14</td><td>смешанные: -te и -t, но меняют гласную</td><td><span class=\"de\">bringen – brachte – gebracht, denken – dachte – gedacht, kennen – kannte – gekannt, rennen – rannte – gerannt, wissen – wusste – gewusst</span></td></tr></table>"
+  },
+  {
+   "h": "haben или sein?",
+   "html": "<p>Большинство глаголов образуют Perfekt с <span class=\"de\">haben</span>. С <span class=\"de\">sein</span> — глаголы, которые обозначают:</p><ul><li><b>движение из точки А в точку Б</b>: <span class=\"de\">gehen, fahren, fliegen, kommen, laufen, rennen, reiten, reisen, steigen, fallen</span></li><li><b>изменение состояния</b>: <span class=\"de\">aufstehen, einschlafen, wachsen, sterben, werden, verschwinden</span></li><li>а также <span class=\"de\">sein, bleiben, passieren, geschehen</span></li></ul><p>С <span class=\"de\">haben</span> идут все глаголы с объектом в Akkusativ и все <b>возвратные</b> глаголы: <span class=\"de\">Ich habe mich auf den Stuhl gesetzt.</span> <span class=\"de\">Ich habe mich mit meinem Freund getroffen.</span></p><div class=\"note\">Проверка: «Я пришёл куда-то / стал каким-то?» — значит <b>sein</b>. «Я что-то сделал?» — <b>haben</b>.</div>"
+  },
+  {
+   "h": "Спряжение и порядок слов",
+   "html": "<table><tr><th>Лицо</th><th>с haben</th><th>с sein</th></tr><tr><td>ich</td><td><span class=\"de\">habe … gegessen</span></td><td><span class=\"de\">bin … gegangen</span></td></tr><tr><td>du</td><td><span class=\"de\">hast … gegessen</span></td><td><span class=\"de\">bist … gegangen</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">hat … gegessen</span></td><td><span class=\"de\">ist … gegangen</span></td></tr><tr><td>wir</td><td><span class=\"de\">haben … gegessen</span></td><td><span class=\"de\">sind … gegangen</span></td></tr><tr><td>ihr</td><td><span class=\"de\">habt … gegessen</span></td><td><span class=\"de\">seid … gegangen</span></td></tr><tr><td>sie/Sie</td><td><span class=\"de\">haben … gegessen</span></td><td><span class=\"de\">sind … gegangen</span></td></tr></table><p>Partizip II всегда в <b>самом конце</b>, всё остальное — в «рамке»: <span class=\"de\">Ich habe meinem Bruder mein Auto gegeben.</span> Отрицание <span class=\"de\">nicht</span> — перед Partizip: <span class=\"de\">Ich habe das nicht gewusst.</span></p>"
+  }
+ ],
+ "tips": [
+  "Учите сильные глаголы сразу тройками и вслух: fahren – fuhr – gefahren. Группы с одинаковым чередованием (ei–ie–ie, i–a–u…) запоминаются как песенка.",
+  "sein-глаголы: «движение и изменение». Типичная ошибка: «Ich habe nach Italien gefahren» — правильно «Ich bin nach Italien gefahren».",
+  "Не забывайте ge-: «Ich habe gelernt», а не «Ich habe lernt». (Без ge- только глаголы на -ieren и с неотделяемыми приставками — урок 28.)",
+  "Мостик к русскому: haben/sein в Perfekt не переводятся — «Ich habe gegessen» = просто «я поел»."
+ ],
+ "examples": [
+  {
+   "de": "Was hast du am Wochenende gemacht?",
+   "ru": "Что ты делал на выходных?"
+  },
+  {
+   "de": "Ich habe ein Buch gelesen.",
+   "ru": "Я читал книгу."
+  },
+  {
+   "de": "Wir haben lange geschlafen.",
+   "ru": "Мы долго спали."
+  },
+  {
+   "de": "Sie ist mit dem Zug nach Berlin gefahren.",
+   "ru": "Она поехала (съездила) в Берлин на поезде."
+  },
+  {
+   "de": "Hast du schon gegessen?",
+   "ru": "Ты уже поел?"
+  },
+  {
+   "de": "Er hat mir nicht geantwortet.",
+   "ru": "Он мне не ответил."
+  },
+  {
+   "de": "Die Kinder sind im Park gelaufen.",
+   "ru": "Дети бегали в парке."
+  },
+  {
+   "de": "Ich habe den Schlüssel gefunden!",
+   "ru": "Я нашёл ключ!"
+  },
+  {
+   "de": "Wann seid ihr nach Hause gekommen?",
+   "ru": "Когда вы пришли домой?"
+  },
+  {
+   "de": "Was ist passiert?",
+   "ru": "Что случилось?"
+  },
+  {
+   "de": "Wir haben Fußball gespielt und gewonnen.",
+   "ru": "Мы играли в футбол и выиграли."
+  },
+  {
+   "de": "Er ist sehr schnell gewachsen.",
+   "ru": "Он очень быстро вырос."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "gehen",
+   "forms": "geht, ging, ist gegangen",
+   "ru": "идти"
+  },
+  {
+   "de": "kommen",
+   "forms": "kommt, kam, ist gekommen",
+   "ru": "приходить"
+  },
+  {
+   "de": "fahren",
+   "forms": "fährt, fuhr, ist gefahren",
+   "ru": "ехать"
+  },
+  {
+   "de": "fliegen",
+   "forms": "fliegt, flog, ist geflogen",
+   "ru": "лететь"
+  },
+  {
+   "de": "bleiben",
+   "forms": "bleibt, blieb, ist geblieben",
+   "ru": "оставаться"
+  },
+  {
+   "de": "werden",
+   "forms": "wird, wurde, ist geworden",
+   "ru": "становиться"
+  },
+  {
+   "de": "essen",
+   "forms": "isst, aß, hat gegessen",
+   "ru": "есть"
+  },
+  {
+   "de": "trinken",
+   "forms": "trinkt, trank, hat getrunken",
+   "ru": "пить"
+  },
+  {
+   "de": "sprechen",
+   "forms": "spricht, sprach, hat gesprochen",
+   "ru": "говорить"
+  },
+  {
+   "de": "helfen",
+   "forms": "hilft, half, hat geholfen",
+   "ru": "помогать"
+  },
+  {
+   "de": "geben",
+   "forms": "gibt, gab, hat gegeben",
+   "ru": "давать"
+  },
+  {
+   "de": "sehen",
+   "forms": "sieht, sah, hat gesehen",
+   "ru": "видеть"
+  },
+  {
+   "de": "lesen",
+   "forms": "liest, las, hat gelesen",
+   "ru": "читать"
+  },
+  {
+   "de": "schreiben",
+   "forms": "schreibt, schrieb, hat geschrieben",
+   "ru": "писать"
+  },
+  {
+   "de": "finden",
+   "forms": "findet, fand, hat gefunden",
+   "ru": "находить"
+  },
+  {
+   "de": "nehmen",
+   "forms": "nimmt, nahm, hat genommen",
+   "ru": "брать"
+  },
+  {
+   "de": "treffen",
+   "forms": "trifft, traf, hat getroffen",
+   "ru": "встречать"
+  },
+  {
+   "de": "gewinnen",
+   "forms": "gewinnt, gewann, hat gewonnen",
+   "ru": "выигрывать"
+  },
+  {
+   "de": "schlafen",
+   "forms": "schläft, schlief, hat geschlafen",
+   "ru": "спать"
+  },
+  {
+   "de": "laufen",
+   "forms": "läuft, lief, ist gelaufen",
+   "ru": "бежать, ходить пешком"
+  },
+  {
+   "de": "wachsen",
+   "forms": "wächst, wuchs, ist gewachsen",
+   "ru": "расти"
+  },
+  {
+   "de": "verschwinden",
+   "forms": "verschwindet, verschwand, ist verschwunden",
+   "ru": "исчезать"
+  },
+  {
+   "de": "denken",
+   "forms": "denkt, dachte, hat gedacht",
+   "ru": "думать"
+  },
+  {
+   "de": "bringen",
+   "forms": "bringt, brachte, hat gebracht",
+   "ru": "приносить"
+  },
+  {
+   "de": "rennen",
+   "forms": "rennt, rannte, ist gerannt",
+   "ru": "бежать, мчаться"
+  }
+ ],
+ "phrasesNote": "Perfekt: haben/sein + Partizip II. Правильные глаголы (ge-…-t), неправильные (ge-…-en), глаголы движения с sein, возвратные с haben. Прогоняйте по таблице: Präsens → Perfekt.",
+ "phrases": [
+  {
+   "de": "Ich lerne Deutsch.",
+   "ru": "Я учу немецкий."
+  },
+  {
+   "de": "Ich habe gestern Deutsch gelernt.",
+   "ru": "Вчера я учил немецкий."
+  },
+  {
+   "de": "Du lernst Deutsch.",
+   "ru": "Ты учишь немецкий."
+  },
+  {
+   "de": "Du hast gestern Deutsch gelernt.",
+   "ru": "Вчера ты учил немецкий."
+  },
+  {
+   "de": "Er lernt Deutsch.",
+   "ru": "Он учит немецкий."
+  },
+  {
+   "de": "Er hat gestern Deutsch gelernt.",
+   "ru": "Вчера он учил немецкий."
+  },
+  {
+   "de": "Sie lernt Deutsch.",
+   "ru": "Она учит немецкий."
+  },
+  {
+   "de": "Sie hat gestern Deutsch gelernt.",
+   "ru": "Вчера она учила немецкий."
+  },
+  {
+   "de": "Wir lernen Deutsch.",
+   "ru": "Мы учим немецкий."
+  },
+  {
+   "de": "Wir haben gestern Deutsch gelernt.",
+   "ru": "Вчера мы учили немецкий."
+  },
+  {
+   "de": "Ihr lernt Deutsch.",
+   "ru": "Вы учите немецкий."
+  },
+  {
+   "de": "Ihr habt gestern Deutsch gelernt.",
+   "ru": "Вчера вы учили немецкий."
+  },
+  {
+   "de": "Sie lernen Deutsch.",
+   "ru": "Они учат немецкий."
+  },
+  {
+   "de": "Sie haben gestern Deutsch gelernt.",
+   "ru": "Вчера они учили немецкий."
+  },
+  {
+   "de": "Ich spiele gerne Volleyball.",
+   "ru": "Я люблю играть в волейбол."
+  },
+  {
+   "de": "Ich habe gerne Volleyball gespielt.",
+   "ru": "Я любил играть в волейбол."
+  },
+  {
+   "de": "Ich male ein Bild.",
+   "ru": "Я рисую картину."
+  },
+  {
+   "de": "Ich habe ein Bild gemalt.",
+   "ru": "Я нарисовал картину."
+  },
+  {
+   "de": "Ich kaufe ein Haus.",
+   "ru": "Я покупаю дом."
+  },
+  {
+   "de": "Ich habe ein Haus gekauft.",
+   "ru": "Я купил дом."
+  },
+  {
+   "de": "Ich arbeite täglich.",
+   "ru": "Я работаю ежедневно."
+  },
+  {
+   "de": "Ich habe früher täglich gearbeitet.",
+   "ru": "Раньше я работал ежедневно."
+  },
+  {
+   "de": "Ich öffne die Tür.",
+   "ru": "Я открываю дверь."
+  },
+  {
+   "de": "Ich habe die Tür schon geöffnet.",
+   "ru": "Я уже открыл дверь."
+  },
+  {
+   "de": "Ich antworte meinem Bruder.",
+   "ru": "Я отвечаю своему брату."
+  },
+  {
+   "de": "Ich habe meinem Bruder geantwortet.",
+   "ru": "Я ответил своему брату."
+  },
+  {
+   "de": "Ich esse gerne Fleisch.",
+   "ru": "Я люблю есть мясо."
+  },
+  {
+   "de": "Ich habe früher gerne Fleisch gegessen.",
+   "ru": "Раньше я любил есть мясо."
+  },
+  {
+   "de": "Du isst gerne Fleisch.",
+   "ru": "Ты любишь есть мясо."
+  },
+  {
+   "de": "Du hast früher gerne Fleisch gegessen.",
+   "ru": "Раньше ты любил есть мясо."
+  },
+  {
+   "de": "Er isst gerne Fleisch.",
+   "ru": "Он любит есть мясо."
+  },
+  {
+   "de": "Er hat früher gerne Fleisch gegessen.",
+   "ru": "Раньше он любил есть мясо."
+  },
+  {
+   "de": "Sie isst gerne Fleisch.",
+   "ru": "Она любит есть мясо."
+  },
+  {
+   "de": "Sie hat früher gerne Fleisch gegessen.",
+   "ru": "Раньше она любила есть мясо."
+  },
+  {
+   "de": "Wir essen gerne Fleisch.",
+   "ru": "Мы любим есть мясо."
+  },
+  {
+   "de": "Wir haben früher gerne Fleisch gegessen.",
+   "ru": "Раньше мы любили есть мясо."
+  },
+  {
+   "de": "Ihr esst gerne Fleisch.",
+   "ru": "Вы любите есть мясо."
+  },
+  {
+   "de": "Ihr habt früher gerne Fleisch gegessen.",
+   "ru": "Раньше вы любили есть мясо."
+  },
+  {
+   "de": "Sie essen gerne Fleisch.",
+   "ru": "Они любят есть мясо."
+  },
+  {
+   "de": "Sie haben früher gerne Fleisch gegessen.",
+   "ru": "Раньше они любили есть мясо."
+  },
+  {
+   "de": "Ich gehe in die Schule.",
+   "ru": "Я хожу в школу."
+  },
+  {
+   "de": "Ich bin früher in die Schule gegangen.",
+   "ru": "Раньше я ходил в школу."
+  },
+  {
+   "de": "Du gehst in die Schule.",
+   "ru": "Ты идёшь в школу."
+  },
+  {
+   "de": "Du bist gestern in die Schule gegangen.",
+   "ru": "Вчера ты ходил в школу."
+  },
+  {
+   "de": "Er geht in die Schule.",
+   "ru": "Он идёт в школу."
+  },
+  {
+   "de": "Er ist gestern in die Schule gegangen.",
+   "ru": "Вчера он ходил в школу."
+  },
+  {
+   "de": "Sie geht in die Schule.",
+   "ru": "Она идёт в школу."
+  },
+  {
+   "de": "Sie ist gestern in die Schule gegangen.",
+   "ru": "Вчера она ходила в школу."
+  },
+  {
+   "de": "Wir gehen in die Schule.",
+   "ru": "Мы идём в школу."
+  },
+  {
+   "de": "Wir sind gestern in die Schule gegangen.",
+   "ru": "Вчера мы ходили в школу."
+  },
+  {
+   "de": "Ihr geht in die Schule.",
+   "ru": "Вы идёте в школу."
+  },
+  {
+   "de": "Ihr seid gestern in die Schule gegangen.",
+   "ru": "Вчера вы ходили в школу."
+  },
+  {
+   "de": "Sie gehen in die Schule.",
+   "ru": "Они идут в школу."
+  },
+  {
+   "de": "Sie sind gestern in die Schule gegangen.",
+   "ru": "Вчера они ходили в школу."
+  },
+  {
+   "de": "Ich trinke gerne Bier.",
+   "ru": "Я люблю пить пиво."
+  },
+  {
+   "de": "Ich habe früher gerne Bier getrunken.",
+   "ru": "Раньше я любил пить пиво."
+  },
+  {
+   "de": "Ich spreche viel Deutsch.",
+   "ru": "Я много говорю по-немецки."
+  },
+  {
+   "de": "Ich habe gestern viel Deutsch gesprochen.",
+   "ru": "Вчера я много говорил по-немецки."
+  },
+  {
+   "de": "Ich helfe meinem Freund.",
+   "ru": "Я помогаю своему другу."
+  },
+  {
+   "de": "Ich habe gestern meinem Freund geholfen.",
+   "ru": "Вчера я помог своему другу."
+  },
+  {
+   "de": "Ich gewinne immer.",
+   "ru": "Я всегда выигрываю."
+  },
+  {
+   "de": "Früher habe ich immer gewonnen.",
+   "ru": "Раньше я всегда выигрывал."
+  },
+  {
+   "de": "Ich gebe meinem Bruder mein Auto.",
+   "ru": "Я даю брату свою машину."
+  },
+  {
+   "de": "Ich habe meinem Bruder mein Auto gegeben.",
+   "ru": "Я дал брату свою машину."
+  },
+  {
+   "de": "Ich treffe mich mit meinem Freund.",
+   "ru": "Я встречаюсь со своим другом."
+  },
+  {
+   "de": "Ich habe mich gestern mit meinem Freund getroffen.",
+   "ru": "Вчера я встретился со своим другом."
+  },
+  {
+   "de": "Ich setze mich auf den Stuhl.",
+   "ru": "Я сажусь на стул."
+  },
+  {
+   "de": "Ich habe mich auf den Stuhl gesetzt.",
+   "ru": "Я сел на стул."
+  },
+  {
+   "de": "Ich erinnere mich an meine Kindheit.",
+   "ru": "Я вспоминаю своё детство."
+  },
+  {
+   "de": "Ich habe mich an meine Kindheit erinnert.",
+   "ru": "Я вспомнил своё детство."
+  },
+  {
+   "de": "Ich erhole mich auf den Kanarischen Inseln.",
+   "ru": "Я отдыхаю на Канарских островах."
+  },
+  {
+   "de": "Ich habe mich im Juni auf den Kanarischen Inseln erholt.",
+   "ru": "В июне я отдыхал на Канарских островах."
+  },
+  {
+   "de": "Ich interessiere mich für die Politik.",
+   "ru": "Я интересуюсь политикой."
+  },
+  {
+   "de": "Ich habe mich früher für die Politik interessiert.",
+   "ru": "Раньше я интересовался политикой."
+  },
+  {
+   "de": "Ich wasche mich jeden Tag.",
+   "ru": "Я моюсь каждый день."
+  },
+  {
+   "de": "Ich habe mich früher einmal pro Woche gewaschen.",
+   "ru": "Раньше я мылся раз в неделю."
+  },
+  {
+   "de": "Ich fahre nach Italien.",
+   "ru": "Я еду в Италию."
+  },
+  {
+   "de": "Ich bin im Juli nach Italien gefahren.",
+   "ru": "В июле я ездил в Италию."
+  },
+  {
+   "de": "Ich fliege gerne mit dem Flugzeug.",
+   "ru": "Я люблю летать на самолёте."
+  },
+  {
+   "de": "Ich bin früher gerne mit dem Flugzeug geflogen.",
+   "ru": "Раньше я любил летать на самолёте."
+  },
+  {
+   "de": "Ich reise gerne.",
+   "ru": "Я люблю путешествовать."
+  },
+  {
+   "de": "Ich bin früher gerne gereist.",
+   "ru": "Раньше я любил путешествовать."
+  },
+  {
+   "de": "Ich renne ganz schnell.",
+   "ru": "Я бегу очень быстро."
+  },
+  {
+   "de": "Ich bin ganz schnell gerannt.",
+   "ru": "Я бежал очень быстро."
+  },
+  {
+   "de": "Ich reite durch den Wald.",
+   "ru": "Я скачу верхом через лес."
+  },
+  {
+   "de": "Ich bin sehr lange durch den Wald geritten.",
+   "ru": "Я очень долго ехал верхом через лес."
+  },
+  {
+   "de": "Ich stehe immer sehr früh auf.",
+   "ru": "Я всегда встаю очень рано."
+  },
+  {
+   "de": "Ich bin früher immer sehr früh aufgestanden.",
+   "ru": "Раньше я всегда вставал очень рано."
+  },
+  {
+   "de": "Ich schlafe immer sehr spät ein.",
+   "ru": "Я всегда засыпаю очень поздно."
+  },
+  {
+   "de": "Ich bin früher immer sehr spät eingeschlafen.",
+   "ru": "Раньше я всегда засыпал очень поздно."
+  },
+  {
+   "de": "Ich verschwinde ganz schnell.",
+   "ru": "Я очень быстро исчезаю."
+  },
+  {
+   "de": "Ich bin ganz schnell verschwunden.",
+   "ru": "Я очень быстро исчез."
+  },
+  {
+   "de": "Ich wachse ganz schnell.",
+   "ru": "Я очень быстро расту."
+  },
+  {
+   "de": "Ich bin sehr schnell gewachsen.",
+   "ru": "Я очень быстро вырос."
+  },
+  {
+   "de": "Ich bleibe heute zu Hause.",
+   "ru": "Сегодня я остаюсь дома."
+  },
+  {
+   "de": "Ich bin gestern zu Hause geblieben.",
+   "ru": "Вчера я остался дома."
+  },
+  {
+   "de": "Ich werde alt.",
+   "ru": "Я старею."
+  },
+  {
+   "de": "Ich bin alt geworden.",
+   "ru": "Я постарел."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Partizip II от «lernen»:",
+   "options": [
+    "gelernen",
+    "gelernt",
+    "lernt"
+   ],
+   "answer": 1,
+   "explain": "Правильный глагол: ge- + lern + -t."
+  },
+  {
+   "type": "choice",
+   "q": "Partizip II от «arbeiten»:",
+   "options": [
+    "gearbeit",
+    "gearbeitet",
+    "arbeitet"
+   ],
+   "answer": 1,
+   "explain": "Основа на -t → -et: gearbeitet."
+  },
+  {
+   "type": "choice",
+   "q": "Partizip II от «trinken»:",
+   "options": [
+    "getrinkt",
+    "getrunken",
+    "getranken"
+   ],
+   "answer": 1,
+   "explain": "Группа i – a – u: trinken – trank – getrunken."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe ein Bild ___. (malen)",
+   "answer": [
+    "gemalt"
+   ],
+   "explain": "malen → gemalt."
+  },
+  {
+   "type": "gap",
+   "q": "Er hat früher gerne Fleisch ___. (essen)",
+   "answer": [
+    "gegessen"
+   ],
+   "explain": "essen – aß – gegessen."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ nach Italien gefahren.",
+   "options": [
+    "habe",
+    "bin",
+    "werde"
+   ],
+   "answer": 1,
+   "explain": "fahren — движение → sein."
+  },
+  {
+   "type": "choice",
+   "q": "Wir ___ lange geschlafen.",
+   "options": [
+    "sind",
+    "haben",
+    "seid"
+   ],
+   "answer": 1,
+   "explain": "schlafen — не движение и не изменение → haben."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ gestern in die Schule gegangen.",
+   "answer": [
+    "seid"
+   ],
+   "explain": "ihr seid … gegangen."
+  },
+  {
+   "type": "gap",
+   "q": "Ich habe meinem Freund ___. (helfen)",
+   "answer": [
+    "geholfen"
+   ],
+   "explain": "helfen – half – geholfen."
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ mich auf den Stuhl gesetzt.",
+   "options": [
+    "bin",
+    "habe",
+    "hat"
+   ],
+   "answer": 1,
+   "explain": "Возвратные глаголы — всегда с haben."
+  },
+  {
+   "type": "gap",
+   "q": "Er ist sehr schnell ___. (wachsen)",
+   "answer": [
+    "gewachsen"
+   ],
+   "explain": "wachsen – wuchs – ist gewachsen."
+  },
+  {
+   "type": "gap",
+   "q": "Ich bin gestern zu Hause ___. (bleiben)",
+   "answer": [
+    "geblieben"
+   ],
+   "explain": "bleiben – blieb – ist geblieben (группа ei – ie – ie)."
+  },
+  {
+   "type": "choice",
+   "q": "Какое чередование у «gewinnen – gewann – gewonnen»?",
+   "options": [
+    "i – a – u",
+    "i – a – o",
+    "ei – ie – ie"
+   ],
+   "answer": 1,
+   "explain": "Группа 5: beginnen, gewinnen, schwimmen."
+  },
+  {
+   "type": "choice",
+   "q": "Ich bin alt ___.",
+   "options": [
+    "geworden",
+    "gewerdet",
+    "gewesen"
+   ],
+   "answer": 0,
+   "explain": "werden – wurde – ist geworden."
+  },
+  {
+   "type": "translate",
+   "q": "Вчера я много говорил по-немецки.",
+   "answer": [
+    "Ich habe gestern viel Deutsch gesprochen.",
+    "Gestern habe ich viel Deutsch gesprochen."
+   ],
+   "explain": "sprechen – sprach – gesprochen."
+  },
+  {
+   "type": "translate",
+   "q": "Я купил дом.",
+   "answer": [
+    "Ich habe ein Haus gekauft."
+   ],
+   "explain": "kaufen → gekauft."
+  },
+  {
+   "type": "translate",
+   "q": "Он поехал в Италию в июле.",
+   "answer": [
+    "Er ist im Juli nach Italien gefahren.",
+    "Im Juli ist er nach Italien gefahren."
+   ],
+   "explain": "fahren → sein."
+  },
+  {
+   "type": "translate",
+   "q": "Раньше я всегда вставал очень рано.",
+   "answer": [
+    "Früher bin ich immer sehr früh aufgestanden.",
+    "Ich bin früher immer sehr früh aufgestanden."
+   ],
+   "explain": "aufstehen → ist aufgestanden."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "habe",
+    "die Tür",
+    "ich",
+    "geöffnet",
+    "schon"
+   ],
+   "answer": [
+    "Ich habe die Tür schon geöffnet.",
+    "Ich habe schon die Tür geöffnet."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "sind",
+    "wir",
+    "geflogen",
+    "nach Berlin",
+    "gestern"
+   ],
+   "answer": [
+    "Wir sind gestern nach Berlin geflogen.",
+    "Gestern sind wir nach Berlin geflogen."
+   ]
+  }
+ ]
+}

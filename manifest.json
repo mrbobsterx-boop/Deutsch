@@ -1,0 +1,17 @@
+{
+  "name": "Deutsch 90 — немецкий за 90 дней",
+  "short_name": "Deutsch 90",
+  "description": "Тест уровня, личный план на 90 дней, 50 уроков грамматики, фразы, карточки слов и тесты.",
+  "start_url": "./index.html#/today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#24211b",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

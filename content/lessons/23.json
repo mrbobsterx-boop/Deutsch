@@ -1,0 +1,571 @@
+{
+ "id": 23,
+ "title": "Futur I и глагол werden",
+ "level": "A2",
+ "goal": "Вы сможете говорить о будущем (Futur I), строить предложения с werden и использовать werden в значении «становиться».",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Спряжение глагола werden",
+   "html": "<p><span class=\"de\">werden</span> — один из самых важных глаголов немецкого языка. Он неправильный: во 2-м и 3-м лице ед. числа меняется корень.</p><table><tr><th>Лицо</th><th>werden</th><th>Лицо</th><th>werden</th></tr><tr><td>ich</td><td><span class=\"de\">werde</span></td><td>wir</td><td><span class=\"de\">werden</span></td></tr><tr><td>du</td><td><span class=\"de\">wirst</span></td><td>ihr</td><td><span class=\"de\">werdet</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">wird</span></td><td>sie/Sie</td><td><span class=\"de\">werden</span></td></tr></table><div class=\"note\">Обратите внимание: <span class=\"de\">du wirst</span> (без d!), <span class=\"de\">er wird</span> (без t на конце!).</div>"
+  },
+  {
+   "h": "Значение 1: werden = становиться",
+   "html": "<p>Как самостоятельный глагол <span class=\"de\">werden</span> означает «становиться, делаться»:</p><ul><li><span class=\"de\">Ich möchte Arzt werden.</span> — Я хочу стать врачом. (профессия — без артикля!)</li><li><span class=\"de\">Wann wirst du endlich erwachsen?</span> — Когда ты наконец станешь взрослым?</li><li><span class=\"de\">Es wird dunkel.</span> — Темнеет (становится темно).</li><li><span class=\"de\">Er wird alt.</span> — Он стареет.</li></ul><p>В русском часто используем отдельный глагол (темнеет, холодает, стареет) — в немецком это <span class=\"de\">es wird + прилагательное</span>.</p>"
+  },
+  {
+   "h": "Значение 2: Futur I = werden + инфинитив",
+   "html": "<p>Будущее время строится так: <b>werden</b> (спрягается, 2-е место) + <b>инфинитив</b> (в самом конце предложения). Это «рамка», как у модальных глаголов.</p><table><tr><th>Подлежащее</th><th>werden</th><th>середина</th><th>инфинитив</th></tr><tr><td>Ich</td><td><span class=\"de\">werde</span></td><td>dir immer</td><td><span class=\"de\">helfen</span>.</td></tr><tr><td>Nächstes Jahr</td><td><span class=\"de\">werden</span></td><td>wir in Deutschland</td><td><span class=\"de\">studieren</span>.</td></tr><tr><td>Wann</td><td><span class=\"de\">wirst</span></td><td>du deine Hausaufgaben</td><td><span class=\"de\">machen</span>?</td></tr></table><p>Если на первом месте стоит обстоятельство (<span class=\"de\">Nächstes Jahr</span>, <span class=\"de\">Morgen</span>), подлежащее идёт <b>после</b> werden — инверсия.</p>"
+  },
+  {
+   "h": "Когда Futur, а когда Präsens",
+   "html": "<p>В разговорной речи немцы очень часто говорят о будущем <b>в настоящем времени</b>, если есть указание времени:</p><ul><li><span class=\"de\">Morgen fahre ich nach Berlin.</span> — Завтра я еду в Берлин.</li></ul><p>Futur I используют, когда хотят подчеркнуть:</p><ul><li><b>обещание, намерение</b>: <span class=\"de\">Ich werde dich immer lieben.</span></li><li><b>прогноз, предположение</b>: <span class=\"de\">Morgen wird es regnen.</span> <span class=\"de\">Möglicherweise wird es morgen kalt.</span></li><li><b>будущее без указания времени</b>: <span class=\"de\">Er wird das schaffen.</span> — Он справится.</li></ul>"
+  },
+  {
+   "h": "Futur с модальными и отрицанием",
+   "html": "<p>Отрицание <span class=\"de\">nicht</span> обычно стоит перед инфинитивом: <span class=\"de\">Ich werde heute nicht kommen.</span></p><p>Не путайте: <span class=\"de\">Ich werde Arzt.</span> — Я стану врачом (werden = становиться), <span class=\"de\">Ich werde arbeiten.</span> — Я буду работать (Futur). Если в конце инфинитив — это Futur, если существительное/прилагательное — «становиться».</p><p>Выражение <span class=\"de\">es wird gleich</span> + инфинитив = «вот-вот»: <span class=\"de\">Es wird gleich regnen.</span> — Сейчас пойдёт дождь.</p>"
+  }
+ ],
+ "tips": [
+  "Не путайте wird и will: «Er will kommen» — он ХОЧЕТ прийти, «Er wird kommen» — он ПРИДЁТ. Русскоговорящие часто ошибаются из-за похожего звучания.",
+  "Профессии после werden и sein — без артикля: Ich möchte Ärztin werden, а не «eine Ärztin».",
+  "Инфинитив в Futur — всегда в самом конце: Ich werde morgen mit meinem Freund ins Kino gehen.",
+  "Русское «буду» почти всегда = werden: я буду помогать — ich werde helfen."
+ ],
+ "examples": [
+  {
+   "de": "Ich werde morgen früh aufstehen.",
+   "ru": "Завтра я встану рано."
+  },
+  {
+   "de": "Wirst du mich anrufen?",
+   "ru": "Ты мне позвонишь?"
+  },
+  {
+   "de": "Er wird Lehrer.",
+   "ru": "Он станет учителем."
+  },
+  {
+   "de": "Es wird bald Winter.",
+   "ru": "Скоро наступит зима."
+  },
+  {
+   "de": "Wir werden im Sommer ans Meer fahren.",
+   "ru": "Летом мы поедем на море."
+  },
+  {
+   "de": "Ihr werdet das schaffen!",
+   "ru": "Вы справитесь!"
+  },
+  {
+   "de": "Morgen wird es regnen.",
+   "ru": "Завтра будет дождь."
+  },
+  {
+   "de": "Die Kinder werden schnell groß.",
+   "ru": "Дети быстро растут (становятся большими)."
+  },
+  {
+   "de": "Ich werde heute nicht kochen.",
+   "ru": "Сегодня я не буду готовить."
+  },
+  {
+   "de": "Wann werden Sie in Berlin sein?",
+   "ru": "Когда вы будете в Берлине?"
+  },
+  {
+   "de": "Meine Schwester möchte Ärztin werden.",
+   "ru": "Моя сестра хочет стать врачом."
+  },
+  {
+   "de": "Es wird schon spät.",
+   "ru": "Уже становится поздно."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "werden",
+   "forms": "wird, wurde, ist geworden",
+   "ru": "становиться; вспомогательный глагол будущего времени"
+  },
+  {
+   "de": "erwachsen",
+   "ru": "взрослый"
+  },
+  {
+   "de": "endlich",
+   "ru": "наконец"
+  },
+  {
+   "de": "immer",
+   "ru": "всегда"
+  },
+  {
+   "de": "helfen",
+   "forms": "hilft, half, hat geholfen",
+   "ru": "помогать (+ Dativ)"
+  },
+  {
+   "de": "lieben",
+   "ru": "любить"
+  },
+  {
+   "de": "studieren",
+   "ru": "учиться в вузе"
+  },
+  {
+   "de": "die Hausaufgabe",
+   "pl": "die Hausaufgaben",
+   "ru": "домашнее задание"
+  },
+  {
+   "de": "der Arzt",
+   "pl": "die Ärzte",
+   "ru": "врач"
+  },
+  {
+   "de": "die Ärztin",
+   "pl": "die Ärztinnen",
+   "ru": "врач (женщина)"
+  },
+  {
+   "de": "nächstes Jahr",
+   "ru": "в следующем году"
+  },
+  {
+   "de": "nächste Woche",
+   "ru": "на следующей неделе"
+  },
+  {
+   "de": "bald",
+   "ru": "скоро"
+  },
+  {
+   "de": "gleich",
+   "ru": "сейчас, вот-вот"
+  },
+  {
+   "de": "möglicherweise",
+   "ru": "возможно"
+  },
+  {
+   "de": "vielleicht",
+   "ru": "может быть"
+  },
+  {
+   "de": "hell",
+   "ru": "светлый"
+  },
+  {
+   "de": "dunkel",
+   "ru": "тёмный"
+  },
+  {
+   "de": "regnen",
+   "ru": "идти (о дожде)"
+  },
+  {
+   "de": "schneien",
+   "ru": "идти (о снеге)"
+  },
+  {
+   "de": "die Zukunft",
+   "ru": "будущее"
+  },
+  {
+   "de": "schaffen",
+   "ru": "справиться, успеть"
+  }
+ ],
+ "phrasesNote": "Futur I: werden + инфинитив; werden в значении «становиться» (erwachsen werden, Arzt werden, es wird hell). Прогоняйте по всем лицам.",
+ "phrases": [
+  {
+   "de": "Ich werde dir immer helfen.",
+   "ru": "Я всегда буду тебе помогать."
+  },
+  {
+   "de": "Du wirst mir immer helfen.",
+   "ru": "Ты всегда будешь мне помогать."
+  },
+  {
+   "de": "Er wird ihr immer helfen.",
+   "ru": "Он всегда будет ей помогать."
+  },
+  {
+   "de": "Sie wird ihm immer helfen.",
+   "ru": "Она всегда будет ему помогать."
+  },
+  {
+   "de": "Wir werden euch immer helfen.",
+   "ru": "Мы всегда будем вам помогать."
+  },
+  {
+   "de": "Ihr werdet uns immer helfen.",
+   "ru": "Вы всегда будете нам помогать."
+  },
+  {
+   "de": "Ich werde ihnen immer helfen.",
+   "ru": "Я всегда буду им помогать."
+  },
+  {
+   "de": "Ich werde dich immer lieben.",
+   "ru": "Я всегда буду тебя любить."
+  },
+  {
+   "de": "Du wirst mich immer lieben.",
+   "ru": "Ты всегда будешь меня любить."
+  },
+  {
+   "de": "Er wird sie immer lieben.",
+   "ru": "Он всегда будет её любить."
+  },
+  {
+   "de": "Sie wird ihn immer lieben.",
+   "ru": "Она всегда будет его любить."
+  },
+  {
+   "de": "Wir werden euch immer lieben.",
+   "ru": "Мы всегда будем вас любить."
+  },
+  {
+   "de": "Ihr werdet uns immer lieben.",
+   "ru": "Вы всегда будете нас любить."
+  },
+  {
+   "de": "Ich werde sie immer lieben.",
+   "ru": "Я всегда буду их (её) любить."
+  },
+  {
+   "de": "Wann werde ich endlich erwachsen?",
+   "ru": "Когда я наконец стану взрослым?"
+  },
+  {
+   "de": "Wann wirst du endlich erwachsen?",
+   "ru": "Когда ты наконец станешь взрослым?"
+  },
+  {
+   "de": "Wann wird sie endlich erwachsen?",
+   "ru": "Когда она наконец станет взрослой?"
+  },
+  {
+   "de": "Wann wird er endlich erwachsen?",
+   "ru": "Когда он наконец станет взрослым?"
+  },
+  {
+   "de": "Wann werden wir endlich erwachsen?",
+   "ru": "Когда мы наконец станем взрослыми?"
+  },
+  {
+   "de": "Wann werdet ihr endlich erwachsen?",
+   "ru": "Когда вы наконец станете взрослыми?"
+  },
+  {
+   "de": "Wann werden sie endlich erwachsen?",
+   "ru": "Когда они наконец станут взрослыми?"
+  },
+  {
+   "de": "Wann wirst du deine Hausaufgaben machen?",
+   "ru": "Когда ты сделаешь домашнее задание?"
+  },
+  {
+   "de": "Wann wird er seine Hausaufgaben machen?",
+   "ru": "Когда он сделает домашнее задание?"
+  },
+  {
+   "de": "Wann wird sie ihre Hausaufgaben machen?",
+   "ru": "Когда она сделает домашнее задание?"
+  },
+  {
+   "de": "Wann werden wir unsere Hausaufgaben machen?",
+   "ru": "Когда мы сделаем домашнее задание?"
+  },
+  {
+   "de": "Wann werdet ihr eure Hausaufgaben machen?",
+   "ru": "Когда вы сделаете домашнее задание?"
+  },
+  {
+   "de": "Wann werden sie ihre Hausaufgaben machen?",
+   "ru": "Когда они сделают домашнее задание?"
+  },
+  {
+   "de": "Ich möchte Arzt werden.",
+   "ru": "Я хочу стать врачом."
+  },
+  {
+   "de": "Du möchtest Arzt werden.",
+   "ru": "Ты хочешь стать врачом."
+  },
+  {
+   "de": "Er möchte Arzt werden.",
+   "ru": "Он хочет стать врачом."
+  },
+  {
+   "de": "Sie möchte Arzt werden.",
+   "ru": "Она хочет стать врачом."
+  },
+  {
+   "de": "Wir möchten Ärzte werden.",
+   "ru": "Мы хотим стать врачами."
+  },
+  {
+   "de": "Ihr möchtet Ärzte werden.",
+   "ru": "Вы хотите стать врачами."
+  },
+  {
+   "de": "Sie möchten Ärzte werden.",
+   "ru": "Они хотят стать врачами."
+  },
+  {
+   "de": "Nächstes Jahr werde ich in Deutschland studieren.",
+   "ru": "В следующем году я буду учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr wirst du in Deutschland studieren.",
+   "ru": "В следующем году ты будешь учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr wird er in Deutschland studieren.",
+   "ru": "В следующем году он будет учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr wird sie in Deutschland studieren.",
+   "ru": "В следующем году она будет учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr werden wir in Deutschland studieren.",
+   "ru": "В следующем году мы будем учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr werdet ihr in Deutschland studieren.",
+   "ru": "В следующем году вы будете учиться в Германии."
+  },
+  {
+   "de": "Nächstes Jahr werden sie in Deutschland studieren.",
+   "ru": "В следующем году они будут учиться в Германии."
+  },
+  {
+   "de": "Möglicherweise wird es morgen kalt.",
+   "ru": "Возможно, завтра будет холодно."
+  },
+  {
+   "de": "Möglicherweise wird es morgen warm.",
+   "ru": "Возможно, завтра будет тепло."
+  },
+  {
+   "de": "Es wird schon hell.",
+   "ru": "Уже светает."
+  },
+  {
+   "de": "Es wird schon dunkel.",
+   "ru": "Уже темнеет."
+  },
+  {
+   "de": "Es wird gleich regnen.",
+   "ru": "Сейчас пойдёт дождь."
+  },
+  {
+   "de": "Es wird gleich schneien.",
+   "ru": "Сейчас пойдёт снег."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "du ___ (werden)",
+   "options": [
+    "werdest",
+    "wirst",
+    "wird"
+   ],
+   "answer": 1,
+   "explain": "du wirst — без d."
+  },
+  {
+   "type": "choice",
+   "q": "er ___ (werden)",
+   "options": [
+    "wirt",
+    "werdet",
+    "wird"
+   ],
+   "answer": 2,
+   "explain": "er/sie/es wird."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ uns immer helfen.",
+   "answer": [
+    "werdet"
+   ],
+   "explain": "ihr werdet."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ nächstes Jahr in Deutschland studieren.",
+   "answer": [
+    "werden"
+   ],
+   "explain": "wir werden."
+  },
+  {
+   "type": "choice",
+   "q": "Wo стоит инфинитив в Futur I?",
+   "options": [
+    "на втором месте",
+    "сразу после подлежащего",
+    "в конце предложения"
+   ],
+   "answer": 2,
+   "explain": "werden на 2-м месте, инфинитив — в конце."
+  },
+  {
+   "type": "gap",
+   "q": "Ich werde dir morgen ___. (помогать)",
+   "answer": [
+    "helfen"
+   ],
+   "explain": "Futur: werden + инфинитив."
+  },
+  {
+   "type": "choice",
+   "q": "«Он хочет прийти» — это:",
+   "options": [
+    "Er wird kommen.",
+    "Er will kommen.",
+    "Er wurde kommen."
+   ],
+   "answer": 1,
+   "explain": "wollen = хотеть; werden = будущее время."
+  },
+  {
+   "type": "choice",
+   "q": "Ich möchte ___ werden.",
+   "options": [
+    "ein Arzt",
+    "Arzt",
+    "den Arzt"
+   ],
+   "answer": 1,
+   "explain": "Профессия после werden — без артикля."
+  },
+  {
+   "type": "gap",
+   "q": "Es ___ schon dunkel.",
+   "answer": [
+    "wird"
+   ],
+   "explain": "es wird dunkel — темнеет."
+  },
+  {
+   "type": "gap",
+   "q": "Wann ___ du endlich erwachsen?",
+   "answer": [
+    "wirst"
+   ],
+   "explain": "du wirst."
+  },
+  {
+   "type": "choice",
+   "q": "Nächstes Jahr ___ in Berlin.",
+   "options": [
+    "ich werde wohnen",
+    "werde ich wohnen",
+    "werde ich wohnen werde"
+   ],
+   "answer": 1,
+   "explain": "После обстоятельства на 1-м месте — инверсия: werde ich … wohnen. Инфинитив в конце."
+  },
+  {
+   "type": "choice",
+   "q": "Какое предложение в Futur I?",
+   "options": [
+    "Er wird Lehrer.",
+    "Er wird arbeiten.",
+    "Es wird kalt."
+   ],
+   "answer": 1,
+   "explain": "Futur = werden + инфинитив (arbeiten). Остальные — werden в значении «становиться»."
+  },
+  {
+   "type": "translate",
+   "q": "Я всегда буду тебя любить.",
+   "answer": [
+    "Ich werde dich immer lieben."
+   ],
+   "explain": "werden + инфинитив в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Завтра будет дождь.",
+   "answer": [
+    "Morgen wird es regnen.",
+    "Es wird morgen regnen."
+   ],
+   "explain": "es wird regnen."
+  },
+  {
+   "type": "translate",
+   "q": "Когда вы (ihr) сделаете домашнее задание?",
+   "answer": [
+    "Wann werdet ihr eure Hausaufgaben machen?",
+    "Wann werdet ihr die Hausaufgaben machen?"
+   ],
+   "explain": "ihr werdet … machen."
+  },
+  {
+   "type": "translate",
+   "q": "Она хочет стать врачом.",
+   "answer": [
+    "Sie möchte Ärztin werden.",
+    "Sie will Ärztin werden.",
+    "Sie möchte Arzt werden.",
+    "Sie will Arzt werden."
+   ],
+   "explain": "Профессия без артикля."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "werde",
+    "ich",
+    "morgen",
+    "anrufen",
+    "dich"
+   ],
+   "answer": [
+    "Ich werde dich morgen anrufen.",
+    "Morgen werde ich dich anrufen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "wird",
+    "möglicherweise",
+    "kalt",
+    "morgen",
+    "es"
+   ],
+   "answer": [
+    "Möglicherweise wird es morgen kalt."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "nächstes Jahr",
+    "in Deutschland",
+    "werden",
+    "studieren",
+    "wir"
+   ],
+   "answer": [
+    "Nächstes Jahr werden wir in Deutschland studieren.",
+    "Wir werden nächstes Jahr in Deutschland studieren."
+   ]
+  }
+ ]
+}

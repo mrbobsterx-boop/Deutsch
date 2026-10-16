@@ -1,0 +1,123 @@
+{
+  "id": 33,
+  "title": "Dass, was, ob — придаточные предложения",
+  "level": "B1",
+  "goal": "Вы научитесь строить придаточные предложения с dass, ob и вопросительными словами (was, wo, wann…) и ставить глагол в конец.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Главное правило придаточного: глагол в конце",
+      "html": "<p>В главном предложении спрягаемый глагол стоит на 2-м месте. В <b>придаточном</b> (Nebensatz) он уходит <b>в самый конец</b>:</p><ul><li><span class=\"de\">Er <b>kommt</b> heute.</span> → <span class=\"de\">Ich weiß, dass er heute <b>kommt</b>.</span></li></ul><p>Если глаголов несколько, спрягаемый — последний:</p><table><tr><th>Время / тип</th><th>Придаточное</th></tr><tr><td>Präsens</td><td><span class=\"de\">…, dass du morgen Fußball <b>spielst</b>.</span></td></tr><tr><td>с модальным</td><td><span class=\"de\">…, dass du gut Deutsch sprechen <b>kannst</b>.</span></td></tr><tr><td>Perfekt</td><td><span class=\"de\">…, was du gestern gemacht <b>hast</b>.</span></td></tr><tr><td>Futur I</td><td><span class=\"de\">…, dass er Fußball spielen <b>wird</b>.</span></td></tr><tr><td>отделяемая приставка</td><td><span class=\"de\">…, was du <b>vorhast</b>.</span> (приставка снова слитно!)</td></tr></table><div class=\"note\">Придаточное всегда отделяется запятой.</div>"
+    },
+    {
+      "h": "Dass — «что»",
+      "html": "<p><b>dass</b> вводит пересказ мысли, мнения, слов: после <span class=\"de\">denken, glauben, wissen, sagen, hoffen, meinen, sicher sein, froh sein</span>.</p><ul><li><span class=\"de\">Ich denke, dass ich heute Fußball spielen werde.</span> — Я думаю, что буду сегодня играть в футбол.</li><li><span class=\"de\">Ich hoffe, dass du bald kommst.</span> — Надеюсь, что ты скоро придёшь.</li><li><span class=\"de\">Ich bin mir sicher, dass ich im Juli in Urlaub fahre.</span> — Я уверен, что поеду в отпуск в июле.</li></ul><p>В разговоре после <i>denken, glauben, sagen</i> dass часто опускают — тогда порядок обычный: <span class=\"de\">Ich denke, er kommt heute.</span></p><div class=\"note\">Не путайте <b>dass</b> (союз «что») и <b>das</b> (артикль/местоимение «это, тот»). Проверка: если можно заменить на <i>dieses/welches</i> — пишется <i>das</i>.</div>"
+    },
+    {
+      "h": "Was, wo, wann… — косвенный вопрос",
+      "html": "<p>Вопрос с W-словом можно «вложить» в предложение. Вопросительное слово становится союзом, а глагол уходит в конец:</p><table><tr><th>Прямой вопрос</th><th>Косвенный вопрос</th></tr><tr><td><span class=\"de\">Was hast du vor?</span></td><td><span class=\"de\">Ich weiß, was du vorhast.</span></td></tr><tr><td><span class=\"de\">Was machst du morgen?</span></td><td><span class=\"de\">Ich weiß, was du morgen machst.</span></td></tr><tr><td><span class=\"de\">Wo wohnt er?</span></td><td><span class=\"de\">Weißt du, wo er wohnt?</span></td></tr><tr><td><span class=\"de\">Wann beginnt der Film?</span></td><td><span class=\"de\">Sag mir, wann der Film beginnt.</span></td></tr></table><p>Обычные зачины: <span class=\"de\">Ich weiß (nicht), … / Weißt du, … ? / Kannst du mir sagen, … ? / Ich frage mich, …</span></p>"
+    },
+    {
+      "h": "Ob — «ли»",
+      "html": "<p><b>ob</b> = русское «ли». Им вводится косвенный вопрос <b>без вопросительного слова</b> (то есть из вопроса «да/нет»):</p><ul><li><span class=\"de\">Kommst du pünktlich?</span> → <span class=\"de\">Ich weiß nicht, ob ich pünktlich kommen kann.</span> — Я не знаю, смогу ли я прийти вовремя.</li><li><span class=\"de\">Fährst du mit?</span> → <span class=\"de\">Ich habe noch nicht gesagt, ob ich mitfahre.</span></li></ul><div class=\"note\">Русское «если» в значении «ли» — это <b>ob</b>, а не <i>wenn</i>: «Не знаю, придёт ли он» = <span class=\"de\">Ich weiß nicht, ob er kommt.</span></div>"
+    },
+    {
+      "h": "Придаточное на первом месте",
+      "html": "<p>Придаточное можно поставить в начало. Оно занимает 1-е место, поэтому дальше сразу идёт <b>спрягаемый глагол главного предложения</b>:</p><ul><li><span class=\"de\">Ob ich mitfahre, <b>habe</b> ich noch nicht gesagt.</span></li><li><span class=\"de\">Ob ich pünktlich kommen kann, <b>weiß</b> ich noch nicht.</span></li><li><span class=\"de\">Dass du Recht hast, <b>weiß</b> ich.</span></li></ul><p>Получается конструкция «глагол, глагол» на стыке: <span class=\"de\">…kann, weiß ich…</span></p>"
+    }
+  ],
+  "tips": [
+    "Типичная ошибка: «Ich weiß, dass er kommt heute». После dass/ob/was глагол — строго в конец: dass er heute kommt.",
+    "«Ли» = ob. Никогда не переводите «знаю ли» через wenn.",
+    "Отделяемые глаголы в придаточном снова пишутся слитно: Er hat vor → …, was er vorhat. Er fährt mit → …, ob er mitfährt.",
+    "Перед dass, ob, was, wo и т.д. всегда ставится запятая."
+  ],
+  "examples": [
+    {"de": "Ich glaube, dass er Recht hat.", "ru": "Я думаю, что он прав."},
+    {"de": "Sie sagt, dass sie keine Zeit hat.", "ru": "Она говорит, что у неё нет времени."},
+    {"de": "Weißt du, wo der Bahnhof ist?", "ru": "Ты знаешь, где вокзал?"},
+    {"de": "Kannst du mir sagen, wann der Zug kommt?", "ru": "Можешь сказать мне, когда придёт поезд?"},
+    {"de": "Ich frage mich, ob das richtig ist.", "ru": "Я спрашиваю себя, правильно ли это."},
+    {"de": "Er weiß nicht, was er machen soll.", "ru": "Он не знает, что ему делать."},
+    {"de": "Wir hoffen, dass das Wetter morgen gut wird.", "ru": "Мы надеемся, что завтра будет хорошая погода."},
+    {"de": "Ich bin froh, dass du gekommen bist.", "ru": "Я рад, что ты пришёл."},
+    {"de": "Sag mir bitte, ob du mitkommst.", "ru": "Скажи мне, пожалуйста, пойдёшь ли ты с нами."},
+    {"de": "Dass er so gut kocht, wusste ich nicht.", "ru": "Я не знал, что он так хорошо готовит."},
+    {"de": "Ich verstehe nicht, warum du traurig bist.", "ru": "Я не понимаю, почему ты грустишь."}
+  ],
+  "vocab": [
+    {"de": "dass", "ru": "что (союз)"},
+    {"de": "ob", "ru": "ли"},
+    {"de": "glauben", "ru": "верить, полагать"},
+    {"de": "hoffen", "ru": "надеяться"},
+    {"de": "meinen", "ru": "считать, полагать"},
+    {"de": "sich fragen", "ru": "задаваться вопросом"},
+    {"de": "sicher sein", "ru": "быть уверенным"},
+    {"de": "froh sein", "ru": "радоваться, быть довольным"},
+    {"de": "vorhaben", "ru": "планировать", "forms": "hat vor, hatte vor, hat vorgehabt"},
+    {"de": "mitfahren", "ru": "ехать вместе", "forms": "fährt mit, fuhr mit, ist mitgefahren"},
+    {"de": "mitkommen", "ru": "пойти вместе", "forms": "kommt mit, kam mit, ist mitgekommen"},
+    {"de": "aufräumen", "ru": "убирать (наводить порядок)"},
+    {"de": "pünktlich", "ru": "вовремя, пунктуально"},
+    {"de": "genug", "ru": "достаточно"},
+    {"de": "noch nicht", "ru": "ещё не"},
+    {"de": "Recht haben", "ru": "быть правым"},
+    {"de": "die Meinung", "pl": "die Meinungen", "ru": "мнение"},
+    {"de": "die Frage", "pl": "die Fragen", "ru": "вопрос"},
+    {"de": "die Antwort", "pl": "die Antworten", "ru": "ответ"},
+    {"de": "der Urlaub", "pl": "die Urlaube", "ru": "отпуск"},
+    {"de": "in Urlaub fahren", "ru": "ехать в отпуск"}
+  ],
+  "phrasesNote": "Закрепляем косвенные вопросы с was (в т. ч. с отделяемым vorhaben и Perfekt), придаточные с dass (в т. ч. с Futur I) и ob, а также придаточное на первом месте.",
+  "phrases": [
+    {"de": "Was hast du vor? – Ich weiß, was du vorhast!", "ru": "Что ты задумал? — Я знаю, что ты задумал!"},
+    {"de": "Was hat er vor? – Ich weiß, was er vorhat!", "ru": "Что он задумал? — Я знаю, что он задумал!"},
+    {"de": "Was hat sie vor? – Ich weiß, was sie vorhat!", "ru": "Что она задумала? — Я знаю, что она задумала!"},
+    {"de": "Was haben wir vor? – Ich weiß, was wir vorhaben!", "ru": "Что мы задумали? — Я знаю, что мы задумали!"},
+    {"de": "Was habt ihr vor? – Ich weiß, was ihr vorhabt!", "ru": "Что вы задумали? — Я знаю, что вы задумали!"},
+    {"de": "Was haben sie vor? – Ich weiß, was sie vorhaben!", "ru": "Что они задумали? — Я знаю, что они задумали!"},
+    {"de": "Was machst du morgen? – Ich weiß, was du morgen machst!", "ru": "Что ты делаешь завтра? — Я знаю, что ты делаешь завтра!"},
+    {"de": "Was hast du gestern gemacht? – Ich weiß, was du gestern gemacht hast!", "ru": "Что ты делал вчера? — Я знаю, что ты делал вчера!"},
+    {"de": "Was möchtest du kaufen? – Ich weiß, was du kaufen möchtest!", "ru": "Что ты хочешь купить? — Я знаю, что ты хочешь купить!"},
+    {"de": "Was hast du gesagt? – Ich weiß, was du gesagt hast!", "ru": "Что ты сказал? — Я знаю, что ты сказал!"},
+    {"de": "Ich spiele heute Fußball – ich denke, dass ich heute Fußball spielen werde.", "ru": "Я сегодня играю в футбол — думаю, что я сегодня буду играть в футбол."},
+    {"de": "Du spielst heute Fußball – ich denke, dass du heute Fußball spielen wirst.", "ru": "Ты сегодня играешь в футбол — думаю, что ты сегодня будешь играть в футбол."},
+    {"de": "Er spielt heute Fußball – ich denke, dass er heute Fußball spielen wird.", "ru": "Он сегодня играет в футбол — думаю, что он сегодня будет играть в футбол."},
+    {"de": "Sie spielt heute Fußball – ich denke, dass sie heute Fußball spielen wird.", "ru": "Она сегодня играет в футбол — думаю, что она сегодня будет играть в футбол."},
+    {"de": "Wir spielen heute Fußball – ich denke, dass wir heute Fußball spielen werden.", "ru": "Мы сегодня играем в футбол — думаю, что мы сегодня будем играть в футбол."},
+    {"de": "Ihr spielt heute Fußball – ich denke, dass ihr heute Fußball spielen werdet.", "ru": "Вы сегодня играете в футбол — думаю, что вы сегодня будете играть в футбол."},
+    {"de": "Sie spielen heute Fußball – ich denke, dass sie heute Fußball spielen werden.", "ru": "Они сегодня играют в футбол — думаю, что они сегодня будут играть в футбол."},
+    {"de": "Ich lerne Deutsch – ich denke, dass ich Deutsch lernen werde.", "ru": "Я учу немецкий — думаю, что я буду учить немецкий."},
+    {"de": "Ich räume meine Wohnung auf – ich hoffe, dass ich heute meine Wohnung aufräume.", "ru": "Я убираю квартиру — надеюсь, что сегодня я уберу квартиру."},
+    {"de": "Ich gehe heute ins Kino – ich sage doch, dass ich heute ins Kino gehe!", "ru": "Я сегодня иду в кино — я же говорю, что сегодня иду в кино!"},
+    {"de": "Ich fahre im Juli in Urlaub – ich bin mir sicher, dass ich im Juli in Urlaub fahre.", "ru": "Я еду в отпуск в июле — я уверен, что поеду в отпуск в июле."},
+    {"de": "Ich weiß nicht, ob ich pünktlich kommen kann.", "ru": "Я не знаю, смогу ли я прийти вовремя."},
+    {"de": "Ich weiß nicht, ob ich schon gut genug Deutsch sprechen kann.", "ru": "Я не знаю, достаточно ли хорошо я уже говорю по-немецки."},
+    {"de": "Ich habe nicht gesagt, ob ich meinem Bruder helfen kann.", "ru": "Я не сказал, смогу ли я помочь брату."},
+    {"de": "Ich habe noch nicht gesagt, ob ich mitfahre.", "ru": "Я ещё не сказал, поеду ли я с вами."},
+    {"de": "Ob ich mitfahre, habe ich noch nicht gesagt.", "ru": "Поеду ли я с вами, я ещё не сказал."},
+    {"de": "Ob ich meinem Bruder helfen kann, habe ich noch nicht gesagt.", "ru": "Смогу ли я помочь брату, я ещё не сказал."},
+    {"de": "Ob ich schon gut genug Deutsch sprechen kann, weiß ich noch nicht.", "ru": "Достаточно ли хорошо я уже говорю по-немецки, я ещё не знаю."},
+    {"de": "Ob ich pünktlich kommen kann, weiß ich noch nicht.", "ru": "Смогу ли я прийти вовремя, я ещё не знаю."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich weiß nicht, ___ er heute kommt. (придёт ли он)", "options": ["dass", "ob", "wenn", "was"], "answer": 1, "explain": "«ли» → ob."},
+    {"type": "choice", "q": "Ich denke, ___ du Recht hast.", "options": ["dass", "das", "ob", "was"], "answer": 0, "explain": "Союз «что» → dass (с двумя s)."},
+    {"type": "choice", "q": "Ich weiß, dass er morgen ___.", "options": ["kommt", "kommen", "komme", "zu kommen"], "answer": 0, "explain": "Спрягаемый глагол в конце придаточного: er kommt."},
+    {"type": "gap", "q": "Was hast du vor? – Ich weiß, was du ___!", "answer": ["vorhast"], "explain": "В придаточном отделяемая приставка снова слитно: vorhast."},
+    {"type": "gap", "q": "Ich weiß, was du gestern gemacht ___.", "answer": ["hast"], "explain": "Perfekt: вспомогательный глагол — в самом конце."},
+    {"type": "gap", "q": "Ich denke, dass er heute Fußball spielen ___. (Futur)", "answer": ["wird"], "explain": "Futur I: er wird … spielen, в придаточном wird в конце."},
+    {"type": "gap", "q": "Ich habe noch nicht gesagt, ob ich ___. (mitfahren)", "answer": ["mitfahre"], "explain": "ich mitfahre — слитно в конце."},
+    {"type": "choice", "q": "Ob ich pünktlich kommen kann, ___ noch nicht.", "options": ["ich weiß", "weiß ich", "ich wissen", "wisse ich"], "answer": 1, "explain": "Придаточное на 1-м месте → дальше глагол: weiß ich."},
+    {"type": "choice", "q": "Kannst du mir sagen, wo ___?", "options": ["ist der Bahnhof", "der Bahnhof ist", "der Bahnhof sein", "ist Bahnhof"], "answer": 1, "explain": "Косвенный вопрос: глагол в конце."},
+    {"type": "gap", "q": "Ich weiß, was du kaufen ___. (möchten)", "answer": ["möchtest"], "explain": "Модальный глагол в конце: … kaufen möchtest."},
+    {"type": "translate", "q": "Я знаю, что ты делаешь завтра.", "answer": ["Ich weiß, was du morgen machst.", "Ich weiß, was du morgen tust."], "explain": "Косвенный вопрос с was, глагол в конце."},
+    {"type": "translate", "q": "Я не знаю, смогу ли я помочь брату.", "answer": ["Ich weiß nicht, ob ich meinem Bruder helfen kann.", "Ich weiß nicht, ob ich dem Bruder helfen kann."], "explain": "ob; helfen + Dativ: meinem Bruder."},
+    {"type": "translate", "q": "Я надеюсь, что ты скоро придёшь.", "answer": ["Ich hoffe, dass du bald kommst.", "Ich hoffe, du kommst bald."], "explain": "dass + глагол в конце (или без dass с прямым порядком)."},
+    {"type": "translate", "q": "Я уверен, что поеду в отпуск в июле.", "answer": ["Ich bin mir sicher, dass ich im Juli in Urlaub fahre.", "Ich bin sicher, dass ich im Juli in Urlaub fahre.", "Ich bin mir sicher, dass ich im Juli in den Urlaub fahre.", "Ich bin sicher, dass ich im Juli in den Urlaub fahre."], "explain": "sicher sein, dass …"},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "habe", "ob ich mitfahre,", "noch nicht", "gesagt"], "answer": ["Ob ich mitfahre, habe ich noch nicht gesagt."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "dass", "denke,", "Deutsch lernen", "ich", "werde"], "answer": ["Ich denke, dass ich Deutsch lernen werde."]},
+    {"type": "translate", "q": "Ты знаешь, где он живёт?", "answer": ["Weißt du, wo er wohnt?", "Weißt du, wo er lebt?"], "explain": "Косвенный вопрос: wo er wohnt."},
+    {"type": "translate", "q": "Я же говорю, что сегодня иду в кино!", "answer": ["Ich sage doch, dass ich heute ins Kino gehe!", "Ich sage doch, dass ich heute ins Kino gehe."], "explain": "doch усиливает высказывание; глагол gehe в конце."}
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 40,
+  "title": "Obwohl, trotzdem; statt … zu, ohne … zu",
+  "level": "B1",
+  "goal": "Вы сможете выражать уступку (хотя, тем не менее) с obwohl и trotzdem, а также говорить «вместо того чтобы» и «не делая чего-то» с конструкциями statt … zu и ohne … zu.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Obwohl — «хотя»",
+      "html": "<p><span class=\"de\">obwohl</span> вводит <b>придаточное</b> предложение, поэтому спрягаемый глагол уходит в конец:</p><ul><li><span class=\"de\">Ich gehe zum Training, obwohl ich sehr müde <b>bin</b>.</span> — Я иду на тренировку, хотя очень устал.</li><li><span class=\"de\">Ich rufe meinen Bruder an, obwohl er mich nicht angerufen <b>hat</b>.</span></li></ul><p>Если придаточное стоит первым, главное предложение начинается со спрягаемого глагола (схема «глагол, глагол»):</p><ul><li><span class=\"de\">Obwohl ich früh <b>aufstehe</b>, <b>gehe</b> ich spät ins Bett.</span></li></ul><div class=\"note\">Отделяемая приставка в придаточном пишется слитно с глаголом: <span class=\"de\">obwohl ich früh aufstehe</span>.</div>"
+    },
+    {
+      "h": "Trotzdem — «тем не менее, всё равно»",
+      "html": "<p><span class=\"de\">trotzdem</span> — это <b>наречие</b>, а не союз. Оно стоит в главном предложении и занимает обычное место члена предложения. Если trotzdem на первом месте, глагол сразу после него:</p><ul><li><span class=\"de\">Ich bin sehr müde. Trotzdem <b>gehe</b> ich zum Training.</span></li><li><span class=\"de\">Ich bin sehr müde, aber ich gehe trotzdem zum Training.</span></li></ul><table><tr><th>obwohl (союз)</th><th>trotzdem (наречие)</th><th>trotz (предлог + Gen)</th></tr><tr><td><span class=\"de\">Obwohl es regnet, gehe ich raus.</span></td><td><span class=\"de\">Es regnet. Trotzdem gehe ich raus.</span></td><td><span class=\"de\">Trotz des Regens gehe ich raus.</span></td></tr></table><p>Все три варианта передают одну мысль: «хоть идёт дождь, я выхожу».</p>"
+    },
+    {
+      "h": "Statt … zu — «вместо того чтобы»",
+      "html": "<p>Конструкция <span class=\"de\">(an)statt … zu + Infinitiv</span> показывает, что человек делает одно вместо другого (ожидаемого). <b>zu + инфинитив</b> стоит в самом конце:</p><ul><li><span class=\"de\">Ich lese ein Buch, statt etwas zu kochen.</span> — Я читаю книгу, вместо того чтобы что-нибудь приготовить.</li><li><span class=\"de\">Statt zu reisen, sitze ich zu Hause.</span></li></ul><p>У отделяемых глаголов <b>zu</b> встаёт между приставкой и корнем: <span class=\"de\">statt mich auf die Prüfung vor<b>zu</b>bereiten</span>, <span class=\"de\">statt mitzukommen</span>.</p><div class=\"note\">Конструкция возможна, только если субъект в обеих частях один и тот же. Если разные — используем <span class=\"de\">statt dass</span>: <span class=\"de\">Statt dass er hilft, sieht er fern.</span></div>"
+    },
+    {
+      "h": "Ohne … zu — «не делая чего-то, без того чтобы»",
+      "html": "<p><span class=\"de\">ohne … zu + Infinitiv</span> показывает, что действие происходит, а ожидаемого сопутствующего действия нет. По-русски часто переводится деепричастием с «не»:</p><ul><li><span class=\"de\">Ich habe telefoniert, ohne auf meine Kinder aufzupassen.</span> — Я разговаривал по телефону, не присматривая за детьми.</li><li><span class=\"de\">Er ging weg, ohne etwas zu sagen.</span> — Он ушёл, ничего не сказав.</li><li><span class=\"de\">Ohne etwas zu verstehen, bin ich weggelaufen.</span></li></ul><p>С модальным глаголом: <span class=\"de\">ohne Deutsch sprechen zu können</span> — не умея говорить по-немецки (zu стоит перед модальным).</p><p>Если субъекты разные — <span class=\"de\">ohne dass</span>: <span class=\"de\">Er ist gegangen, ohne dass ich es bemerkt habe.</span></p>"
+    },
+    {
+      "h": "Сравнение: um … zu, statt … zu, ohne … zu",
+      "html": "<table><tr><th>Конструкция</th><th>Значение</th><th>Пример</th></tr><tr><td>um … zu</td><td>чтобы (цель)</td><td><span class=\"de\">Ich lerne, um die Prüfung zu bestehen.</span></td></tr><tr><td>statt … zu</td><td>вместо того чтобы</td><td><span class=\"de\">Ich spiele, statt zu lernen.</span></td></tr><tr><td>ohne … zu</td><td>не делая</td><td><span class=\"de\">Ich bestehe die Prüfung, ohne zu lernen.</span></td></tr></table><p>Во всех трёх: запятая, затем слово-союз, затем дополнения, а в конце <b>zu + инфинитив</b>.</p>"
+    }
+  ],
+  "tips": [
+    "Не путайте obwohl и trotzdem: после obwohl глагол в КОНЦЕ, после trotzdem (в начале) — СРАЗУ глагол. Obwohl ich müde bin… / Trotzdem gehe ich…",
+    "Русское «хотя» может стоять в середине фразы — немецкое obwohl всегда открывает придаточное и требует запятой перед ним.",
+    "Деепричастие с «не» (не сказав, не думая, не понимая) почти всегда переводится через ohne … zu: ohne zu denken, ohne etwas zu sagen.",
+    "Ошибка русскоговорящих: «ohne zu aufpassen». У отделяемых глаголов zu внутри: aufzupassen, anzurufen, mitzunehmen."
+  ],
+  "examples": [
+    {"de": "Obwohl es kalt ist, trägt er keine Jacke.", "ru": "Хотя холодно, он не носит куртку."},
+    {"de": "Sie arbeitet weiter, obwohl sie krank ist.", "ru": "Она продолжает работать, хотя больна."},
+    {"de": "Es ist schon spät. Trotzdem rufe ich ihn an.", "ru": "Уже поздно. Тем не менее я ему позвоню."},
+    {"de": "Das Essen war teuer, aber trotzdem nicht lecker.", "ru": "Еда была дорогой, но всё равно невкусной."},
+    {"de": "Statt zu arbeiten, sieht er den ganzen Tag fern.", "ru": "Вместо того чтобы работать, он весь день смотрит телевизор."},
+    {"de": "Wir nehmen den Bus, statt mit dem Auto zu fahren.", "ru": "Мы едем на автобусе, вместо того чтобы ехать на машине."},
+    {"de": "Er ging weg, ohne Tschüss zu sagen.", "ru": "Он ушёл, не попрощавшись."},
+    {"de": "Sie hat das Kleid gekauft, ohne den Preis anzusehen.", "ru": "Она купила платье, не посмотрев на цену."},
+    {"de": "Ohne lange nachzudenken, hat er Ja gesagt.", "ru": "Не думая долго, он сказал «да»."},
+    {"de": "Obwohl er viel lernt, hat er die Prüfung nicht bestanden.", "ru": "Хотя он много учится, он не сдал экзамен."}
+  ],
+  "vocab": [
+    {"de": "obwohl", "ru": "хотя (союз, глагол в конце)"},
+    {"de": "trotzdem", "ru": "тем не менее, всё равно"},
+    {"de": "(an)statt … zu", "ru": "вместо того чтобы"},
+    {"de": "ohne … zu", "ru": "не делая чего-л., без того чтобы"},
+    {"de": "statt dass / ohne dass", "ru": "вместо того чтобы / без того чтобы (при разных подлежащих)"},
+    {"de": "müde", "ru": "усталый"},
+    {"de": "das Training", "pl": "die Trainings", "ru": "тренировка"},
+    {"de": "normalerweise", "ru": "обычно"},
+    {"de": "pünktlich", "ru": "пунктуальный, вовремя"},
+    {"de": "sich verspäten", "ru": "опаздывать"},
+    {"de": "aufpassen auf + Akk", "ru": "присматривать за"},
+    {"de": "zuhören + Dat", "ru": "слушать кого-л."},
+    {"de": "weglaufen", "forms": "läuft weg, lief weg, ist weggelaufen", "ru": "убегать"},
+    {"de": "sich vorbereiten auf + Akk", "ru": "готовиться к"},
+    {"de": "die Prüfung", "pl": "die Prüfungen", "ru": "экзамен"},
+    {"de": "die Zukunft", "pl": "die Zukünfte", "ru": "будущее"},
+    {"de": "die Party", "pl": "die Partys", "ru": "вечеринка"},
+    {"de": "täglich", "ru": "ежедневно"},
+    {"de": "fit", "ru": "в хорошей форме"},
+    {"de": "reisen", "ru": "путешествовать"},
+    {"de": "bestehen", "forms": "besteht, bestand, hat bestanden", "ru": "сдать (экзамен)"},
+    {"de": "nachdenken über + Akk", "ru": "обдумывать, размышлять о"}
+  ],
+  "phrasesNote": "Тренируем уступительные придаточные с obwohl (глагол в конце, в том числе с прямым и обратным порядком частей) и инфинитивные обороты statt … zu и ohne … zu. Проспрягайте фразы по всем лицам.",
+  "phrases": [
+    {"de": "Ich gehe zum Training, obwohl ich sehr müde bin.", "ru": "Я иду на тренировку, хотя очень устал."},
+    {"de": "Ich helfe meinem Bruder, obwohl er mir früher nicht geholfen hat.", "ru": "Я помогаю брату, хотя раньше он мне не помогал."},
+    {"de": "Ich rufe meinen Bruder an, obwohl er mich nicht angerufen hat.", "ru": "Я звоню брату, хотя он мне не звонил."},
+    {"de": "Obwohl ich schon oft in Deutschland war, konnte ich immer noch kein Deutsch.", "ru": "Хотя я уже много раз бывал в Германии, я всё ещё не знал немецкого."},
+    {"de": "Obwohl ich früh aufstehe, gehe ich spät ins Bett.", "ru": "Хотя я рано встаю, ложусь я поздно."},
+    {"de": "Obwohl ich heute pünktlich gekommen bin, verspäte ich mich normalerweise.", "ru": "Хотя сегодня я пришёл вовремя, обычно я опаздываю."},
+    {"de": "Ich lese ein Buch, statt etwas zu kochen.", "ru": "Я читаю книгу, вместо того чтобы что-нибудь приготовить."},
+    {"de": "Ich spiele Computer, statt Sport zu machen.", "ru": "Я играю в компьютер, вместо того чтобы заниматься спортом."},
+    {"de": "Ich gehe mit meiner Freundin spazieren, statt mich auf die Prüfung vorzubereiten.", "ru": "Я гуляю с девушкой, вместо того чтобы готовиться к экзамену."},
+    {"de": "Statt zu reisen, sitze ich zu Hause.", "ru": "Вместо того чтобы путешествовать, я сижу дома."},
+    {"de": "Statt ein Buch zu lesen, sehe ich immer Videos auf YouTube.", "ru": "Вместо того чтобы читать книгу, я всё время смотрю видео на YouTube."},
+    {"de": "Statt meinen Freunden zu helfen, bin ich ins Kino gegangen.", "ru": "Вместо того чтобы помочь друзьям, я пошёл в кино."},
+    {"de": "Ich habe telefoniert, ohne auf meine Kinder aufzupassen.", "ru": "Я разговаривал по телефону, не присматривая за детьми."},
+    {"de": "Ich mache täglich Partys, ohne an meine Zukunft zu denken.", "ru": "Я каждый день устраиваю вечеринки, не думая о своём будущем."},
+    {"de": "Ich möchte fit sein, ohne Sport zu machen.", "ru": "Я хочу быть в форме, не занимаясь спортом."},
+    {"de": "Ohne Deutsch sprechen zu können, wollte ich in Deutschland studieren.", "ru": "Не умея говорить по-немецки, я хотел учиться в Германии."},
+    {"de": "Ohne meinen Freunden zuzuhören, habe ich meine Schwester angerufen.", "ru": "Не выслушав друзей, я позвонил сестре."},
+    {"de": "Ohne etwas zu verstehen, bin ich weggelaufen.", "ru": "Ничего не поняв, я убежал."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Ich gehe zum Training, obwohl ich sehr müde ___.", "options": ["bin", "bin ich", "ich bin"], "answer": 0, "explain": "После obwohl глагол в конце: obwohl ich sehr müde bin."},
+    {"type": "choice", "q": "Ich bin sehr müde. ___ gehe ich zum Training.", "options": ["Obwohl", "Trotzdem", "Trotz"], "answer": 1, "explain": "Trotzdem + сразу глагол (инверсия)."},
+    {"type": "choice", "q": "___ es regnet, gehen wir spazieren.", "options": ["Trotzdem", "Obwohl", "Statt"], "answer": 1, "explain": "Придаточное с глаголом в конце → obwohl."},
+    {"type": "choice", "q": "Obwohl ich früh aufstehe, ___ spät ins Bett.", "options": ["ich gehe", "gehe ich", "ich ins Bett gehe"], "answer": 1, "explain": "После придаточного главное начинается с глагола: gehe ich."},
+    {"type": "gap", "q": "Ich spiele Computer, statt Sport ___ machen.", "answer": ["zu"], "explain": "statt … zu + Infinitiv."},
+    {"type": "gap", "q": "Ich habe telefoniert, ohne auf meine Kinder ___. (aufpassen)", "answer": ["aufzupassen"], "explain": "Отделяемый глагол: zu между приставкой и корнем — aufzupassen."},
+    {"type": "gap", "q": "Ich gehe spazieren, statt mich auf die Prüfung ___. (vorbereiten)", "answer": ["vorzubereiten"], "explain": "vor + zu + bereiten."},
+    {"type": "choice", "q": "Er ging weg, ___ etwas zu sagen.", "options": ["statt", "ohne", "um"], "answer": 1, "explain": "«ничего не сказав» → ohne etwas zu sagen."},
+    {"type": "choice", "q": "___ zu reisen, sitze ich zu Hause.", "options": ["Ohne", "Statt", "Obwohl"], "answer": 1, "explain": "Вместо того чтобы путешествовать → statt zu reisen."},
+    {"type": "gap", "q": "Ohne Deutsch sprechen ___ können, wollte ich in Deutschland studieren.", "answer": ["zu"], "explain": "С модальным: sprechen zu können."},
+    {"type": "choice", "q": "Er sieht fern, statt ___ er seiner Mutter hilft.", "options": ["zu", "dass", "um"], "answer": 1, "explain": "В придаточном есть подлежащее (er) → statt dass."},
+    {"type": "gap", "q": "Das Wetter war schlecht, aber wir sind ___ gefahren.", "answer": ["trotzdem"], "explain": "«всё равно» → trotzdem."},
+    {"type": "translate", "q": "Я помогаю брату, хотя он мне не помогал.", "answer": ["Ich helfe meinem Bruder, obwohl er mir nicht geholfen hat.", "Ich helfe meinem Bruder, obwohl er mir nicht half."], "explain": "helfen + Dat; после obwohl глагол в конце."},
+    {"type": "translate", "q": "Вместо того чтобы читать книгу, я смотрю видео.", "answer": ["Statt ein Buch zu lesen, sehe ich Videos.", "Anstatt ein Buch zu lesen, sehe ich Videos.", "Statt ein Buch zu lesen, schaue ich Videos.", "Anstatt ein Buch zu lesen, schaue ich Videos.", "Ich sehe Videos, statt ein Buch zu lesen.", "Ich schaue Videos, statt ein Buch zu lesen.", "Ich sehe Videos, anstatt ein Buch zu lesen.", "Ich schaue Videos, anstatt ein Buch zu lesen."], "explain": "statt … zu + Infinitiv; если оборот впереди — главное начинается с глагола."},
+    {"type": "translate", "q": "Ничего не поняв, я убежал.", "answer": ["Ohne etwas zu verstehen, bin ich weggelaufen.", "Ich bin weggelaufen, ohne etwas zu verstehen.", "Ohne etwas zu verstehen, lief ich weg.", "Ich lief weg, ohne etwas zu verstehen."], "explain": "ohne … zu; weglaufen в Perfekt — с sein."},
+    {"type": "order", "q": "Составьте предложение", "words": ["obwohl", "Ich", "nicht angerufen hat", "rufe", "an,", "meinen Bruder", "er mich"], "answer": ["Ich rufe meinen Bruder an, obwohl er mich nicht angerufen hat."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ohne", "Ich", "an meine Zukunft", "mache", "zu denken", "täglich Partys,"], "answer": ["Ich mache täglich Partys, ohne an meine Zukunft zu denken."]},
+    {"type": "translate", "q": "Я устал. Тем не менее я иду на тренировку.", "answer": ["Ich bin müde. Trotzdem gehe ich zum Training.", "Ich bin müde. Ich gehe trotzdem zum Training."], "explain": "Trotzdem на первом месте → сразу глагол."}
+  ]
+}

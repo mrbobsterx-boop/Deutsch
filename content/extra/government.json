@@ -1,0 +1,653 @@
+[
+ {
+  "verb": "abhängen von",
+  "case": "D",
+  "ru": "зависеть от чего-л.",
+  "ex_de": "Das hängt vom Wetter ab.",
+  "ex_ru": "Это зависит от погоды."
+ },
+ {
+  "verb": "achten auf",
+  "case": "A",
+  "ru": "следить за чем-л., заботиться о чём-л.",
+  "ex_de": "Sie achtet auf ihre Gesundheit.",
+  "ex_ru": "Она следит за своим здоровьем."
+ },
+ {
+  "verb": "anfangen mit",
+  "case": "D",
+  "ru": "начинать что-л.",
+  "ex_de": "Wir fangen mit dem Spiel an.",
+  "ex_ru": "Мы начинаем игру."
+ },
+ {
+  "verb": "ankommen auf",
+  "case": "A",
+  "ru": "зависеть от чего-л.",
+  "ex_de": "Es kommt darauf an.",
+  "ex_ru": "Это зависит от обстоятельств."
+ },
+ {
+  "verb": "sich ärgern über",
+  "case": "A",
+  "ru": "злиться на кого-л./из-за чего-л.",
+  "ex_de": "Er ärgert sich über die Note.",
+  "ex_ru": "Он злится из-за оценки."
+ },
+ {
+  "verb": "aufhören mit",
+  "case": "D",
+  "ru": "прекращать, заканчивать что-л.",
+  "ex_de": "Wir hören mit dem Kurs auf.",
+  "ex_ru": "Мы заканчиваем наш курс."
+ },
+ {
+  "verb": "aufpassen auf",
+  "case": "A",
+  "ru": "присматривать за кем-л./чем-л.",
+  "ex_de": "Können Sie bitte auf meine Tasche aufpassen?",
+  "ex_ru": "Вы можете присмотреть за моей сумкой?"
+ },
+ {
+  "verb": "sich aufregen über",
+  "case": "A",
+  "ru": "волноваться, возмущаться из-за чего-л.",
+  "ex_de": "Er regt sich über jede Kleinigkeit auf.",
+  "ex_ru": "Он волнуется из-за каждой мелочи."
+ },
+ {
+  "verb": "ausgeben für",
+  "case": "A",
+  "ru": "тратить на что-л.",
+  "ex_de": "Ich gebe viel Geld für Benzin aus.",
+  "ex_ru": "Я трачу много денег на бензин."
+ },
+ {
+  "verb": "sich bedanken bei … für",
+  "case": "D + A",
+  "ru": "благодарить кого-л. за что-л.",
+  "ex_de": "Ich bedanke mich bei dir für deine Hilfe.",
+  "ex_ru": "Я благодарю тебя за твою помощь."
+ },
+ {
+  "verb": "sich bemühen um",
+  "case": "A",
+  "ru": "стараться, прилагать усилия ради чего-л.",
+  "ex_de": "Ich bemühe mich um dieses Projekt.",
+  "ex_ru": "Я стараюсь над этим проектом."
+ },
+ {
+  "verb": "berichten über",
+  "case": "A",
+  "ru": "сообщать, рассказывать о чём-л.",
+  "ex_de": "Er hat über die Konferenz berichtet.",
+  "ex_ru": "Он сообщил о конференции."
+ },
+ {
+  "verb": "sich beschäftigen mit",
+  "case": "D",
+  "ru": "заниматься чем-л.",
+  "ex_de": "Er beschäftigt sich damit schon seit einem Jahr.",
+  "ex_ru": "Он занимается этим уже около года."
+ },
+ {
+  "verb": "sich beschweren (bei) über",
+  "case": "(D) + A",
+  "ru": "жаловаться (кому-л.) на что-л./кого-л.",
+  "ex_de": "Er beschwert sich bei mir über das Wetter.",
+  "ex_ru": "Он жалуется мне на погоду."
+ },
+ {
+  "verb": "sich bewerben um",
+  "case": "A",
+  "ru": "претендовать на что-л., подавать заявку",
+  "ex_de": "Sie bewirbt sich um diese Stelle.",
+  "ex_ru": "Она претендует на это рабочее место."
+ },
+ {
+  "verb": "bitten um",
+  "case": "A",
+  "ru": "просить о чём-л.",
+  "ex_de": "Ich bitte dich um Hilfe.",
+  "ex_ru": "Я прошу тебя о помощи."
+ },
+ {
+  "verb": "denken an",
+  "case": "A",
+  "ru": "думать о ком-л./чём-л.",
+  "ex_de": "Ich denke nur an dich.",
+  "ex_ru": "Я думаю только о тебе."
+ },
+ {
+  "verb": "einladen zu",
+  "case": "D",
+  "ru": "приглашать на что-л.",
+  "ex_de": "Ich lade meine Freunde zum Geburtstag ein.",
+  "ex_ru": "Я приглашаю своих друзей на день рождения."
+ },
+ {
+  "verb": "sich entscheiden für",
+  "case": "A",
+  "ru": "решиться, сделать выбор в пользу чего-л.",
+  "ex_de": "Ich entscheide mich für dieses Auto.",
+  "ex_ru": "Я выбираю эту машину."
+ },
+ {
+  "verb": "sich entschließen zu",
+  "case": "D",
+  "ru": "решиться на что-л.",
+  "ex_de": "Wir entschließen uns zur Hochzeit.",
+  "ex_ru": "Мы решаемся на свадьбу."
+ },
+ {
+  "verb": "sich entschuldigen bei … für",
+  "case": "D + A",
+  "ru": "извиняться перед кем-л. за что-л.",
+  "ex_de": "Ich entschuldige mich bei dir für die Verspätung.",
+  "ex_ru": "Я извиняюсь перед тобой за опоздание."
+ },
+ {
+  "verb": "erfahren über",
+  "case": "A",
+  "ru": "узнать о чём-л. (много/мало/ничего — объём информации)",
+  "ex_de": "Ich habe viel über dieses Land erfahren.",
+  "ex_ru": "Я многое узнал об этой стране."
+ },
+ {
+  "verb": "erfahren von",
+  "case": "D",
+  "ru": "узнать о ком-л./чём-л. (сам факт)",
+  "ex_de": "Ich habe von diesem Land erfahren.",
+  "ex_ru": "Я узнал об этой стране."
+ },
+ {
+  "verb": "sich erholen von",
+  "case": "D",
+  "ru": "отдыхать от чего-л.",
+  "ex_de": "Ich erhole mich von der Arbeit.",
+  "ex_ru": "Я отдыхаю от работы."
+ },
+ {
+  "verb": "sich erinnern an",
+  "case": "A",
+  "ru": "вспоминать о ком-л./чём-л.",
+  "ex_de": "Ich erinnere mich oft an meine Kindheit.",
+  "ex_ru": "Я часто вспоминаю своё детство."
+ },
+ {
+  "verb": "erkennen an",
+  "case": "D",
+  "ru": "узнавать по чему-л.",
+  "ex_de": "Er hat sie an ihrer Stimme erkannt.",
+  "ex_ru": "Он узнал её по голосу."
+ },
+ {
+  "verb": "erzählen über",
+  "case": "A",
+  "ru": "рассказывать о чём-л. (историю, подробно)",
+  "ex_de": "Erzähl etwas über deine Stadt!",
+  "ex_ru": "Расскажи что-нибудь о своём городе!"
+ },
+ {
+  "verb": "erzählen von",
+  "case": "D",
+  "ru": "рассказывать о ком-л./чём-л. (факт)",
+  "ex_de": "Er hat uns schon von dem Unfall erzählt.",
+  "ex_ru": "Он нам уже рассказал о несчастном случае."
+ },
+ {
+  "verb": "fragen nach",
+  "case": "D",
+  "ru": "спрашивать о ком-л./чём-л., разыскивать",
+  "ex_de": "Ich frage nach Herrn Franz.",
+  "ex_ru": "Я спрашиваю господина Франца (ищу его)."
+ },
+ {
+  "verb": "sich freuen über",
+  "case": "A",
+  "ru": "радоваться чему-л. (тому, что уже есть/было)",
+  "ex_de": "Wir freuen uns über den Sieg.",
+  "ex_ru": "Мы радуемся победе."
+ },
+ {
+  "verb": "sich freuen auf",
+  "case": "A",
+  "ru": "радоваться чему-л. предстоящему, с нетерпением ждать",
+  "ex_de": "Ich freue mich auf den Urlaub.",
+  "ex_ru": "Я радуюсь предстоящему отпуску."
+ },
+ {
+  "verb": "es geht um",
+  "case": "A",
+  "ru": "речь идёт о ком-л./чём-л.",
+  "ex_de": "Es geht um unsere Familie.",
+  "ex_ru": "Речь идёт о нашей семье."
+ },
+ {
+  "verb": "sich gewöhnen an",
+  "case": "A",
+  "ru": "привыкать к чему-л.",
+  "ex_de": "An das Essen habe ich mich schon gewöhnt.",
+  "ex_ru": "К еде я уже привык."
+ },
+ {
+  "verb": "glauben an",
+  "case": "A",
+  "ru": "верить в кого-л./что-л.",
+  "ex_de": "Glaubst du an Gott?",
+  "ex_ru": "Ты веришь в Бога?"
+ },
+ {
+  "verb": "gratulieren zu",
+  "case": "D + D",
+  "ru": "поздравлять кого-л. с чем-л.",
+  "ex_de": "Ich gratuliere dir zur Beförderung.",
+  "ex_ru": "Поздравляю тебя с повышением."
+ },
+ {
+  "verb": "grenzen an",
+  "case": "A",
+  "ru": "граничить с чем-л.",
+  "ex_de": "Deutschland grenzt an Österreich.",
+  "ex_ru": "Германия граничит с Австрией."
+ },
+ {
+  "verb": "halten für",
+  "case": "A",
+  "ru": "считать кого-л. кем-л./чем-л.",
+  "ex_de": "Ich halte ihn für einen guten Lehrer.",
+  "ex_ru": "Я считаю его хорошим учителем."
+ },
+ {
+  "verb": "sich handeln um",
+  "case": "A",
+  "ru": "речь идёт о чём-л.",
+  "ex_de": "In diesem Text handelt es sich um die Gesundheit.",
+  "ex_ru": "В этом тексте речь идёт о здоровье."
+ },
+ {
+  "verb": "helfen bei",
+  "case": "D",
+  "ru": "помогать с чем-л.",
+  "ex_de": "Kannst du mir beim Lernen helfen?",
+  "ex_ru": "Ты можешь помочь мне с учёбой?"
+ },
+ {
+  "verb": "hören von",
+  "case": "D",
+  "ru": "слышать о чём-л.",
+  "ex_de": "Was hast du davon gehört?",
+  "ex_ru": "Что ты об этом слышал?"
+ },
+ {
+  "verb": "sich interessieren für",
+  "case": "A",
+  "ru": "интересоваться чем-л.",
+  "ex_de": "Ich interessiere mich für Geschichte.",
+  "ex_ru": "Я интересуюсь историей."
+ },
+ {
+  "verb": "kämpfen für",
+  "case": "A",
+  "ru": "бороться за что-л.",
+  "ex_de": "Wir müssen für unsere Rechte kämpfen.",
+  "ex_ru": "Мы должны бороться за наши права."
+ },
+ {
+  "verb": "kämpfen gegen",
+  "case": "A",
+  "ru": "бороться против кого-л./чего-л.",
+  "ex_de": "Er kämpft gegen seinen Feind.",
+  "ex_ru": "Он борется против своего врага."
+ },
+ {
+  "verb": "sich kümmern um",
+  "case": "A",
+  "ru": "заботиться о ком-л./чём-л.",
+  "ex_de": "Er kümmert sich um seine Kinder.",
+  "ex_ru": "Он заботится о своих детях."
+ },
+ {
+  "verb": "leiden an",
+  "case": "D",
+  "ru": "страдать от чего-л. (болезни, в данный момент)",
+  "ex_de": "Er leidet an einer Krankheit.",
+  "ex_ru": "Он страдает от болезни."
+ },
+ {
+  "verb": "leiden unter",
+  "case": "D",
+  "ru": "страдать от чего-л. (хронически, постоянно)",
+  "ex_de": "Er leidet unter dem schlechten Klima.",
+  "ex_ru": "Он страдает от плохого климата."
+ },
+ {
+  "verb": "nachdenken über",
+  "case": "A",
+  "ru": "размышлять о чём-л.",
+  "ex_de": "Ich denke über meine Arbeit nach.",
+  "ex_ru": "Я размышляю о своей работе."
+ },
+ {
+  "verb": "rechnen mit",
+  "case": "D",
+  "ru": "рассчитывать на что-л.",
+  "ex_de": "Wir rechnen mit deiner Hilfe.",
+  "ex_ru": "Мы рассчитываем на твою помощь."
+ },
+ {
+  "verb": "reden über",
+  "case": "A",
+  "ru": "говорить о чём-л.",
+  "ex_de": "Wir reden heute nicht über die Arbeit.",
+  "ex_ru": "Сегодня мы не говорим о работе."
+ },
+ {
+  "verb": "reden von",
+  "case": "D",
+  "ru": "говорить о ком-л.",
+  "ex_de": "Er redet von einer Frau.",
+  "ex_ru": "Он говорит об одной женщине."
+ },
+ {
+  "verb": "riechen nach",
+  "case": "D",
+  "ru": "пахнуть чем-л.",
+  "ex_de": "Es riecht hier nach Essen.",
+  "ex_ru": "Здесь пахнет едой."
+ },
+ {
+  "verb": "riechen an",
+  "case": "D",
+  "ru": "нюхать что-л.",
+  "ex_de": "Ich rieche an einer Rose.",
+  "ex_ru": "Я нюхаю розу."
+ },
+ {
+  "verb": "sagen zu",
+  "case": "D",
+  "ru": "сказать о чём-л., высказаться по поводу",
+  "ex_de": "Was sagst du zu diesem Thema?",
+  "ex_ru": "Что ты скажешь на эту тему?"
+ },
+ {
+  "verb": "schicken an",
+  "case": "A",
+  "ru": "отправлять что-л. кому-л./куда-л.",
+  "ex_de": "Ich schicke den Brief an meinen Bruder.",
+  "ex_ru": "Я отправляю письмо моему брату."
+ },
+ {
+  "verb": "schicken zu",
+  "case": "A + D",
+  "ru": "отправлять кого-л. к кому-л.",
+  "ex_de": "Ich schicke meine Kinder zu den Großeltern.",
+  "ex_ru": "Я отправляю детей к бабушке и дедушке."
+ },
+ {
+  "verb": "schimpfen über",
+  "case": "A",
+  "ru": "ругаться на что-л.",
+  "ex_de": "Er schimpft immer über das Wetter.",
+  "ex_ru": "Он всегда ругает погоду."
+ },
+ {
+  "verb": "schmecken nach",
+  "case": "D",
+  "ru": "иметь вкус чего-л.",
+  "ex_de": "Das schmeckt nach Fleisch.",
+  "ex_ru": "Это на вкус как мясо."
+ },
+ {
+  "verb": "schreiben an",
+  "case": "A",
+  "ru": "писать кому-л.",
+  "ex_de": "Ich schreibe an meinen Bruder.",
+  "ex_ru": "Я пишу моему брату."
+ },
+ {
+  "verb": "sorgen für",
+  "case": "A",
+  "ru": "заботиться о ком-л./чём-л.",
+  "ex_de": "Ich sorge für meine Kinder.",
+  "ex_ru": "Я забочусь о своих детях."
+ },
+ {
+  "verb": "sterben an",
+  "case": "D",
+  "ru": "умирать от чего-л.",
+  "ex_de": "Er starb an einer plötzlichen Krankheit.",
+  "ex_ru": "Он умер от внезапной болезни."
+ },
+ {
+  "verb": "streiten über",
+  "case": "A",
+  "ru": "спорить о чём-л.",
+  "ex_de": "Sie streiten immer über die Politik.",
+  "ex_ru": "Они всегда спорят о политике."
+ },
+ {
+  "verb": "teilnehmen an",
+  "case": "D",
+  "ru": "участвовать в чём-л.",
+  "ex_de": "Wir nehmen an dieser Konferenz teil.",
+  "ex_ru": "Мы участвуем в этой конференции."
+ },
+ {
+  "verb": "sich trennen von",
+  "case": "D",
+  "ru": "отделиться от чего-л., расстаться с кем-л.",
+  "ex_de": "Sie hat sich von ihrem Mann getrennt.",
+  "ex_ru": "Она рассталась со своим мужем."
+ },
+ {
+  "verb": "überzeugen von",
+  "case": "D",
+  "ru": "убеждать в чём-л.",
+  "ex_de": "Ich bin davon überzeugt!",
+  "ex_ru": "Я в этом убеждён!"
+ },
+ {
+  "verb": "sich verabschieden von",
+  "case": "D",
+  "ru": "прощаться с кем-л.",
+  "ex_de": "Ich muss mich von meinen Eltern verabschieden.",
+  "ex_ru": "Я должен попрощаться с моими родителями."
+ },
+ {
+  "verb": "verstehen von",
+  "case": "D",
+  "ru": "понимать, разбираться в чём-л.",
+  "ex_de": "Ich verstehe nichts davon.",
+  "ex_ru": "Я в этом ничего не понимаю."
+ },
+ {
+  "verb": "sich vorbereiten auf",
+  "case": "A",
+  "ru": "готовиться к чему-л.",
+  "ex_de": "Wir bereiten uns auf die Prüfung vor.",
+  "ex_ru": "Мы готовимся к экзамену."
+ },
+ {
+  "verb": "warnen vor",
+  "case": "D",
+  "ru": "предостерегать от чего-л.",
+  "ex_de": "Er hat mich vor dieser Stadt gewarnt.",
+  "ex_ru": "Он предостерегал меня от этого города."
+ },
+ {
+  "verb": "warten auf",
+  "case": "A",
+  "ru": "ждать кого-л./что-л.",
+  "ex_de": "Ich warte schon seit 3 Stunden auf dich.",
+  "ex_ru": "Я жду тебя уже 3 часа."
+ },
+ {
+  "verb": "sich wenden an",
+  "case": "A",
+  "ru": "обращаться к кому-л.",
+  "ex_de": "Wenden Sie sich an unseren Chef.",
+  "ex_ru": "Обратитесь к нашему шефу."
+ },
+ {
+  "verb": "werden zu",
+  "case": "D",
+  "ru": "становиться кем-л./чем-л.",
+  "ex_de": "Er ist zu einem richtigen Experten geworden.",
+  "ex_ru": "Он стал настоящим экспертом."
+ },
+ {
+  "verb": "wissen von",
+  "case": "D",
+  "ru": "знать о ком-л./чём-л.",
+  "ex_de": "Ich weiß nichts von dieser Geschichte.",
+  "ex_ru": "Я ничего не знаю об этой истории."
+ },
+ {
+  "verb": "sich wundern über",
+  "case": "A",
+  "ru": "удивляться чему-л.",
+  "ex_de": "Er wundert sich über dieses Land.",
+  "ex_ru": "Он удивляется этой стране."
+ },
+ {
+  "verb": "zuschauen / zusehen bei",
+  "case": "D + D",
+  "ru": "смотреть, наблюдать за кем-л. во время чего-л.",
+  "ex_de": "Ich schaue ihm bei der Arbeit zu.",
+  "ex_ru": "Я наблюдаю за ним во время работы."
+ },
+ {
+  "verb": "zweifeln an",
+  "case": "D",
+  "ru": "сомневаться в чём-л.",
+  "ex_de": "Er zweifelt an seinem Erfolg.",
+  "ex_ru": "Он сомневается в своём успехе."
+ },
+ {
+  "verb": "stören",
+  "case": "A",
+  "ru": "мешать кому-л.",
+  "ex_de": "Musik stört mich nicht!",
+  "ex_ru": "Музыка мне не мешает!"
+ },
+ {
+  "verb": "kennenlernen",
+  "case": "A",
+  "ru": "знакомиться с кем-л.",
+  "ex_de": "Ich lerne sie morgen kennen.",
+  "ex_ru": "Завтра я с ней познакомлюсь."
+ },
+ {
+  "verb": "anrufen",
+  "case": "A",
+  "ru": "звонить кому-л.",
+  "ex_de": "Ich rufe dich an.",
+  "ex_ru": "Я звоню тебе."
+ },
+ {
+  "verb": "ansehen",
+  "case": "A",
+  "ru": "смотреть на кого-л.",
+  "ex_de": "Ich sehe dich fragend an.",
+  "ex_ru": "Я вопросительно смотрю на тебя."
+ },
+ {
+  "verb": "anschreien",
+  "case": "A",
+  "ru": "кричать на кого-л.",
+  "ex_de": "Ich schreie dich an.",
+  "ex_ru": "Я кричу на тебя."
+ },
+ {
+  "verb": "anlächeln",
+  "case": "A",
+  "ru": "улыбаться кому-л.",
+  "ex_de": "Ich lächle dich an.",
+  "ex_ru": "Я улыбаюсь тебе."
+ },
+ {
+  "verb": "besuchen",
+  "case": "A",
+  "ru": "навещать, посещать кого-л.",
+  "ex_de": "Ich besuche dich morgen.",
+  "ex_ru": "Я навещу тебя завтра."
+ },
+ {
+  "verb": "bestellen",
+  "case": "A",
+  "ru": "заказывать что-л.",
+  "ex_de": "Ich bestelle eine Pizza.",
+  "ex_ru": "Я заказываю пиццу."
+ },
+ {
+  "verb": "beantworten",
+  "case": "A",
+  "ru": "отвечать на что-л.",
+  "ex_de": "Ich beantworte die Frage später.",
+  "ex_ru": "Я отвечу на вопрос позже."
+ },
+ {
+  "verb": "bezahlen",
+  "case": "A",
+  "ru": "платить за что-л.",
+  "ex_de": "Ich bezahle die Rechnung.",
+  "ex_ru": "Я оплачиваю счёт."
+ },
+ {
+  "verb": "besitzen",
+  "case": "A",
+  "ru": "владеть чем-л.",
+  "ex_de": "Ich besitze ein schönes Auto.",
+  "ex_ru": "Я владею красивой машиной."
+ },
+ {
+  "verb": "begegnen",
+  "case": "D",
+  "ru": "встречать кого-л. (случайно)",
+  "ex_de": "Er ist ihm im Park begegnet.",
+  "ex_ru": "Он встретил его в парке."
+ },
+ {
+  "verb": "verantwortlich sein für",
+  "case": "A",
+  "ru": "отвечать за кого-л./что-л.",
+  "ex_de": "Sie ist verantwortlich für ihre Kinder.",
+  "ex_ru": "Она отвечает за своих детей."
+ },
+ {
+  "verb": "Angst haben vor",
+  "case": "D",
+  "ru": "бояться чего-л./кого-л.",
+  "ex_de": "Ich habe Angst vor großen Hunden.",
+  "ex_ru": "Я боюсь больших собак."
+ },
+ {
+  "verb": "Angst haben um",
+  "case": "A",
+  "ru": "бояться за кого-л./что-л.",
+  "ex_de": "Ich habe Angst um meine Oma.",
+  "ex_ru": "Я боюсь за свою бабушку."
+ },
+ {
+  "verb": "ähnlich sein",
+  "case": "D",
+  "ru": "быть похожим на кого-л.",
+  "ex_de": "Du bist ihm ähnlich.",
+  "ex_ru": "Ты похож на него."
+ },
+ {
+  "verb": "reich sein an",
+  "case": "D",
+  "ru": "быть богатым чем-л.",
+  "ex_de": "Dieser Winter war reich an Schnee.",
+  "ex_ru": "Эта зима была богата снегом."
+ },
+ {
+  "verb": "beschuldigen",
+  "case": "A + G",
+  "ru": "обвинять кого-л. в чём-л.",
+  "ex_de": "Er beschuldigt mich der Lüge.",
+  "ex_ru": "Он обвиняет меня во лжи."
+ }
+]

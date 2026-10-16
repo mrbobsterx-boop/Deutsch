@@ -1,0 +1,114 @@
+{
+  "id": 47,
+  "title": "Plusquamperfekt и согласование времён",
+  "level": "B2",
+  "goal": "Ученик умеет образовывать Plusquamperfekt и правильно согласовывать времена в предложениях с nachdem и bevor.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Plusquamperfekt: «предпрошедшее» время",
+      "html": "<p><b>Plusquamperfekt</b> показывает действие, которое произошло <b>раньше другого действия в прошлом</b>. В русском такого отдельного времени нет — мы говорим «после того как я поел, я пошёл…».</p><p>Формула: <b>hatte / war (Präteritum) + Partizip II</b>. Выбор haben/sein — как в Perfekt.</p><table><tr><th>Perfekt</th><th>Plusquamperfekt</th></tr><tr><td><span class=\"de\">ich habe gegessen</span></td><td><span class=\"de\">ich hatte gegessen</span></td></tr><tr><td><span class=\"de\">ich bin angekommen</span></td><td><span class=\"de\">ich war angekommen</span></td></tr></table><table><tr><th></th><th>essen</th><th>aufstehen</th></tr><tr><td>ich</td><td>hatte gegessen</td><td>war aufgestanden</td></tr><tr><td>du</td><td>hattest gegessen</td><td>warst aufgestanden</td></tr><tr><td>er/sie/es</td><td>hatte gegessen</td><td>war aufgestanden</td></tr><tr><td>wir</td><td>hatten gegessen</td><td>waren aufgestanden</td></tr><tr><td>ihr</td><td>hattet gegessen</td><td>wart aufgestanden</td></tr><tr><td>sie/Sie</td><td>hatten gegessen</td><td>waren aufgestanden</td></tr></table>"
+    },
+    {
+      "h": "Согласование времён с nachdem",
+      "html": "<p>После <span class=\"de\">nachdem</span> действие должно быть <b>завершено раньше</b>, поэтому время в придаточном на «ступеньку» раньше, чем в главном:</p><table><tr><th>Придаточное (nachdem)</th><th>Главное предложение</th><th>Когда</th></tr><tr><td><b>Perfekt</b>: <span class=\"de\">Nachdem ich gegessen habe,</span></td><td><b>Präsens</b>: <span class=\"de\">gehe ich ins Kino.</span></td><td>настоящее / обычное</td></tr><tr><td><b>Plusquamperfekt</b>: <span class=\"de\">Nachdem ich gegessen hatte,</span></td><td><b>Präteritum/Perfekt</b>: <span class=\"de\">ging ich ins Kino.</span></td><td>прошлое</td></tr></table><ul><li><span class=\"de\">Nachdem ich in Berlin angekommen war, rief ich meine Freunde an.</span></li><li><span class=\"de\">Nachdem ich die Rechnung bezahlt habe, gehen wir nach Hause.</span></li></ul><div class=\"note\">Типичная ошибка: <span class=\"de\">Nachdem ich aß, ging ich…</span> — одно и то же время в обеих частях после nachdem считается неправильным. Нужно: <span class=\"de\">Nachdem ich gegessen hatte, ging ich…</span></div>"
+    },
+    {
+      "h": "Bevor: времена совпадают",
+      "html": "<p>С <span class=\"de\">bevor</span> (прежде чем) время в обеих частях обычно <b>одинаковое</b>, потому что действие главного предложения и так происходит раньше:</p><ul><li>Настоящее: <span class=\"de\">Ich jogge jeden Morgen, bevor ich zur Arbeit gehe.</span></li><li>Прошлое: <span class=\"de\">Ich joggte früher jeden Morgen, bevor ich zur Arbeit ging.</span></li></ul><p>Можно поменять части местами и получить ту же картину с <span class=\"de\">nachdem</span>:</p><ul><li><span class=\"de\">Bevor ich in die Kneipe ging, bestand ich meine Prüfung.</span></li><li>= <span class=\"de\">Nachdem ich meine Prüfung bestanden hatte, ging ich in die Kneipe.</span></li></ul>"
+    },
+    {
+      "h": "Plusquamperfekt в рассказе",
+      "html": "<p>Plusquamperfekt встречается не только с <span class=\"de\">nachdem</span>, но и в любом рассказе о прошлом, когда надо «отступить ещё назад»:</p><ul><li><span class=\"de\">Als ich zum Bahnhof kam, war der Zug schon abgefahren.</span> — Когда я пришёл на вокзал, поезд уже ушёл.</li><li><span class=\"de\">Ich konnte nicht ins Haus, weil ich den Schlüssel vergessen hatte.</span> — Я не мог войти в дом, потому что забыл ключ.</li></ul><p>Слова-подсказки: <span class=\"de\">schon, bereits, vorher, zuvor</span> (уже, до этого).</p><p>Порядок слов в главном предложении после придаточного: сначала <b>спрягаемый глагол</b>: <span class=\"de\">Nachdem …, <u>ging</u> ich ins Kino.</span></p>"
+    }
+  ],
+  "tips": [
+    "Plusquamperfekt = Perfekt, где habe/bin заменили на hatte/war. Проще не бывает!",
+    "Nachdem «требует» сдвига времени: Perfekt → Präsens, Plusquamperfekt → Präteritum. Bevor — то же время в обеих частях.",
+    "Глаголы движения и смены состояния (kommen, fahren, aufstehen, einschlafen) — с war: Nachdem ich eingeschlafen war…",
+    "Präteritum gehen для du и ihr: du gingst, ihr gingt (без лишнего -e)."
+  ],
+  "examples": [
+    {"de": "Nachdem wir gefrühstückt hatten, fuhren wir los.", "ru": "После того как мы позавтракали, мы поехали."},
+    {"de": "Als wir ankamen, hatte der Film schon begonnen.", "ru": "Когда мы пришли, фильм уже начался."},
+    {"de": "Er war müde, weil er schlecht geschlafen hatte.", "ru": "Он был уставшим, потому что плохо спал."},
+    {"de": "Nachdem sie die Nachricht gelesen hatte, weinte sie.", "ru": "После того как она прочитала сообщение, она заплакала."},
+    {"de": "Nachdem du die Hausaufgaben gemacht hast, darfst du spielen.", "ru": "После того как сделаешь домашнее задание, можешь поиграть."},
+    {"de": "Bevor er nach Deutschland zog, lernte er ein Jahr Deutsch.", "ru": "Прежде чем переехать в Германию, он год учил немецкий."},
+    {"de": "Ich hatte die Wohnung vorher nie gesehen.", "ru": "Я никогда раньше не видел эту квартиру."},
+    {"de": "Nachdem der Regen aufgehört hatte, gingen die Kinder hinaus.", "ru": "После того как дождь прекратился, дети вышли на улицу."},
+    {"de": "Wir waren schon gegangen, als er anrief.", "ru": "Мы уже ушли, когда он позвонил."},
+    {"de": "Nachdem ich umgezogen war, fand ich schnell neue Freunde.", "ru": "После того как я переехал, я быстро нашёл новых друзей."}
+  ],
+  "vocab": [
+    {"de": "nachdem", "ru": "после того как"},
+    {"de": "bevor", "ru": "прежде чем"},
+    {"de": "vorher / zuvor", "ru": "до этого, раньше"},
+    {"de": "bereits", "ru": "уже"},
+    {"de": "bestehen (eine Prüfung)", "forms": "besteht, bestand, hat bestanden", "ru": "сдать (экзамен)"},
+    {"de": "die Kneipe", "pl": "die Kneipen", "ru": "пивная, бар"},
+    {"de": "die Laune", "pl": "die Launen", "ru": "настроение"},
+    {"de": "sich die Zähne putzen", "ru": "чистить зубы"},
+    {"de": "ankommen", "forms": "kommt an, kam an, ist angekommen", "ru": "прибывать"},
+    {"de": "einschlafen", "forms": "schläft ein, schlief ein, ist eingeschlafen", "ru": "засыпать"},
+    {"de": "der Traum", "pl": "die Träume", "ru": "сон, мечта"},
+    {"de": "der Fehler", "pl": "die Fehler", "ru": "ошибка"},
+    {"de": "die Rechnung", "pl": "die Rechnungen", "ru": "счёт"},
+    {"de": "fliegen", "forms": "fliegt, flog, ist geflogen", "ru": "летать"},
+    {"de": "sich verlieben in + Akk", "ru": "влюбиться в"},
+    {"de": "vergehen", "forms": "vergeht, verging, ist vergangen", "ru": "проходить (о времени)"},
+    {"de": "joggen", "ru": "бегать трусцой"},
+    {"de": "abfahren", "forms": "fährt ab, fuhr ab, ist abgefahren", "ru": "отправляться, уезжать"},
+    {"de": "der Schlüssel", "pl": "die Schlüssel", "ru": "ключ"},
+    {"de": "umziehen", "forms": "zieht um, zog um, ist umgezogen", "ru": "переезжать"}
+  ],
+  "phrasesNote": "Спрягаем Plusquamperfekt по всем лицам и закрепляем согласование времён с nachdem (Perfekt + Präsens, Plusquamperfekt + Präteritum) и bevor.",
+  "phrases": [
+    {"de": "Nachdem ich gegessen hatte, ging ich ins Kino.", "ru": "После того как я поел, я пошёл в кино."},
+    {"de": "Nachdem du gegessen hattest, gingst du ins Kino.", "ru": "После того как ты поел, ты пошёл в кино."},
+    {"de": "Nachdem er gegessen hatte, ging er ins Kino.", "ru": "После того как он поел, он пошёл в кино."},
+    {"de": "Nachdem sie gegessen hatte, ging sie ins Kino.", "ru": "После того как она поела, она пошла в кино."},
+    {"de": "Nachdem wir gegessen hatten, gingen wir ins Kino.", "ru": "После того как мы поели, мы пошли в кино."},
+    {"de": "Nachdem ihr gegessen hattet, gingt ihr ins Kino.", "ru": "После того как вы поели, вы пошли в кино."},
+    {"de": "Nachdem sie gegessen hatten, gingen sie ins Kino.", "ru": "После того как они поели, они пошли в кино."},
+    {"de": "Nachdem ich ein neues Auto gekauft hatte, war ich total glücklich.", "ru": "После того как я купил новую машину, я был совершенно счастлив."},
+    {"de": "Nachdem ich die Prüfung bestanden hatte, ging ich in die Kneipe.", "ru": "После того как я сдал экзамен, я пошёл в бар."},
+    {"de": "Nachdem ich sie angerufen hatte, wurde meine Laune besser.", "ru": "После того как я ей позвонил, у меня улучшилось настроение."},
+    {"de": "Nachdem ich aufgestanden war, putzte ich mir die Zähne.", "ru": "После того как я встал, я почистил зубы."},
+    {"de": "Nachdem ich in Berlin angekommen war, rief ich meine Freunde an.", "ru": "После того как я приехал в Берлин, я позвонил друзьям."},
+    {"de": "Nachdem ich eingeschlafen war, sah ich einen schönen Traum.", "ru": "После того как я заснул, мне приснился прекрасный сон."},
+    {"de": "Nachdem ich den Fehler gefunden habe, freue ich mich.", "ru": "После того как я нашёл ошибку, я радуюсь."},
+    {"de": "Nachdem ich nach Hause gekommen bin, esse ich.", "ru": "После того как я прихожу домой, я ем."},
+    {"de": "Nachdem ich die Rechnung bezahlt habe, gehen wir nach Hause.", "ru": "После того как я оплачу счёт, мы пойдём домой."},
+    {"de": "Nachdem ich vier Stunden geflogen bin, fühle ich mich nicht so gut.", "ru": "После того как я пролетел четыре часа, я чувствую себя не очень хорошо."},
+    {"de": "Bevor ich in die Kneipe ging, bestand ich meine Prüfung.", "ru": "Прежде чем пойти в бар, я сдал экзамен."},
+    {"de": "Bevor ich mich verliebte, verging ein Jahr.", "ru": "Прежде чем я влюбился, прошёл год."},
+    {"de": "Ich las früher immer ein Buch, bevor ich einschlafen konnte.", "ru": "Раньше я всегда читал книгу, прежде чем мог заснуть."},
+    {"de": "Ich joggte früher jeden Morgen, bevor ich zur Arbeit ging.", "ru": "Раньше я каждое утро бегал, прежде чем идти на работу."},
+    {"de": "Ich lese immer ein Buch, bevor ich einschlafen kann.", "ru": "Я всегда читаю книгу, прежде чем могу заснуть."},
+    {"de": "Ich jogge jeden Morgen, bevor ich zur Arbeit gehe.", "ru": "Я каждое утро бегаю, прежде чем идти на работу."},
+    {"de": "Ich soll noch die Prüfung bestehen, bevor ich in Urlaub fahren darf.", "ru": "Мне ещё нужно сдать экзамен, прежде чем мне можно будет поехать в отпуск."},
+    {"de": "Ich soll mir noch die Zähne putzen, bevor ich zur Uni gehe.", "ru": "Мне ещё нужно почистить зубы, прежде чем идти в университет."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Nachdem ich gegessen ___, ging ich ins Kino.", "options": ["habe", "hatte", "hätte"], "answer": 1, "explain": "Главное в Präteritum → придаточное в Plusquamperfekt: hatte gegessen."},
+    {"type": "choice", "q": "Nachdem ich aufgestanden ___, putzte ich mir die Zähne.", "options": ["war", "hatte", "bin"], "answer": 0, "explain": "aufstehen — с sein → war aufgestanden."},
+    {"type": "choice", "q": "Nachdem ich die Rechnung bezahlt habe, ___ wir nach Hause.", "options": ["gingen", "gehen", "waren gegangen"], "answer": 1, "explain": "Perfekt в придаточном → Präsens в главном."},
+    {"type": "choice", "q": "Ich jogge jeden Morgen, bevor ich zur Arbeit ___.", "options": ["gehe", "gegangen bin", "gegangen war"], "answer": 0, "explain": "С bevor время одинаковое: Präsens — Präsens."},
+    {"type": "choice", "q": "Nachdem du gegessen hattest, ___ du ins Kino.", "options": ["gingest", "gingst", "gehst"], "answer": 1, "explain": "Präteritum: du gingst."},
+    {"type": "choice", "q": "Als ich zum Bahnhof kam, war der Zug schon ___.", "options": ["abfahren", "abgefahren", "abfuhr"], "answer": 1, "explain": "Plusquamperfekt: war abgefahren."},
+    {"type": "gap", "q": "Nachdem wir gegessen ___, gingen wir ins Kino. (haben)", "answer": ["hatten"], "explain": "wir hatten gegessen."},
+    {"type": "gap", "q": "Nachdem ich in Berlin angekommen ___, rief ich meine Freunde an. (sein)", "answer": ["war"], "explain": "ankommen — с sein."},
+    {"type": "gap", "q": "Nachdem ihr gegessen hattet, ___ ihr ins Kino. (gehen, Präteritum)", "answer": ["gingt"], "explain": "ihr gingt."},
+    {"type": "gap", "q": "Nachdem ich sie angerufen hatte, ___ meine Laune besser. (werden, Präteritum)", "answer": ["wurde"], "explain": "werden → wurde."},
+    {"type": "gap", "q": "Ich konnte nicht ins Haus, weil ich den Schlüssel vergessen ___.", "answer": ["hatte"], "explain": "Более раннее действие в прошлом — Plusquamperfekt."},
+    {"type": "gap", "q": "Nachdem ich eingeschlafen ___, sah ich einen schönen Traum.", "answer": ["war"], "explain": "einschlafen — с sein."},
+    {"type": "translate", "q": "После того как я сдал экзамен, я пошёл в бар.", "answer": ["Nachdem ich die Prüfung bestanden hatte, ging ich in die Kneipe.", "Nachdem ich die Prüfung bestanden hatte, ging ich in eine Kneipe.", "Nachdem ich die Prüfung bestanden hatte, ging ich in die Bar."], "explain": "Plusquamperfekt + Präteritum."},
+    {"type": "translate", "q": "После того как мы поели, мы пошли в кино.", "answer": ["Nachdem wir gegessen hatten, gingen wir ins Kino."], "explain": "Plusquamperfekt + Präteritum."},
+    {"type": "translate", "q": "Когда мы пришли, фильм уже начался.", "answer": ["Als wir ankamen, hatte der Film schon begonnen.", "Als wir kamen, hatte der Film schon begonnen.", "Als wir ankamen, hatte der Film bereits begonnen.", "Als wir ankamen, hatte der Film schon angefangen."], "explain": "Раньше другого прошлого действия → Plusquamperfekt."},
+    {"type": "translate", "q": "Я каждое утро бегаю, прежде чем идти на работу.", "answer": ["Ich jogge jeden Morgen, bevor ich zur Arbeit gehe.", "Jeden Morgen jogge ich, bevor ich zur Arbeit gehe."], "explain": "bevor + одинаковое время."},
+    {"type": "order", "q": "Составьте предложение", "words": ["ich", "hatte,", "Nachdem", "war", "ein neues Auto", "gekauft", "total glücklich", "ich"], "answer": ["Nachdem ich ein neues Auto gekauft hatte, war ich total glücklich."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["ging", "Ich", "jeden Morgen,", "zur Arbeit", "joggte", "bevor", "ich", "früher"], "answer": ["Ich joggte früher jeden Morgen, bevor ich zur Arbeit ging."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["bin,", "fühle", "Nachdem", "ich", "mich", "geflogen", "vier Stunden", "ich", "nicht so gut"], "answer": ["Nachdem ich vier Stunden geflogen bin, fühle ich mich nicht so gut."]}
+  ]
+}

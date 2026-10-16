@@ -1,0 +1,593 @@
+{
+ "id": 22,
+ "title": "Steigerung — степени сравнения прилагательных",
+ "level": "A2",
+ "goal": "Вы сможете сравнивать людей и предметы: genauso … wie, … als, am …sten — и использовать превосходную степень перед существительным.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Три ступени: Positiv, Komparativ, Superlativ",
+   "html": "<p>В немецком, как и в русском, у прилагательного три степени:</p><table><tr><th>Степень</th><th>Как образуется</th><th>Пример</th></tr><tr><td><b>Positiv</b> (обычная)</td><td>словарная форма</td><td><span class=\"de\">schnell</span> — быстрый</td></tr><tr><td><b>Komparativ</b> (сравнительная)</td><td>+ <span class=\"hl\">-er</span></td><td><span class=\"de\">schneller</span> — быстрее</td></tr><tr><td><b>Superlativ</b> (превосходная)</td><td><span class=\"hl\">am</span> + <span class=\"hl\">-(e)sten</span></td><td><span class=\"de\">am schnellsten</span> — быстрее всего / самый быстрый</td></tr></table><p>Важно: в немецком <b>никогда</b> не говорят «more» или «больше» перед прилагательным, как в английском <i>more beautiful</i>. Любое прилагательное, даже длинное, получает окончание: <span class=\"de\">interessant → interessanter → am interessantesten</span>.</p>"
+  },
+  {
+   "h": "Сравнение: genauso … wie и … als",
+   "html": "<p><b>Равенство</b> — <span class=\"de\">(genau)so + Positiv + wie</span>:</p><ul><li><span class=\"de\">Ich bin genauso alt wie mein Bruder.</span> — Я такой же взрослый (того же возраста), как мой брат.</li><li><span class=\"de\">Er ist nicht so groß wie sein Vater.</span> — Он не такой высокий, как его отец.</li></ul><p><b>Неравенство</b> — <span class=\"de\">Komparativ + als</span>:</p><ul><li><span class=\"de\">Ich bin älter als mein Bruder.</span> — Я старше моего брата (чем мой брат).</li></ul><div class=\"note\">Запомните пару: <b>so … wie</b> (= так же, как), <b>-er … als</b> (= более, чем). Слово после <b>als/wie</b> стоит в том же падеже, что и то, с чем сравниваем, — обычно Nominativ: <span class=\"de\">als mein Bruder</span>, а не <span class=\"de\">als meinen Bruder</span>.</div>"
+  },
+  {
+   "h": "Умлаут и особые формы",
+   "html": "<p>Многие <b>короткие</b> (односложные) прилагательные с <b>a, o, u</b> получают умлаут:</p><table><tr><th>Positiv</th><th>Komparativ</th><th>Superlativ</th></tr><tr><td><span class=\"de\">alt</span></td><td><span class=\"de\">älter</span></td><td><span class=\"de\">am ältesten</span></td></tr><tr><td><span class=\"de\">jung</span></td><td><span class=\"de\">jünger</span></td><td><span class=\"de\">am jüngsten</span></td></tr><tr><td><span class=\"de\">groß</span></td><td><span class=\"de\">größer</span></td><td><span class=\"de\">am größten</span></td></tr><tr><td><span class=\"de\">klug</span></td><td><span class=\"de\">klüger</span></td><td><span class=\"de\">am klügsten</span></td></tr><tr><td><span class=\"de\">stark</span></td><td><span class=\"de\">stärker</span></td><td><span class=\"de\">am stärksten</span></td></tr><tr><td><span class=\"de\">warm / kalt / lang / kurz</span></td><td><span class=\"de\">wärmer / kälter / länger / kürzer</span></td><td><span class=\"de\">am wärmsten / am kältesten / am längsten / am kürzesten</span></td></tr></table><p><b>Неправильные</b> формы надо выучить наизусть:</p><table><tr><th>Positiv</th><th>Komparativ</th><th>Superlativ</th></tr><tr><td><span class=\"de\">gut</span> — хороший</td><td><span class=\"de\">besser</span></td><td><span class=\"de\">am besten</span></td></tr><tr><td><span class=\"de\">viel</span> — много</td><td><span class=\"de\">mehr</span></td><td><span class=\"de\">am meisten</span></td></tr><tr><td><span class=\"de\">gern</span> — охотно</td><td><span class=\"de\">lieber</span></td><td><span class=\"de\">am liebsten</span></td></tr><tr><td><span class=\"de\">hoch</span> — высокий</td><td><span class=\"de\">höher</span></td><td><span class=\"de\">am höchsten</span></td></tr><tr><td><span class=\"de\">nah</span> — близкий</td><td><span class=\"de\">näher</span></td><td><span class=\"de\">am nächsten</span></td></tr></table><p>Прилагательные на <b>-el, -er</b> теряют <b>e</b> в сравнительной степени: <span class=\"de\">teuer → teurer</span>, <span class=\"de\">dunkel → dunkler</span>.</p>"
+  },
+  {
+   "h": "Когда -esten, а когда -sten",
+   "html": "<p>Если прилагательное оканчивается на <b>-d, -t, -s, -ß, -sch, -z</b> (и на ударный гласный), в Superlativ вставляется <b>e</b> для удобства произношения:</p><ul><li><span class=\"de\">alt → am ältesten</span>, <span class=\"de\">weit → am weitesten</span></li><li><span class=\"de\">heiß → am heißesten</span>, <span class=\"de\">kurz → am kürzesten</span></li><li>но: <span class=\"de\">groß → am größten</span> (исключение!), <span class=\"de\">klein → am kleinsten</span>, <span class=\"de\">schön → am schönsten</span></li></ul>"
+  },
+  {
+   "h": "Superlativ перед существительным: der/die/das …ste",
+   "html": "<p>Форма <span class=\"de\">am …sten</span> стоит <b>после глагола</b> (чаще всего после <span class=\"de\">sein</span>) или относится к глаголу:</p><ul><li><span class=\"de\">Dieser Spieler ist am stärksten.</span> — Этот игрок самый сильный.</li><li><span class=\"de\">Am liebsten liege ich in der Sonne.</span> — Больше всего я люблю лежать на солнце.</li></ul><p>Если же превосходная степень стоит <b>перед существительным</b>, используем артикль + <b>-ste</b> (это обычное склонение прилагательных):</p><table><tr><th>Род</th><th>Nominativ</th></tr><tr><td>м.р.</td><td><span class=\"de\">der stärkste Spieler</span></td></tr><tr><td>ж.р.</td><td><span class=\"de\">die beste Schule</span></td></tr><tr><td>ср.р.</td><td><span class=\"de\">das reichste Land</span></td></tr><tr><td>мн.ч.</td><td><span class=\"de\">die meisten Kinder</span></td></tr></table><p>С притяжательным местоимением окончание меняется, как после <span class=\"de\">ein</span>: <span class=\"de\">mein größter Hund</span>, <span class=\"de\">meine kleinste Katze</span>, <span class=\"de\">mein bestes Auto</span>.</p><div class=\"note\">Komparativ перед существительным тоже склоняется: <span class=\"de\">ein schnelleres Auto</span>, <span class=\"de\">mein älterer Bruder</span> — «мой старший брат».</div>"
+  }
+ ],
+ "tips": [
+  "Не говорите «mehr schön» — правильно только «schöner». Слово «mehr» означает «больше (по количеству)»: mehr Freunde, mehr Geld.",
+  "Русское «чем» = als, русское «как» = wie. Частая ошибка: «größer wie» — в литературном языке нужно «größer als».",
+  "Тройка gern – lieber – am liebsten заменяет русское «люблю – больше люблю – больше всего люблю»: Ich trinke lieber Tee — я больше люблю чай.",
+  "Мнемоника для hoch: высота «ломается» — hoch, но höher и das hohe Haus (c исчезает перед окончанием)."
+ ],
+ "examples": [
+  {
+   "de": "Mein Bruder ist älter als ich.",
+   "ru": "Мой брат старше меня."
+  },
+  {
+   "de": "Berlin ist größer als München.",
+   "ru": "Берлин больше Мюнхена."
+  },
+  {
+   "de": "Heute ist es genauso kalt wie gestern.",
+   "ru": "Сегодня так же холодно, как вчера."
+  },
+  {
+   "de": "Der Zug ist schneller als der Bus.",
+   "ru": "Поезд быстрее автобуса."
+  },
+  {
+   "de": "Im Sommer sind die Tage am längsten.",
+   "ru": "Летом дни самые длинные."
+  },
+  {
+   "de": "Ich trinke gern Tee, aber lieber Kaffee.",
+   "ru": "Я люблю чай, но кофе люблю больше."
+  },
+  {
+   "de": "Das ist das schönste Bild im Museum.",
+   "ru": "Это самая красивая картина в музее."
+  },
+  {
+   "de": "Mein jüngerer Bruder heißt Max.",
+   "ru": "Моего младшего брата зовут Макс."
+  },
+  {
+   "de": "Dieses Handy ist teurer, aber auch besser.",
+   "ru": "Этот телефон дороже, но и лучше."
+  },
+  {
+   "de": "Wer läuft am schnellsten?",
+   "ru": "Кто бегает быстрее всех?"
+  },
+  {
+   "de": "Die meisten Leute arbeiten von Montag bis Freitag.",
+   "ru": "Большинство людей работают с понедельника по пятницу."
+  },
+  {
+   "de": "Die Zugspitze ist der höchste Berg Deutschlands.",
+   "ru": "Цугшпитце — самая высокая гора Германии."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "alt – älter – am ältesten",
+   "ru": "старый, взрослый"
+  },
+  {
+   "de": "jung – jünger – am jüngsten",
+   "ru": "молодой"
+  },
+  {
+   "de": "groß – größer – am größten",
+   "ru": "большой, высокий"
+  },
+  {
+   "de": "klein – kleiner – am kleinsten",
+   "ru": "маленький"
+  },
+  {
+   "de": "klug – klüger – am klügsten",
+   "ru": "умный"
+  },
+  {
+   "de": "stark – stärker – am stärksten",
+   "ru": "сильный"
+  },
+  {
+   "de": "schwach – schwächer – am schwächsten",
+   "ru": "слабый"
+  },
+  {
+   "de": "gut – besser – am besten",
+   "ru": "хороший — лучше — лучше всего"
+  },
+  {
+   "de": "viel – mehr – am meisten",
+   "ru": "много — больше — больше всего"
+  },
+  {
+   "de": "gern – lieber – am liebsten",
+   "ru": "охотно — охотнее — охотнее всего"
+  },
+  {
+   "de": "hoch – höher – am höchsten",
+   "ru": "высокий"
+  },
+  {
+   "de": "nah – näher – am nächsten",
+   "ru": "близкий"
+  },
+  {
+   "de": "teuer – teurer – am teuersten",
+   "ru": "дорогой"
+  },
+  {
+   "de": "billig – billiger – am billigsten",
+   "ru": "дешёвый"
+  },
+  {
+   "de": "weit – weiter – am weitesten",
+   "ru": "далёкий"
+  },
+  {
+   "de": "reich – reicher – am reichsten",
+   "ru": "богатый"
+  },
+  {
+   "de": "arm – ärmer – am ärmsten",
+   "ru": "бедный"
+  },
+  {
+   "de": "warm – wärmer – am wärmsten",
+   "ru": "тёплый"
+  },
+  {
+   "de": "kalt – kälter – am kältesten",
+   "ru": "холодный"
+  },
+  {
+   "de": "schnell – schneller – am schnellsten",
+   "ru": "быстрый"
+  },
+  {
+   "de": "als",
+   "ru": "чем (при сравнении)"
+  },
+  {
+   "de": "genauso … wie",
+   "ru": "такой же …, как"
+  },
+  {
+   "de": "der Spieler",
+   "pl": "die Spieler",
+   "ru": "игрок"
+  },
+  {
+   "de": "das Land",
+   "pl": "die Länder",
+   "ru": "страна"
+  }
+ ],
+ "phrasesNote": "Сравниваем: genauso … wie ↔ Komparativ + als; Superlativ с am …sten и перед существительным (der/die/das …ste, mein …ster). Прогоняйте по таблице: ich – du – er – sie – wir – ihr – sie.",
+ "phrases": [
+  {
+   "de": "Ich bin genauso alt wie mein Bruder.",
+   "ru": "Я такого же возраста, как мой брат."
+  },
+  {
+   "de": "Ich bin älter als mein Bruder.",
+   "ru": "Я старше моего брата."
+  },
+  {
+   "de": "Ich bin genauso groß wie mein Vater.",
+   "ru": "Я такой же высокий, как мой отец."
+  },
+  {
+   "de": "Ich bin größer als mein Vater.",
+   "ru": "Я выше моего отца."
+  },
+  {
+   "de": "Ich bin genauso klug wie meine Freundin.",
+   "ru": "Я такой же умный, как моя подруга."
+  },
+  {
+   "de": "Ich bin klüger als meine Freundin.",
+   "ru": "Я умнее моей подруги."
+  },
+  {
+   "de": "Ich bin genauso stark wie mein Freund.",
+   "ru": "Я такой же сильный, как мой друг."
+  },
+  {
+   "de": "Ich bin stärker als mein Freund.",
+   "ru": "Я сильнее моего друга."
+  },
+  {
+   "de": "Mein Fahrrad ist teuer.",
+   "ru": "Мой велосипед дорогой."
+  },
+  {
+   "de": "Dein Fahrrad ist teurer.",
+   "ru": "Твой велосипед дороже."
+  },
+  {
+   "de": "Sein Fahrrad ist am teuersten.",
+   "ru": "Его велосипед самый дорогой."
+  },
+  {
+   "de": "Mein Land ist weit.",
+   "ru": "Моя страна далеко."
+  },
+  {
+   "de": "Dein Land ist weiter.",
+   "ru": "Твоя страна дальше."
+  },
+  {
+   "de": "Sein Land ist am weitesten.",
+   "ru": "Его страна дальше всех."
+  },
+  {
+   "de": "Mein Haus ist hoch.",
+   "ru": "Мой дом высокий."
+  },
+  {
+   "de": "Dein Haus ist höher.",
+   "ru": "Твой дом выше."
+  },
+  {
+   "de": "Sein Haus ist am höchsten.",
+   "ru": "Его дом самый высокий."
+  },
+  {
+   "de": "Meine Schule ist nah.",
+   "ru": "Моя школа близко."
+  },
+  {
+   "de": "Deine Schule ist näher.",
+   "ru": "Твоя школа ближе."
+  },
+  {
+   "de": "Seine Schule ist am nächsten.",
+   "ru": "Его школа ближе всех."
+  },
+  {
+   "de": "Meine Wohnung ist gut.",
+   "ru": "Моя квартира хорошая."
+  },
+  {
+   "de": "Deine Wohnung ist besser.",
+   "ru": "Твоя квартира лучше."
+  },
+  {
+   "de": "Seine Wohnung ist am besten.",
+   "ru": "Его квартира самая лучшая."
+  },
+  {
+   "de": "Ich schwimme gern.",
+   "ru": "Я люблю плавать."
+  },
+  {
+   "de": "Ich wandere lieber.",
+   "ru": "Ходить в походы я люблю больше."
+  },
+  {
+   "de": "Am liebsten liege ich in der Sonne.",
+   "ru": "Больше всего я люблю лежать на солнце."
+  },
+  {
+   "de": "Ich habe viele Freunde.",
+   "ru": "У меня много друзей."
+  },
+  {
+   "de": "Du hast mehr Freunde.",
+   "ru": "У тебя больше друзей."
+  },
+  {
+   "de": "Am meisten mag ich zu Hause sitzen.",
+   "ru": "Больше всего я люблю сидеть дома."
+  },
+  {
+   "de": "Die meisten Kinder lernen Englisch.",
+   "ru": "Большинство детей учат английский."
+  },
+  {
+   "de": "Dieser Spieler ist am stärksten.",
+   "ru": "Этот игрок самый сильный."
+  },
+  {
+   "de": "Das ist der stärkste Spieler.",
+   "ru": "Это самый сильный игрок."
+  },
+  {
+   "de": "Dieses Land ist am reichsten.",
+   "ru": "Эта страна самая богатая."
+  },
+  {
+   "de": "Das ist das reichste Land.",
+   "ru": "Это самая богатая страна."
+  },
+  {
+   "de": "Diese Schule ist am besten in der Welt.",
+   "ru": "Эта школа лучшая в мире."
+  },
+  {
+   "de": "Das ist die beste Schule in der Welt.",
+   "ru": "Это лучшая школа в мире."
+  },
+  {
+   "de": "Dieses Auto ist am besten.",
+   "ru": "Эта машина самая лучшая."
+  },
+  {
+   "de": "Das ist das beste Auto.",
+   "ru": "Это лучшая машина."
+  },
+  {
+   "de": "Mein Auto ist am besten.",
+   "ru": "Моя машина самая лучшая."
+  },
+  {
+   "de": "Das ist mein bestes Auto.",
+   "ru": "Это моя лучшая машина."
+  },
+  {
+   "de": "Dieses Hotel ist am nächsten.",
+   "ru": "Этот отель ближе всех."
+  },
+  {
+   "de": "Das ist das nächste Hotel.",
+   "ru": "Это ближайший отель."
+  },
+  {
+   "de": "Mein Hotel ist am nächsten.",
+   "ru": "Мой отель ближе всех."
+  },
+  {
+   "de": "Das ist mein nächstes Hotel.",
+   "ru": "Это мой ближайший отель."
+  },
+  {
+   "de": "Dieser Hund ist am größten.",
+   "ru": "Эта собака самая большая."
+  },
+  {
+   "de": "Das ist der größte Hund.",
+   "ru": "Это самая большая собака."
+  },
+  {
+   "de": "Mein Hund ist am größten.",
+   "ru": "Моя собака самая большая."
+  },
+  {
+   "de": "Das ist mein größter Hund.",
+   "ru": "Это моя самая большая собака."
+  },
+  {
+   "de": "Diese Katze ist am kleinsten.",
+   "ru": "Эта кошка самая маленькая."
+  },
+  {
+   "de": "Das ist die kleinste Katze.",
+   "ru": "Это самая маленькая кошка."
+  },
+  {
+   "de": "Meine Katze ist am kleinsten.",
+   "ru": "Моя кошка самая маленькая."
+  },
+  {
+   "de": "Das ist meine kleinste Katze.",
+   "ru": "Это моя самая маленькая кошка."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Komparativ от «schnell»:",
+   "options": [
+    "schneller",
+    "mehr schnell",
+    "schnellst"
+   ],
+   "answer": 0,
+   "explain": "Komparativ всегда образуется окончанием -er: schneller."
+  },
+  {
+   "type": "choice",
+   "q": "Mein Bruder ist größer ___ ich.",
+   "options": [
+    "wie",
+    "als",
+    "dann"
+   ],
+   "answer": 1,
+   "explain": "После Komparativ ставится als (= чем)."
+  },
+  {
+   "type": "choice",
+   "q": "Ich bin genauso alt ___ du.",
+   "options": [
+    "als",
+    "wie",
+    "so"
+   ],
+   "answer": 1,
+   "explain": "Равенство: genauso … wie."
+  },
+  {
+   "type": "gap",
+   "q": "Mein Vater ist ___ als ich. (alt)",
+   "answer": [
+    "älter"
+   ],
+   "explain": "Односложное alt получает умлаут: älter."
+  },
+  {
+   "type": "gap",
+   "q": "Deine Wohnung ist ___ als meine. (gut)",
+   "answer": [
+    "besser"
+   ],
+   "explain": "gut – besser – am besten (неправильная форма)."
+  },
+  {
+   "type": "choice",
+   "q": "Ich trinke gern Tee, aber ___ Kaffee.",
+   "options": [
+    "gerner",
+    "lieber",
+    "mehr gern"
+   ],
+   "answer": 1,
+   "explain": "gern – lieber – am liebsten."
+  },
+  {
+   "type": "gap",
+   "q": "Du hast ___ Freunde als ich. (viel)",
+   "answer": [
+    "mehr"
+   ],
+   "explain": "viel – mehr – am meisten; mehr не склоняется."
+  },
+  {
+   "type": "gap",
+   "q": "Sein Haus ist am ___. (hoch)",
+   "answer": [
+    "höchsten"
+   ],
+   "explain": "hoch – höher – am höchsten."
+  },
+  {
+   "type": "choice",
+   "q": "Welche Form ist richtig?",
+   "options": [
+    "am teuerersten",
+    "am teuersten",
+    "am teuresten"
+   ],
+   "answer": 1,
+   "explain": "teuer – teurer – am teuersten."
+  },
+  {
+   "type": "gap",
+   "q": "Die Schule ist am ___. (nah)",
+   "answer": [
+    "nächsten"
+   ],
+   "explain": "nah – näher – am nächsten."
+  },
+  {
+   "type": "choice",
+   "q": "Das ist ___ stärkste Spieler.",
+   "options": [
+    "die",
+    "das",
+    "der"
+   ],
+   "answer": 2,
+   "explain": "der Spieler — мужской род: der stärkste Spieler."
+  },
+  {
+   "type": "gap",
+   "q": "Das ist das ___ Land. (reich, Superlativ)",
+   "answer": [
+    "reichste"
+   ],
+   "explain": "Перед существительным: das reichste Land."
+  },
+  {
+   "type": "choice",
+   "q": "Das ist mein ___ Hund. (groß, Superlativ)",
+   "options": [
+    "größte",
+    "größter",
+    "am größten"
+   ],
+   "answer": 1,
+   "explain": "После mein (м.р., Nominativ) окончание -er: mein größter Hund."
+  },
+  {
+   "type": "gap",
+   "q": "Im Winter ist es ___ als im Sommer. (kalt)",
+   "answer": [
+    "kälter"
+   ],
+   "explain": "kalt – kälter."
+  },
+  {
+   "type": "translate",
+   "q": "Я старше моей сестры.",
+   "answer": [
+    "Ich bin älter als meine Schwester."
+   ],
+   "explain": "Komparativ + als + Nominativ."
+  },
+  {
+   "type": "translate",
+   "q": "Этот отель ближе всех.",
+   "answer": [
+    "Dieses Hotel ist am nächsten."
+   ],
+   "explain": "nah – näher – am nächsten."
+  },
+  {
+   "type": "translate",
+   "q": "Это самая маленькая кошка.",
+   "answer": [
+    "Das ist die kleinste Katze."
+   ],
+   "explain": "die Katze → die kleinste Katze."
+  },
+  {
+   "type": "translate",
+   "q": "Больше всего я люблю лежать на солнце.",
+   "answer": [
+    "Am liebsten liege ich in der Sonne.",
+    "Ich liege am liebsten in der Sonne."
+   ],
+   "explain": "gern – lieber – am liebsten."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "stärker",
+    "mein Freund",
+    "bin",
+    "als",
+    "ich"
+   ],
+   "answer": [
+    "Ich bin stärker als mein Freund."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "genauso",
+    "ich",
+    "wie",
+    "bin",
+    "mein Vater",
+    "groß"
+   ],
+   "answer": [
+    "Ich bin genauso groß wie mein Vater."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": 46,
+  "title": "Partizip I и Partizip II как определение",
+  "level": "B2",
+  "goal": "Ученик умеет образовывать Partizip I (spielend) и использовать оба причастия как определение с правильными окончаниями: das spielende Kind, die zerstörte Stadt.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Два причастия: что они значат",
+      "html": "<p>В немецком два причастия. Оба могут стоять перед существительным как прилагательное.</p><table><tr><th></th><th>Partizip I</th><th>Partizip II</th></tr><tr><td>Образование</td><td>инфинитив + <b>-d</b>: <span class=\"de\">spielen → spielend</span></td><td>форма из Perfekt: <span class=\"de\">zerstören → zerstört</span></td></tr><tr><td>Значение</td><td><b>активное</b>, действие происходит <b>сейчас</b> (одновременно)</td><td>чаще <b>пассивное</b>, действие <b>уже завершено</b></td></tr><tr><td>Русский аналог</td><td>-ущий/-ющий: играющий, лающий</td><td>-нный/-тый: разрушенный, закрытый</td></tr><tr><td>Пример</td><td><span class=\"de\">das spielende Kind</span> — играющий ребёнок</td><td><span class=\"de\">die zerstörte Stadt</span> — разрушенный город</td></tr></table><div class=\"note\">Сравните: <span class=\"de\">die schließende Tür</span> — закрывающаяся дверь (процесс) и <span class=\"de\">die geschlossene Tür</span> — закрытая дверь (результат).</div>"
+    },
+    {
+      "h": "Partizip I: образование",
+      "html": "<p>Просто добавьте <b>-d</b> к инфинитиву:</p><ul><li><span class=\"de\">lachen → lachend</span> (смеющийся)</li><li><span class=\"de\">bellen → bellend</span> (лающий)</li><li><span class=\"de\">spannen → spannend</span> (захватывающий, увлекательный)</li><li><span class=\"de\">überraschen → überraschend</span> (удивительный, неожиданный)</li><li><span class=\"de\">strömen → strömend</span> (льющийся, текущий)</li></ul><p>Исключения: <span class=\"de\">sein → seiend</span>, <span class=\"de\">tun → tuend</span>.</p><p>Partizip I без окончания часто работает как <b>наречие образа действия</b> (деепричастие на -я, -а):</p><ul><li><span class=\"de\">Er kam lachend ins Zimmer.</span> — Он вошёл в комнату, смеясь.</li><li><span class=\"de\">Sie sprach lächelnd mit uns.</span> — Она говорила с нами, улыбаясь.</li></ul><p>Многие Partizip I стали обычными прилагательными: <span class=\"de\">Der Film war spannend.</span> <span class=\"de\">Das ist sehr interessant… / überraschend.</span></p>"
+    },
+    {
+      "h": "Окончания: как у прилагательных",
+      "html": "<p>Перед существительным причастие склоняется <b>точно как прилагательное</b> (урок 37):</p><table><tr><th>Падеж</th><th>с определённым артиклем</th><th>с неопределённым / без артикля</th></tr><tr><td>Nom.</td><td><span class=\"de\">der bellende Hund</span></td><td><span class=\"de\">ein bellender Hund</span></td></tr><tr><td>Akk.</td><td><span class=\"de\">den bellenden Hund</span></td><td><span class=\"de\">einen spannenden Film</span></td></tr><tr><td>Dat.</td><td><span class=\"de\">mit dem lachenden Mädchen</span></td><td><span class=\"de\">nach einem spannenden Film</span></td></tr><tr><td>Gen.</td><td><span class=\"de\">die Mutter der spielenden Kinder</span></td><td>—</td></tr><tr><td>Plural без артикля</td><td><span class=\"de\">spielende Kinder</span></td><td><span class=\"de\">mit spielenden Kindern</span>, <span class=\"de\">hinter geschlossenen Türen</span></td></tr></table><div class=\"note\">После глагола sein причастие окончания не получает: <span class=\"de\">Der Film war spannend. Die Tür ist geschlossen.</span></div>"
+    },
+    {
+      "h": "Partizip II как определение",
+      "html": "<p>Partizip II от <b>переходных</b> глаголов (с Akkusativ) имеет пассивное значение — «то, что сделали»:</p><ul><li><span class=\"de\">die zerstörte Stadt</span> — город, который разрушили</li><li><span class=\"de\">gekochte Eier</span> — варёные яйца</li><li><span class=\"de\">das aufgeräumte Zimmer</span> — убранная комната</li><li><span class=\"de\">eine gut organisierte Vorstellung</span> — хорошо организованное представление</li></ul><p>Partizip II от глаголов движения/изменения состояния (Perfekt с <b>sein</b>) — активное значение, «тот, кто уже …»: <span class=\"de\">der angekommene Zug</span> — прибывший поезд, <span class=\"de\">die gefallenen Blätter</span> — опавшие листья.</p><p>Перед причастием может стоять наречие или целая группа: <span class=\"de\">im frisch aufgeräumten Zimmer</span>, <span class=\"de\">der vor zwei Jahren gebaute Bahnhof</span> — построенный два года назад вокзал. Это так называемое <b>расширенное определение</b>, типичное для книжного стиля.</p>"
+    }
+  ],
+  "tips": [
+    "Русское «-ющий/-ящий» → Partizip I (-end), русское «-нный/-тый» → Partizip II: лающая собака — der bellende Hund, закрытая дверь — die geschlossene Tür.",
+    "Не забывайте окончание прилагательного: «с играющими детьми» — mit spielenden Kindern (Dativ Plural, -en).",
+    "spannend (захватывающий) ≠ gespannt (в напряжённом ожидании): Der Film ist spannend. Ich bin gespannt auf das Ende.",
+    "Partizip I без окончания = «делая что-то»: Er sah mich lachend an — Он смотрел на меня, смеясь."
+  ],
+  "examples": [
+    {"de": "Das schlafende Baby ist so süß.", "ru": "Спящий малыш такой милый."},
+    {"de": "Wir haben ein überraschendes Ergebnis bekommen.", "ru": "Мы получили неожиданный результат."},
+    {"de": "Er kam pfeifend nach Hause.", "ru": "Он пришёл домой, насвистывая."},
+    {"de": "Die steigenden Preise machen allen Sorgen.", "ru": "Растущие цены всех беспокоят."},
+    {"de": "Ich habe den gestohlenen Laptop zurückbekommen.", "ru": "Я получил обратно украденный ноутбук."},
+    {"de": "Die reparierte Waschmaschine funktioniert wieder.", "ru": "Отремонтированная стиральная машина снова работает."},
+    {"de": "Ein gut geschriebener Brief ist heute selten.", "ru": "Хорошо написанное письмо сегодня редкость."},
+    {"de": "Der angekommene Zug war voll.", "ru": "Прибывший поезд был полон."},
+    {"de": "Im laufenden Jahr haben wir viel erreicht.", "ru": "В текущем году мы многого добились."},
+    {"de": "Die vor zwei Jahren gebaute Brücke ist schon kaputt.", "ru": "Построенный два года назад мост уже сломан."}
+  ],
+  "vocab": [
+    {"de": "spannend", "ru": "захватывающий, увлекательный"},
+    {"de": "gespannt sein auf + Akk", "ru": "с нетерпением ждать"},
+    {"de": "überraschend", "ru": "удивительный, неожиданный"},
+    {"de": "die Entwicklung", "pl": "die Entwicklungen", "ru": "развитие"},
+    {"de": "bewundern", "ru": "восхищаться"},
+    {"de": "der Wasserhahn", "pl": "die Wasserhähne", "ru": "водопроводный кран"},
+    {"de": "strömen", "ru": "течь, литься потоком"},
+    {"de": "bellen", "ru": "лаять"},
+    {"de": "beruhigen", "ru": "успокаивать"},
+    {"de": "nerven", "ru": "раздражать, действовать на нервы"},
+    {"de": "zerstören", "ru": "разрушать"},
+    {"de": "der Einwohner", "pl": "die Einwohner", "ru": "житель"},
+    {"de": "frustriert", "ru": "расстроенный, разочарованный"},
+    {"de": "stattfinden", "forms": "findet statt, fand statt, hat stattgefunden", "ru": "состояться, проходить"},
+    {"de": "die Vorstellung", "pl": "die Vorstellungen", "ru": "представление, спектакль"},
+    {"de": "organisieren", "ru": "организовывать"},
+    {"de": "aufräumen", "ru": "убирать (комнату)"},
+    {"de": "prächtig", "ru": "великолепный, роскошный"},
+    {"de": "aufgeregt", "ru": "взволнованный"},
+    {"de": "der Zuschauer", "pl": "die Zuschauer", "ru": "зритель"},
+    {"de": "die Folge", "pl": "die Folgen", "ru": "серия (сериала); последствие"},
+    {"de": "das Gespräch", "pl": "die Gespräche", "ru": "разговор, беседа"}
+  ],
+  "phrasesNote": "Закрепляем Partizip I (spielend, lachend, bellend) и Partizip II (zerstört, geschlossen, aufgeräumt) как определения в разных падежах.",
+  "phrases": [
+    {"de": "Auf dem Sportplatz waren spielende Kinder.", "ru": "На спортивной площадке были играющие дети."},
+    {"de": "Ich habe mit spielenden Kindern gesprochen.", "ru": "Я поговорил с играющими детьми."},
+    {"de": "Das ist die Mutter der spielenden Kinder.", "ru": "Это мать играющих детей."},
+    {"de": "Ich habe gestern einen spannenden Film gesehen.", "ru": "Вчера я посмотрел захватывающий фильм."},
+    {"de": "Der Film war ganz spannend.", "ru": "Фильм был очень захватывающим."},
+    {"de": "Nach einem spannenden Film ging ich ins Bett.", "ru": "После захватывающего фильма я пошёл спать."},
+    {"de": "Dort habe ich ein lachendes Mädchen getroffen.", "ru": "Там я встретил смеющуюся девочку."},
+    {"de": "Ich habe mit dem lachenden Mädchen kurz gesprochen.", "ru": "Я коротко поговорил со смеющейся девочкой."},
+    {"de": "Ich bewundere überraschende Entwicklungen in diesem Land.", "ru": "Я восхищаюсь удивительными переменами в этой стране."},
+    {"de": "Mit überraschenden Entwicklungen in dieser Schule war ich zufrieden.", "ru": "Удивительными переменами в этой школе я был доволен."},
+    {"de": "Strömende Wasserhähne sollen repariert werden.", "ru": "Текущие краны нужно отремонтировать."},
+    {"de": "Ich sah die strömenden Wasserhähne lachend an.", "ru": "Я смотрел на текущие краны, смеясь."},
+    {"de": "Der bellende Hund nervt mich.", "ru": "Лающая собака меня раздражает."},
+    {"de": "Ich versuchte, den bellenden Hund zu beruhigen.", "ru": "Я пытался успокоить лающую собаку."},
+    {"de": "Er hat mit dem bellenden Hund gespielt.", "ru": "Он играл с лающей собакой."},
+    {"de": "Die zerstörte Stadt sah schrecklich aus.", "ru": "Разрушенный город выглядел ужасно."},
+    {"de": "Sie sollten nun in der zerstörten Stadt leben.", "ru": "Теперь им предстояло жить в разрушенном городе."},
+    {"de": "Die Einwohner der zerstörten Stadt waren alle total frustriert.", "ru": "Все жители разрушенного города были совершенно подавлены."},
+    {"de": "Ich konnte alles durch die geschlossene Tür hören.", "ru": "Я мог всё слышать через закрытую дверь."},
+    {"de": "Ich sah die geschlossene Tür traurig an.", "ru": "Я грустно смотрел на закрытую дверь."},
+    {"de": "Das Gespräch hat hinter geschlossenen Türen stattgefunden.", "ru": "Разговор состоялся за закрытыми дверями."},
+    {"de": "Das war eine gut organisierte Vorstellung.", "ru": "Это было хорошо организованное представление."},
+    {"de": "Nach der gut organisierten Vorstellung waren wir ganz glücklich.", "ru": "После хорошо организованного представления мы были очень счастливы."},
+    {"de": "Ich habe heute nur ein paar gekochte Eier gegessen.", "ru": "Сегодня я съел только пару варёных яиц."},
+    {"de": "Was machen wir mit diesen gekochten Eiern?", "ru": "Что нам делать с этими варёными яйцами?"},
+    {"de": "Das aufgeräumte Zimmer sah prächtig aus!", "ru": "Убранная комната выглядела великолепно!"},
+    {"de": "Ich wartete auf sie im frisch aufgeräumten Zimmer!", "ru": "Я ждал её в только что убранной комнате!"},
+    {"de": "Aufgeregte Zuschauer waren gespannt auf die letzte Folge.", "ru": "Взволнованные зрители с нетерпением ждали последнюю серию."},
+    {"de": "Ich war dort mit aufgeregten Fans zusammen.", "ru": "Я был там вместе со взволнованными фанатами."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "Как будет Partizip I от «lachen»?", "options": ["gelacht", "lachend", "lachte"], "answer": 1, "explain": "Partizip I = инфинитив + d."},
+    {"type": "choice", "q": "«Разрушенный город» — die ___ Stadt.", "options": ["zerstörende", "zerstörte", "zerstören"], "answer": 1, "explain": "Результат действия, пассив → Partizip II."},
+    {"type": "choice", "q": "Der ___ Hund nervt mich.", "options": ["bellende", "bellenden", "bellender"], "answer": 0, "explain": "Nominativ м.р. после der → -e."},
+    {"type": "choice", "q": "Ich habe gestern einen ___ Film gesehen.", "options": ["spannende", "spannenden", "spannender"], "answer": 1, "explain": "Akkusativ м.р. после einen → -en."},
+    {"type": "choice", "q": "Der Film war ganz ___.", "options": ["spannend", "spannende", "spannenden"], "answer": 0, "explain": "После sein причастие без окончания."},
+    {"type": "choice", "q": "Ich bin ___ auf die letzte Folge.", "options": ["spannend", "gespannt", "spannende"], "answer": 1, "explain": "gespannt sein auf — с нетерпением ждать."},
+    {"type": "gap", "q": "Ich habe mit ___ Kindern gesprochen. (spielen, Partizip I)", "answer": ["spielenden"], "explain": "Dativ Plural без артикля → -en."},
+    {"type": "gap", "q": "Das Gespräch hat hinter ___ Türen stattgefunden. (schließen, Partizip II)", "answer": ["geschlossenen"], "explain": "hinter + Dativ Plural → geschlossenen."},
+    {"type": "gap", "q": "Ich habe nur ein paar ___ Eier gegessen. (kochen, Partizip II)", "answer": ["gekochte"], "explain": "Akkusativ Plural без артикля → -e."},
+    {"type": "gap", "q": "Das ___ Zimmer sah prächtig aus. (aufräumen, Partizip II)", "answer": ["aufgeräumte"], "explain": "das + Nominativ ср.р. → -e."},
+    {"type": "gap", "q": "Ich habe mit dem ___ Mädchen gesprochen. (lachen, Partizip I)", "answer": ["lachenden"], "explain": "mit dem + Dativ → -en."},
+    {"type": "gap", "q": "Die Einwohner der ___ Stadt waren frustriert. (zerstören, Partizip II)", "answer": ["zerstörten"], "explain": "Genitiv ж.р. после der → -en."},
+    {"type": "translate", "q": "Лающая собака меня раздражает.", "answer": ["Der bellende Hund nervt mich."], "explain": "Partizip I, Nominativ."},
+    {"type": "translate", "q": "Это было хорошо организованное представление.", "answer": ["Das war eine gut organisierte Vorstellung."], "explain": "Partizip II + окончание -e после eine."},
+    {"type": "translate", "q": "Я мог всё слышать через закрытую дверь.", "answer": ["Ich konnte alles durch die geschlossene Tür hören."], "explain": "durch + Akkusativ: die geschlossene Tür."},
+    {"type": "translate", "q": "Он вошёл в комнату, смеясь.", "answer": ["Er kam lachend ins Zimmer.", "Er ist lachend ins Zimmer gekommen.", "Lachend kam er ins Zimmer."], "explain": "Partizip I без окончания = деепричастие."},
+    {"type": "order", "q": "Составьте предложение", "words": ["den", "Ich", "zu beruhigen", "bellenden", "versuchte,", "Hund"], "answer": ["Ich versuchte, den bellenden Hund zu beruhigen.", "Ich versuchte den bellenden Hund zu beruhigen."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["im", "auf sie", "Ich", "aufgeräumten", "wartete", "frisch", "Zimmer"], "answer": ["Ich wartete auf sie im frisch aufgeräumten Zimmer.", "Ich wartete im frisch aufgeräumten Zimmer auf sie."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["die Mutter", "Das", "der", "Kinder", "ist", "spielenden"], "answer": ["Das ist die Mutter der spielenden Kinder."]}
+  ]
+}

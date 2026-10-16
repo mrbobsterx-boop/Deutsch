@@ -1,0 +1,727 @@
+{
+ "id": 18,
+ "title": "Предлоги, часть 2: wo? и wohin?",
+ "level": "A1",
+ "goal": "Вы научитесь выбирать падеж после предлогов in, auf, an, über, unter, vor, hinter, neben, zwischen, различать legen/liegen, stellen/stehen и правильно говорить, куда вы едете (nach, in, zu, an, auf).",
+ "minutes": 55,
+ "theory": [
+  {
+   "h": "Предлоги двойного управления: wo? и wohin?",
+   "html": "<p>Девять предлогов могут требовать и <b>Dativ</b>, и <b>Akkusativ</b> — это <b>Wechselpräpositionen</b>:</p>\n<p><span class=\"de\">an, auf, in, über, unter, vor, hinter, neben, zwischen</span></p>\n<p>Падеж зависит от вопроса:</p>\n<table><tr><th>Вопрос</th><th>Смысл</th><th>Падеж</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">Wo?</span> — где?</td><td>место, покой</td><td><b>Dativ</b></td><td><span class=\"de\">Ich bin im Kino.</span></td></tr>\n<tr><td><span class=\"de\">Wohin?</span> — куда?</td><td>направление, движение</td><td><b>Akkusativ</b></td><td><span class=\"de\">Ich gehe ins Kino.</span></td></tr></table>\n<div class=\"note\">Как в русском: «в школу» (куда? — винительный) и «в школе» (где? — предложный). Немецкий Akkusativ ≈ «куда», Dativ ≈ «где».</div>"
+  },
+  {
+   "h": "Значения девяти предлогов",
+   "html": "<table><tr><th>Предлог</th><th>Wohin? (Akk)</th><th>Wo? (Dat)</th></tr>\n<tr><td><span class=\"de\">in</span> — в (внутрь)</td><td><span class=\"de\">in die Schule</span></td><td><span class=\"de\">in der Schule</span></td></tr>\n<tr><td><span class=\"de\">auf</span> — на (горизонт. поверхность)</td><td><span class=\"de\">auf den Tisch</span></td><td><span class=\"de\">auf dem Tisch</span></td></tr>\n<tr><td><span class=\"de\">an</span> — на, у (вертикаль, край)</td><td><span class=\"de\">an die Wand</span></td><td><span class=\"de\">an der Wand</span></td></tr>\n<tr><td><span class=\"de\">über</span> — над</td><td><span class=\"de\">über den Tisch</span></td><td><span class=\"de\">über dem Tisch</span></td></tr>\n<tr><td><span class=\"de\">unter</span> — под</td><td><span class=\"de\">unter den Tisch</span></td><td><span class=\"de\">unter dem Tisch</span></td></tr>\n<tr><td><span class=\"de\">vor</span> — перед</td><td><span class=\"de\">vor die Tür</span></td><td><span class=\"de\">vor der Tür</span></td></tr>\n<tr><td><span class=\"de\">hinter</span> — за, позади</td><td><span class=\"de\">hinter den Schrank</span></td><td><span class=\"de\">hinter dem Schrank</span></td></tr>\n<tr><td><span class=\"de\">neben</span> — рядом с</td><td><span class=\"de\">neben den Sessel</span></td><td><span class=\"de\">neben dem Sessel</span></td></tr>\n<tr><td><span class=\"de\">zwischen</span> — между</td><td><span class=\"de\">zwischen das Sofa und den Schrank</span></td><td><span class=\"de\">zwischen dem Sofa und dem Schrank</span></td></tr></table>\n<p>Слияния: <span class=\"de\">in + das = ins</span>, <span class=\"de\">in + dem = im</span>, <span class=\"de\">an + das = ans</span>, <span class=\"de\">an + dem = am</span>, <span class=\"de\">auf + das = aufs</span> (разг.).</p>"
+  },
+  {
+   "h": "Пары глаголов: положить — лежать",
+   "html": "<p>В немецком очень важны пары «поместить (куда?) — находиться (где?)». Первый глагол — правильный и требует <b>Akkusativ</b>, второй — сильный и требует <b>Dativ</b>:</p>\n<table><tr><th>Wohin? + Akk (действие)</th><th>Wo? + Dat (состояние)</th></tr>\n<tr><td><span class=\"de\">legen</span> — класть (горизонтально)</td><td><span class=\"de\">liegen</span> — лежать</td></tr>\n<tr><td><span class=\"de\">stellen</span> — ставить (вертикально)</td><td><span class=\"de\">stehen</span> — стоять</td></tr>\n<tr><td><span class=\"de\">setzen</span> — сажать; <span class=\"de\">sich setzen</span> — садиться</td><td><span class=\"de\">sitzen</span> — сидеть</td></tr>\n<tr><td><span class=\"de\">hängen</span> — вешать</td><td><span class=\"de\">hängen</span> — висеть</td></tr>\n<tr><td><span class=\"de\">gehen / fahren</span> — идти / ехать</td><td><span class=\"de\">sein / bleiben</span> — быть / оставаться</td></tr></table>\n<p><span class=\"de\">Ich lege mein Buch auf den Tisch.</span> → <span class=\"de\">Mein Buch liegt auf dem Tisch.</span><br>\n<span class=\"de\">Ich hänge das Bild an die Wand.</span> → <span class=\"de\">Das Bild hängt an der Wand.</span></p>"
+  },
+  {
+   "h": "Куда поехать: nach, in, zu, an, auf",
+   "html": "<p>Русское «в / на / к» при направлении переводится по-разному:</p>\n<table><tr><th>Предлог</th><th>Когда</th><th>Примеры</th></tr>\n<tr><td><span class=\"de\">nach</span></td><td>города, страны и континенты <b>без артикля</b>; стороны света; <span class=\"de\">nach Hause</span></td><td><span class=\"de\">nach Wien, nach Japan, nach Asien, nach Osten</span></td></tr>\n<tr><td><span class=\"de\">in</span> + Akk</td><td>страны <b>с артиклем</b>; здания и помещения (внутрь); горы</td><td><span class=\"de\">in die Schweiz, in die Türkei, in die Ukraine, in die USA, in die Schule, ins Kino</span></td></tr>\n<tr><td><span class=\"de\">zu</span> + Dat</td><td>к <b>людям</b>; к учреждению/точке (не обязательно внутрь)</td><td><span class=\"de\">zu Onkel Werner, zu meinen Eltern, zum Arzt, zur Arbeit, zur Apotheke</span></td></tr>\n<tr><td><span class=\"de\">an</span> + Akk</td><td>к воде: море, озеро, река, берег (к краю)</td><td><span class=\"de\">ans Meer, an den Bodensee, an den Fluss, an die Nordsee</span></td></tr>\n<tr><td><span class=\"de\">auf</span> + Akk</td><td>острова, полуострова; дача; открытые места и мероприятия</td><td><span class=\"de\">auf die Kanarischen Inseln, auf die Krim, auf die Datscha, auf den Markt</span></td></tr></table>\n<div class=\"note\">Где находиться — те же предлоги, но в Dativ: <span class=\"de\">in der Schweiz, am Meer, auf der Krim, bei meinen Eltern</span> (у людей — <span class=\"de\">bei</span>!), <span class=\"de\">in Wien</span> (города — <span class=\"de\">in</span>), <span class=\"de\">zu Hause</span>.</div>"
+  }
+ ],
+ "tips": [
+  "Задайте вопрос: «где?» → Dativ, «куда?» → Akkusativ. Движение внутри места (Ich laufe im Park) — это «где?», значит Dativ!",
+  "«Идти в школу» — in die Schule (внутрь, учиться), а «идти к врачу» — zum Arzt. Не говорите «in den Arzt».",
+  "К морю — ans Meer, а не «auf das Meer» (это значит «в открытое море, на поверхность воды»).",
+  "legen/stellen/hängen (что-то куда-то) + Akk; liegen/stehen/hängen (где) + Dat. Глагол hängen — в обеих ролях."
+ ],
+ "examples": [
+  {
+   "de": "Ich gehe in die Küche. – Ich bin in der Küche.",
+   "ru": "Я иду на кухню. – Я на кухне."
+  },
+  {
+   "de": "Die Katze springt auf das Sofa. – Die Katze liegt auf dem Sofa.",
+   "ru": "Кошка прыгает на диван. – Кошка лежит на диване."
+  },
+  {
+   "de": "Ich stelle die Flasche in den Kühlschrank.",
+   "ru": "Я ставлю бутылку в холодильник."
+  },
+  {
+   "de": "Die Flasche steht im Kühlschrank.",
+   "ru": "Бутылка стоит в холодильнике."
+  },
+  {
+   "de": "Wir fahren im Sommer ans Meer.",
+   "ru": "Летом мы едем на море."
+  },
+  {
+   "de": "Ich fliege nach Japan.",
+   "ru": "Я лечу в Японию."
+  },
+  {
+   "de": "Ich fliege in die Türkei.",
+   "ru": "Я лечу в Турцию."
+  },
+  {
+   "de": "Morgen muss ich nicht zur Arbeit fahren.",
+   "ru": "Завтра мне не нужно ехать на работу."
+  },
+  {
+   "de": "Das Auto steht vor dem Haus.",
+   "ru": "Машина стоит перед домом."
+  },
+  {
+   "de": "Ich hänge die Jacke in den Schrank.",
+   "ru": "Я вешаю куртку в шкаф."
+  },
+  {
+   "de": "Der Hund schläft unter dem Tisch.",
+   "ru": "Собака спит под столом."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "in",
+   "ru": "| в (внутрь / внутри)"
+  },
+  {
+   "de": "auf",
+   "ru": "| на (сверху)"
+  },
+  {
+   "de": "an",
+   "ru": "| на, у (вертикаль, край)"
+  },
+  {
+   "de": "über",
+   "ru": "| над"
+  },
+  {
+   "de": "unter",
+   "ru": "| под"
+  },
+  {
+   "de": "vor",
+   "ru": "| перед"
+  },
+  {
+   "de": "hinter",
+   "ru": "| за, позади"
+  },
+  {
+   "de": "neben",
+   "ru": "| рядом с"
+  },
+  {
+   "de": "zwischen",
+   "ru": "| между"
+  },
+  {
+   "de": "legen",
+   "ru": "| класть"
+  },
+  {
+   "de": "liegen",
+   "forms": "lag, hat gelegen",
+   "ru": "лежать"
+  },
+  {
+   "de": "stellen",
+   "ru": "| ставить"
+  },
+  {
+   "de": "stehen",
+   "forms": "stand, hat gestanden",
+   "ru": "стоять"
+  },
+  {
+   "de": "hängen",
+   "ru": "| вешать; висеть"
+  },
+  {
+   "de": "sitzen",
+   "forms": "saß, hat gesessen",
+   "ru": "сидеть"
+  },
+  {
+   "de": "verstecken",
+   "ru": "| прятать"
+  },
+  {
+   "de": "die Wand",
+   "pl": "die Wände",
+   "ru": "стена"
+  },
+  {
+   "de": "der Schrank",
+   "pl": "die Schränke",
+   "ru": "шкаф"
+  },
+  {
+   "de": "der Sessel",
+   "pl": "die Sessel",
+   "ru": "кресло"
+  },
+  {
+   "de": "der Hocker",
+   "pl": "die Hocker",
+   "ru": "табурет"
+  },
+  {
+   "de": "die Vase",
+   "pl": "die Vasen",
+   "ru": "ваза"
+  },
+  {
+   "de": "das Meer",
+   "pl": "die Meere",
+   "ru": "море"
+  },
+  {
+   "de": "der See",
+   "pl": "die Seen",
+   "ru": "озеро"
+  },
+  {
+   "de": "der Fluss",
+   "pl": "die Flüsse",
+   "ru": "река"
+  },
+  {
+   "de": "die Datscha",
+   "pl": "die Datschen",
+   "ru": "дача"
+  }
+ ],
+ "phrasesNote": "Закрепляем пары «куда? (Akk) – где? (Dat)» по таблице в глубину: in meine Schule – in meiner Schule, auf meinen Tisch – auf meinem Tisch, an die Wand – an der Wand; а также предлоги направления nach, in, zu, an, auf с городами, странами, морями и людьми.",
+ "phrases": [
+  {
+   "de": "Ich gehe in meine Schule – Ich lerne in meiner Schule.",
+   "ru": "Я иду в свою школу – Я учусь в своей школе."
+  },
+  {
+   "de": "Du gehst in deine Schule – Du lernst in deiner Schule.",
+   "ru": "Ты идёшь в свою школу – Ты учишься в своей школе."
+  },
+  {
+   "de": "Er geht in seine Schule – Er lernt in seiner Schule.",
+   "ru": "Он идёт в свою школу – Он учится в своей школе."
+  },
+  {
+   "de": "Sie geht in ihre Schule – Sie lernt in ihrer Schule.",
+   "ru": "Она идёт в свою школу – Она учится в своей школе."
+  },
+  {
+   "de": "Wir gehen in unsere Schule – Wir lernen in unserer Schule.",
+   "ru": "Мы идём в нашу школу – Мы учимся в нашей школе."
+  },
+  {
+   "de": "Ihr geht in eure Schule – Ihr lernt in eurer Schule.",
+   "ru": "Вы идёте в вашу школу – Вы учитесь в вашей школе."
+  },
+  {
+   "de": "Sie gehen in ihre Schule – Sie lernen in ihrer Schule.",
+   "ru": "Они идут в свою школу – Они учатся в своей школе."
+  },
+  {
+   "de": "Ich gehe in mein Zimmer – Ich schlafe in meinem Zimmer.",
+   "ru": "Я иду в свою комнату – Я сплю в своей комнате."
+  },
+  {
+   "de": "Du gehst in dein Zimmer – Du schläfst in deinem Zimmer.",
+   "ru": "Ты идёшь в свою комнату – Ты спишь в своей комнате."
+  },
+  {
+   "de": "Er geht in sein Zimmer – Er schläft in seinem Zimmer.",
+   "ru": "Он идёт в свою комнату – Он спит в своей комнате."
+  },
+  {
+   "de": "Sie geht in ihr Zimmer – Sie schläft in ihrem Zimmer.",
+   "ru": "Она идёт в свою комнату – Она спит в своей комнате."
+  },
+  {
+   "de": "Wir gehen in unser Zimmer – Wir schlafen in unserem Zimmer.",
+   "ru": "Мы идём в нашу комнату – Мы спим в нашей комнате."
+  },
+  {
+   "de": "Ihr geht in euer Zimmer – Ihr schlaft in eurem Zimmer.",
+   "ru": "Вы идёте в вашу комнату – Вы спите в вашей комнате."
+  },
+  {
+   "de": "Sie gehen in ihr Zimmer – Sie schlafen in ihrem Zimmer.",
+   "ru": "Они идут в свою комнату – Они спят в своей комнате."
+  },
+  {
+   "de": "Ich lege mein Buch in meinen Tisch – Mein Buch liegt in meinem Tisch.",
+   "ru": "Я кладу свою книгу в стол – Моя книга лежит в столе."
+  },
+  {
+   "de": "Du legst dein Buch in deinen Tisch – Dein Buch liegt in deinem Tisch.",
+   "ru": "Ты кладёшь свою книгу в стол – Твоя книга лежит в столе."
+  },
+  {
+   "de": "Er legt sein Buch in seinen Tisch – Sein Buch liegt in seinem Tisch.",
+   "ru": "Он кладёт свою книгу в стол – Его книга лежит в столе."
+  },
+  {
+   "de": "Sie legt ihr Buch in ihren Tisch – Ihr Buch liegt in ihrem Tisch.",
+   "ru": "Она кладёт свою книгу в стол – Её книга лежит в столе."
+  },
+  {
+   "de": "Wir legen unser Buch in unseren Tisch – Unser Buch liegt in unserem Tisch.",
+   "ru": "Мы кладём нашу книгу в стол – Наша книга лежит в столе."
+  },
+  {
+   "de": "Ihr legt euer Buch in euren Tisch – Euer Buch liegt in eurem Tisch.",
+   "ru": "Вы кладёте вашу книгу в стол – Ваша книга лежит в столе."
+  },
+  {
+   "de": "Sie legen ihr Buch in ihren Tisch – Ihr Buch liegt in ihrem Tisch.",
+   "ru": "Они кладут свою книгу в стол – Их книга лежит в столе."
+  },
+  {
+   "de": "Ich gehe ins Kino – Ich bin im Kino.",
+   "ru": "Я иду в кино – Я в кино."
+  },
+  {
+   "de": "Du gehst ins Kino – Du bist im Kino.",
+   "ru": "Ты идёшь в кино – Ты в кино."
+  },
+  {
+   "de": "Er geht ins Kino – Er ist im Kino.",
+   "ru": "Он идёт в кино – Он в кино."
+  },
+  {
+   "de": "Ich lege mein Buch auf meinen Tisch – Mein Buch liegt auf meinem Tisch.",
+   "ru": "Я кладу свою книгу на стол – Моя книга лежит на столе."
+  },
+  {
+   "de": "Du legst dein Buch auf deinen Tisch – Dein Buch liegt auf deinem Tisch.",
+   "ru": "Ты кладёшь свою книгу на стол – Твоя книга лежит на столе."
+  },
+  {
+   "de": "Er legt sein Buch auf seinen Tisch – Sein Buch liegt auf seinem Tisch.",
+   "ru": "Он кладёт свою книгу на стол – Его книга лежит на столе."
+  },
+  {
+   "de": "Sie legt ihr Buch auf ihren Tisch – Ihr Buch liegt auf ihrem Tisch.",
+   "ru": "Она кладёт свою книгу на стол – Её книга лежит на столе."
+  },
+  {
+   "de": "Wir legen unser Buch auf unseren Tisch – Unser Buch liegt auf unserem Tisch.",
+   "ru": "Мы кладём нашу книгу на стол – Наша книга лежит на столе."
+  },
+  {
+   "de": "Ihr legt euer Buch auf euren Tisch – Euer Buch liegt auf eurem Tisch.",
+   "ru": "Вы кладёте вашу книгу на стол – Ваша книга лежит на столе."
+  },
+  {
+   "de": "Sie legen ihr Buch auf ihren Tisch – Ihr Buch liegt auf ihrem Tisch.",
+   "ru": "Они кладут свою книгу на стол – Их книга лежит на столе."
+  },
+  {
+   "de": "Ich fahre auf die Datscha – Ich verbringe den Sommer auf der Datscha.",
+   "ru": "Я еду на дачу – Я провожу лето на даче."
+  },
+  {
+   "de": "Du fährst auf die Datscha – Du verbringst den Sommer auf der Datscha.",
+   "ru": "Ты едешь на дачу – Ты проводишь лето на даче."
+  },
+  {
+   "de": "Er fährt auf die Datscha – Er verbringt den Sommer auf der Datscha.",
+   "ru": "Он едет на дачу – Он проводит лето на даче."
+  },
+  {
+   "de": "Ich hänge mein Bild an die Wand – Jetzt hängt mein Bild an der Wand.",
+   "ru": "Я вешаю свою картину на стену – Теперь моя картина висит на стене."
+  },
+  {
+   "de": "Du hängst dein Bild an die Wand – Jetzt hängt dein Bild an der Wand.",
+   "ru": "Ты вешаешь свою картину на стену – Теперь твоя картина висит на стене."
+  },
+  {
+   "de": "Sie hängt ihr Bild an die Wand – Jetzt hängt ihr Bild an der Wand.",
+   "ru": "Она вешает свою картину на стену – Теперь её картина висит на стене."
+  },
+  {
+   "de": "Er hängt sein Bild an die Wand – Jetzt hängt sein Bild an der Wand.",
+   "ru": "Он вешает свою картину на стену – Теперь его картина висит на стене."
+  },
+  {
+   "de": "Wir hängen unser Bild an die Wand – Jetzt hängt unser Bild an der Wand.",
+   "ru": "Мы вешаем нашу картину на стену – Теперь наша картина висит на стене."
+  },
+  {
+   "de": "Ihr hängt euer Bild an die Wand – Jetzt hängt euer Bild an der Wand.",
+   "ru": "Вы вешаете вашу картину на стену – Теперь ваша картина висит на стене."
+  },
+  {
+   "de": "Sie hängen ihr Bild an die Wand – Jetzt hängt ihr Bild an der Wand.",
+   "ru": "Они вешают свою картину на стену – Теперь их картина висит на стене."
+  },
+  {
+   "de": "Ich gehe an den Tisch – Jetzt sitze ich am Tisch.",
+   "ru": "Я подхожу к столу – Теперь я сижу за столом."
+  },
+  {
+   "de": "Du gehst an den Tisch – Jetzt sitzt du am Tisch.",
+   "ru": "Ты подходишь к столу – Теперь ты сидишь за столом."
+  },
+  {
+   "de": "Sie geht an den Tisch – Jetzt sitzt sie am Tisch.",
+   "ru": "Она подходит к столу – Теперь она сидит за столом."
+  },
+  {
+   "de": "Ich gehe ans Fenster – Ich stehe am Fenster.",
+   "ru": "Я подхожу к окну – Я стою у окна."
+  },
+  {
+   "de": "Du gehst ans Fenster – Du stehst am Fenster.",
+   "ru": "Ты подходишь к окну – Ты стоишь у окна."
+  },
+  {
+   "de": "Er geht ans Fenster – Er steht am Fenster.",
+   "ru": "Он подходит к окну – Он стоит у окна."
+  },
+  {
+   "de": "Ich stelle die Vase neben den Sessel – Jetzt steht die Vase neben dem Sessel.",
+   "ru": "Я ставлю вазу рядом с креслом – Теперь ваза стоит рядом с креслом."
+  },
+  {
+   "de": "Du stellst die Vase neben den Sessel – Jetzt steht die Vase neben dem Sessel.",
+   "ru": "Ты ставишь вазу рядом с креслом – Теперь ваза стоит рядом с креслом."
+  },
+  {
+   "de": "Sie stellt die Vase neben den Sessel – Jetzt steht die Vase neben dem Sessel.",
+   "ru": "Она ставит вазу рядом с креслом – Теперь ваза стоит рядом с креслом."
+  },
+  {
+   "de": "Ich stelle den Tisch zwischen das Sofa und den Schrank – Jetzt steht der Tisch zwischen dem Sofa und dem Schrank.",
+   "ru": "Я ставлю стол между диваном и шкафом – Теперь стол стоит между диваном и шкафом."
+  },
+  {
+   "de": "Stell bitte den Tisch zwischen das Sofa und den Schrank!",
+   "ru": "Поставь, пожалуйста, стол между диваном и шкафом!"
+  },
+  {
+   "de": "Der Tisch steht doch schon zwischen dem Sofa und dem Schrank!",
+   "ru": "Да стол ведь уже стоит между диваном и шкафом!"
+  },
+  {
+   "de": "Ich verstecke mein Geld hinter den Schrank – Das Geld liegt hinter dem Schrank.",
+   "ru": "Я прячу свои деньги за шкаф – Деньги лежат за шкафом."
+  },
+  {
+   "de": "Ich stelle die Vase vor die Tür – Die Vase steht vor der Tür.",
+   "ru": "Я ставлю вазу перед дверью – Ваза стоит перед дверью."
+  },
+  {
+   "de": "Ich hänge die Lampe über den Tisch – Die Lampe hängt über dem Tisch.",
+   "ru": "Я вешаю лампу над столом – Лампа висит над столом."
+  },
+  {
+   "de": "Ich stelle den Hocker unter den Tisch – Der Hocker steht unter dem Tisch.",
+   "ru": "Я ставлю табурет под стол – Табурет стоит под столом."
+  },
+  {
+   "de": "Ich möchte nach Asien fahren, vor allem nach Japan.",
+   "ru": "Я хочу поехать в Азию, прежде всего в Японию."
+  },
+  {
+   "de": "Ich fahre nächstes Jahr an den Bodensee.",
+   "ru": "В следующем году я еду на Боденское озеро."
+  },
+  {
+   "de": "Ich fliege nach Europa, deshalb habe ich gute Laune.",
+   "ru": "Я лечу в Европу, поэтому у меня хорошее настроение."
+  },
+  {
+   "de": "Du fährst an den Fluss, weil du Ferien hast.",
+   "ru": "Ты едешь на реку, потому что у тебя каникулы."
+  },
+  {
+   "de": "Wann fliegst du auf die Kanarischen Inseln?",
+   "ru": "Когда ты летишь на Канарские острова?"
+  },
+  {
+   "de": "Letztes Jahr sind wir auf die Krim gefahren.",
+   "ru": "В прошлом году мы ездили в Крым."
+  },
+  {
+   "de": "Ich möchte aber nicht zu Onkel Werner fahren!",
+   "ru": "Но я не хочу ехать к дяде Вернеру!"
+  },
+  {
+   "de": "Warum möchtest du nicht in die Schule fahren?",
+   "ru": "Почему ты не хочешь ехать в школу?"
+  },
+  {
+   "de": "Morgen muss ich nicht zur Arbeit fahren.",
+   "ru": "Завтра мне не нужно ехать на работу."
+  },
+  {
+   "de": "Wir fliegen nach Österreich, nach Wien.",
+   "ru": "Мы летим в Австрию, в Вену."
+  },
+  {
+   "de": "Ich möchte in die Schweiz fahren, um Schokolade zu kaufen.",
+   "ru": "Я хочу поехать в Швейцарию, чтобы купить шоколад."
+  },
+  {
+   "de": "Ich fahre nach Hamburg, weil ich dort noch nie war.",
+   "ru": "Я еду в Гамбург, потому что ещё никогда там не был."
+  },
+  {
+   "de": "Ich fahre im Sommer in die Ukraine, nach Kiew.",
+   "ru": "Летом я еду в Украину, в Киев."
+  },
+  {
+   "de": "Wir fliegen nach Italien, um Rom zu besichtigen.",
+   "ru": "Мы летим в Италию, чтобы осмотреть Рим."
+  },
+  {
+   "de": "Wann möchtest du nach Odessa fahren?",
+   "ru": "Когда ты хочешь поехать в Одессу?"
+  },
+  {
+   "de": "Im Sommer fahren wir ans Meer.",
+   "ru": "Летом мы едем на море."
+  },
+  {
+   "de": "Im Herbst möchte ich nicht an die Nordsee fahren.",
+   "ru": "Осенью я не хочу ехать на Северное море."
+  },
+  {
+   "de": "Wann fährst du ans Schwarze Meer?",
+   "ru": "Когда ты едешь на Чёрное море?"
+  },
+  {
+   "de": "Ich fliege nicht nach Ägypten, sondern in die Türkei.",
+   "ru": "Я лечу не в Египет, а в Турцию."
+  },
+  {
+   "de": "Immer wenn ich zu meinen Eltern fahre, bleibe ich dort ein paar Tage.",
+   "ru": "Всегда, когда я еду к родителям, я остаюсь там на пару дней."
+  },
+  {
+   "de": "Ich möchte nicht zu deinen Freunden gehen.",
+   "ru": "Я не хочу идти к твоим друзьям."
+  },
+  {
+   "de": "Ich gehe zur Apotheke, weil ich krank bin.",
+   "ru": "Я иду в аптеку, потому что я болею."
+  },
+  {
+   "de": "Ich möchte nicht zum Arzt gehen, weil ich Angst habe.",
+   "ru": "Я не хочу идти к врачу, потому что боюсь."
+  },
+  {
+   "de": "In ein paar Tagen müssen wir wieder nach Hause fahren.",
+   "ru": "Через пару дней нам нужно снова ехать домой."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ich gehe in ___ Schule. (куда?)",
+   "options": [
+    "die",
+    "der",
+    "den"
+   ],
+   "answer": 0,
+   "explain": "Wohin? → Akkusativ, ж.р.: die"
+  },
+  {
+   "type": "choice",
+   "q": "Ich lerne in ___ Schule. (где?)",
+   "options": [
+    "die",
+    "der",
+    "dem"
+   ],
+   "answer": 1,
+   "explain": "Wo? → Dativ, ж.р.: der"
+  },
+  {
+   "type": "gap",
+   "q": "Ich gehe ___ Kino. (in + das)",
+   "answer": [
+    "ins"
+   ],
+   "explain": "Wohin? in + das = ins"
+  },
+  {
+   "type": "gap",
+   "q": "Ich bin ___ Kino. (in + dem)",
+   "answer": [
+    "im"
+   ],
+   "explain": "Wo? in + dem = im"
+  },
+  {
+   "type": "choice",
+   "q": "Ich lege das Buch auf ___ Tisch.",
+   "options": [
+    "der",
+    "den",
+    "dem"
+   ],
+   "answer": 1,
+   "explain": "legen — куда? → Akk: den Tisch"
+  },
+  {
+   "type": "choice",
+   "q": "Das Buch liegt auf ___ Tisch.",
+   "options": [
+    "der",
+    "den",
+    "dem"
+   ],
+   "answer": 2,
+   "explain": "liegen — где? → Dat: dem Tisch"
+  },
+  {
+   "type": "choice",
+   "q": "Ich ___ die Vase neben den Sessel.",
+   "options": [
+    "stehe",
+    "stelle",
+    "liege"
+   ],
+   "answer": 1,
+   "explain": "stellen (ставить) + Akk"
+  },
+  {
+   "type": "gap",
+   "q": "Die Lampe hängt über ___ Tisch.",
+   "answer": [
+    "dem"
+   ],
+   "explain": "hängen (висеть) — где? → Dativ"
+  },
+  {
+   "type": "gap",
+   "q": "Ich hänge das Bild an ___ Wand.",
+   "answer": [
+    "die"
+   ],
+   "explain": "куда? → Akk, ж.р.: die"
+  },
+  {
+   "type": "choice",
+   "q": "Im Sommer fahren wir ___ Meer.",
+   "options": [
+    "ins",
+    "ans",
+    "nach"
+   ],
+   "answer": 1,
+   "explain": "К воде (море, озеро) — an: ans Meer"
+  },
+  {
+   "type": "choice",
+   "q": "Ich fliege ___ die Schweiz.",
+   "options": [
+    "nach",
+    "in",
+    "zu"
+   ],
+   "answer": 1,
+   "explain": "Страна с артиклем — in + Akk"
+  },
+  {
+   "type": "choice",
+   "q": "Ich fahre ___ Österreich.",
+   "options": [
+    "nach",
+    "in",
+    "zu"
+   ],
+   "answer": 0,
+   "explain": "Страна без артикля — nach"
+  },
+  {
+   "type": "gap",
+   "q": "Ich gehe ___ Arzt. (к врачу)",
+   "answer": [
+    "zum"
+   ],
+   "explain": "К человеку/учреждению — zu + dem = zum"
+  },
+  {
+   "type": "choice",
+   "q": "Wann fliegst du ___ die Kanarischen Inseln?",
+   "options": [
+    "in",
+    "auf",
+    "an"
+   ],
+   "answer": 1,
+   "explain": "Острова — auf"
+  },
+  {
+   "type": "translate",
+   "q": "Я ставлю вазу перед дверью.",
+   "answer": [
+    "Ich stelle die Vase vor die Tür."
+   ],
+   "explain": "stellen + Akk"
+  },
+  {
+   "type": "translate",
+   "q": "Книга лежит на столе.",
+   "answer": [
+    "Das Buch liegt auf dem Tisch.",
+    "Mein Buch liegt auf dem Tisch."
+   ],
+   "explain": "liegen + Dat"
+  },
+  {
+   "type": "translate",
+   "q": "Я еду к своим родителям.",
+   "answer": [
+    "Ich fahre zu meinen Eltern."
+   ],
+   "explain": "к людям — zu + Dat"
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "steht",
+    "der Tisch",
+    "zwischen",
+    "dem Sofa",
+    "und",
+    "dem Schrank"
+   ],
+   "answer": [
+    "Der Tisch steht zwischen dem Sofa und dem Schrank."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "fahre",
+    "im Sommer",
+    "ich",
+    "in die Ukraine"
+   ],
+   "answer": [
+    "Ich fahre im Sommer in die Ukraine.",
+    "Im Sommer fahre ich in die Ukraine.",
+    "In die Ukraine fahre ich im Sommer."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "ans Fenster",
+    "gehe",
+    "ich"
+   ],
+   "answer": [
+    "Ich gehe ans Fenster.",
+    "Ans Fenster gehe ich."
+   ]
+  }
+ ]
+}

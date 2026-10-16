@@ -1,0 +1,533 @@
+{
+ "id": 21,
+ "title": "Возвратные глаголы: sich",
+ "level": "A2",
+ "goal": "Вы научитесь спрягать возвратные глаголы (sich waschen, sich freuen, sich treffen) с местоимениями в Akkusativ и Dativ и правильно ставить sich в предложении.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Что такое возвратные глаголы",
+   "html": "<p>Возвратные глаголы (<b>reflexive Verben</b>) — это глаголы с местоимением <span class=\"de\">sich</span> («себя»). В русском им часто соответствует частица <b>-ся/-сь</b>: мыться — <span class=\"de\">sich waschen</span>, радоваться — <span class=\"de\">sich freuen</span>.</p>\n<p>Но в немецком <span class=\"de\">sich</span> — отдельное слово, и оно <b>меняется по лицам</b>: <span class=\"de\">ich wasche mich, du wäschst dich, er wäscht sich…</span></p>\n<div class=\"note\">Совпадения с русским бывают не всегда: <span class=\"de\">sich erholen</span> — отдыхать (без -ся), <span class=\"de\">sich setzen</span> — садиться, но <span class=\"de\">lernen</span> — учиться (без sich!).</div>"
+  },
+  {
+   "h": "Возвратное местоимение в Akkusativ и Dativ",
+   "html": "<table><tr><th>Лицо</th><th>Akkusativ</th><th>Dativ</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">mich</span></td><td><span class=\"de\">mir</span></td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">dich</span></td><td><span class=\"de\">dir</span></td></tr>\n<tr><td><span class=\"de\">er / sie / es</span></td><td><span class=\"de\">sich</span></td><td><span class=\"de\">sich</span></td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">uns</span></td><td><span class=\"de\">uns</span></td></tr>\n<tr><td><span class=\"de\">ihr</span></td><td><span class=\"de\">euch</span></td><td><span class=\"de\">euch</span></td></tr>\n<tr><td><span class=\"de\">sie / Sie</span></td><td><span class=\"de\">sich</span></td><td><span class=\"de\">sich</span></td></tr></table>\n<p>Это почти таблица личных местоимений из урока 17 — только в 3-м лице и для <span class=\"de\">Sie</span> везде <span class=\"de\">sich</span> (с маленькой буквы!).</p>\n<p><b>Dativ</b> (<span class=\"de\">mir, dir</span>) нужен, когда в предложении уже есть другое дополнение в Akkusativ:</p>\n<ul><li><span class=\"de\">Ich wasche <b>mich</b>.</span> — Я моюсь.</li>\n<li><span class=\"de\">Ich wasche <b>mir</b> die Hände.</span> — Я мою (себе) руки.</li>\n<li><span class=\"de\">Ich gebe <b>mir</b> Mühe.</span> — Я стараюсь.</li>\n<li><span class=\"de\">Ich stelle <b>mir</b> meine Zukunft vor.</span> — Я представляю себе своё будущее.</li></ul>"
+  },
+  {
+   "h": "Место sich в предложении",
+   "html": "<p>Возвратное местоимение стоит <b>сразу после спрягаемого глагола</b>:</p>\n<p><span class=\"de\">Ich <b>freue</b> mich immer.</span><br>\nПри инверсии — после подлежащего-местоимения: <span class=\"de\">Heute <b>freue</b> ich mich.</span> / <span class=\"de\">Warum <b>freust</b> du dich?</span><br>\nС модальным глаголом: <span class=\"de\">Ich <b>will</b> mich heute <b>waschen</b>.</span> — <span class=\"de\">mich</span> после модального, инфинитив в конце.</p>\n<p>С отделяемой приставкой: <span class=\"de\">Ich ziehe mich schnell an. – Ich kann mich schnell anziehen.</span></p>\n<div class=\"note\">Если подлежащее — существительное, при инверсии <span class=\"de\">sich</span> обычно стоит перед ним: <span class=\"de\">Wie fühlt sich Frau Müller?</span></div>"
+  },
+  {
+   "h": "Частые возвратные глаголы",
+   "html": "<table><tr><th>Глагол</th><th>Значение</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">sich waschen</span></td><td>мыться</td><td><span class=\"de\">Er wäscht sich.</span></td></tr>\n<tr><td><span class=\"de\">sich rasieren</span></td><td>бриться</td><td><span class=\"de\">Ich rasiere mich jeden Tag.</span></td></tr>\n<tr><td><span class=\"de\">sich anziehen / ausziehen</span></td><td>одеваться / раздеваться</td><td><span class=\"de\">Zieh dich an!</span></td></tr>\n<tr><td><span class=\"de\">sich setzen</span></td><td>садиться</td><td><span class=\"de\">Setz dich bitte!</span></td></tr>\n<tr><td><span class=\"de\">sich fühlen</span></td><td>чувствовать себя</td><td><span class=\"de\">Wie fühlst du dich?</span></td></tr>\n<tr><td><span class=\"de\">sich freuen (auf/über)</span></td><td>радоваться</td><td><span class=\"de\">Ich freue mich auf den Urlaub.</span></td></tr>\n<tr><td><span class=\"de\">sich erholen</span></td><td>отдыхать, восстанавливаться</td><td><span class=\"de\">Wir erholen uns am Meer.</span></td></tr>\n<tr><td><span class=\"de\">sich treffen (mit)</span></td><td>встречаться</td><td><span class=\"de\">Ich treffe mich mit Freunden.</span></td></tr>\n<tr><td><span class=\"de\">sich vorstellen</span></td><td>представляться; (+Dat) представлять себе</td><td><span class=\"de\">Darf ich mich vorstellen?</span></td></tr>\n<tr><td><span class=\"de\">sich interessieren (für)</span></td><td>интересоваться</td><td><span class=\"de\">Er interessiert sich für Musik.</span></td></tr>\n<tr><td><span class=\"de\">sich beeilen</span></td><td>торопиться</td><td><span class=\"de\">Beeil dich!</span></td></tr></table>\n<p>Некоторые глаголы без <span class=\"de\">sich</span> меняют смысл: <span class=\"de\">vorstellen</span> (представлять кого-то) — <span class=\"de\">sich vorstellen</span> (представляться); <span class=\"de\">waschen</span> (мыть кого-то) — <span class=\"de\">sich waschen</span> (мыться).</p>"
+  }
+ ],
+ "tips": [
+  "Не путайте sich и Sie: «Setzen Sie sich bitte!» — Садитесь, пожалуйста! Вежливое Sie с большой, sich — с маленькой буквы.",
+  "Не все русские глаголы на -ся возвратные в немецком: учиться — lernen, смеяться — lachen, начинаться — anfangen. И наоборот: отдыхать — sich erholen.",
+  "Если есть ещё одно дополнение (руки, зубы, Mühe), берите Dativ: Ich putze mir die Zähne.",
+  "В повелительном наклонении местоимение остаётся: Beeil dich! Beeilt euch! Beeilen Sie sich!"
+ ],
+ "examples": [
+  {
+   "de": "Ich wasche mich jeden Morgen.",
+   "ru": "Я умываюсь каждое утро."
+  },
+  {
+   "de": "Wie fühlst du dich heute?",
+   "ru": "Как ты себя сегодня чувствуешь?"
+  },
+  {
+   "de": "Wir treffen uns um acht Uhr.",
+   "ru": "Мы встречаемся в восемь часов."
+  },
+  {
+   "de": "Setzen Sie sich bitte!",
+   "ru": "Садитесь, пожалуйста!"
+  },
+  {
+   "de": "Er interessiert sich für Fußball.",
+   "ru": "Он интересуется футболом."
+  },
+  {
+   "de": "Ich freue mich auf das Wochenende.",
+   "ru": "Я радуюсь предстоящим выходным."
+  },
+  {
+   "de": "Beeil dich, der Bus kommt!",
+   "ru": "Поторопись, автобус идёт!"
+  },
+  {
+   "de": "Ich putze mir die Zähne.",
+   "ru": "Я чищу зубы."
+  },
+  {
+   "de": "Darf ich mich vorstellen? Ich heiße Anna.",
+   "ru": "Разрешите представиться? Меня зовут Анна."
+  },
+  {
+   "de": "Im Urlaub erholen wir uns gut.",
+   "ru": "В отпуске мы хорошо отдыхаем."
+  },
+  {
+   "de": "Kinder, zieht euch schnell an!",
+   "ru": "Дети, быстро одевайтесь!"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "sich waschen",
+   "forms": "wäscht sich, wusch sich, hat sich gewaschen",
+   "ru": "мыться"
+  },
+  {
+   "de": "sich rasieren",
+   "ru": "| бриться"
+  },
+  {
+   "de": "sich anziehen",
+   "forms": "zieht sich an, zog sich an, hat sich angezogen",
+   "ru": "одеваться"
+  },
+  {
+   "de": "sich ausziehen",
+   "forms": "zieht sich aus, zog sich aus, hat sich ausgezogen",
+   "ru": "раздеваться"
+  },
+  {
+   "de": "sich setzen",
+   "ru": "| садиться"
+  },
+  {
+   "de": "sich fühlen",
+   "ru": "| чувствовать себя"
+  },
+  {
+   "de": "sich freuen",
+   "ru": "| радоваться"
+  },
+  {
+   "de": "sich erholen",
+   "ru": "| отдыхать, восстанавливаться"
+  },
+  {
+   "de": "sich treffen",
+   "forms": "trifft sich, traf sich, hat sich getroffen",
+   "ru": "встречаться"
+  },
+  {
+   "de": "sich vorstellen",
+   "ru": "| представляться; (+Dat) представлять себе"
+  },
+  {
+   "de": "sich interessieren für",
+   "ru": "| интересоваться"
+  },
+  {
+   "de": "sich beeilen",
+   "ru": "| торопиться"
+  },
+  {
+   "de": "sich Mühe geben",
+   "forms": "gibt sich Mühe, gab sich Mühe, hat sich Mühe gegeben",
+   "ru": "стараться"
+  },
+  {
+   "de": "die Mühe",
+   "pl": "die Mühen",
+   "ru": "старание, усилие"
+  },
+  {
+   "de": "die Zukunft",
+   "pl": "—",
+   "ru": "будущее"
+  },
+  {
+   "de": "sicher",
+   "ru": "| уверенный; надёжный"
+  },
+  {
+   "de": "kündigen",
+   "ru": "| увольняться; расторгать (договор)"
+  },
+  {
+   "de": "verzichten auf",
+   "ru": "| отказываться от"
+  },
+  {
+   "de": "zweifeln",
+   "ru": "| сомневаться"
+  },
+  {
+   "de": "der Stuhl",
+   "pl": "die Stühle",
+   "ru": "стул"
+  },
+  {
+   "de": "sich (Dat) die Zähne putzen",
+   "ru": "| чистить зубы"
+  }
+ ],
+ "phrasesNote": "Закрепляем возвратные глаголы по таблице в глубину (Ich wasche mich – Ich will mich heute waschen…), вопросы с sich (Wie fühlst du dich?), Dativ-вариант sich Mühe geben / sich etwas vorstellen и полезные глаголы kündigen, verzichten, zweifeln.",
+ "phrases": [
+  {
+   "de": "Ich wasche mich – Ich will mich heute waschen.",
+   "ru": "Я моюсь – Я хочу сегодня помыться."
+  },
+  {
+   "de": "Du wäschst dich – Du willst dich heute waschen.",
+   "ru": "Ты моешься – Ты хочешь сегодня помыться."
+  },
+  {
+   "de": "Er wäscht sich – Er will sich heute waschen.",
+   "ru": "Он моется – Он хочет сегодня помыться."
+  },
+  {
+   "de": "Sie wäscht sich – Sie will sich heute waschen.",
+   "ru": "Она моется – Она хочет сегодня помыться."
+  },
+  {
+   "de": "Wir waschen uns – Wir wollen uns heute waschen.",
+   "ru": "Мы моемся – Мы хотим сегодня помыться."
+  },
+  {
+   "de": "Ihr wascht euch – Ihr wollt euch heute waschen.",
+   "ru": "Вы моетесь – Вы хотите сегодня помыться."
+  },
+  {
+   "de": "Sie waschen sich – Sie wollen sich heute waschen.",
+   "ru": "Они моются – Они хотят сегодня помыться."
+  },
+  {
+   "de": "Ich rasiere mich nicht – Ich will mich heute nicht rasieren.",
+   "ru": "Я не бреюсь – Я не хочу сегодня бриться."
+  },
+  {
+   "de": "Ich setze mich auf den Stuhl – Ich kann mich auf den Stuhl setzen.",
+   "ru": "Я сажусь на стул – Я могу сесть на стул."
+  },
+  {
+   "de": "Ich ziehe mich schnell an – Ich kann mich schnell anziehen.",
+   "ru": "Я быстро одеваюсь – Я могу быстро одеться."
+  },
+  {
+   "de": "Ich treffe mich mit meinen Freunden – Ich will mich mit meinen Freunden treffen.",
+   "ru": "Я встречаюсь с друзьями – Я хочу встретиться с друзьями."
+  },
+  {
+   "de": "Ich stelle mich vor – Ich möchte mich gerne vorstellen.",
+   "ru": "Я представляюсь – Я хотел бы представиться."
+  },
+  {
+   "de": "Ich erhole mich gut – Ich will mich heute gut erholen.",
+   "ru": "Я хорошо отдыхаю – Я хочу сегодня хорошо отдохнуть."
+  },
+  {
+   "de": "Wie fühlst du dich? – Ich fühle mich gut.",
+   "ru": "Как ты себя чувствуешь? – Я чувствую себя хорошо."
+  },
+  {
+   "de": "Wie fühlt er sich? – Er fühlt sich gut.",
+   "ru": "Как он себя чувствует? – Он чувствует себя хорошо."
+  },
+  {
+   "de": "Wie fühlt sie sich? – Sie fühlt sich gut.",
+   "ru": "Как она себя чувствует? – Она чувствует себя хорошо."
+  },
+  {
+   "de": "Wie fühlt ihr euch? – Ihr fühlt euch gut.",
+   "ru": "Как вы себя чувствуете? – Вы чувствуете себя хорошо."
+  },
+  {
+   "de": "Wie fühlen sie sich? – Sie fühlen sich gut.",
+   "ru": "Как они себя чувствуют? – Они чувствуют себя хорошо."
+  },
+  {
+   "de": "Wie fühlt sich Frau Müller?",
+   "ru": "Как себя чувствует госпожа Мюллер?"
+  },
+  {
+   "de": "Wie fühlt sich Maria?",
+   "ru": "Как себя чувствует Мария?"
+  },
+  {
+   "de": "Wie fühlt sich deine Freundin?",
+   "ru": "Как себя чувствует твоя подруга?"
+  },
+  {
+   "de": "Wie oft rasiert sich Herr Franz?",
+   "ru": "Как часто бреется господин Франц?"
+  },
+  {
+   "de": "Wie oft rasiert sich Max?",
+   "ru": "Как часто бреется Макс?"
+  },
+  {
+   "de": "Wie oft rasiert sich dein Freund?",
+   "ru": "Как часто бреется твой друг?"
+  },
+  {
+   "de": "Warum freust du dich? – Ich freue mich immer!",
+   "ru": "Почему ты радуешься? – Я всегда радуюсь!"
+  },
+  {
+   "de": "Wann triffst du dich mit deinem Bruder? – Ich treffe mich mit meinem Bruder am Montag.",
+   "ru": "Когда ты встречаешься с братом? – Я встречаюсь с братом в понедельник."
+  },
+  {
+   "de": "Ich gebe mir Mühe – Ich muss mir Mühe geben.",
+   "ru": "Я стараюсь – Я должен стараться."
+  },
+  {
+   "de": "Du gibst dir Mühe – Du musst dir Mühe geben.",
+   "ru": "Ты стараешься – Ты должен стараться."
+  },
+  {
+   "de": "Er gibt sich Mühe – Er muss sich Mühe geben.",
+   "ru": "Он старается – Он должен стараться."
+  },
+  {
+   "de": "Sie gibt sich Mühe – Sie muss sich Mühe geben.",
+   "ru": "Она старается – Она должна стараться."
+  },
+  {
+   "de": "Wir geben uns Mühe – Wir müssen uns Mühe geben.",
+   "ru": "Мы стараемся – Мы должны стараться."
+  },
+  {
+   "de": "Ihr gebt euch Mühe – Ihr müsst euch Mühe geben.",
+   "ru": "Вы стараетесь – Вы должны стараться."
+  },
+  {
+   "de": "Sie geben sich Mühe – Sie müssen sich Mühe geben.",
+   "ru": "Они стараются – Они должны стараться."
+  },
+  {
+   "de": "Ich stelle mir meine Zukunft vor – Ich will mir meine Zukunft vorstellen.",
+   "ru": "Я представляю себе своё будущее – Я хочу представить себе своё будущее."
+  },
+  {
+   "de": "Ich bin mir sicher!",
+   "ru": "Я уверен!"
+  },
+  {
+   "de": "Ich kündige heute – Ich möchte heute kündigen.",
+   "ru": "Я сегодня увольняюсь – Я хочу сегодня уволиться."
+  },
+  {
+   "de": "Ich verzichte auf mein Auto – Warum willst du auf dein Auto verzichten?",
+   "ru": "Я отказываюсь от своей машины – Почему ты хочешь отказаться от своей машины?"
+  },
+  {
+   "de": "Warum zweifelst du immer noch? – Ich zweifle aber nicht!",
+   "ru": "Почему ты всё ещё сомневаешься? – Но я не сомневаюсь!"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ich wasche ___.",
+   "options": [
+    "mich",
+    "mir",
+    "sich"
+   ],
+   "answer": 0,
+   "explain": "ich → mich (Akkusativ)"
+  },
+  {
+   "type": "choice",
+   "q": "Er rasiert ___ jeden Tag.",
+   "options": [
+    "ihn",
+    "sich",
+    "ihm"
+   ],
+   "answer": 1,
+   "explain": "3-е лицо → sich"
+  },
+  {
+   "type": "gap",
+   "q": "Wie fühlst du ___?",
+   "answer": [
+    "dich"
+   ],
+   "explain": "du → dich"
+  },
+  {
+   "type": "gap",
+   "q": "Wir treffen ___ am Montag.",
+   "answer": [
+    "uns"
+   ],
+   "explain": "wir → uns"
+  },
+  {
+   "type": "gap",
+   "q": "Ihr wascht ___.",
+   "answer": [
+    "euch"
+   ],
+   "explain": "ihr → euch"
+  },
+  {
+   "type": "choice",
+   "q": "Setzen Sie ___ bitte!",
+   "options": [
+    "Sie",
+    "sich",
+    "Ihnen"
+   ],
+   "answer": 1,
+   "explain": "Вежливая форма → sich (с маленькой буквы)"
+  },
+  {
+   "type": "choice",
+   "q": "Ich putze ___ die Zähne.",
+   "options": [
+    "mich",
+    "mir",
+    "sich"
+   ],
+   "answer": 1,
+   "explain": "Есть ещё дополнение (die Zähne) → Dativ: mir"
+  },
+  {
+   "type": "gap",
+   "q": "Du musst ___ Mühe geben.",
+   "answer": [
+    "dir"
+   ],
+   "explain": "sich Mühe geben — Dativ: dir"
+  },
+  {
+   "type": "gap",
+   "q": "Ich ziehe mich schnell ___. (anziehen)",
+   "answer": [
+    "an"
+   ],
+   "explain": "Отделяемая приставка в конце"
+  },
+  {
+   "type": "choice",
+   "q": "Выберите правильный порядок:",
+   "options": [
+    "Ich will heute mich waschen.",
+    "Ich will mich heute waschen.",
+    "Ich mich will heute waschen."
+   ],
+   "answer": 1,
+   "explain": "sich сразу после спрягаемого глагола"
+  },
+  {
+   "type": "gap",
+   "q": "Heute freue ich ___ sehr.",
+   "answer": [
+    "mich"
+   ],
+   "explain": "Инверсия: глагол – подлежащее – sich"
+  },
+  {
+   "type": "choice",
+   "q": "Как сказать «учиться»?",
+   "options": [
+    "sich lernen",
+    "lernen",
+    "sich lehren"
+   ],
+   "answer": 1,
+   "explain": "lernen — не возвратный глагол"
+  },
+  {
+   "type": "translate",
+   "q": "Я чувствую себя хорошо.",
+   "answer": [
+    "Ich fühle mich gut."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Он интересуется музыкой.",
+   "answer": [
+    "Er interessiert sich für Musik."
+   ],
+   "explain": "sich interessieren für + Akk"
+  },
+  {
+   "type": "translate",
+   "q": "Я хочу сегодня хорошо отдохнуть.",
+   "answer": [
+    "Ich will mich heute gut erholen.",
+    "Ich möchte mich heute gut erholen.",
+    "Heute will ich mich gut erholen.",
+    "Heute möchte ich mich gut erholen."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Поторопись!",
+   "answer": [
+    "Beeil dich!",
+    "Beeile dich!"
+   ],
+   "explain": "Императив: местоимение остаётся"
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "mich",
+    "treffe",
+    "mit meinen Freunden",
+    "ich"
+   ],
+   "answer": [
+    "Ich treffe mich mit meinen Freunden.",
+    "Mit meinen Freunden treffe ich mich."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "kann",
+    "mich",
+    "ich",
+    "auf den Stuhl",
+    "setzen"
+   ],
+   "answer": [
+    "Ich kann mich auf den Stuhl setzen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос",
+   "words": [
+    "sich",
+    "fühlt",
+    "wie",
+    "Maria"
+   ],
+   "answer": [
+    "Wie fühlt sich Maria?"
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "mir",
+    "ich",
+    "meine Zukunft",
+    "stelle",
+    "vor"
+   ],
+   "answer": [
+    "Ich stelle mir meine Zukunft vor."
+   ]
+  }
+ ]
+}

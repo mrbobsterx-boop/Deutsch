@@ -1,0 +1,114 @@
+{
+  "id": 44,
+  "title": "Während, bis, seit(dem), bevor, nachdem, sobald",
+  "level": "B1",
+  "goal": "Ученик умеет связывать события во времени с помощью союзов während, bis, seit/seitdem, bevor, nachdem, sobald и отличает союз während от предлога während + Genitiv.",
+  "minutes": 50,
+  "theory": [
+    {
+      "h": "Временные союзы: общее правило",
+      "html": "<p>Все союзы этого урока вводят <b>придаточное предложение</b>, поэтому спрягаемый глагол уходит в <b>конец</b>. Если придаточное стоит первым, главное начинается с глагола.</p><table><tr><th>Союз</th><th>Значение</th><th>Пример</th></tr><tr><td>während</td><td>пока, в то время как</td><td><span class=\"de\">Während ich arbeite, spielt mein Freund Computer.</span></td></tr><tr><td>bis</td><td>пока не, до тех пор пока</td><td><span class=\"de\">Ich warte, bis du kommst.</span></td></tr><tr><td>seit / seitdem</td><td>с тех пор как</td><td><span class=\"de\">Seitdem ich ein Auto habe, fahre ich oft ins Ausland.</span></td></tr><tr><td>bevor</td><td>прежде чем, перед тем как</td><td><span class=\"de\">Bevor wir fahren, müssen wir tanken.</span></td></tr><tr><td>nachdem</td><td>после того как</td><td><span class=\"de\">Nachdem ich gegessen habe, gehe ich spazieren.</span></td></tr><tr><td>sobald</td><td>как только</td><td><span class=\"de\">Sobald wir ankommen, rufe ich dich an.</span></td></tr></table><div class=\"note\">Схема: <b>Союз … глагол,</b> <b>глагол</b> + подлежащее … — <span class=\"de\">Bevor wir nach Polen <u>fahren</u>, <u>müssen</u> wir tanken.</span></div>"
+    },
+    {
+      "h": "Während: союз и предлог",
+      "html": "<p><b>1. Союз</b> <span class=\"de\">während</span> = «пока, в то время как». Два действия происходят <b>одновременно</b>:</p><ul><li><span class=\"de\">Ich habe gekocht, während meine Freunde Musik hörten.</span></li><li><span class=\"de\">Während ich zu Hause blieb, ging meine Freundin ins Kino.</span></li></ul><p><b>2. Предлог</b> <span class=\"de\">während</span> + <b>Genitiv</b> = «во время, в течение»:</p><ul><li><span class=\"de\">während dieser Woche</span> — в течение этой недели</li><li><span class=\"de\">während dieses Monats / dieses Jahres</span> — в течение этого месяца / года</li><li><span class=\"de\">während des Urlaubs</span> — во время отпуска</li></ul><div class=\"note\">Как отличить? После союза идёт целое предложение с глаголом. После предлога — только существительное в Genitiv.</div><p>Иногда <span class=\"de\">während</span> выражает противопоставление («тогда как»): <span class=\"de\">Er liebt Fußball, während sie Tennis mag.</span></p>"
+    },
+    {
+      "h": "Bis и seit / seitdem",
+      "html": "<p><span class=\"de\">bis</span> — действие длится <b>до определённого момента</b>:</p><ul><li><span class=\"de\">Ich muss noch eine Woche warten, bis die WM beginnt.</span></li><li><span class=\"de\">Ich bin immer mit dem Bus gefahren, bis ich ein Auto gekauft habe.</span></li></ul><p><span class=\"de\">seit</span> / <span class=\"de\">seitdem</span> (полные синонимы) — действие <b>началось</b> в какой-то момент и продолжается <b>до сих пор</b>. Поэтому в главном предложении часто стоит <b>Präsens</b>:</p><ul><li><span class=\"de\">Seitdem die WM angefangen hat, gucke ich jeden Tag Fußball.</span></li><li><span class=\"de\">Seit ich in Schweden wohne, verdiene ich gutes Geld.</span></li></ul><div class=\"note\"><span class=\"de\">bis</span> и <span class=\"de\">seit</span> — также предлоги: <span class=\"de\">bis Montag</span> (Akk), <span class=\"de\">seit einem Jahr</span> (Dativ). Не путайте с союзами.</div>"
+    },
+    {
+      "h": "Bevor, nachdem, sobald",
+      "html": "<p><span class=\"de\">bevor</span> — сначала действие главного предложения, потом придаточного:</p><ul><li><span class=\"de\">Bevor wir ein Auto gekauft haben, haben wir lange gespart.</span></li></ul><p><span class=\"de\">nachdem</span> — сначала действие придаточного, потом главного. Действие в придаточном должно быть <b>завершено</b>, поэтому время в нём «на шаг раньше»:</p><table><tr><th>Придаточное с nachdem</th><th>Главное</th></tr><tr><td>Perfekt: <span class=\"de\">Nachdem ich gegessen habe,</span></td><td>Präsens: <span class=\"de\">gehe ich spazieren.</span></td></tr><tr><td>Plusquamperfekt: <span class=\"de\">Nachdem ich gegessen hatte,</span></td><td>Präteritum: <span class=\"de\">ging ich spazieren.</span></td></tr></table><p>(Plusquamperfekt подробно разберём в уроке 47.)</p><p><span class=\"de\">sobald</span> = «как только» — второе действие следует <b>сразу</b> за первым:</p><ul><li><span class=\"de\">Sobald wir nach Polen kommen, fahren wir zu IKEA.</span></li><li><span class=\"de\">Sobald ich Zeit habe, rufe ich dich an.</span></li></ul>"
+    }
+  ],
+  "tips": [
+    "Русское «пока не» = bis, причём «не» в немецком не нужно: «Жди, пока я не приду» — Warte, bis ich komme.",
+    "Seit/seitdem + Präsens в главном предложении: «Я живу здесь с тех пор, как…» — Ich wohne hier, seit… (а не wohnte/habe gewohnt).",
+    "Während + Genitiv: während des Tages, während der Woche, während dieses Jahres. В разговорной речи иногда слышен Dativ, но на экзамене пишите Genitiv.",
+    "Bevor ≠ vor: bevor — союз (bevor ich esse), vor — предлог (vor dem Essen)."
+  ],
+  "examples": [
+    {"de": "Während du schläfst, räume ich die Küche auf.", "ru": "Пока ты спишь, я уберу на кухне."},
+    {"de": "Während des Urlaubs habe ich viel gelesen.", "ru": "Во время отпуска я много читал."},
+    {"de": "Warte hier, bis ich zurückkomme.", "ru": "Жди здесь, пока я не вернусь."},
+    {"de": "Seitdem ich Sport mache, fühle ich mich besser.", "ru": "С тех пор как я занимаюсь спортом, я чувствую себя лучше."},
+    {"de": "Bevor du gehst, mach bitte das Licht aus.", "ru": "Прежде чем уйдёшь, выключи, пожалуйста, свет."},
+    {"de": "Nachdem er die Prüfung bestanden hat, feiert er mit seinen Freunden.", "ru": "После того как он сдал экзамен, он празднует с друзьями."},
+    {"de": "Sobald der Film zu Ende ist, gehen wir nach Hause.", "ru": "Как только фильм закончится, мы пойдём домой."},
+    {"de": "Er liest Zeitung, während sie frühstückt.", "ru": "Он читает газету, пока она завтракает."},
+    {"de": "Seit er in Berlin wohnt, spricht er viel besser Deutsch.", "ru": "С тех пор как он живёт в Берлине, он говорит по-немецки гораздо лучше."},
+    {"de": "Ich bleibe im Büro, bis die Arbeit fertig ist.", "ru": "Я остаюсь в офисе, пока работа не будет готова."}
+  ],
+  "vocab": [
+    {"de": "während", "ru": "пока, в то время как; (предлог + Gen.) во время"},
+    {"de": "bis", "ru": "пока не, до тех пор пока"},
+    {"de": "seit / seitdem", "ru": "с тех пор как"},
+    {"de": "bevor", "ru": "прежде чем, перед тем как"},
+    {"de": "nachdem", "ru": "после того как"},
+    {"de": "sobald", "ru": "как только"},
+    {"de": "die WM (Weltmeisterschaft)", "pl": "die WMs", "ru": "чемпионат мира"},
+    {"de": "gucken", "ru": "смотреть (разг.)"},
+    {"de": "aufwachsen", "forms": "wächst auf, wuchs auf, ist aufgewachsen", "ru": "вырастать, взрослеть"},
+    {"de": "umsiedeln", "ru": "переселяться, переезжать"},
+    {"de": "verdienen", "ru": "зарабатывать"},
+    {"de": "tanken", "ru": "заправлять (машину)"},
+    {"de": "sparen", "ru": "копить, экономить"},
+    {"de": "sich vorbereiten auf + Akk", "ru": "готовиться к"},
+    {"de": "die Prüfung", "pl": "die Prüfungen", "ru": "экзамен"},
+    {"de": "das Ausland", "ru": "заграница"},
+    {"de": "dankbar", "ru": "благодарный"},
+    {"de": "um Hilfe bitten", "forms": "bittet, bat, hat gebeten", "ru": "просить о помощи"},
+    {"de": "schaffen", "ru": "успеть, справиться, добиться"},
+    {"de": "das Leben", "pl": "die Leben", "ru": "жизнь"}
+  ],
+  "phrasesNote": "Закрепляем временные союзы während, bis, seitdem, bevor, sobald и предлог während + Genitiv.",
+  "phrases": [
+    {"de": "Während ich arbeite, spielt mein Freund Computer.", "ru": "Пока я работаю, мой друг играет на компьютере."},
+    {"de": "Während ich zu Hause blieb, ging meine Freundin ins Kino.", "ru": "Пока я оставался дома, моя подруга пошла в кино."},
+    {"de": "Während ich in der Schweiz war, fuhren meine Eltern in die USA.", "ru": "Пока я был в Швейцарии, мои родители ездили в США."},
+    {"de": "Ich machte alles, während meine Kinder in der Schule waren.", "ru": "Я всё сделал, пока мои дети были в школе."},
+    {"de": "Ich habe gekocht, während meine Freunde Musik hörten.", "ru": "Я готовил, пока мои друзья слушали музыку."},
+    {"de": "Während dieser Woche habe ich mich auf die Prüfung vorbereitet.", "ru": "В течение этой недели я готовился к экзамену."},
+    {"de": "Während dieses Monats war ich zwei Mal in Deutschland.", "ru": "В течение этого месяца я два раза был в Германии."},
+    {"de": "Während dieses Jahres habe ich viel Sport gemacht.", "ru": "В течение этого года я много занимался спортом."},
+    {"de": "Während meines Lebens möchte ich viel schaffen.", "ru": "За свою жизнь я хочу многого добиться."},
+    {"de": "Ich muss noch eine Woche warten, bis die WM beginnt.", "ru": "Мне нужно ждать ещё неделю, пока не начнётся чемпионат мира."},
+    {"de": "Seitdem die WM angefangen hat, gucke ich jeden Tag Fußball.", "ru": "С тех пор как начался чемпионат мира, я каждый день смотрю футбол."},
+    {"de": "Ich muss die ganze Arbeit machen, bis meine Kinder von der Schule kommen.", "ru": "Я должен сделать всю работу, пока мои дети не придут из школы."},
+    {"de": "Seitdem meine Kinder aufgewachsen sind, habe ich mehr Zeit für mich selbst.", "ru": "С тех пор как мои дети выросли, у меня больше времени для себя."},
+    {"de": "Mein Leben war ganz schwer, bis ich nach Schweden umgesiedelt bin.", "ru": "Моя жизнь была очень тяжёлой, пока я не переехал в Швецию."},
+    {"de": "Seitdem ich nach Schweden umgesiedelt bin, verdiene ich gutes Geld.", "ru": "С тех пор как я переехал в Швецию, я хорошо зарабатываю."},
+    {"de": "Ich bin immer mit dem Bus gefahren, bis ich ein Auto gekauft habe.", "ru": "Я всегда ездил на автобусе, пока не купил машину."},
+    {"de": "Seitdem ich ein Auto gekauft habe, fahre ich öfter ins Ausland.", "ru": "С тех пор как я купил машину, я чаще езжу за границу."},
+    {"de": "Bevor wir nach Polen fahren, müssen wir tanken.", "ru": "Прежде чем поехать в Польшу, нам нужно заправиться."},
+    {"de": "Sobald wir nach Polen kommen, fahren wir zu IKEA.", "ru": "Как только мы приедем в Польшу, мы поедем в IKEA."},
+    {"de": "Bevor wir ein Auto gekauft haben, haben wir lange gespart.", "ru": "Прежде чем купить машину, мы долго копили."},
+    {"de": "Sobald wir ein Auto gekauft haben, haben wir unseren Vater angerufen.", "ru": "Как только мы купили машину, мы позвонили нашему отцу."},
+    {"de": "Bevor wir berühmt wurden, haben wir zehn Jahre Musik gemacht.", "ru": "Прежде чем стать знаменитыми, мы десять лет занимались музыкой."},
+    {"de": "Sobald wir berühmt wurden, sprachen wir nicht mehr mit unseren alten Freunden.", "ru": "Как только мы стали знаменитыми, мы перестали разговаривать со старыми друзьями."},
+    {"de": "Bevor wir unserer Schwester geholfen haben, musste sie lange um Hilfe bitten.", "ru": "Прежде чем мы помогли нашей сестре, ей пришлось долго просить о помощи."},
+    {"de": "Sobald wir ihr geholfen haben, war sie sehr dankbar.", "ru": "Как только мы ей помогли, она была очень благодарна."}
+  ],
+  "exercises": [
+    {"type": "choice", "q": "___ ich arbeite, spielt mein Freund Computer.", "options": ["Während", "Bis", "Bevor"], "answer": 0, "explain": "Одновременные действия — während."},
+    {"type": "choice", "q": "Ich muss noch eine Woche warten, ___ die WM beginnt.", "options": ["seit", "bis", "nachdem"], "answer": 1, "explain": "«Пока не начнётся» — bis."},
+    {"type": "choice", "q": "___ ich ein Auto habe, fahre ich öfter ins Ausland.", "options": ["Bis", "Bevor", "Seitdem"], "answer": 2, "explain": "«С тех пор как» — seitdem; действие длится до сих пор."},
+    {"type": "choice", "q": "Während ___ Woche habe ich viel gelernt.", "options": ["diese", "dieser", "diesem"], "answer": 1, "explain": "Предлог während + Genitiv: die Woche → dieser Woche."},
+    {"type": "choice", "q": "Bevor wir nach Polen fahren, ___.", "options": ["wir müssen tanken", "müssen wir tanken", "wir tanken müssen"], "answer": 1, "explain": "Придаточное на первом месте → главное начинается с глагола."},
+    {"type": "choice", "q": "Ich rufe dich an, ___ ich in Berlin bin.", "options": ["sobald", "während", "seit"], "answer": 0, "explain": "«Как только» — sobald."},
+    {"type": "gap", "q": "Während ___ Jahres habe ich viel Sport gemacht. (dieses/dieser)", "answer": ["dieses"], "explain": "das Jahr → Genitiv: dieses Jahres."},
+    {"type": "gap", "q": "___ wir ein Auto gekauft haben, haben wir lange gespart.", "answer": ["Bevor"], "explain": "Сначала копили, потом купили — bevor."},
+    {"type": "gap", "q": "Nachdem ich gegessen ___, gehe ich spazieren. (haben)", "answer": ["habe"], "explain": "nachdem + Perfekt, главное в Präsens."},
+    {"type": "gap", "q": "Sobald wir nach Polen ___, fahren wir zu IKEA. (kommen)", "answer": ["kommen"], "explain": "Глагол в придаточном — в конце."},
+    {"type": "gap", "q": "Seitdem meine Kinder aufgewachsen ___, habe ich mehr Zeit.", "answer": ["sind"], "explain": "aufwachsen образует Perfekt с sein."},
+    {"type": "translate", "q": "Пока я работаю, мой друг играет на компьютере.", "answer": ["Während ich arbeite, spielt mein Freund Computer.", "Während ich arbeite, spielt mein Freund am Computer."], "explain": "während + глагол в конце; затем инверсия."},
+    {"type": "translate", "q": "Жди здесь, пока я не вернусь.", "answer": ["Warte hier, bis ich zurückkomme.", "Warte hier, bis ich wiederkomme."], "explain": "bis без отрицания."},
+    {"type": "translate", "q": "Прежде чем поехать в Польшу, нам нужно заправиться.", "answer": ["Bevor wir nach Polen fahren, müssen wir tanken."], "explain": "bevor + глагол в конце."},
+    {"type": "translate", "q": "С тех пор как я купил машину, я чаще езжу за границу.", "answer": ["Seitdem ich ein Auto gekauft habe, fahre ich öfter ins Ausland.", "Seit ich ein Auto gekauft habe, fahre ich öfter ins Ausland.", "Seitdem ich ein Auto gekauft habe, fahre ich häufiger ins Ausland.", "Seit ich ein Auto gekauft habe, fahre ich häufiger ins Ausland."], "explain": "seit(dem) + Perfekt, главное — Präsens."},
+    {"type": "translate", "q": "Как только у меня будет время, я тебе позвоню.", "answer": ["Sobald ich Zeit habe, rufe ich dich an.", "Sobald ich Zeit habe, werde ich dich anrufen."], "explain": "sobald; будущее часто передаётся Präsens."},
+    {"type": "order", "q": "Составьте предложение", "words": ["Ich", "gekocht,", "habe", "während", "Musik", "meine Freunde", "hörten"], "answer": ["Ich habe gekocht, während meine Freunde Musik hörten."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["Seitdem", "verdiene", "nach Schweden", "ich", "umgesiedelt bin,", "gutes Geld", "ich"], "answer": ["Seitdem ich nach Schweden umgesiedelt bin, verdiene ich gutes Geld."]},
+    {"type": "order", "q": "Составьте предложение", "words": ["die ganze Arbeit", "bis", "Ich", "machen,", "muss", "kommen", "meine Kinder", "von der Schule"], "answer": ["Ich muss die ganze Arbeit machen, bis meine Kinder von der Schule kommen."]}
+  ]
+}

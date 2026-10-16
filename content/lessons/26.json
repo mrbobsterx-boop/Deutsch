@@ -1,0 +1,582 @@
+{
+ "id": 26,
+ "title": "Модальные глаголы в прошедшем времени",
+ "level": "A2",
+ "goal": "Вы сможете рассказать, что могли, хотели, должны были или имели право делать в прошлом, а также использовать war/waren.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Präteritum модальных: основа + -te",
+   "html": "<p>Модальные глаголы о прошлом почти всегда употребляются в <b>Präteritum</b> (простое прошедшее), а не в Perfekt. Образуются они очень просто: <b>убираем умлаут</b> + суффикс <span class=\"hl\">-te</span> + окончание.</p><table><tr><th>Infinitiv</th><th>Präteritum (ich/er)</th><th>Перевод</th></tr><tr><td><span class=\"de\">können</span></td><td><span class=\"de\">konnte</span></td><td>мог</td></tr><tr><td><span class=\"de\">dürfen</span></td><td><span class=\"de\">durfte</span></td><td>имел право, мне разрешали</td></tr><tr><td><span class=\"de\">müssen</span></td><td><span class=\"de\">musste</span></td><td>должен был, пришлось</td></tr><tr><td><span class=\"de\">sollen</span></td><td><span class=\"de\">sollte</span></td><td>должен был (по чужой воле)</td></tr><tr><td><span class=\"de\">wollen</span></td><td><span class=\"de\">wollte</span></td><td>хотел</td></tr><tr><td><span class=\"de\">mögen</span></td><td><span class=\"de\">mochte</span> (g → ch!)</td><td>любил, нравилось</td></tr></table><div class=\"note\"><span class=\"de\">möchten</span> прошедшего времени не имеет — это вежливое «хотел бы» здесь и сейчас. О прошлом говорят через <span class=\"de\">wollte</span>: <span class=\"de\">Ich möchte Kaffee → Ich wollte gestern Kaffee.</span></div>"
+  },
+  {
+   "h": "Окончания Präteritum",
+   "html": "<p>У ich и er/sie/es окончаний нет — форма заканчивается на <b>-e</b> и совпадает:</p><table><tr><th>Лицо</th><th>können</th><th>müssen</th><th>wollen</th></tr><tr><td>ich</td><td><span class=\"de\">konnte</span></td><td><span class=\"de\">musste</span></td><td><span class=\"de\">wollte</span></td></tr><tr><td>du</td><td><span class=\"de\">konntest</span></td><td><span class=\"de\">musstest</span></td><td><span class=\"de\">wolltest</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">konnte</span></td><td><span class=\"de\">musste</span></td><td><span class=\"de\">wollte</span></td></tr><tr><td>wir</td><td><span class=\"de\">konnten</span></td><td><span class=\"de\">mussten</span></td><td><span class=\"de\">wollten</span></td></tr><tr><td>ihr</td><td><span class=\"de\">konntet</span></td><td><span class=\"de\">musstet</span></td><td><span class=\"de\">wolltet</span></td></tr><tr><td>sie/Sie</td><td><span class=\"de\">konnten</span></td><td><span class=\"de\">mussten</span></td><td><span class=\"de\">wollten</span></td></tr></table>"
+  },
+  {
+   "h": "Порядок слов не меняется",
+   "html": "<p>Как и в настоящем времени: модальный глагол — на <b>2-м месте</b>, инфинитив — <b>в конце</b>.</p><ul><li><span class=\"de\">Ich <b>konnte</b> dir gestern <b>helfen</b>.</span> — Я мог помочь тебе вчера.</li><li><span class=\"de\">Letztes Jahr <b>wollte</b> ich nach Barcelona <b>fahren</b>.</span> — В прошлом году я хотел поехать в Барселону.</li><li><span class=\"de\">Früher <b>mochte</b> ich nicht <b>reisen</b>.</span> — Раньше я не любил путешествовать.</li></ul><p>Инфинитив можно опустить, если смысл ясен: <span class=\"de\">Ich musste auf die Toilette.</span> — Мне нужно было в туалет (gehen подразумевается).</p>"
+  },
+  {
+   "h": "sein в Präteritum: war",
+   "html": "<p>Глагол <span class=\"de\">sein</span> о прошлом тоже чаще используют в Präteritum:</p><table><tr><th>Лицо</th><th>sein</th><th>Лицо</th><th>sein</th></tr><tr><td>ich</td><td><span class=\"de\">war</span></td><td>wir</td><td><span class=\"de\">waren</span></td></tr><tr><td>du</td><td><span class=\"de\">warst</span></td><td>ihr</td><td><span class=\"de\">wart</span></td></tr><tr><td>er/sie/es</td><td><span class=\"de\">war</span></td><td>sie/Sie</td><td><span class=\"de\">waren</span></td></tr></table><ul><li><span class=\"de\">Ich war noch nie in Deutschland.</span> — Я ещё никогда не был в Германии.</li><li><span class=\"de\">Wo warst du gestern?</span> — Где ты был вчера?</li></ul>"
+  },
+  {
+   "h": "Слова-маркеры прошлого",
+   "html": "<ul><li><span class=\"de\">gestern</span> — вчера, <span class=\"de\">vorgestern</span> — позавчера</li><li><span class=\"de\">letzte Woche</span> — на прошлой неделе, <span class=\"de\">letztes Jahr</span> — в прошлом году, <span class=\"de\">letzten Monat</span> — в прошлом месяце</li><li><span class=\"de\">früher</span> — раньше, <span class=\"de\">damals</span> — тогда, в то время</li><li><span class=\"de\">noch nie</span> — ещё никогда, <span class=\"de\">den ganzen Tag</span> — весь день</li></ul>"
+  }
+ ],
+ "tips": [
+  "В Präteritum модальных умлаута нет никогда: konnte, durfte, musste. Умлаут (könnte, müsste) — это уже Konjunktiv II («мог бы»), урок 41.",
+  "mögen → mochte: g превращается в ch и умлаут пропадает. Не путайте mochte (любил) и möchte (хотел бы).",
+  "ich wollte и er wollte совпадают — не добавляйте -t: «er wolltet» — ошибка.",
+  "Русское «пришлось» = musste: Ich musste lange warten — мне пришлось долго ждать."
+ ],
+ "examples": [
+  {
+   "de": "Gestern konnte ich nicht kommen.",
+   "ru": "Вчера я не смог прийти."
+  },
+  {
+   "de": "Als Kind wollte ich Pilot werden.",
+   "ru": "В детстве я хотел стать пилотом."
+  },
+  {
+   "de": "Wir mussten zwei Stunden warten.",
+   "ru": "Нам пришлось ждать два часа."
+  },
+  {
+   "de": "Durftest du früher lange fernsehen?",
+   "ru": "Тебе раньше разрешали долго смотреть телевизор?"
+  },
+  {
+   "de": "Er sollte um acht Uhr hier sein.",
+   "ru": "Он должен был быть здесь в восемь."
+  },
+  {
+   "de": "Früher mochte sie keinen Fisch.",
+   "ru": "Раньше она не любила рыбу."
+  },
+  {
+   "de": "Ihr konntet sehr gut tanzen.",
+   "ru": "Вы очень хорошо умели танцевать."
+  },
+  {
+   "de": "Wo wart ihr am Wochenende?",
+   "ru": "Где вы были на выходных?"
+  },
+  {
+   "de": "Das Wetter war gestern schön.",
+   "ru": "Вчера погода была хорошая."
+  },
+  {
+   "de": "Ich wollte dich anrufen, aber ich hatte keine Zeit.",
+   "ru": "Я хотел тебе позвонить, но у меня не было времени."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "können",
+   "forms": "kann, konnte, hat gekonnt",
+   "ru": "мочь, уметь"
+  },
+  {
+   "de": "dürfen",
+   "forms": "darf, durfte, hat gedurft",
+   "ru": "иметь право, разрешено"
+  },
+  {
+   "de": "müssen",
+   "forms": "muss, musste, hat gemusst",
+   "ru": "быть должным, нужно"
+  },
+  {
+   "de": "sollen",
+   "forms": "soll, sollte, hat gesollt",
+   "ru": "быть должным (по указанию)"
+  },
+  {
+   "de": "wollen",
+   "forms": "will, wollte, hat gewollt",
+   "ru": "хотеть"
+  },
+  {
+   "de": "mögen",
+   "forms": "mag, mochte, hat gemocht",
+   "ru": "любить, нравиться"
+  },
+  {
+   "de": "sein",
+   "forms": "ist, war, ist gewesen",
+   "ru": "быть"
+  },
+  {
+   "de": "gestern",
+   "ru": "вчера"
+  },
+  {
+   "de": "früher",
+   "ru": "раньше"
+  },
+  {
+   "de": "damals",
+   "ru": "тогда, в то время"
+  },
+  {
+   "de": "letzte Woche",
+   "ru": "на прошлой неделе"
+  },
+  {
+   "de": "letztes Jahr",
+   "ru": "в прошлом году"
+  },
+  {
+   "de": "noch nie",
+   "ru": "ещё никогда"
+  },
+  {
+   "de": "den ganzen Tag",
+   "ru": "весь день"
+  },
+  {
+   "de": "proben",
+   "ru": "репетировать"
+  },
+  {
+   "de": "rauchen",
+   "ru": "курить"
+  },
+  {
+   "de": "reisen",
+   "ru": "путешествовать"
+  },
+  {
+   "de": "die Tasse",
+   "pl": "die Tassen",
+   "ru": "чашка"
+  },
+  {
+   "de": "die Eltern",
+   "pl": "die Eltern",
+   "ru": "родители"
+  },
+  {
+   "de": "länger",
+   "ru": "дольше"
+  }
+ ],
+ "phrasesNote": "Präteritum модальных глаголов (konnte, durfte, musste, sollte, wollte, mochte) и глагола sein (war). Прогоняйте по таблице: настоящее → прошедшее.",
+ "phrases": [
+  {
+   "de": "Ich kann dir helfen.",
+   "ru": "Я могу тебе помочь."
+  },
+  {
+   "de": "Ich konnte dir gestern helfen.",
+   "ru": "Я мог тебе вчера помочь."
+  },
+  {
+   "de": "Du kannst mir helfen.",
+   "ru": "Ты можешь мне помочь."
+  },
+  {
+   "de": "Du konntest mir gestern helfen.",
+   "ru": "Ты мог мне вчера помочь."
+  },
+  {
+   "de": "Er kann ihr helfen.",
+   "ru": "Он может ей помочь."
+  },
+  {
+   "de": "Er konnte ihr gestern helfen.",
+   "ru": "Он мог ей вчера помочь."
+  },
+  {
+   "de": "Sie kann ihm helfen.",
+   "ru": "Она может ему помочь."
+  },
+  {
+   "de": "Sie konnte ihm gestern helfen.",
+   "ru": "Она могла ему вчера помочь."
+  },
+  {
+   "de": "Wir können euch helfen.",
+   "ru": "Мы можем вам помочь."
+  },
+  {
+   "de": "Wir konnten euch gestern helfen.",
+   "ru": "Мы могли вам вчера помочь."
+  },
+  {
+   "de": "Ihr könnt uns helfen.",
+   "ru": "Вы можете нам помочь."
+  },
+  {
+   "de": "Ihr konntet uns gestern helfen.",
+   "ru": "Вы могли нам вчера помочь."
+  },
+  {
+   "de": "Sie können mir helfen.",
+   "ru": "Они могут мне помочь."
+  },
+  {
+   "de": "Sie konnten mir gestern helfen.",
+   "ru": "Они могли мне вчера помочь."
+  },
+  {
+   "de": "Ich darf nicht rauchen.",
+   "ru": "Мне нельзя курить."
+  },
+  {
+   "de": "Ich durfte damals nicht rauchen.",
+   "ru": "Тогда мне нельзя было курить."
+  },
+  {
+   "de": "Ich darf hier proben.",
+   "ru": "Мне разрешено здесь репетировать."
+  },
+  {
+   "de": "Ich durfte hier proben.",
+   "ru": "Мне разрешали здесь репетировать."
+  },
+  {
+   "de": "Ich muss Deutsch lernen.",
+   "ru": "Я должен учить немецкий."
+  },
+  {
+   "de": "Ich musste gestern Deutsch lernen.",
+   "ru": "Вчера мне пришлось учить немецкий."
+  },
+  {
+   "de": "Ich muss auf die Toilette.",
+   "ru": "Мне нужно в туалет."
+  },
+  {
+   "de": "Ich musste auf die Toilette.",
+   "ru": "Мне нужно было в туалет."
+  },
+  {
+   "de": "Ich soll heute länger arbeiten.",
+   "ru": "Сегодня мне нужно (велели) работать дольше."
+  },
+  {
+   "de": "Ich sollte letzte Woche länger arbeiten.",
+   "ru": "На прошлой неделе мне нужно было работать дольше."
+  },
+  {
+   "de": "Ich soll meinen Eltern helfen.",
+   "ru": "Я должен помогать своим родителям."
+  },
+  {
+   "de": "Ich sollte letzte Woche meinen Eltern helfen.",
+   "ru": "На прошлой неделе я должен был помогать своим родителям."
+  },
+  {
+   "de": "Ich mag Pizza essen.",
+   "ru": "Я люблю есть пиццу."
+  },
+  {
+   "de": "Ich mochte früher Pizza essen.",
+   "ru": "Раньше я любил есть пиццу."
+  },
+  {
+   "de": "Ich mag nicht reisen.",
+   "ru": "Я не люблю путешествовать."
+  },
+  {
+   "de": "Früher mochte ich nicht reisen.",
+   "ru": "Раньше я не любил путешествовать."
+  },
+  {
+   "de": "Ich will nach Barcelona fahren.",
+   "ru": "Я хочу поехать в Барселону."
+  },
+  {
+   "de": "Ich wollte letztes Jahr nach Barcelona fahren.",
+   "ru": "В прошлом году я хотел поехать в Барселону."
+  },
+  {
+   "de": "Ich will ein neues Auto kaufen.",
+   "ru": "Я хочу купить новую машину."
+  },
+  {
+   "de": "Ich wollte letztes Jahr ein neues Auto kaufen.",
+   "ru": "В прошлом году я хотел купить новую машину."
+  },
+  {
+   "de": "Ich möchte eine Tasse Kaffee.",
+   "ru": "Я хотел бы чашку кофе."
+  },
+  {
+   "de": "Ich wollte gestern eine Tasse Kaffee.",
+   "ru": "Вчера я хотел чашку кофе."
+  },
+  {
+   "de": "Ich war noch nie in Deutschland.",
+   "ru": "Я ещё никогда не был в Германии."
+  },
+  {
+   "de": "Du warst noch nie in Deutschland.",
+   "ru": "Ты ещё никогда не был в Германии."
+  },
+  {
+   "de": "Er war noch nie in Deutschland.",
+   "ru": "Он ещё никогда не был в Германии."
+  },
+  {
+   "de": "Sie war noch nie in Deutschland.",
+   "ru": "Она ещё никогда не была в Германии."
+  },
+  {
+   "de": "Wir waren noch nie in Deutschland.",
+   "ru": "Мы ещё никогда не были в Германии."
+  },
+  {
+   "de": "Ihr wart noch nie in Deutschland.",
+   "ru": "Вы ещё никогда не были в Германии."
+  },
+  {
+   "de": "Sie waren noch nie in Deutschland.",
+   "ru": "Они ещё никогда не были в Германии."
+  },
+  {
+   "de": "Wo warst du gestern?",
+   "ru": "Где ты был вчера?"
+  },
+  {
+   "de": "Du warst den ganzen Tag zu Hause.",
+   "ru": "Ты весь день был дома."
+  },
+  {
+   "de": "Wo war er gestern?",
+   "ru": "Где он был вчера?"
+  },
+  {
+   "de": "Er war den ganzen Tag zu Hause.",
+   "ru": "Он весь день был дома."
+  },
+  {
+   "de": "Wo war sie gestern?",
+   "ru": "Где она была вчера?"
+  },
+  {
+   "de": "Sie war den ganzen Tag zu Hause.",
+   "ru": "Она весь день была дома."
+  },
+  {
+   "de": "Wo waren wir gestern?",
+   "ru": "Где мы были вчера?"
+  },
+  {
+   "de": "Wir waren den ganzen Tag zu Hause.",
+   "ru": "Мы весь день были дома."
+  },
+  {
+   "de": "Wo wart ihr gestern?",
+   "ru": "Где вы были вчера?"
+  },
+  {
+   "de": "Ihr wart den ganzen Tag zu Hause.",
+   "ru": "Вы весь день были дома."
+  },
+  {
+   "de": "Wo waren sie gestern?",
+   "ru": "Где они были вчера?"
+  },
+  {
+   "de": "Sie waren den ganzen Tag zu Hause.",
+   "ru": "Они весь день были дома."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "können → Präteritum (ich):",
+   "options": [
+    "könnte",
+    "konnte",
+    "konntet"
+   ],
+   "answer": 1,
+   "explain": "Без умлаута: konnte. könnte — это «мог бы»."
+  },
+  {
+   "type": "choice",
+   "q": "mögen → Präteritum (ich):",
+   "options": [
+    "mögte",
+    "mochte",
+    "mogte"
+   ],
+   "answer": 1,
+   "explain": "g → ch: mochte."
+  },
+  {
+   "type": "gap",
+   "q": "Du ___ mir gestern helfen. (können)",
+   "answer": [
+    "konntest"
+   ],
+   "explain": "du konntest."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ zwei Stunden warten. (müssen)",
+   "answer": [
+    "mussten"
+   ],
+   "explain": "wir mussten."
+  },
+  {
+   "type": "gap",
+   "q": "Er ___ damals nicht rauchen. (dürfen)",
+   "answer": [
+    "durfte"
+   ],
+   "explain": "er durfte — без окончания."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ letzte Woche länger arbeiten. (sollen)",
+   "answer": [
+    "solltet"
+   ],
+   "explain": "ihr solltet."
+  },
+  {
+   "type": "choice",
+   "q": "Ich möchte Kaffee. → Вчера:",
+   "options": [
+    "Ich möchtete gestern Kaffee.",
+    "Ich wollte gestern Kaffee.",
+    "Ich mochte gestern Kaffee."
+   ],
+   "answer": 1,
+   "explain": "У möchten нет прошедшего — используем wollte."
+  },
+  {
+   "type": "gap",
+   "q": "Wo ___ du gestern? (sein)",
+   "answer": [
+    "warst"
+   ],
+   "explain": "du warst."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr ___ den ganzen Tag zu Hause. (sein)",
+   "answer": [
+    "wart"
+   ],
+   "explain": "ihr wart."
+  },
+  {
+   "type": "choice",
+   "q": "Letztes Jahr ___ nach Barcelona fahren.",
+   "options": [
+    "ich wollte",
+    "wollte ich",
+    "wollte ich fahren"
+   ],
+   "answer": 1,
+   "explain": "Инверсия: Letztes Jahr wollte ich … fahren."
+  },
+  {
+   "type": "choice",
+   "q": "Er ___ früher keinen Fisch.",
+   "options": [
+    "mochte",
+    "möchte",
+    "mag"
+   ],
+   "answer": 0,
+   "explain": "früher → прошедшее: mochte."
+  },
+  {
+   "type": "gap",
+   "q": "Wir ___ noch nie in Deutschland. (sein)",
+   "answer": [
+    "waren"
+   ],
+   "explain": "wir waren."
+  },
+  {
+   "type": "translate",
+   "q": "Вчера мне пришлось учить немецкий.",
+   "answer": [
+    "Gestern musste ich Deutsch lernen.",
+    "Ich musste gestern Deutsch lernen."
+   ],
+   "explain": "musste + инфинитив в конце."
+  },
+  {
+   "type": "translate",
+   "q": "Раньше я не любил путешествовать.",
+   "answer": [
+    "Früher mochte ich nicht reisen.",
+    "Ich mochte früher nicht reisen."
+   ],
+   "explain": "mochte."
+  },
+  {
+   "type": "translate",
+   "q": "Ты ещё никогда не был в Германии.",
+   "answer": [
+    "Du warst noch nie in Deutschland."
+   ],
+   "explain": "du warst."
+  },
+  {
+   "type": "translate",
+   "q": "Мы могли вам вчера помочь.",
+   "answer": [
+    "Wir konnten euch gestern helfen.",
+    "Gestern konnten wir euch helfen.",
+    "Wir konnten Ihnen gestern helfen.",
+    "Gestern konnten wir Ihnen helfen."
+   ],
+   "explain": "wir konnten + helfen + Dativ."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "wollte",
+    "ein neues Auto",
+    "ich",
+    "kaufen",
+    "letztes Jahr"
+   ],
+   "answer": [
+    "Ich wollte letztes Jahr ein neues Auto kaufen.",
+    "Letztes Jahr wollte ich ein neues Auto kaufen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "sollte",
+    "meinen Eltern",
+    "ich",
+    "helfen"
+   ],
+   "answer": [
+    "Ich sollte meinen Eltern helfen."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "warst",
+    "gestern",
+    "wo",
+    "du"
+   ],
+   "answer": [
+    "Wo warst du gestern?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "id": 15,
+ "title": "Предлоги, часть 1: Akkusativ и Dativ",
+ "level": "A1",
+ "goal": "Вы научитесь правильно употреблять предлоги с Akkusativ (durch, für, gegen, ohne, um) и с Dativ (aus, bei, mit, nach, seit, von, zu, außer).",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Что такое предлоги и почему важен падеж",
+   "html": "<p>Предлог (<b>die Präposition</b>) в немецком всегда «требует» определённый падеж. Существительное после предлога меняет артикль, а местоимение — форму. Поэтому учим предлог <b>сразу вместе с падежом</b>, как одно целое.</p>\n<p>Сегодня — две группы предлогов, которые <span class=\"hl\">всегда</span> требуют одного и того же падежа:</p>\n<ul><li>только <b>Akkusativ</b>: <span class=\"de\">durch, für, gegen, ohne, um</span></li>\n<li>только <b>Dativ</b>: <span class=\"de\">aus, bei, mit, nach, seit, von, zu</span> (+ <span class=\"de\">außer</span>)</li></ul>\n<div class=\"note\">Предлоги, которые могут требовать и Akkusativ, и Dativ (<span class=\"de\">in, auf, an…</span>), мы разберём в уроке 18.</div>"
+  },
+  {
+   "h": "Предлоги с Akkusativ: durch, für, gegen, ohne, um",
+   "html": "<table><tr><th>Предлог</th><th>Значение</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">durch</span></td><td>через, сквозь (насквозь)</td><td><span class=\"de\">Ich laufe durch den Wald.</span> — Я бегу через лес.</td></tr>\n<tr><td><span class=\"de\">für</span></td><td>для, за</td><td><span class=\"de\">Ich koche für meinen Sohn.</span> — Я готовлю для сына.</td></tr>\n<tr><td><span class=\"de\">gegen</span></td><td>против; около (о времени)</td><td><span class=\"de\">Ich spiele gegen meine Schwester.</span> — Я играю против сестры.</td></tr>\n<tr><td><span class=\"de\">ohne</span></td><td>без</td><td><span class=\"de\">Ich kann nicht ohne mein Kind leben.</span> — Я не могу жить без ребёнка.</td></tr>\n<tr><td><span class=\"de\">um</span></td><td>вокруг; в (о времени)</td><td><span class=\"de\">Ich laufe um das Haus.</span> — Я бегаю вокруг дома.</td></tr></table>\n<p>Запоминалка: <b>DOGFU</b> — <span class=\"de\">Durch, Ohne, Gegen, Für, Um</span>.</p>\n<p>Артикли в Akkusativ меняются только в мужском роде: <span class=\"de\">der → den, ein → einen, mein → meinen</span>. Женский, средний род и множественное число не меняются: <span class=\"de\">für die Mutter, für das Kind, für die Kinder</span>.</p>"
+  },
+  {
+   "h": "Предлоги с Dativ: aus, bei, mit, nach, seit, von, zu, außer",
+   "html": "<table><tr><th>Предлог</th><th>Значение</th><th>Пример</th></tr>\n<tr><td><span class=\"de\">aus</span></td><td>из (изнутри; происхождение)</td><td><span class=\"de\">Ich komme aus der Ukraine.</span></td></tr>\n<tr><td><span class=\"de\">bei</span></td><td>у (кого-то), при, на (работе)</td><td><span class=\"de\">Ich wohne bei meinem Bruder.</span></td></tr>\n<tr><td><span class=\"de\">mit</span></td><td>с, на (транспорте)</td><td><span class=\"de\">Ich fahre mit dem Bus.</span></td></tr>\n<tr><td><span class=\"de\">nach</span></td><td>после; в (города, страны без артикля); <span class=\"de\">nach Hause</span> — домой</td><td><span class=\"de\">nach der Arbeit, nach Berlin</span></td></tr>\n<tr><td><span class=\"de\">seit</span></td><td>с (какого-то времени), уже … (в течение)</td><td><span class=\"de\">Ich lerne seit einem Monat Deutsch.</span></td></tr>\n<tr><td><span class=\"de\">von</span></td><td>от, из, о; (принадлежность)</td><td><span class=\"de\">Das Geschenk ist von meiner Oma.</span></td></tr>\n<tr><td><span class=\"de\">zu</span></td><td>к (к человеку, к месту); <span class=\"de\">zu Hause</span> — дома</td><td><span class=\"de\">Ich fahre zu meinem Freund.</span></td></tr>\n<tr><td><span class=\"de\">außer</span></td><td>кроме</td><td><span class=\"de\">Alle außer meinem Bruder.</span></td></tr></table>\n<p>Запоминалка — «песенка» на мотив: <span class=\"de\">aus, bei, mit, nach, seit, von, zu</span> — повторите 5 раз вслух, и она останется в голове.</p>"
+  },
+  {
+   "h": "Окончания после предлогов: сводная таблица",
+   "html": "<table><tr><th></th><th>м.р.</th><th>ж.р.</th><th>ср.р.</th><th>мн.ч.</th></tr>\n<tr><td><b>Akk</b> (für…)</td><td>den / einen / meinen</td><td>die / eine / meine</td><td>das / ein / mein</td><td>die / meine</td></tr>\n<tr><td><b>Dat</b> (mit…)</td><td>dem / einem / meinem</td><td>der / einer / meiner</td><td>dem / einem / meinem</td><td>den / meinen + <b>-n</b></td></tr></table>\n<p>В Dativ множественного числа к существительному добавляется <b>-n</b>: <span class=\"de\">mit den Freunden, zu meinen Kindern</span> (если слово уже не кончается на -n или -s: <span class=\"de\">mit den Autos</span>).</p>\n<h4>Слияния предлога и артикля</h4>\n<ul><li><span class=\"de\">zu + dem = zum</span> (<span class=\"de\">zum Arzt</span>), <span class=\"de\">zu + der = zur</span> (<span class=\"de\">zur Arbeit</span>)</li>\n<li><span class=\"de\">bei + dem = beim</span> (<span class=\"de\">beim Arzt</span>), <span class=\"de\">von + dem = vom</span> (<span class=\"de\">vom Bahnhof</span>)</li>\n<li><span class=\"de\">durch + das = durchs</span>, <span class=\"de\">für + das = fürs</span>, <span class=\"de\">um + das = ums</span> (разговорно)</li></ul>"
+  },
+  {
+   "h": "Местоимения после предлогов и вопросы",
+   "html": "<p>После предлога местоимение тоже стоит в нужном падеже (подробно — в уроке 17):</p>\n<table><tr><th>Nom</th><th>ich</th><th>du</th><th>er</th><th>sie</th><th>es</th><th>wir</th><th>ihr</th><th>sie/Sie</th></tr>\n<tr><td><b>Akk</b> (für…)</td><td>mich</td><td>dich</td><td>ihn</td><td>sie</td><td>es</td><td>uns</td><td>euch</td><td>sie/Sie</td></tr>\n<tr><td><b>Dat</b> (mit…)</td><td>mir</td><td>dir</td><td>ihm</td><td>ihr</td><td>ihm</td><td>uns</td><td>euch</td><td>ihnen/Ihnen</td></tr></table>\n<p>Вопрос о человеке тоже зависит от падежа: <span class=\"de\">Für wen kochst du?</span> (Akk — <b>wen</b>), <span class=\"de\">Mit wem spielst du?</span> (Dat — <b>wem</b>). Предлог в вопросе стоит <b>в самом начале</b>.</p>\n<div class=\"note\">Метод курса: «таблица в глубину» — меняем лицо и притяжательное местоимение (<span class=\"de\">ich … mit meinem, du … mit deinem…</span>); «таблица в ширину» — меняем местоимения-дополнения (<span class=\"de\">Ich spreche mit dir – Du sprichst mit mir</span>). Проговаривайте обе таблицы вслух.</div>"
+  }
+ ],
+ "tips": [
+  "Не переводите буквально: «еду на автобусе» — mit dem Bus, а не «auf dem Bus».",
+  "«Домой» — nach Hause (куда?), «дома» — zu Hause (где?). Русскоговорящие часто путают.",
+  "«У меня» в значении «у меня дома» — bei mir, а «у меня есть» — ich habe. Не говорите «bei mir ist ein Auto».",
+  "Seit + настоящее время: «Я учу немецкий уже год» — Ich lerne seit einem Jahr Deutsch (Präsens, а не прошедшее!)."
+ ],
+ "examples": [
+  {
+   "de": "Ich gehe durch den Park.",
+   "ru": "Я иду через парк."
+  },
+  {
+   "de": "Das Geschenk ist für dich.",
+   "ru": "Подарок для тебя."
+  },
+  {
+   "de": "Wir spielen heute gegen Bayern.",
+   "ru": "Сегодня мы играем против «Баварии»."
+  },
+  {
+   "de": "Ich trinke Kaffee ohne Zucker.",
+   "ru": "Я пью кофе без сахара."
+  },
+  {
+   "de": "Der Film beginnt um acht Uhr.",
+   "ru": "Фильм начинается в восемь часов."
+  },
+  {
+   "de": "Ich komme aus Kiew.",
+   "ru": "Я из Киева."
+  },
+  {
+   "de": "Er arbeitet bei Siemens.",
+   "ru": "Он работает в «Сименсе»."
+  },
+  {
+   "de": "Wir fahren mit dem Zug nach München.",
+   "ru": "Мы едем на поезде в Мюнхен."
+  },
+  {
+   "de": "Nach dem Essen gehe ich spazieren.",
+   "ru": "После еды я иду гулять."
+  },
+  {
+   "de": "Ich wohne seit zwei Jahren in Berlin.",
+   "ru": "Я живу в Берлине уже два года."
+  },
+  {
+   "de": "Das Buch ist von meiner Schwester.",
+   "ru": "Книга от моей сестры."
+  },
+  {
+   "de": "Ich gehe heute zum Arzt.",
+   "ru": "Сегодня я иду к врачу."
+  }
+ ],
+ "vocab": [
+  {
+   "de": "durch + Akk",
+   "ru": "через, сквозь"
+  },
+  {
+   "de": "für + Akk",
+   "ru": "для, за"
+  },
+  {
+   "de": "gegen + Akk",
+   "ru": "против; около (о времени)"
+  },
+  {
+   "de": "ohne + Akk",
+   "ru": "без"
+  },
+  {
+   "de": "um + Akk",
+   "ru": "вокруг; в (о времени)"
+  },
+  {
+   "de": "aus + Dat",
+   "ru": "из"
+  },
+  {
+   "de": "bei + Dat",
+   "ru": "у, при"
+  },
+  {
+   "de": "mit + Dat",
+   "ru": "с; на (транспорте)"
+  },
+  {
+   "de": "nach + Dat",
+   "ru": "после; в (страну/город)"
+  },
+  {
+   "de": "seit + Dat",
+   "ru": "с (какого-то времени)"
+  },
+  {
+   "de": "von + Dat",
+   "ru": "от, из"
+  },
+  {
+   "de": "zu + Dat",
+   "ru": "к"
+  },
+  {
+   "de": "außer + Dat",
+   "ru": "кроме"
+  },
+  {
+   "de": "der Feind",
+   "pl": "die Feinde",
+   "ru": "враг"
+  },
+  {
+   "de": "der Wald",
+   "pl": "die Wälder",
+   "ru": "лес"
+  },
+  {
+   "de": "der Baum",
+   "pl": "die Bäume",
+   "ru": "дерево"
+  },
+  {
+   "de": "die Brücke",
+   "pl": "die Brücken",
+   "ru": "мост"
+  },
+  {
+   "de": "der Staat",
+   "pl": "die Staaten",
+   "ru": "государство"
+  },
+  {
+   "de": "die Großeltern",
+   "pl": "die Großeltern",
+   "ru": "бабушка и дедушка"
+  },
+  {
+   "de": "kämpfen",
+   "ru": "| бороться, сражаться"
+  },
+  {
+   "de": "laufen",
+   "forms": "läuft, lief, ist gelaufen",
+   "ru": "бегать, идти пешком"
+  },
+  {
+   "de": "rennen",
+   "forms": "rannte, ist gerannt",
+   "ru": "мчаться, бежать"
+  },
+  {
+   "de": "tanzen",
+   "ru": "| танцевать"
+  },
+  {
+   "de": "kochen",
+   "ru": "| готовить (еду)"
+  },
+  {
+   "de": "reiten",
+   "forms": "ritt, ist geritten",
+   "ru": "ездить верхом"
+  }
+ ],
+ "phrasesNote": "Закрепляем предлоги mit, bei, nach, aus, zu, von, außer (+Dat) и für, ohne, durch, gegen, um (+Akk) по «таблице в глубину» (меняем лицо и притяжательное местоимение) и «таблице в ширину» (меняем местоимения: mit dir – mit mir). В конце — вопросы wen/wem с предлогами.",
+ "phrases": [
+  {
+   "de": "Ich spreche mit meinem Bruder.",
+   "ru": "Я говорю со своим братом."
+  },
+  {
+   "de": "Du sprichst mit deinem Bruder.",
+   "ru": "Ты говоришь со своим братом."
+  },
+  {
+   "de": "Er spricht mit seinem Bruder.",
+   "ru": "Он говорит со своим братом."
+  },
+  {
+   "de": "Sie spricht mit ihrem Bruder.",
+   "ru": "Она говорит со своим братом."
+  },
+  {
+   "de": "Wir sprechen mit unserem Bruder.",
+   "ru": "Мы говорим с нашим братом."
+  },
+  {
+   "de": "Ihr sprecht mit eurem Bruder.",
+   "ru": "Вы говорите с вашим братом."
+  },
+  {
+   "de": "Sie sprechen mit ihrem Bruder.",
+   "ru": "Они говорят со своим братом."
+  },
+  {
+   "de": "Ich spreche mit meiner Schwester.",
+   "ru": "Я говорю со своей сестрой."
+  },
+  {
+   "de": "Du sprichst mit deiner Schwester.",
+   "ru": "Ты говоришь со своей сестрой."
+  },
+  {
+   "de": "Er spricht mit seiner Schwester.",
+   "ru": "Он говорит со своей сестрой."
+  },
+  {
+   "de": "Sie spricht mit ihrer Schwester.",
+   "ru": "Она говорит со своей сестрой."
+  },
+  {
+   "de": "Wir sprechen mit unserer Schwester.",
+   "ru": "Мы говорим с нашей сестрой."
+  },
+  {
+   "de": "Ihr sprecht mit eurer Schwester.",
+   "ru": "Вы говорите с вашей сестрой."
+  },
+  {
+   "de": "Sie sprechen mit ihrer Schwester.",
+   "ru": "Они говорят со своей сестрой."
+  },
+  {
+   "de": "Ich spreche mit dir – Du sprichst mit mir.",
+   "ru": "Я говорю с тобой – Ты говоришь со мной."
+  },
+  {
+   "de": "Er spricht mit ihr – Sie spricht mit ihm.",
+   "ru": "Он говорит с ней – Она говорит с ним."
+  },
+  {
+   "de": "Wir sprechen mit euch – Ihr sprecht mit uns.",
+   "ru": "Мы говорим с вами – Вы говорите с нами."
+  },
+  {
+   "de": "Ich spreche mit ihnen – Sie sprechen mit mir.",
+   "ru": "Я говорю с ними – Они говорят со мной."
+  },
+  {
+   "de": "Ich wohne bei meinem Bruder.",
+   "ru": "Я живу у своего брата."
+  },
+  {
+   "de": "Ich wohne bei meiner Schwester.",
+   "ru": "Я живу у своей сестры."
+  },
+  {
+   "de": "Ich wohne bei meinem Kind.",
+   "ru": "Я живу у своего ребёнка."
+  },
+  {
+   "de": "Ich wohne bei meinen Freunden.",
+   "ru": "Я живу у своих друзей."
+  },
+  {
+   "de": "Ich wohne bei dir – Du wohnst bei mir.",
+   "ru": "Я живу у тебя – Ты живёшь у меня."
+  },
+  {
+   "de": "Er wohnt bei ihr – Sie wohnt bei ihm.",
+   "ru": "Он живёт у неё – Она живёт у него."
+  },
+  {
+   "de": "Wir wohnen bei euch – Ihr wohnt bei uns.",
+   "ru": "Мы живём у вас – Вы живёте у нас."
+  },
+  {
+   "de": "Ich wohne bei ihnen – Sie wohnen bei mir.",
+   "ru": "Я живу у них – Они живут у меня."
+  },
+  {
+   "de": "Ich spiele mit meinem Kind.",
+   "ru": "Я играю со своим ребёнком."
+  },
+  {
+   "de": "Du spielst mit deinem Kind.",
+   "ru": "Ты играешь со своим ребёнком."
+  },
+  {
+   "de": "Er spielt mit seinem Kind.",
+   "ru": "Он играет со своим ребёнком."
+  },
+  {
+   "de": "Sie spielt mit ihrem Kind.",
+   "ru": "Она играет со своим ребёнком."
+  },
+  {
+   "de": "Wir spielen mit unserem Kind.",
+   "ru": "Мы играем с нашим ребёнком."
+  },
+  {
+   "de": "Ihr spielt mit eurem Kind.",
+   "ru": "Вы играете с вашим ребёнком."
+  },
+  {
+   "de": "Sie spielen mit ihrem Kind.",
+   "ru": "Они играют со своим ребёнком."
+  },
+  {
+   "de": "Ich spiele mit meinen Freunden.",
+   "ru": "Я играю со своими друзьями."
+  },
+  {
+   "de": "Du spielst mit deinen Freunden.",
+   "ru": "Ты играешь со своими друзьями."
+  },
+  {
+   "de": "Er spielt mit seinen Freunden.",
+   "ru": "Он играет со своими друзьями."
+  },
+  {
+   "de": "Sie spielt mit ihren Freunden.",
+   "ru": "Она играет со своими друзьями."
+  },
+  {
+   "de": "Wir spielen mit unseren Freunden.",
+   "ru": "Мы играем с нашими друзьями."
+  },
+  {
+   "de": "Ihr spielt mit euren Freunden.",
+   "ru": "Вы играете с вашими друзьями."
+  },
+  {
+   "de": "Sie spielen mit ihren Freunden.",
+   "ru": "Они играют со своими друзьями."
+  },
+  {
+   "de": "Ich komme nach meinem Bruder.",
+   "ru": "Я прихожу после своего брата."
+  },
+  {
+   "de": "Ich komme nach meiner Schwester.",
+   "ru": "Я прихожу после своей сестры."
+  },
+  {
+   "de": "Ich komme nach meinen Freunden.",
+   "ru": "Я прихожу после своих друзей."
+  },
+  {
+   "de": "Ich komme nach dir – Du kommst nach mir.",
+   "ru": "Я прихожу после тебя – Ты приходишь после меня."
+  },
+  {
+   "de": "Er kommt nach ihr – Sie kommt nach ihm.",
+   "ru": "Он приходит после неё – Она приходит после него."
+  },
+  {
+   "de": "Wir kommen nach euch – Ihr kommt nach uns.",
+   "ru": "Мы приходим после вас – Вы приходите после нас."
+  },
+  {
+   "de": "Ich komme nach ihnen – Sie kommen nach mir.",
+   "ru": "Я прихожу после них – Они приходят после меня."
+  },
+  {
+   "de": "Ich fahre aus meiner Stadt.",
+   "ru": "Я уезжаю из своего города."
+  },
+  {
+   "de": "Ich fahre aus meinem Land.",
+   "ru": "Я уезжаю из своей страны."
+  },
+  {
+   "de": "Ich fahre aus meinem Staat.",
+   "ru": "Я уезжаю из своего государства."
+  },
+  {
+   "de": "Ich fahre zu meinem Freund.",
+   "ru": "Я еду к своему другу."
+  },
+  {
+   "de": "Ich fahre zu meiner Freundin.",
+   "ru": "Я еду к своей подруге."
+  },
+  {
+   "de": "Ich fahre zu meinem Kind.",
+   "ru": "Я еду к своему ребёнку."
+  },
+  {
+   "de": "Ich fahre zu meinen Kindern.",
+   "ru": "Я еду к своим детям."
+  },
+  {
+   "de": "Ich fahre zu dir – Du fährst zu mir.",
+   "ru": "Я еду к тебе – Ты едешь ко мне."
+  },
+  {
+   "de": "Er fährt zu ihr – Sie fährt zu ihm.",
+   "ru": "Он едет к ней – Она едет к нему."
+  },
+  {
+   "de": "Wir fahren zu euch – Ihr fahrt zu uns.",
+   "ru": "Мы едем к вам – Вы едете к нам."
+  },
+  {
+   "de": "Ich fahre zu ihnen – Sie fahren zu mir.",
+   "ru": "Я еду к ним – Они едут ко мне."
+  },
+  {
+   "de": "Ich fahre von meinem Opa.",
+   "ru": "Я еду от своего дедушки."
+  },
+  {
+   "de": "Ich fahre von meiner Oma.",
+   "ru": "Я еду от своей бабушки."
+  },
+  {
+   "de": "Ich fahre von meinen Großeltern.",
+   "ru": "Я еду от своих бабушки и дедушки."
+  },
+  {
+   "de": "Ich fahre von dir – Du fährst von mir.",
+   "ru": "Я еду от тебя – Ты едешь от меня."
+  },
+  {
+   "de": "Er fährt von ihr – Sie fährt von ihm.",
+   "ru": "Он едет от неё – Она едет от него."
+  },
+  {
+   "de": "Wir fahren von euch – Ihr fahrt von uns.",
+   "ru": "Мы едем от вас – Вы едете от нас."
+  },
+  {
+   "de": "Ich fahre von ihnen – Sie fahren von mir.",
+   "ru": "Я еду от них – Они едут от меня."
+  },
+  {
+   "de": "Alle außer meinem Bruder wollen ins Kino gehen.",
+   "ru": "Все, кроме моего брата, хотят пойти в кино."
+  },
+  {
+   "de": "Alle außer meiner Schwester wollen an die Ostsee fahren.",
+   "ru": "Все, кроме моей сестры, хотят поехать на Балтийское море."
+  },
+  {
+   "de": "Alle außer meinen Freunden wollen zu Hause bleiben.",
+   "ru": "Все, кроме моих друзей, хотят остаться дома."
+  },
+  {
+   "de": "Alle außer dir – Alle außer mir.",
+   "ru": "Все, кроме тебя – Все, кроме меня."
+  },
+  {
+   "de": "Alle außer ihm – Alle außer ihr.",
+   "ru": "Все, кроме него – Все, кроме неё."
+  },
+  {
+   "de": "Alle außer uns – Alle außer euch.",
+   "ru": "Все, кроме нас – Все, кроме вас."
+  },
+  {
+   "de": "Alle außer ihnen.",
+   "ru": "Все, кроме них."
+  },
+  {
+   "de": "Ich koche für meinen Sohn.",
+   "ru": "Я готовлю для своего сына."
+  },
+  {
+   "de": "Ich koche für meine Tochter.",
+   "ru": "Я готовлю для своей дочери."
+  },
+  {
+   "de": "Ich koche für mein Kind.",
+   "ru": "Я готовлю для своего ребёнка."
+  },
+  {
+   "de": "Ich koche für meine Kinder.",
+   "ru": "Я готовлю для своих детей."
+  },
+  {
+   "de": "Ich koche für dich – Du kochst für mich.",
+   "ru": "Я готовлю для тебя – Ты готовишь для меня."
+  },
+  {
+   "de": "Er kocht für sie – Sie kocht für ihn.",
+   "ru": "Он готовит для неё – Она готовит для него."
+  },
+  {
+   "de": "Wir kochen für euch – Ihr kocht für uns.",
+   "ru": "Мы готовим для вас – Вы готовите для нас."
+  },
+  {
+   "de": "Sie kochen für mich – Ich koche für sie.",
+   "ru": "Они готовят для меня – Я готовлю для них."
+  },
+  {
+   "de": "Ich kann nicht ohne meinen Sohn leben.",
+   "ru": "Я не могу жить без своего сына."
+  },
+  {
+   "de": "Ich kann nicht ohne meine Tochter leben.",
+   "ru": "Я не могу жить без своей дочери."
+  },
+  {
+   "de": "Ich kann nicht ohne mein Kind leben.",
+   "ru": "Я не могу жить без своего ребёнка."
+  },
+  {
+   "de": "Ich kann nicht ohne meine Kinder leben.",
+   "ru": "Я не могу жить без своих детей."
+  },
+  {
+   "de": "Ich kann nicht ohne dich leben – Du kannst nicht ohne mich leben.",
+   "ru": "Я не могу жить без тебя – Ты не можешь жить без меня."
+  },
+  {
+   "de": "Er kann nicht ohne sie leben – Sie kann nicht ohne ihn leben.",
+   "ru": "Он не может жить без неё – Она не может жить без него."
+  },
+  {
+   "de": "Wir können nicht ohne euch leben – Ihr könnt nicht ohne uns leben.",
+   "ru": "Мы не можем жить без вас – Вы не можете жить без нас."
+  },
+  {
+   "de": "Sie können nicht ohne mich leben – Ich kann nicht ohne sie leben.",
+   "ru": "Они не могут жить без меня – Я не могу жить без них."
+  },
+  {
+   "de": "Ich fahre durch die Stadt.",
+   "ru": "Я еду через город."
+  },
+  {
+   "de": "Ich laufe durch den Wald.",
+   "ru": "Я бегу через лес."
+  },
+  {
+   "de": "Wir gehen durch den Park.",
+   "ru": "Мы идём через парк."
+  },
+  {
+   "de": "Wir reiten durch das Dorf.",
+   "ru": "Мы едем верхом через деревню."
+  },
+  {
+   "de": "Ich kämpfe gegen meinen Feind.",
+   "ru": "Я борюсь со своим врагом."
+  },
+  {
+   "de": "Ich spiele gegen meine Schwester.",
+   "ru": "Я играю против своей сестры."
+  },
+  {
+   "de": "Ich spiele gegen mein Kind.",
+   "ru": "Я играю против своего ребёнка."
+  },
+  {
+   "de": "Ich kämpfe gegen meine Feinde.",
+   "ru": "Я борюсь со своими врагами."
+  },
+  {
+   "de": "Ich kämpfe gegen dich – Du kämpfst gegen mich.",
+   "ru": "Я борюсь против тебя – Ты борешься против меня."
+  },
+  {
+   "de": "Er kämpft gegen sie – Sie kämpft gegen ihn.",
+   "ru": "Он борется против неё – Она борется против него."
+  },
+  {
+   "de": "Wir kämpfen gegen euch – Ihr kämpft gegen uns.",
+   "ru": "Мы боремся против вас – Вы боретесь против нас."
+  },
+  {
+   "de": "Ich kämpfe gegen sie.",
+   "ru": "Я борюсь против них."
+  },
+  {
+   "de": "Ich tanze um den Baum.",
+   "ru": "Я танцую вокруг дерева."
+  },
+  {
+   "de": "Ich laufe um das Haus.",
+   "ru": "Я бегаю вокруг дома."
+  },
+  {
+   "de": "Ich fahre um die Stadt.",
+   "ru": "Я еду вокруг города."
+  },
+  {
+   "de": "Ich renne um die Häuser.",
+   "ru": "Я бегу вокруг домов."
+  },
+  {
+   "de": "Ich laufe um dich – Du läufst um mich.",
+   "ru": "Я бегаю вокруг тебя – Ты бегаешь вокруг меня."
+  },
+  {
+   "de": "Er läuft um sie – Sie läuft um ihn.",
+   "ru": "Он бегает вокруг неё – Она бегает вокруг него."
+  },
+  {
+   "de": "Wir laufen um euch – Ihr lauft um uns.",
+   "ru": "Мы бегаем вокруг вас – Вы бегаете вокруг нас."
+  },
+  {
+   "de": "Ich laufe um sie.",
+   "ru": "Я бегаю вокруг них."
+  },
+  {
+   "de": "Für wen kochst du?",
+   "ru": "Для кого ты готовишь?"
+  },
+  {
+   "de": "Für wen kocht er?",
+   "ru": "Для кого он готовит?"
+  },
+  {
+   "de": "Für wen kocht sie?",
+   "ru": "Для кого она готовит?"
+  },
+  {
+   "de": "Für wen kocht ihr?",
+   "ru": "Для кого вы готовите?"
+  },
+  {
+   "de": "Für wen kochen sie?",
+   "ru": "Для кого они готовят?"
+  },
+  {
+   "de": "Gegen wen kämpfst du?",
+   "ru": "Против кого ты борешься?"
+  },
+  {
+   "de": "Um wen läufst du?",
+   "ru": "Вокруг кого ты бегаешь?"
+  },
+  {
+   "de": "Ohne wen kannst du nicht leben?",
+   "ru": "Без кого ты не можешь жить?"
+  },
+  {
+   "de": "Mit wem spielst du?",
+   "ru": "С кем ты играешь?"
+  },
+  {
+   "de": "Von wem fährst du?",
+   "ru": "От кого ты едешь?"
+  },
+  {
+   "de": "Zu wem gehst du?",
+   "ru": "К кому ты идёшь?"
+  },
+  {
+   "de": "Bei wem wohnst du?",
+   "ru": "У кого ты живёшь?"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ich koche für ___ Sohn.",
+   "options": [
+    "mein",
+    "meinen",
+    "meinem"
+   ],
+   "answer": 1,
+   "explain": "für + Akkusativ, м.р.: meinen"
+  },
+  {
+   "type": "choice",
+   "q": "Ich spreche mit ___ Schwester.",
+   "options": [
+    "meine",
+    "meiner",
+    "meinen"
+   ],
+   "answer": 1,
+   "explain": "mit + Dativ, ж.р.: meiner"
+  },
+  {
+   "type": "choice",
+   "q": "Какой предлог требует Dativ?",
+   "options": [
+    "ohne",
+    "durch",
+    "bei",
+    "gegen"
+   ],
+   "answer": 2,
+   "explain": "bei — всегда Dativ; остальные — Akkusativ"
+  },
+  {
+   "type": "choice",
+   "q": "Ich trinke Tee ohne ___ Zucker.",
+   "options": [
+    "den",
+    "dem",
+    "der"
+   ],
+   "answer": 0,
+   "explain": "ohne + Akkusativ: der Zucker → den Zucker"
+  },
+  {
+   "type": "gap",
+   "q": "Ich fahre ___ dem Bus. (на автобусе)",
+   "answer": [
+    "mit"
+   ],
+   "explain": "Транспорт — mit + Dativ"
+  },
+  {
+   "type": "gap",
+   "q": "Ich wohne ___ meinen Eltern. (у родителей)",
+   "answer": [
+    "bei"
+   ],
+   "explain": "у кого-то — bei + Dativ"
+  },
+  {
+   "type": "gap",
+   "q": "Ich gehe ___ Arzt. (к врачу, слитная форма)",
+   "answer": [
+    "zum"
+   ],
+   "explain": "zu + dem = zum"
+  },
+  {
+   "type": "gap",
+   "q": "Wir gehen durch ___ Park. (der Park)",
+   "answer": [
+    "den"
+   ],
+   "explain": "durch + Akkusativ: den Park"
+  },
+  {
+   "type": "gap",
+   "q": "Ich spiele mit ___ Kindern. (мои)",
+   "answer": [
+    "meinen"
+   ],
+   "explain": "Dativ мн.ч.: meinen + -n у существительного"
+  },
+  {
+   "type": "choice",
+   "q": "___ wem wohnst du?",
+   "options": [
+    "Für",
+    "Bei",
+    "Um"
+   ],
+   "answer": 1,
+   "explain": "wem — Dativ, значит bei (у кого?)"
+  },
+  {
+   "type": "choice",
+   "q": "___ wen kochst du?",
+   "options": [
+    "Für",
+    "Mit",
+    "Zu"
+   ],
+   "answer": 0,
+   "explain": "wen — Akkusativ: Für wen?"
+  },
+  {
+   "type": "gap",
+   "q": "Ich lerne ___ einem Jahr Deutsch. (уже год)",
+   "answer": [
+    "seit"
+   ],
+   "explain": "seit + Dativ, глагол в Präsens"
+  },
+  {
+   "type": "choice",
+   "q": "Alle außer ___ wollen ins Kino gehen. (кроме меня)",
+   "options": [
+    "mich",
+    "mir",
+    "ich"
+   ],
+   "answer": 1,
+   "explain": "außer + Dativ: mir"
+  },
+  {
+   "type": "translate",
+   "q": "Я готовлю для тебя.",
+   "answer": [
+    "Ich koche für dich."
+   ],
+   "explain": "für + Akk: dich"
+  },
+  {
+   "type": "translate",
+   "q": "Я живу у своего брата.",
+   "answer": [
+    "Ich wohne bei meinem Bruder."
+   ],
+   "explain": "bei + Dat: meinem"
+  },
+  {
+   "type": "translate",
+   "q": "Я еду к своей подруге.",
+   "answer": [
+    "Ich fahre zu meiner Freundin."
+   ],
+   "explain": "zu + Dat, ж.р.: meiner"
+  },
+  {
+   "type": "translate",
+   "q": "Я не могу жить без своего сына.",
+   "answer": [
+    "Ich kann nicht ohne meinen Sohn leben.",
+    "Ohne meinen Sohn kann ich nicht leben."
+   ],
+   "explain": "ohne + Akk: meinen Sohn"
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос",
+   "words": [
+    "mit",
+    "spielst",
+    "wem",
+    "du"
+   ],
+   "answer": [
+    "Mit wem spielst du?"
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "ich",
+    "nach",
+    "der Arbeit",
+    "gehe",
+    "nach Hause"
+   ],
+   "answer": [
+    "Ich gehe nach der Arbeit nach Hause.",
+    "Nach der Arbeit gehe ich nach Hause."
+   ]
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение",
+   "words": [
+    "laufe",
+    "ich",
+    "um",
+    "das Haus"
+   ],
+   "answer": [
+    "Ich laufe um das Haus."
+   ]
+  }
+ ]
+}

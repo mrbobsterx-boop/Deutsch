@@ -1,0 +1,659 @@
+{
+ "id": 7,
+ "title": "Притяжательные местоимения",
+ "level": "A1",
+ "goal": "Вы сможете говорить, чьё что-то (мой, твой, его, её, наш, ваш, их, Ваш), правильно выбирая основу и окончание в Nominativ.",
+ "minutes": 50,
+ "theory": [
+  {
+   "h": "Притяжательные местоимения: чей?",
+   "html": "<p><b>Притяжательные местоимения</b> (Possessivpronomen, Possessivartikel) отвечают на вопрос «чей?»: мой, твой, его, её… Каждому личному местоимению соответствует своё притяжательное:</p>\n<table>\n<tr><th>Личное</th><th>Притяжательное</th><th>Перевод</th></tr>\n<tr><td><span class=\"de\">ich</span></td><td><span class=\"de\">mein</span></td><td>мой</td></tr>\n<tr><td><span class=\"de\">du</span></td><td><span class=\"de\">dein</span></td><td>твой</td></tr>\n<tr><td><span class=\"de\">er</span></td><td><span class=\"de\">sein</span></td><td>его</td></tr>\n<tr><td><span class=\"de\">sie</span> (она)</td><td><span class=\"de\">ihr</span></td><td>её</td></tr>\n<tr><td><span class=\"de\">es</span></td><td><span class=\"de\">sein</span></td><td>его (о среднем роде)</td></tr>\n<tr><td><span class=\"de\">wir</span></td><td><span class=\"de\">unser</span></td><td>наш</td></tr>\n<tr><td><span class=\"de\">ihr</span> (вы)</td><td><span class=\"de\">euer</span></td><td>ваш (нескольких друзей)</td></tr>\n<tr><td><span class=\"de\">sie</span> (они)</td><td><span class=\"de\">ihr</span></td><td>их</td></tr>\n<tr><td><span class=\"de\">Sie</span> (Вы)</td><td><span class=\"de\">Ihr</span></td><td>Ваш (вежливо, с большой буквы)</td></tr>\n</table>\n<div class=\"note\">Слово <span class=\"de\">ihr</span> имеет много значений: «вы» (личное местоимение), «её», «их», а <span class=\"de\">Ihr</span> с большой буквы — «Ваш». Различайте по контексту: <span class=\"de\">Ihr habt ein Haus</span> (у вас есть дом) — <span class=\"de\">ihr Haus</span> (её/их дом) — <span class=\"de\">Ihr Haus</span> (Ваш дом).</div>"
+  },
+  {
+   "h": "Окончания в Nominativ: как у ein",
+   "html": "<p>Притяжательные местоимения стоят перед существительным вместо артикля и изменяются <b>так же, как неопределённый артикль ein</b>. Окончание зависит от <b>рода и числа существительного</b> (того, чем владеют):</p>\n<table>\n<tr><th></th><th>м. р. (der)</th><th>ж. р. (die)</th><th>ср. р. (das)</th><th>мн. ч. (die)</th></tr>\n<tr><td>ein</td><td><span class=\"de\">ein Freund</span></td><td><span class=\"de\">eine Freundin</span></td><td><span class=\"de\">ein Auto</span></td><td>— <span class=\"de\">Freunde</span></td></tr>\n<tr><td>я</td><td><span class=\"de\">mein Freund</span></td><td><span class=\"de\">mein<b>e</b> Freundin</span></td><td><span class=\"de\">mein Auto</span></td><td><span class=\"de\">mein<b>e</b> Freunde</span></td></tr>\n<tr><td>ты</td><td><span class=\"de\">dein Freund</span></td><td><span class=\"de\">dein<b>e</b> Freundin</span></td><td><span class=\"de\">dein Auto</span></td><td><span class=\"de\">dein<b>e</b> Freunde</span></td></tr>\n<tr><td>он/оно</td><td><span class=\"de\">sein Freund</span></td><td><span class=\"de\">sein<b>e</b> Freundin</span></td><td><span class=\"de\">sein Auto</span></td><td><span class=\"de\">sein<b>e</b> Freunde</span></td></tr>\n<tr><td>она</td><td><span class=\"de\">ihr Freund</span></td><td><span class=\"de\">ihr<b>e</b> Freundin</span></td><td><span class=\"de\">ihr Auto</span></td><td><span class=\"de\">ihr<b>e</b> Freunde</span></td></tr>\n<tr><td>мы</td><td><span class=\"de\">unser Freund</span></td><td><span class=\"de\">unser<b>e</b> Freundin</span></td><td><span class=\"de\">unser Auto</span></td><td><span class=\"de\">unser<b>e</b> Freunde</span></td></tr>\n<tr><td>вы</td><td><span class=\"de\">euer Freund</span></td><td><span class=\"de\">eur<b>e</b> Freundin</span></td><td><span class=\"de\">euer Auto</span></td><td><span class=\"de\">eur<b>e</b> Freunde</span></td></tr>\n<tr><td>они</td><td><span class=\"de\">ihr Freund</span></td><td><span class=\"de\">ihr<b>e</b> Freundin</span></td><td><span class=\"de\">ihr Auto</span></td><td><span class=\"de\">ihr<b>e</b> Freunde</span></td></tr>\n<tr><td>Вы</td><td><span class=\"de\">Ihr Freund</span></td><td><span class=\"de\">Ihr<b>e</b> Freundin</span></td><td><span class=\"de\">Ihr Auto</span></td><td><span class=\"de\">Ihr<b>e</b> Freunde</span></td></tr>\n</table>\n<p>Правило очень простое: <b>женский род и множественное число → -e</b>, мужской и средний род → без окончания.</p>\n<div class=\"note\">У <span class=\"de\">euer</span> при добавлении окончания выпадает e: <span class=\"de\">euere</span> → <span class=\"de\">eure</span>: <span class=\"de\">eure Schwester, eure Kinder</span>.</div>"
+  },
+  {
+   "h": "sein или ihr? Выбор по владельцу",
+   "html": "<p>В немецком в притяжательном местоимении «работают» <b>два</b> признака:</p>\n<ol>\n<li><b>Основа</b> (sein/ihr/mein…) зависит от того, <b>кто владеет</b>: он → <span class=\"de\">sein</span>, она → <span class=\"de\">ihr</span>.</li>\n<li><b>Окончание</b> (-/-e) зависит от того, <b>чем владеют</b>: der/das → без окончания, die/мн. ч. → -e.</li>\n</ol>\n<table>\n<tr><th>Немецкий</th><th>Русский</th><th>Почему</th></tr>\n<tr><td><span class=\"de\">Max und <b>seine</b> Schwester</span></td><td>Макс и его сестра</td><td>владелец — он (sein), сестра — die (-e)</td></tr>\n<tr><td><span class=\"de\">Anna und <b>ihr</b> Bruder</span></td><td>Анна и её брат</td><td>владелец — она (ihr), брат — der (без окончания)</td></tr>\n<tr><td><span class=\"de\">Anna und <b>ihre</b> Katze</span></td><td>Анна и её кошка</td><td>она (ihr) + die (-e)</td></tr>\n<tr><td><span class=\"de\">Das Kind und <b>sein</b> Ball</span></td><td>Ребёнок и его мяч</td><td>das Kind → es → sein</td></tr>\n</table>"
+  },
+  {
+   "h": "Русское «свой» — в немецком его нет",
+   "html": "<p>В русском мы говорим «Я продаю <b>свою</b> машину», «Он продаёт <b>свою</b> машину». В немецком отдельного слова «свой» нет: берём притяжательное местоимение <b>того лица, которое совершает действие</b>:</p>\n<table>\n<tr><th>Немецкий</th><th>Русский</th></tr>\n<tr><td><span class=\"de\">Ich verkaufe <b>mein</b> Auto.</span></td><td>Я продаю свою машину.</td></tr>\n<tr><td><span class=\"de\">Du verkaufst <b>dein</b> Auto.</span></td><td>Ты продаёшь свою машину.</td></tr>\n<tr><td><span class=\"de\">Er verkauft <b>sein</b> Auto.</span></td><td>Он продаёт свою машину.</td></tr>\n<tr><td><span class=\"de\">Sie verkauft <b>ihr</b> Auto.</span></td><td>Она продаёт свою машину.</td></tr>\n<tr><td><span class=\"de\">Wir verkaufen <b>unser</b> Auto.</span></td><td>Мы продаём свою машину.</td></tr>\n<tr><td><span class=\"de\">Ihr verkauft <b>euer</b> Auto.</span></td><td>Вы продаёте свою машину.</td></tr>\n<tr><td><span class=\"de\">Sie verkaufen <b>ihr</b> Auto.</span></td><td>Они продают свою машину.</td></tr>\n</table>\n<p>Ошибка русскоговорящих — говорить «Er verkauft <i>mein</i> Auto», имея в виду «свою». Это значит «Он продаёт <b>мою</b> машину»!</p>"
+  },
+  {
+   "h": "Заглядываем вперёд: meinen Laptop",
+   "html": "<p>Когда существительное <b>мужского рода</b> является прямым дополнением (кого? что? — после глаголов <span class=\"de\">haben, verkaufen, fragen, sehen</span> и др.), притяжательное местоимение получает окончание <b>-en</b> — это винительный падеж (Akkusativ):</p>\n<ul>\n<li><span class=\"de\"><b>Mein</b> Laptop ist neu.</span> — Мой ноутбук новый. (Nominativ, кто? что?)</li>\n<li><span class=\"de\">Ich verkaufe <b>meinen</b> Laptop.</span> — Я продаю свой ноутбук. (Akkusativ, кого? что?)</li>\n</ul>\n<p>У женского, среднего рода и множественного числа форма в Akkusativ <b>такая же, как в Nominativ</b>: <span class=\"de\">Ich frage meine Schwester. Ich verkaufe mein Auto. Ich frage meine Freunde.</span> Подробно Akkusativ разберём в уроке 9, а пока запомните фразы с <span class=\"de\">meinen Laptop</span> как образец.</p>\n<h4>Полезные вопросы</h4>\n<ul>\n<li><span class=\"de\">Ist das dein Buch? – Ja, das ist mein Buch.</span> — Это твоя книга? – Да, это моя книга.</li>\n<li><span class=\"de\">Wo ist mein Schal?</span> — Где мой шарф?</li>\n<li><span class=\"de\">Wie heißt Ihr Sohn?</span> — Как зовут Вашего сына?</li>\n</ul>"
+  }
+ ],
+ "tips": [
+  "Окончание притяжательного местоимения как у ein/eine: женский род и множественное число → -e (meine Schwester, meine Freunde), мужской и средний → без окончания (mein Freund, mein Auto).",
+  "Основу выбирайте по владельцу: он → sein, она → ihr, они → ihr, Вы → Ihr. «Анна и её брат» = Anna und ihr Bruder.",
+  "«Свой» по-немецки — притяжательное местоимение подлежащего: Er fragt seine Schwester (он спрашивает свою сестру).",
+  "euer + окончание = eure (e выпадает): eure Freundin, а не «euere»."
+ ],
+ "examples": [
+  {
+   "de": "Das ist sein Freund.",
+   "ru": "Это его друг."
+  },
+  {
+   "de": "Mein Freund ist gut.",
+   "ru": "Мой друг хороший."
+  },
+  {
+   "de": "Deine Schwester ist schön.",
+   "ru": "Твоя сестра красивая."
+  },
+  {
+   "de": "Ihre Wohnung ist neu.",
+   "ru": "Её квартира новая."
+  },
+  {
+   "de": "Unser Haus ist groß.",
+   "ru": "Наш дом большой."
+  },
+  {
+   "de": "Ihr Kind ist nett.",
+   "ru": "Их ребёнок милый."
+  },
+  {
+   "de": "Euer Fahrrad ist schlecht.",
+   "ru": "Ваш велосипед плохой."
+  },
+  {
+   "de": "Meine Mütze ist sauber.",
+   "ru": "Моя шапка чистая."
+  },
+  {
+   "de": "Dein Mantel ist schmutzig.",
+   "ru": "Твоё пальто грязное."
+  },
+  {
+   "de": "Seine Jacke ist weiß.",
+   "ru": "Его куртка белая."
+  },
+  {
+   "de": "Verkaufst du dein Auto?",
+   "ru": "Ты продаёшь свою машину?"
+  },
+  {
+   "de": "Wollt ihr euer Haus verkaufen?",
+   "ru": "Вы хотите продать свой дом?"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "mein",
+   "ru": "мой"
+  },
+  {
+   "de": "dein",
+   "ru": "твой"
+  },
+  {
+   "de": "sein",
+   "ru": "его"
+  },
+  {
+   "de": "ihr",
+   "ru": "её; их"
+  },
+  {
+   "de": "unser",
+   "ru": "наш"
+  },
+  {
+   "de": "euer",
+   "ru": "ваш (нескольких человек)"
+  },
+  {
+   "de": "Ihr",
+   "ru": "Ваш (вежливо)"
+  },
+  {
+   "de": "verkaufen",
+   "ru": "продавать"
+  },
+  {
+   "de": "fragen",
+   "ru": "спрашивать"
+  },
+  {
+   "de": "der Laptop",
+   "pl": "die Laptops",
+   "ru": "ноутбук"
+  },
+  {
+   "de": "der Bruder",
+   "pl": "die Brüder",
+   "ru": "брат"
+  },
+  {
+   "de": "die Schwester",
+   "pl": "die Schwestern",
+   "ru": "сестра"
+  },
+  {
+   "de": "der Freund",
+   "pl": "die Freunde",
+   "ru": "друг"
+  },
+  {
+   "de": "die Freundin",
+   "pl": "die Freundinnen",
+   "ru": "подруга"
+  },
+  {
+   "de": "die Wohnung",
+   "pl": "die Wohnungen",
+   "ru": "квартира"
+  },
+  {
+   "de": "das Fahrrad",
+   "pl": "die Fahrräder",
+   "ru": "велосипед"
+  },
+  {
+   "de": "die Mütze",
+   "pl": "die Mützen",
+   "ru": "шапка"
+  },
+  {
+   "de": "der Mantel",
+   "pl": "die Mäntel",
+   "ru": "пальто"
+  },
+  {
+   "de": "die Jacke",
+   "pl": "die Jacken",
+   "ru": "куртка"
+  },
+  {
+   "de": "der Schal",
+   "pl": "die Schals",
+   "ru": "шарф"
+  },
+  {
+   "de": "der Anzug",
+   "pl": "die Anzüge",
+   "ru": "костюм"
+  },
+  {
+   "de": "sauber",
+   "ru": "чистый"
+  },
+  {
+   "de": "schmutzig",
+   "ru": "грязный"
+  },
+  {
+   "de": "teuer",
+   "ru": "дорогой"
+  },
+  {
+   "de": "schlecht",
+   "ru": "плохой"
+  }
+ ],
+ "phrasesNote": "Закрепляем притяжательные местоимения (mein, dein, sein, ihr, unser, euer, ihr) вместе с модальными глаголами из урока 6. Обратите внимание: «свой» по-немецки — это притяжательное местоимение подлежащего. Окончание -en в meinen Laptop — это Akkusativ мужского рода (подробно в уроке 9).",
+ "phrases": [
+  {
+   "de": "Ich verkaufe mein Auto.",
+   "ru": "Я продаю свою машину."
+  },
+  {
+   "de": "Ich möchte mein Auto verkaufen.",
+   "ru": "Я хотел бы продать свою машину."
+  },
+  {
+   "de": "Du verkaufst dein Auto.",
+   "ru": "Ты продаёшь свою машину."
+  },
+  {
+   "de": "Du möchtest dein Auto verkaufen.",
+   "ru": "Ты хотел бы продать свою машину."
+  },
+  {
+   "de": "Er verkauft sein Auto.",
+   "ru": "Он продаёт свою машину."
+  },
+  {
+   "de": "Er möchte sein Auto verkaufen.",
+   "ru": "Он хотел бы продать свою машину."
+  },
+  {
+   "de": "Sie verkauft ihr Auto.",
+   "ru": "Она продаёт свою машину."
+  },
+  {
+   "de": "Sie möchte ihr Auto verkaufen.",
+   "ru": "Она хотела бы продать свою машину."
+  },
+  {
+   "de": "Wir verkaufen unser Auto.",
+   "ru": "Мы продаём свою машину."
+  },
+  {
+   "de": "Wir möchten unser Auto verkaufen.",
+   "ru": "Мы хотели бы продать свою машину."
+  },
+  {
+   "de": "Ihr verkauft euer Auto.",
+   "ru": "Вы продаёте свою машину."
+  },
+  {
+   "de": "Ihr möchtet euer Auto verkaufen.",
+   "ru": "Вы хотели бы продать свою машину."
+  },
+  {
+   "de": "Sie verkaufen ihr Auto.",
+   "ru": "Они продают свою машину."
+  },
+  {
+   "de": "Sie möchten ihr Auto verkaufen.",
+   "ru": "Они хотели бы продать свою машину."
+  },
+  {
+   "de": "Ich frage meine Schwester.",
+   "ru": "Я спрашиваю свою сестру."
+  },
+  {
+   "de": "Ich kann meine Schwester fragen.",
+   "ru": "Я могу спросить свою сестру."
+  },
+  {
+   "de": "Du fragst deine Schwester.",
+   "ru": "Ты спрашиваешь свою сестру."
+  },
+  {
+   "de": "Du kannst deine Schwester fragen.",
+   "ru": "Ты можешь спросить свою сестру."
+  },
+  {
+   "de": "Er fragt seine Schwester.",
+   "ru": "Он спрашивает свою сестру."
+  },
+  {
+   "de": "Er kann seine Schwester fragen.",
+   "ru": "Он может спросить свою сестру."
+  },
+  {
+   "de": "Sie fragt ihre Schwester.",
+   "ru": "Она спрашивает свою сестру."
+  },
+  {
+   "de": "Sie kann ihre Schwester fragen.",
+   "ru": "Она может спросить свою сестру."
+  },
+  {
+   "de": "Wir fragen unsere Schwester.",
+   "ru": "Мы спрашиваем свою сестру."
+  },
+  {
+   "de": "Wir können unsere Schwester fragen.",
+   "ru": "Мы можем спросить свою сестру."
+  },
+  {
+   "de": "Ihr fragt eure Schwester.",
+   "ru": "Вы спрашиваете свою сестру."
+  },
+  {
+   "de": "Ihr könnt eure Schwester fragen.",
+   "ru": "Вы можете спросить свою сестру."
+  },
+  {
+   "de": "Sie fragen ihre Schwester.",
+   "ru": "Они спрашивают свою сестру."
+  },
+  {
+   "de": "Sie können ihre Schwester fragen.",
+   "ru": "Они могут спросить свою сестру."
+  },
+  {
+   "de": "Ich verkaufe meinen Laptop.",
+   "ru": "Я продаю свой ноутбук."
+  },
+  {
+   "de": "Ich will meinen Laptop verkaufen.",
+   "ru": "Я хочу продать свой ноутбук."
+  },
+  {
+   "de": "Du verkaufst deinen Laptop.",
+   "ru": "Ты продаёшь свой ноутбук."
+  },
+  {
+   "de": "Du willst deinen Laptop verkaufen.",
+   "ru": "Ты хочешь продать свой ноутбук."
+  },
+  {
+   "de": "Er verkauft seinen Laptop.",
+   "ru": "Он продаёт свой ноутбук."
+  },
+  {
+   "de": "Er will seinen Laptop verkaufen.",
+   "ru": "Он хочет продать свой ноутбук."
+  },
+  {
+   "de": "Sie verkauft ihren Laptop.",
+   "ru": "Она продаёт свой ноутбук."
+  },
+  {
+   "de": "Sie will ihren Laptop verkaufen.",
+   "ru": "Она хочет продать свой ноутбук."
+  },
+  {
+   "de": "Wir verkaufen unseren Laptop.",
+   "ru": "Мы продаём свой ноутбук."
+  },
+  {
+   "de": "Wir wollen unseren Laptop verkaufen.",
+   "ru": "Мы хотим продать свой ноутбук."
+  },
+  {
+   "de": "Ihr verkauft euren Laptop.",
+   "ru": "Вы продаёте свой ноутбук."
+  },
+  {
+   "de": "Ihr wollt euren Laptop verkaufen.",
+   "ru": "Вы хотите продать свой ноутбук."
+  },
+  {
+   "de": "Sie verkaufen ihren Laptop.",
+   "ru": "Они продают свой ноутбук."
+  },
+  {
+   "de": "Sie wollen ihren Laptop verkaufen.",
+   "ru": "Они хотят продать свой ноутбук."
+  },
+  {
+   "de": "Ich frage meine Freunde.",
+   "ru": "Я спрашиваю своих друзей."
+  },
+  {
+   "de": "Ich soll meine Freunde fragen.",
+   "ru": "Я должен спросить своих друзей."
+  },
+  {
+   "de": "Du fragst deine Freunde.",
+   "ru": "Ты спрашиваешь своих друзей."
+  },
+  {
+   "de": "Du sollst deine Freunde fragen.",
+   "ru": "Ты должен спросить своих друзей."
+  },
+  {
+   "de": "Er fragt seine Freunde.",
+   "ru": "Он спрашивает своих друзей."
+  },
+  {
+   "de": "Er soll seine Freunde fragen.",
+   "ru": "Он должен спросить своих друзей."
+  },
+  {
+   "de": "Sie fragt ihre Freunde.",
+   "ru": "Она спрашивает своих друзей."
+  },
+  {
+   "de": "Sie soll ihre Freunde fragen.",
+   "ru": "Она должна спросить своих друзей."
+  },
+  {
+   "de": "Wir fragen unsere Freunde.",
+   "ru": "Мы спрашиваем своих друзей."
+  },
+  {
+   "de": "Wir sollen unsere Freunde fragen.",
+   "ru": "Мы должны спросить своих друзей."
+  },
+  {
+   "de": "Ihr fragt eure Freunde.",
+   "ru": "Вы спрашиваете своих друзей."
+  },
+  {
+   "de": "Ihr sollt eure Freunde fragen.",
+   "ru": "Вы должны спросить своих друзей."
+  },
+  {
+   "de": "Sie fragen ihre Freunde.",
+   "ru": "Они спрашивают своих друзей."
+  },
+  {
+   "de": "Sie sollen ihre Freunde fragen.",
+   "ru": "Они должны спросить своих друзей."
+  },
+  {
+   "de": "Ich und mein Freund",
+   "ru": "Я и мой друг"
+  },
+  {
+   "de": "Ich und meine Freundin",
+   "ru": "Я и моя подруга"
+  },
+  {
+   "de": "Du und dein Freund",
+   "ru": "Ты и твой друг"
+  },
+  {
+   "de": "Du und deine Freundin",
+   "ru": "Ты и твоя подруга"
+  },
+  {
+   "de": "Er und sein Freund",
+   "ru": "Он и его друг"
+  },
+  {
+   "de": "Er und seine Freundin",
+   "ru": "Он и его подруга"
+  },
+  {
+   "de": "Sie und ihr Freund",
+   "ru": "Она и её друг"
+  },
+  {
+   "de": "Sie und ihre Freundin",
+   "ru": "Она и её подруга"
+  },
+  {
+   "de": "Wir und unser Freund",
+   "ru": "Мы и наш друг"
+  },
+  {
+   "de": "Wir und unsere Freundin",
+   "ru": "Мы и наша подруга"
+  },
+  {
+   "de": "Ihr und euer Freund",
+   "ru": "Вы и ваш друг"
+  },
+  {
+   "de": "Ihr und eure Freundin",
+   "ru": "Вы и ваша подруга"
+  },
+  {
+   "de": "Sie und Ihr Freund",
+   "ru": "Вы и Ваш друг"
+  },
+  {
+   "de": "Sie und Ihre Freundin",
+   "ru": "Вы и Ваша подруга"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "___ Schwester ist schön. (моя)",
+   "options": [
+    "Mein",
+    "Meine",
+    "Meinen"
+   ],
+   "answer": 1,
+   "explain": "die Schwester — ж. р. → meine."
+  },
+  {
+   "type": "choice",
+   "q": "Das ist ___ Auto. (его)",
+   "options": [
+    "sein",
+    "seine",
+    "ihr"
+   ],
+   "answer": 0,
+   "explain": "das Auto — ср. р., владелец «он» → sein."
+  },
+  {
+   "type": "choice",
+   "q": "Anna und ___ Bruder.",
+   "options": [
+    "sein",
+    "ihre",
+    "ihr"
+   ],
+   "answer": 2,
+   "explain": "Владелец — Анна (ihr), der Bruder — без окончания → ihr."
+  },
+  {
+   "type": "choice",
+   "q": "Max und ___ Schwester.",
+   "options": [
+    "seine",
+    "ihre",
+    "sein"
+   ],
+   "answer": 0,
+   "explain": "Владелец — Макс (sein), die Schwester → seine."
+  },
+  {
+   "type": "choice",
+   "q": "Ihr habt ein Haus. ___ Haus ist groß.",
+   "options": [
+    "Unser",
+    "Euer",
+    "Eure"
+   ],
+   "answer": 1,
+   "explain": "ihr → euer; das Haus без окончания → euer."
+  },
+  {
+   "type": "choice",
+   "q": "Er verkauft ___ Auto. (свою)",
+   "options": [
+    "mein",
+    "sein",
+    "ihr"
+   ],
+   "answer": 1,
+   "explain": "«Свой» = притяжательное местоимение подлежащего: er → sein."
+  },
+  {
+   "type": "gap",
+   "q": "Wir fragen ___ Freunde. (наших/своих)",
+   "answer": [
+    "unsere"
+   ],
+   "explain": "мн. ч. → -e: unsere."
+  },
+  {
+   "type": "gap",
+   "q": "Ihr fragt ___ Schwester. (свою)",
+   "answer": [
+    "eure"
+   ],
+   "explain": "euer + e → eure."
+  },
+  {
+   "type": "gap",
+   "q": "Sie (она) verkauft ___ Auto. (свою)",
+   "answer": [
+    "ihr"
+   ],
+   "explain": "она → ihr, das Auto без окончания."
+  },
+  {
+   "type": "gap",
+   "q": "Du und ___ Freundin. (твоя)",
+   "answer": [
+    "deine"
+   ],
+   "explain": "die Freundin → deine."
+  },
+  {
+   "type": "gap",
+   "q": "Ich verkaufe ___ Laptop. (свой)",
+   "answer": [
+    "meinen"
+   ],
+   "explain": "der Laptop как прямое дополнение (Akkusativ) → meinen."
+  },
+  {
+   "type": "translate",
+   "q": "Это его друг.",
+   "answer": [
+    "Das ist sein Freund."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Её квартира новая.",
+   "answer": [
+    "Ihre Wohnung ist neu."
+   ],
+   "explain": "die Wohnung → ihre."
+  },
+  {
+   "type": "translate",
+   "q": "Ты продаёшь свою машину?",
+   "answer": [
+    "Verkaufst du dein Auto?"
+   ],
+   "explain": "du → dein; das Auto."
+  },
+  {
+   "type": "translate",
+   "q": "Где мой шарф?",
+   "answer": [
+    "Wo ist mein Schal?"
+   ],
+   "explain": "der Schal → mein."
+  },
+  {
+   "type": "translate",
+   "q": "Я могу спросить свою сестру.",
+   "answer": [
+    "Ich kann meine Schwester fragen."
+   ],
+   "explain": "Модальный глагол + инфинитив в конце."
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос: «Её квартира новая?»",
+   "words": [
+    "neu",
+    "Ist",
+    "Wohnung",
+    "ihre"
+   ],
+   "answer": [
+    "Ist ihre Wohnung neu?"
+   ],
+   "explain": "Глагол на первом месте."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Мы хотим продать свой дом.»",
+   "words": [
+    "verkaufen",
+    "Haus",
+    "wollen",
+    "Wir",
+    "unser"
+   ],
+   "answer": [
+    "Wir wollen unser Haus verkaufen."
+   ],
+   "explain": "Рамка: wollen … verkaufen."
+  }
+ ]
+}

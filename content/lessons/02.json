@@ -1,0 +1,478 @@
+{
+ "id": 2,
+ "title": "Произношение и личные местоимения",
+ "level": "A1",
+ "goal": "Вы научитесь произносить трудные немецкие звуки и правильно выбирать местоимения ich, du, er, sie, es, wir, ihr, sie, Sie.",
+ "minutes": 45,
+ "theory": [
+  {
+   "h": "Произношение: чем немецкий отличается от русского",
+   "html": "<p>В прошлом уроке вы выучили правила чтения. Теперь — несколько особенностей <b>произношения</b>, которые делают речь «немецкой», а не «русской с немецкими словами».</p>\n<h4>1. Оглушение на конце (Auslautverhärtung)</h4>\n<p>Как и в русском («дуб» звучит [дуп]), звонкие <b>b, d, g</b> в конце слова или слога звучат глухо: <b>b → [п], d → [т], g → [к]</b>.</p>\n<table>\n<tr><th>Слово</th><th>Звучит</th><th>Перевод</th></tr>\n<tr><td><span class=\"de\">Tag</span></td><td>[та:к]</td><td>день</td></tr>\n<tr><td><span class=\"de\">Kind</span></td><td>[кинт]</td><td>ребёнок</td></tr>\n<tr><td><span class=\"de\">halb</span></td><td>[хальп]</td><td>половина</td></tr>\n<tr><td><span class=\"de\">Abend</span></td><td>[а:бэнт]</td><td>вечер</td></tr>\n<tr><td><span class=\"de\">Hund</span></td><td>[хунт]</td><td>собака</td></tr>\n</table>\n<h4>2. Согласные не смягчаются</h4>\n<p>В русском перед <b>е</b> и <b>и</b> согласные становятся мягкими («тема» — [т’эма]). В немецком — <b>никогда</b> (кроме l, которое всегда мягкое): <span class=\"de\">Tee</span> — [тэ:], а не [т’е:]; <span class=\"de\">dieser</span> — [ди:зер] с твёрдым [д].</p>\n<h4>3. Гласные не «съедаются»</h4>\n<p>Русские говорят «малако» вместо «молоко». В немецком безударное <b>o</b> остаётся [о]: <span class=\"de\">Oma</span> [о:ма], <span class=\"de\">Montag</span> [мо:нта:к]. Только <b>e</b> в безударных окончаниях ослабевает: <span class=\"de\">bitte</span> [битэ].</p>\n<h4>4. Твёрдый приступ (Knacklaut)</h4>\n<p>Слово или корень, начинающиеся с гласной, произносятся с лёгким «толчком» голоса, без слияния с предыдущим словом: <span class=\"de\">ein | Apfel</span>, <span class=\"de\">be|antworten</span>. Не говорите «айнапфель» — сделайте микропаузу.</p>"
+  },
+  {
+   "h": "Звуки R, H, CH и NG",
+   "html": "<ul>\n<li><b>R</b> в начале слова и после согласной — <b>горловое, «картавое»</b> (как при полоскании горла): <span class=\"de\">Rose, drei, Brot</span>. В конце слова и в -er — превращается в короткое [а]: <span class=\"de\">vier</span> [фи:а], <span class=\"de\">Mutter</span> [мута], <span class=\"de\">der</span> [дэа]. Если не получается горловое R, лучше уж русское [р], чем никакого, — вас поймут.</li>\n<li><b>H</b> в начале слога — это <b>лёгкий выдох</b>, как будто дышите на очки. Не путайте с грубым русским [х]: <span class=\"de\">Haus, hallo, hundert</span>. После гласной h не читается: <span class=\"de\">gehen</span> [гэ:ен].</li>\n<li><b>CH</b> бывает двух видов: «Ach-Laut» — твёрдое [х] после a, o, u, au (<span class=\"de\">acht, Buch, auch</span>) и «Ich-Laut» — мягкое, шипящее [хь], как в слове «химия» (<span class=\"de\">ich, nicht, Milch</span>). Чтобы получить Ich-Laut, скажите [й] и выдохните сильнее, без голоса.</li>\n<li><b>NG</b> — один носовой звук, как в английском «sing»; [г] не произносится: <span class=\"de\">jung</span> [юн(г)], <span class=\"de\">Zeitung</span>.</li>\n</ul>\n<div class=\"note\">Проверьте себя: <span class=\"de\">ich</span> [ихь] — я, <span class=\"de\">acht</span> [ахт] — восемь, <span class=\"de\">Achtung</span> [ахтун(г)] — внимание, <span class=\"de\">richtig</span> [рихьтихь] — правильно.</div>"
+  },
+  {
+   "h": "Личные местоимения (Personalpronomen)",
+   "html": "<p>Личные местоимения — основа любого предложения: в немецком (в отличие от русского) <b>подлежащее нельзя пропускать</b>. По-русски можно сказать «Иду домой», по-немецки обязательно <span class=\"de\">Ich gehe nach Hause</span>.</p>\n<table>\n<tr><th>Лицо</th><th>Единственное число</th><th>Множественное число</th></tr>\n<tr><td>1-е</td><td><span class=\"de\">ich</span> — я</td><td><span class=\"de\">wir</span> — мы</td></tr>\n<tr><td>2-е</td><td><span class=\"de\">du</span> — ты</td><td><span class=\"de\">ihr</span> — вы (несколько человек, на «ты»)</td></tr>\n<tr><td>3-е</td><td><span class=\"de\">er</span> — он<br><span class=\"de\">sie</span> — она<br><span class=\"de\">es</span> — оно</td><td><span class=\"de\">sie</span> — они</td></tr>\n<tr><td>вежливая форма</td><td><span class=\"de\">Sie</span> — Вы (одному человеку)</td><td><span class=\"de\">Sie</span> — Вы (нескольким людям)</td></tr>\n</table>\n<div class=\"note\"><span class=\"de\">ich</span> пишется с маленькой буквы (кроме начала предложения), а вежливое <span class=\"de\">Sie</span> — <b>всегда с большой</b>.</div>"
+  },
+  {
+   "h": "du, ihr или Sie? Как обращаться к людям",
+   "html": "<table>\n<tr><th>Кому говорим</th><th>Местоимение</th><th>Пример</th></tr>\n<tr><td>одному другу, ребёнку, члену семьи</td><td><span class=\"de\">du</span></td><td><span class=\"de\">Wie heißt du?</span> — Как тебя зовут?</td></tr>\n<tr><td>нескольким друзьям/детям</td><td><span class=\"de\">ihr</span></td><td><span class=\"de\">Woher kommt ihr?</span> — Откуда вы (ребята)?</td></tr>\n<tr><td>незнакомому взрослому, в магазине, на работе, врачу (одному или нескольким)</td><td><span class=\"de\">Sie</span></td><td><span class=\"de\">Wie heißen Sie?</span> — Как Вас зовут?</td></tr>\n</table>\n<p>Важно: русское «вы» переводится <b>двумя</b> способами — <span class=\"de\">ihr</span> (несколько знакомых) и <span class=\"de\">Sie</span> (вежливо). Немцы довольно строги: с незнакомыми взрослыми всегда <span class=\"de\">Sie</span>, пока вам не предложат перейти на «ты» (<span class=\"de\">Wollen wir uns duzen?</span>).</p>\n<h4>Три разных sie</h4>\n<ul>\n<li><span class=\"de\">sie</span> + глагол в ед. числе = <b>она</b>: <span class=\"de\">sie heißt</span> — её зовут;</li>\n<li><span class=\"de\">sie</span> + глагол во мн. числе = <b>они</b>: <span class=\"de\">sie heißen</span> — их зовут;</li>\n<li><span class=\"de\">Sie</span> (с большой) + глагол во мн. числе = <b>Вы</b>: <span class=\"de\">Sie heißen</span> — Вас зовут.</li>\n</ul>\n<p>Различить «она» и «они» помогает <b>окончание глагола</b>, а «они» и «Вы» — большая буква и ситуация.</p>"
+  },
+  {
+   "h": "er, sie, es заменяют существительные",
+   "html": "<p>В немецком у каждого существительного есть <b>род</b>: мужской (<span class=\"de\">der</span>), женский (<span class=\"de\">die</span>) или средний (<span class=\"de\">das</span>). Подробно о роде — в уроке 3. Уже сейчас запомните: местоимение выбирается по <b>немецкому</b> роду, а не по русскому!</p>\n<table>\n<tr><th>Существительное</th><th>Местоимение</th><th>По-русски</th></tr>\n<tr><td><span class=\"de\">der Tisch</span> (стол)</td><td><span class=\"de\">er</span></td><td>он</td></tr>\n<tr><td><span class=\"de\">die Lampe</span> (лампа)</td><td><span class=\"de\">sie</span></td><td>она</td></tr>\n<tr><td><span class=\"de\">das Kind</span> (ребёнок)</td><td><span class=\"de\">es</span></td><td>он!</td></tr>\n<tr><td><span class=\"de\">das Buch</span> (книга)</td><td><span class=\"de\">es</span></td><td>она!</td></tr>\n<tr><td><span class=\"de\">die Kinder</span> (дети, мн. ч.)</td><td><span class=\"de\">sie</span></td><td>они</td></tr>\n</table>\n<p>Люди: <span class=\"de\">Anna → sie</span>, <span class=\"de\">Max → er</span>, <span class=\"de\">Anna und Max → sie</span> (они), <span class=\"de\">Anna und ich → wir</span>, <span class=\"de\">du und Max → ihr</span>.</p>"
+  }
+ ],
+ "tips": [
+  "Русское «вы» — это две разные вещи: ihr (несколько друзей) и Sie (вежливо). Сомневаетесь со взрослым незнакомцем — говорите Sie.",
+  "Не пропускайте подлежащее: «Иду домой» — только «Ich gehe nach Hause». Без ich/du/er предложение неправильно.",
+  "Конечные b, d, g оглушаются: Tag [так], Kind [кинт], halb [хальп] — так же, как в русском «дуб» [дуп].",
+  "Мнемоника для трёх sie: смотрите на глагол. «sie heißt» (-t) — одна девушка, «sie/Sie heißen» (-en) — они или Вы."
+ ],
+ "examples": [
+  {
+   "de": "Ich heiße Anna.",
+   "ru": "Меня зовут Анна."
+  },
+  {
+   "de": "Wie heißt du?",
+   "ru": "Как тебя зовут?"
+  },
+  {
+   "de": "Wie heißen Sie?",
+   "ru": "Как Вас зовут?"
+  },
+  {
+   "de": "Er heißt Max, und sie heißt Lena.",
+   "ru": "Его зовут Макс, а её — Лена."
+  },
+  {
+   "de": "Woher kommt ihr?",
+   "ru": "Откуда вы (ребята)?"
+  },
+  {
+   "de": "Wir kommen aus der Ukraine.",
+   "ru": "Мы из Украины."
+  },
+  {
+   "de": "Das ist Max. Er kommt aus Berlin.",
+   "ru": "Это Макс. Он из Берлина."
+  },
+  {
+   "de": "Das ist das Kind. Es heißt Tim.",
+   "ru": "Это ребёнок. Его зовут Тим."
+  },
+  {
+   "de": "Wie geht es Ihnen?",
+   "ru": "Как Ваши дела?"
+  },
+  {
+   "de": "Danke, gut. Und dir?",
+   "ru": "Спасибо, хорошо. А у тебя?"
+  }
+ ],
+ "vocab": [
+  {
+   "de": "ich",
+   "ru": "я"
+  },
+  {
+   "de": "du",
+   "ru": "ты"
+  },
+  {
+   "de": "er",
+   "ru": "он"
+  },
+  {
+   "de": "sie",
+   "ru": "она; они"
+  },
+  {
+   "de": "es",
+   "ru": "оно"
+  },
+  {
+   "de": "wir",
+   "ru": "мы"
+  },
+  {
+   "de": "ihr",
+   "ru": "вы (несколько человек на «ты»)"
+  },
+  {
+   "de": "Sie",
+   "ru": "Вы (вежливая форма)"
+  },
+  {
+   "de": "heißen",
+   "ru": "называться, зваться"
+  },
+  {
+   "de": "kommen",
+   "ru": "приходить; происходить (откуда)"
+  },
+  {
+   "de": "wie",
+   "ru": "как"
+  },
+  {
+   "de": "woher",
+   "ru": "откуда"
+  },
+  {
+   "de": "und",
+   "ru": "и, а"
+  },
+  {
+   "de": "auch",
+   "ru": "тоже, также"
+  },
+  {
+   "de": "ja",
+   "ru": "да"
+  },
+  {
+   "de": "nein",
+   "ru": "нет"
+  },
+  {
+   "de": "der Name",
+   "pl": "die Namen",
+   "ru": "имя"
+  },
+  {
+   "de": "der Mann",
+   "pl": "die Männer",
+   "ru": "мужчина"
+  },
+  {
+   "de": "die Frau",
+   "pl": "die Frauen",
+   "ru": "женщина; жена"
+  },
+  {
+   "de": "das Kind",
+   "pl": "die Kinder",
+   "ru": "ребёнок"
+  },
+  {
+   "de": "der Freund",
+   "pl": "die Freunde",
+   "ru": "друг"
+  },
+  {
+   "de": "die Freundin",
+   "pl": "die Freundinnen",
+   "ru": "подруга"
+  },
+  {
+   "de": "Herr",
+   "ru": "господин (обращение: Herr Müller)"
+  },
+  {
+   "de": "Frau",
+   "ru": "госпожа (обращение: Frau Schmidt)"
+  }
+ ],
+ "phrasesNote": "Знакомимся и представляемся: тренируем все личные местоимения в связке с глаголами heißen и kommen (окончания глаголов подробно разберём в уроке 4 — пока просто запоминайте фразы целиком).",
+ "phrases": [
+  {
+   "de": "Ich heiße Anna.",
+   "ru": "Меня зовут Анна."
+  },
+  {
+   "de": "Du heißt Max.",
+   "ru": "Тебя зовут Макс."
+  },
+  {
+   "de": "Er heißt Tom.",
+   "ru": "Его зовут Том."
+  },
+  {
+   "de": "Sie heißt Lena.",
+   "ru": "Её зовут Лена."
+  },
+  {
+   "de": "Wir heißen Anna und Max.",
+   "ru": "Нас зовут Анна и Макс."
+  },
+  {
+   "de": "Ihr heißt Tim und Ben.",
+   "ru": "Вас зовут Тим и Бен."
+  },
+  {
+   "de": "Sie heißen Paul und Eva.",
+   "ru": "Их зовут Пауль и Ева."
+  },
+  {
+   "de": "Wie heißt du?",
+   "ru": "Как тебя зовут?"
+  },
+  {
+   "de": "Wie heißen Sie?",
+   "ru": "Как Вас зовут?"
+  },
+  {
+   "de": "Mein Name ist Müller.",
+   "ru": "Моя фамилия — Мюллер."
+  },
+  {
+   "de": "Ich komme aus der Ukraine.",
+   "ru": "Я из Украины."
+  },
+  {
+   "de": "Du kommst aus Berlin.",
+   "ru": "Ты из Берлина."
+  },
+  {
+   "de": "Er kommt aus Wien.",
+   "ru": "Он из Вены."
+  },
+  {
+   "de": "Sie kommt aus München.",
+   "ru": "Она из Мюнхена."
+  },
+  {
+   "de": "Wir kommen aus Kiew.",
+   "ru": "Мы из Киева."
+  },
+  {
+   "de": "Ihr kommt aus Hamburg.",
+   "ru": "Вы из Гамбурга."
+  },
+  {
+   "de": "Sie kommen aus Polen.",
+   "ru": "Они из Польши."
+  },
+  {
+   "de": "Woher kommst du?",
+   "ru": "Откуда ты?"
+  },
+  {
+   "de": "Woher kommen Sie?",
+   "ru": "Откуда Вы?"
+  },
+  {
+   "de": "Woher kommt ihr?",
+   "ru": "Откуда вы (ребята)?"
+  },
+  {
+   "de": "Wie geht es dir?",
+   "ru": "Как у тебя дела?"
+  },
+  {
+   "de": "Wie geht es Ihnen?",
+   "ru": "Как у Вас дела?"
+  },
+  {
+   "de": "Danke, gut. Und dir?",
+   "ru": "Спасибо, хорошо. А у тебя?"
+  },
+  {
+   "de": "Danke, sehr gut. Und Ihnen?",
+   "ru": "Спасибо, очень хорошо. А у Вас?"
+  },
+  {
+   "de": "Freut mich!",
+   "ru": "Очень приятно!"
+  },
+  {
+   "de": "Ich auch.",
+   "ru": "Я тоже."
+  },
+  {
+   "de": "Das ist Herr Schmidt.",
+   "ru": "Это господин Шмидт."
+  },
+  {
+   "de": "Das ist Frau Weber.",
+   "ru": "Это госпожа Вебер."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Как звучит конечная g в слове Tag?",
+   "options": [
+    "[г]",
+    "[к]",
+    "[х]"
+   ],
+   "answer": 1,
+   "explain": "В конце слова b, d, g оглушаются: Tag [та:к]."
+  },
+  {
+   "type": "choice",
+   "q": "Как звучит ch в слове ich?",
+   "options": [
+    "твёрдое [х], как в «ах»",
+    "мягкое [хь], как в «химия»",
+    "[ч]"
+   ],
+   "answer": 1,
+   "explain": "После i, e, ä, ö, ü и согласных ch мягкое (Ich-Laut)."
+  },
+  {
+   "type": "choice",
+   "q": "Как звучит ch в слове acht?",
+   "options": [
+    "твёрдое [х]",
+    "мягкое [хь]",
+    "[к]"
+   ],
+   "answer": 0,
+   "explain": "После a, o, u, au ch твёрдое (Ach-Laut)."
+  },
+  {
+   "type": "choice",
+   "q": "Какое местоимение значит «мы»?",
+   "options": [
+    "ihr",
+    "wir",
+    "sie"
+   ],
+   "answer": 1,
+   "explain": "wir = мы, ihr = вы."
+  },
+  {
+   "type": "choice",
+   "q": "Вы говорите с продавцом в магазине. Как вы спросите «Как Вас зовут?»",
+   "options": [
+    "Wie heißt du?",
+    "Wie heißt ihr?",
+    "Wie heißen Sie?"
+   ],
+   "answer": 2,
+   "explain": "С незнакомым взрослым — вежливое Sie."
+  },
+  {
+   "type": "choice",
+   "q": "der Tisch (стол) → какое местоимение?",
+   "options": [
+    "er",
+    "sie",
+    "es"
+   ],
+   "answer": 0,
+   "explain": "der — мужской род → er."
+  },
+  {
+   "type": "choice",
+   "q": "das Buch (книга) → какое местоимение?",
+   "options": [
+    "er",
+    "sie",
+    "es"
+   ],
+   "answer": 2,
+   "explain": "das — средний род → es, хотя по-русски книга — «она»."
+  },
+  {
+   "type": "choice",
+   "q": "sie heißen. Что значит sie?",
+   "options": [
+    "она",
+    "они",
+    "оно"
+   ],
+   "answer": 1,
+   "explain": "Глагол с окончанием -en (мн. ч.) → sie = они (или Sie = Вы)."
+  },
+  {
+   "type": "gap",
+   "q": "Anna und ich → ___",
+   "answer": [
+    "wir"
+   ],
+   "explain": "«Анна и я» = мы → wir."
+  },
+  {
+   "type": "gap",
+   "q": "du und Max → ___",
+   "answer": [
+    "ihr"
+   ],
+   "explain": "«ты и Макс» = вы (на «ты») → ihr."
+  },
+  {
+   "type": "gap",
+   "q": "Anna und Max → ___",
+   "answer": [
+    "sie"
+   ],
+   "explain": "«Анна и Макс» = они → sie."
+  },
+  {
+   "type": "gap",
+   "q": "Das ist das Kind. ___ heißt Tim.",
+   "answer": [
+    "Es"
+   ],
+   "explain": "das Kind → es."
+  },
+  {
+   "type": "gap",
+   "q": "Das ist Lena. ___ kommt aus Wien.",
+   "answer": [
+    "Sie"
+   ],
+   "explain": "Лена — она → sie."
+  },
+  {
+   "type": "translate",
+   "q": "Как тебя зовут?",
+   "answer": [
+    "Wie heißt du?"
+   ],
+   "explain": "heißen: du heißt."
+  },
+  {
+   "type": "translate",
+   "q": "Меня зовут Макс.",
+   "answer": [
+    "Ich heiße Max.",
+    "Mein Name ist Max."
+   ],
+   "explain": ""
+  },
+  {
+   "type": "translate",
+   "q": "Откуда Вы?",
+   "answer": [
+    "Woher kommen Sie?"
+   ],
+   "explain": "Вежливое Sie + глагол на -en."
+  },
+  {
+   "type": "order",
+   "q": "Составьте предложение: «Он из Берлина.»",
+   "words": [
+    "aus",
+    "kommt",
+    "Berlin",
+    "Er"
+   ],
+   "answer": [
+    "Er kommt aus Berlin."
+   ],
+   "explain": "Глагол стоит на втором месте."
+  },
+  {
+   "type": "order",
+   "q": "Составьте вопрос: «Откуда ты?»",
+   "words": [
+    "du",
+    "kommst",
+    "Woher"
+   ],
+   "answer": [
+    "Woher kommst du?"
+   ],
+   "explain": "Вопросительное слово — глагол — подлежащее."
+  }
+ ]
+}
