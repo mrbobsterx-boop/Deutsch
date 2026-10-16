@@ -1,7 +1,7 @@
 // Offline support: app shell + lesson content, stale-while-revalidate.
-const CACHE = 'dk90-v1';
+const CACHE = 'dk90-v2';
 const SHELL = ['./', './index.html', './css/app.css', './js/app.js', './js/views.js', './js/util.js', './js/store.js',
-  './js/content.js', './js/plan.js', './js/quiz.js', './js/srs.js', './manifest.json', './icons/icon.svg', './content/placement.json'];
+  './js/content.js', './js/plan.js', './js/quiz.js', './js/srs.js', './manifest.json', './icons/icon.svg', './content/placement.json', './audio/index.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).catch(() => {}));

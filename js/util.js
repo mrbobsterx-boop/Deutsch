@@ -114,14 +114,43 @@ function pickVoice() {
     || vs.find(v => v.lang === 'de-DE') || vs.find(v => v.lang && v.lang.startsWith('de')) || null;
 }
 if (window.speechSynthesis) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-export function canSpeak() { return !!window.speechSynthesis; }
+// Pre-recorded neural voice (audio/<hash>.mp3, listed in audio/index.json);
+// anything not recorded falls back to the browser's speech synthesis.
+// The key must match tools/gen_audio.py: same normalisation, FNV-1a over UTF-8.
+function normSpeech(t) {
+  return String(t ?? '').replace(/\s*\(.*?\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+}
+function fnv(s) {
+  let h = 0x811c9dc5;
+  for (const b of new TextEncoder().encode(s)) { h ^= b; h = Math.imul(h, 0x01000193) >>> 0; }
+  return h.toString(16).padStart(8, '0');
+}
+let recorded = null;
+fetch('audio/index.json').then(r => r.ok ? r.json() : []).then(a => { recorded = new Set(a); }).catch(() => { recorded = new Set(); });
+let player = null;
+
+export function canSpeak() { return true; }
 export function speak(text, rate) {
+  const t = normSpeech(text);
+  if (!t) return;
+  const r = rate || Number(localStorage.getItem('dk90-rate') || 0.9);
+  if (player) { player.pause(); player = null; }
+  if (window.speechSynthesis) speechSynthesis.cancel();
+  const key = fnv(t);
+  if (recorded && recorded.has(key)) {
+    player = new Audio(`audio/${key}.mp3`);
+    player.playbackRate = r / 0.9;
+    player.play().catch(() => synth(t, r));
+    return;
+  }
+  synth(t, r);
+}
+function synth(t, r) {
   if (!window.speechSynthesis) return;
-  speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(String(text).replace(/\s*\(.*?\)\s*/g, ' '));
+  const u = new SpeechSynthesisUtterance(t);
   u.lang = 'de-DE';
   if (deVoice) u.voice = deVoice;
-  u.rate = rate || Number(localStorage.getItem('dk90-rate') || 0.9);
+  u.rate = r;
   speechSynthesis.speak(u);
 }
 
