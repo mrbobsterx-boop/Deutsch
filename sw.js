@@ -1,5 +1,5 @@
 // Offline support: app shell + lesson content, stale-while-revalidate.
-const CACHE = 'dk90-v2';
+const CACHE = 'dk90-v3';
 const SHELL = ['./', './index.html', './css/app.css', './js/app.js', './js/views.js', './js/util.js', './js/store.js',
   './js/content.js', './js/plan.js', './js/quiz.js', './js/srs.js', './manifest.json', './icons/icon.svg', './content/placement.json', './audio/index.json'];
 
@@ -16,6 +16,8 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== self.location.origin) return;
+  // Media goes straight to the network: Safari can't play audio served through a SW (range requests).
+  if (url.pathname.endsWith('.mp3') || e.request.headers.has('range')) return;
   e.respondWith(caches.match(e.request).then(cached => {
     const net = fetch(e.request).then(r => {
       if (r && r.ok) { const copy = r.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); }

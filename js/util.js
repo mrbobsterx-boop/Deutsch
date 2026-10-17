@@ -138,9 +138,15 @@ export function speak(text, rate) {
   if (window.speechSynthesis) speechSynthesis.cancel();
   const key = fnv(t);
   if (recorded && recorded.has(key)) {
-    player = new Audio(`audio/${key}.mp3`);
-    player.playbackRate = r / 0.9;
-    player.play().catch(() => synth(t, r));
+    const a = player = new Audio(`audio/${key}.mp3`);
+    a.playbackRate = r / 0.9;
+    // If the recording can't start (network, Safari quirks), say it with the browser voice instead of staying silent.
+    let started = false, fellBack = false;
+    const fallback = () => { if (started || fellBack || player !== a) return; fellBack = true; a.pause(); synth(t, r); };
+    a.addEventListener('playing', () => { started = true; }, { once: true });
+    a.addEventListener('error', fallback, { once: true });
+    setTimeout(fallback, 2500);
+    a.play().catch(fallback);
     return;
   }
   synth(t, r);
