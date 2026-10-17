@@ -129,6 +129,10 @@ let recorded = null;
 fetch('audio/index.json').then(r => r.ok ? r.json() : []).then(a => { recorded = new Set(a); }).catch(() => { recorded = new Set(); });
 let player = null;
 
+// iOS: let recordings play even when the ring/silent switch is on.
+try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) { /* unsupported */ }
+export const APP_VERSION = '4';
+
 export function canSpeak() { return true; }
 export function speak(text, rate) {
   const t = normSpeech(text);

@@ -1,4 +1,4 @@
-import { esc, safeHtml, toast, shuffle, todayISO, diffDays, fmtDate, plural, speak, speakBtn, artHtml, ICONS, checkAnswer } from './util.js';
+import { esc, safeHtml, toast, shuffle, todayISO, diffDays, fmtDate, plural, speak, speakBtn, artHtml, ICONS, checkAnswer, APP_VERSION } from './util.js';
 import { getState, save, touch, lessonState, setDone, resetAll, exportJSON, importJSON, streak } from './store.js';
 import * as content from './content.js';
 import { buildPlan, isTaskDone, dayStatus, currentDay, TIME_OPTIONS, endLessonFor, levelAfter, levelOfLesson, weekdayLabel, DAYS } from './plan.js';
@@ -675,6 +675,7 @@ export async function viewMore() {
       <div class="divider"></div>
       <p class="small muted">Прогресс хранится в этом браузере. Сохраняйте резервную копию, чтобы перенести его на другое устройство.</p>
       <div class="row"><button class="btn small" data-export>Скачать резервную копию</button><label class="btn small">Загрузить копию<input type="file" accept="application/json" data-import hidden></label><span class="spacer"></span><button class="btn small ghost" data-reset style="color:var(--bad)">Сбросить всё</button></div>
+      <p class="small muted" style="margin-top:8px">Версия приложения: ${APP_VERSION}</p>
     </div>`;
   root.querySelectorAll('[data-theme]').forEach(b => b.addEventListener('click', () => {
     const k = b.dataset.theme;
