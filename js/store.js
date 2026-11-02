@@ -27,6 +27,26 @@ function load() {
 
 export function save() {
   try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* ignore */ }
+  paulPost();
+}
+
+// Paul (плагин Chrome) показывает приложение в своём левом меню (?paul). Память браузера там своя у каждого сайта,
+// поэтому прогресс держит Paul: при запуске присылает свою копию, каждое сохранение уходит ему. Вне Paul — как обычно.
+const PAUL = new URLSearchParams(location.search).has('paul') && window.parent !== window;
+function paulPost() { if (PAUL) window.parent.postMessage({ type: 'dk90:save', state }, '*'); }
+if (PAUL) {
+  window.addEventListener('message', e => {
+    if (e.source !== window.parent || !e.data) return;
+    if (e.data.type === 'dk90:state') {
+      if (e.data.state && typeof e.data.state === 'object') {
+        state = Object.assign(blank(), e.data.state);
+        try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (err) { /* ignore */ }
+        window.dispatchEvent(new HashChangeEvent('hashchange'));
+      } else paulPost();                         // у Paul копии ещё нет — отдать свою
+    }
+    if (e.data.type === 'dk90:go' && /^#\/[\w/-]*$/.test(e.data.hash || '')) location.hash = e.data.hash;
+  });
+  window.parent.postMessage({ type: 'dk90:hello' }, '*');
 }
 
 export function getState() { return state; }
